@@ -19,9 +19,9 @@ class PotteryBarnSpider(scrapy.Spider):
         self.place_reader = csv.reader(place_file)
     
     def start_requests(self): 	
-        for row in self.place_reader:
-            request_url = "http://www.potterybarn.com/search/stores.json?brands=PB&lat=%s&lng=%s&radius=25" % (row[0], row[1])  
-            yield scrapy.Request(url=request_url, callback=self.parse_store)
+        # for row in self.place_reader:
+        #     request_url = "http://www.potterybarn.com/search/stores.json?brands=PB&lat=%s&lng=%s&radius=25" % (row[0], row[1])  
+        #     yield scrapy.Request(url=request_url, callback=self.parse_store)
         for row in self.place_reader:
             request_url = "http://www.potterybarnkids.com/search/stores.json?brands=PK&lat=%s&lng=%s&radius=25" % (row[0], row[1])  
             yield scrapy.Request(url=request_url, callback=self.parse_store)
