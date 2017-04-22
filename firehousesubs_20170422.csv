@@ -1,0 +1,887 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+01542,LaGrange Mall - Coming Soon #1542,1507 Lafayette Pkwy.,Unit A,LaGrange,GA,30241,US,Coming Soon,33.042516,-84.982168,,,True
+00111,Opelika #111,3000 Pepperell Pkwy.,Suite 7,Opelika,AL,36801,US,(334) 741-7998,32.6351326,-85.4231413,10:30am - 9:00pm,,False
+00110,Auburn #110,1907 S. College St.,Suite 108,Auburn,AL,36832,US,(334) 887-6400,32.570786,-85.4992539,10:30am - 9:00pm,,False
+00674,Oxford #674,552 Oxford Exchange Blvd.,,Oxford,AL,36203,US,(256) 831-2615,33.608744,-85.784909,10:30am - 10:00pm,,False
+00239,Carrollton #239,1202 South Park St.,Suite E,Carrollton,GA,30117,US,(770) 832-9047,33.555877,-85.072047,10:30am - 10:00pm,,False
+00641,Ashley Park #641,226 Newnan Crossing Bypass,,Newnan,GA,30265,US,(678) 423-8822,33.3917551,-84.7622338,10:30am - 10:00pm,,False
+00222,Gadsden #222,332 E. Meighan Blvd.,Suite G-3,Gadsden,AL,35903,US,(256) 543-8445,34.0101177,-85.9891846,10:30am - 9:00pm,,False
+00148,Jones Valley #148,2750 Carl T. Jones Dr.,Suite 810,Huntsville,AL,35802,US,(256) 880-8246,34.6747407,-86.5441218,10:30am - 9:00pm,,False
+00352,Memorial Parkway #352,3022 Memorial Pkwy,,Huntsville,AL,35802,US,(256) 885-2257,34.70250429,-86.58765302,10:30am - 9:00pm,,False
+00341,Madison #341,8572 Madison Blvd.,Unit U,Madison,AL,35758,US,(256) 774-8028,34.682487,-86.737908,10:30am - 9:00pm,,False
+00119,Westside Center #119,6275 University Dr.,,Huntsville,AL,35806,US,(256) 971-8989,34.7443167,-86.68042,10:30am - 9:00pm,,False
+00704,Madison Corners #704,1079 Balch Rd,Suite A,Huntsville,AL,35758,US,(256) 325-0231,34.7486653,-86.7675608,10:30am - 9:00pm,,False
+00587,Decatur #587,2812 Spring Ave. SW,Ste G,Decatur,AL,35603,US,(256) 340-8600,34.554957,-86.997248,10:30am - 9:00pm,,False
+00604,Fultondale #604,3477 Lowery Parkway,Ste 115,Fultondale,AL,35068,US,(205) 841-2322,33.6071185,-86.8060609,10:30am - 9:00pm,,False
+00830,UAB - 5 Points #830,1928-B 11th Ave. S.,,Birmingham,AL,35205,US,(205) 731-3473,33.500641,-86.796624,10:30am - 9:00pm,,False
+00294,Homewood #294,808 Green Springs Hwy,,Homewood,AL,35209,US,(205) 945-2637,33.460704,-86.81954,10:30am - 9:00pm,,False
+00041,Vestavia Hills #41,623 Montgomery Hwy.,Unit 130,Vestavia Hills,AL,35216,US,(205) 979-5753,33.4480789,-86.7902159,10:30am - 9:00pm,,False
+00342,Altadena #342,4704 Cahaba River Rd.,Suite J-1,Birmingham,AL,35243,US,(205) 967-3114,33.431979,-86.737747,10:30am - 9:00pm,,False
+00630,Patton Creek #630,181 Main Street,Suite 213,Hoover,AL,35244,US,(205) 402-9830,33.3741821,-86.8147383,10:30am - 9:00pm,,False
+00895,McCalla #895,4867 Promenade Parkway,Suite 101,Bessemer,AL,35022,US,(205) 428-5844,33.333038,-86.991059,10:30am - 9:00pm,,False
+00231,Trussville #231,1483 Gadsden Hwy,Suite 132,Birmingham,AL,35235,US,(205) 661-1444,33.5966497,-86.6451477,10:30am - 9:00pm,,False
+00135,Brook Highland #135,5269 Hwy 280 S.,Suite B-8,Birmingham,AL,35242,US,(205) 981-1880,33.423775,-86.699869,10:30am - 9:00pm,,False
+00378,Alabaster #378,100 South Colonial Dr.,Suite 1200,Alabaster,AL,35007,US,(205) 664-4664,33.22684171,-86.80440484,10:30am - 9:00pm,,False
+00060,Tuscaloosa #60,1130 University Blvd.,Unit B-3,Tuscaloosa,AL,35401,US,(205) 248-0680,33.2116675,-87.5521204,10:30am - 9:00pm,,False
+00139,Dothan #139,3850 W. Main Street,Unit 806,Dothan,AL,36305,US,(334) 677-2656,31.234753,-85.45137,10:30am - 10:00pm,,False
+00179,South Dothan #179,3255 South Oates Street,Suite 8,Dothan,AL,36301,US,(334) 671-9633,31.1796055,-85.4010127,10:30am - 10:00pm,,False
+00374,Enterprise #374,607-E Boll Weevil Cir.,,Enterprise,AL,36330,US,(334) 308-2101,31.3151782,-85.8305047,10:30am - 9:00pm,,False
+00581,Troy #581,1007 US 231 South,,Troy,AL,36081,US,(334) 770-6551,31.784601,-85.962771,10:30am - 9:00pm,,False
+00808,Athens Shoppes #808,935 Hwy 72 E.,Suite A,Athens,AL,35611,US,(256) 216-5556,34.7870177,-86.9600369,10:30am - 9:00pm,,False
+00461,Malbis #461,9912 Dimitrious Ave,,Daphne,AL,36526,US,(251) 626-7827,30.657556,-87.852763,8:00am - 9:00pm,,False
+00052,Daphne #52,6890-6 Hwy. 90,,Daphne,AL,36526,US,(251) 625-8723,30.655616,-87.899616,10:30am - 9:00pm,,False
+00026,Pace #26,4367 Highway 90,,Pace,FL,32571,US,(850) 994-1666,30.6031914,-87.1418576,10:30am - 9:00pm,,False
+00016,Pensacola 1 #16,2 E. 9 Mile Rd.,,Pensacola,FL,32534,US,(850) 478-2334,30.5345251,-87.2739371,10:30am - 9:00pm,,False
+00033,Pensacola 4 #33,1741 E. 9 Mile Rd.,Suite 13,Pensacola,FL,32514,US,(850) 476-1962,30.530618,-87.225012,10:30am - 9:00pm,,False
+00647,Milton #647,6570 Caroline St.,Ste A,Milton,FL,32570,US,(850) 983-0404,30.6203286,-87.0486481,10:30am - 9:00pm,,False
+00030,Pensacola 3 #30,6869 N. 9th Ave.,,Pensacola,FL,32504,US,(850) 476-6626,30.4937374,-87.1911251,10:30am - 9:00pm,,False
+00690,Mobile Hwy #690,5998 Mobile Hwy,Suite 8,Pensacola,FL,32526,US,(850) 607-6791,30.46022,-87.298832,10:30am - 9:00pm,,False
+00087,Bayou Blvd. #87,5010 Bayou Blvd.,Suite 5,Pensacola,FL,32503,US,(850) 478-9861,30.4720018,-87.2090401,10:30am - 9:00pm,,False
+00599,Fairhope #599,113 South Greeno Road,,Fairhope,AL,36532,US,(251) 990-3970,30.518607,-87.885615,10:30am - 9:00pm,,False
+00057,Airport #57,3694 Airport Blvd.,,Mobile,AL,36608,US,(251) 342-2352,30.6768629,-88.1347205,10:30am - 9:00pm,,False
+00282,McGowan Park #282,3075 Government Blvd.,B105,Mobile,AL,36606,US,(251) 461-6080,30.654387,-88.117163,10:30am - 9:00pm,,False
+00099,New Warrington #99,120 S. New Warrington Rd.,,Pensacola,FL,32507,US,(850) 457-2765,30.405427,-87.276307,10:30am - 9:00pm,,False
+00065,Foley #65,167 9th Ave.,,Foley,AL,36535,US,(251) 986-7827,30.3848432,-87.687596,10:30am - 9:00pm,,False
+01137,Prattville #1137,2586 Cobbs Ford Rd.,,Prattville,AL,36066,US,(334) 285-9003,32.460221,-86.386422,10:30am - 9:00pm,,False
+00761,"Montgomery, Zelda Rd. #761",2890 Zelda Rd.,,Montgomery,AL,36106,US,(334) 277-6614,32.3587,-86.265523,10:30am - 9:00pm,,False
+00059,Montgomery #59,6661 Atlanta Hwy.,,Montgomery,AL,36117,US,(334) 213-2450,32.3825269,-86.1796409,10:30am - 9:00pm,,False
+00186,Tillman #186,5300-C Hallsmill Rd.,,Mobile,AL,36619,US,(251) 660-0995,30.5958469,-88.1647874,8:00am - 9:00pm,,False
+00306,Grelot #306,6300 Grelot Rd.,,Mobile,AL,36695,US,(251) 631-3730,30.661139,-88.1954912,10:30am - 9:00pm,,False
+00858,West Tupelo #858,2438 West Main St.,,Tupelo,MS,38801,US,(662) 620-7777,34.2557238,-88.7436527,10:30am - 9:00pm,,False
+01396,Shops at Battlefield Parkway #1396,898 Battlefield Parkway,,Fort Oglethorpe,GA,30742,US,(706) 944-3150,34.953457,-85.249214,10:30am - 10:00pm,,False
+00316,Red Bank #316,3849 Dayton Blvd.,Suite 101,Chattanooga,TN,37415,US,(423) 877-2345,35.118697,-85.291017,10:30am - 10:00pm,,False
+00225,Lee Hwy. #225,6025 E. Brainerd Rd.,Suite 110,Chattanooga,TN,37421,US,(423) 893-3473,35.017494,-85.204713,10:30am - 9:00pm,,False
+01235,Hixson #1235,5546 TN Hwy 153,Ste. 102,Hixson,TN,37343,US,(423) 803-5999,35.147836,-85.24944,10:30am - 10:00pm,,False
+00439,Gunbarrel #439,1820 Gunbarrel Rd.,Suite 700,Chattanooga,TN,37421,US,(423) 475-5491,35.0258663,-85.1561565,10:30am - 10:00pm,,False
+00393,Rome #393,723 Turner Mccall Blvd,,Rome,GA,30165,US,(706) 291-2785,34.2605882,-85.1732474,10:30am - 10:00pm,,False
+00879,Wall Street Calhoun - Coming Soon #879,1131 S. Wall Street,,Calhoun,GA,30701,US,Coming Soon,34.479759,-84.937118,,,True
+00046,Crestview #46,2252 S. Ferdon Blvd.,,Crestview,FL,32536,US,(850) 689-1500,30.7364593,-86.5654436,10:30am - 9:00pm,,False
+00242,Cross Country Plaza #242,3201 Macon Road,Suite 263,Columbus,GA,31906,US,(706) 569-0133,32.4822224,-84.9446423,10:30am - 9:00pm,,False
+00228,Columbus Park #228,2501 Whittlesey Rd.,Suite H,Columbus,GA,31909,US,(706) 507-0225,32.5398373,-84.9537551,10:30am - 9:00pm,,False
+01174,Billings Crossings #1174,6563 Gateway Dr.,,Columbus,GA,31909,US,(706) 562-0777,32.541193,-84.8729674,10:30am - 9:00pm,,False
+00793,Middleton Court #793,327 Highway 12 West,,Starkville,MS,39759,US,(662) 324-1701,33.45328,-88.822863,10:30am - 9:00pm,,False
+01334,Casa Grande #1334,1664 E. Florence Blvd.,,Casa Grande,AZ,85122,US,(520) 836-4649,32.880432,-111.71583,10:00am - 9:00pm,,False
+01068,Watson Marketplace #1068,485 S. Watson Rd.,Ste. 107,Buckeye,AZ,85326,US,(623) 386-8745,33.4428094,-112.5565604,10:00am - 10:00pm,,False
+01069,Maricopa Marketplace #1069,21083 N. John Wayne Pkwy,Ste. C101,Maricopa,AZ,85139,US,(520) 568-8515,33.0687087,-112.0442592,10:00am - 9:00pm,,False
+01096,Mountainside Plaza #1096,4025 E. Chandler Blvd.,Suite #68,Phoenix,AZ,85048,US,(480) 621-5778,33.304667,-111.9945819,10:00am - 10:00pm,,False
+01032,Kyrene & Chandler #1032,6050 W. Chandler Blvd.,Ste. 1,Chandler,AZ,85226,US,(480) 621-6964,33.305806,-111.946351,10:00am - 9:00pm,,False
+00982,Paseo Lindo #982,3731 S. Arizona Ave.,Ste. 5,Chandler,AZ,85248,US,(480) 802-3744,33.250998,-111.840897,10:00am - 9:00pm,,False
+00327,Park San Tan #327,3245 W. Ray Rd.,Suite 1,Chandler,AZ,85226,US,(480) 726-8200,33.3201271,-111.8977616,10:00am - 10:00pm,,False
+01375,Priest & Elliot #1375,7700 S. Priest Dr.,,Tempe,AZ,85284,US,(480) 753-9977,33.347279,-111.963614,10:00am - 9:00pm,,False
+01258,Tucson Spectrum #1258,5435 S. Calle Santa Cruz,Ste 105G,Tuscon,AZ,85706,US,(520) 807-6246,32.152783,-110.990702,10:00am - 10:00pm,,False
+01271,Cave Creek #1271,34317 N. Cave Creek Rd.,Ste. 101,Cave Creek,AZ,85331,US,(480) 595-5178,33.7955732,-111.9658905,10:00am - 9:00pm ,,False
+00522,Glendale Arrowhead #522,20165 N 67th Ave.,Ste. 122B,Glendale,AZ,85308,US,(623) 537-0300,33.6643094,-112.2019489,10:00am - 9:00pm,,False
+01254,AZ High Street #1254,5450 High Street,Ste. A-6 107,Phoenix,AZ,85054,US,(480) 471-8185,33.6755703,-111.9634219,10:30am - 9:00pm,,False
+01315,Pinnacle Peak #1315,23335 N. Scottsdale Road,Suite D101,Scottsdale,AZ,85255,US,(480) 219-2442,33.698122,-111.925374,10:00am - 9:00pm,,False
+01206,59th Ave & Thunderbird #1206,13637 N. 59th Ave.,Ste. B,Glendale,AZ,85304,US,(623) 242-7999,33.610461,-112.185825,10:00am - 9:00pm,,False
+00827,Tatum Parkplace #827,15530 N. Tatum Blvd.,Ste. 130,Phoenix,AZ,85032,US,(602) 253-0086,33.6278262,-111.9779084,10:00am - 9:00pm,,False
+01205,Surprise Village #1205,13820 W. Bell Rd.,Ste. 11,Surprise,AZ,85374,US,(623) 546-4555,33.639113,-112.357818,10:00am - 10:00pm,,False
+01029,Northsight & Raintree #1029,14740 N. Northsight Blvd.,Ste. 102,Scottsdale,AZ,85260,US,(480) 718-5027,33.6194863,-111.8983914,10:00am - 9:00pm,,False
+01487,Northern Crossing - Coming Soon #1487,5803 W. Northern Ave.,,Glendale,AZ,85301,US,Coming Soon,33.553063,-112.184173,,,True
+00588,Arcadia Plaza #588,2836 E. Indian School Rd.,Ste. A6,Phoenix,AZ,85016,US,(602) 258-0772,33.4951948,-112.0199021,10:00am - 9:00pm,,False
+01302,Crossroads at Tolleson #1302,9897 W. McDowell Road,,Tolleson,AZ,85353,US,(623) 478-3900,33.46397,-112.27117,10:00am - 10:00pm,,False
+01013,Arizona State University #1013,20 University Dr.,Ste. 101,Tempe,AZ,85281,US,(480) 758-5172,33.4219771,-111.9389132,10:00am - 9:00pm,,False
+01482,Parkway Village #1482,15525 W. Roosevelt St.,Suite 110,Goodyear,AZ,85338,US,(623) 476-8797,33.457218,-112.392742,10:00am - 9:00pm,,False
+01072,51 Baseline #1072,5225 W. Baseline Rd.,Ste. 102,Phoenix,AZ,85339,US,(602) 801-0280,33.377519,-112.170522,10:00am - 10:00pm,,False
+01489,Arizona Mills Mall #1489,5000 S. Arizona Mills Circle,Ste. 655,Tempe,AZ,85282,US,(480) 838-9476,33.383353,-111.963572,10:00am - 9:00pm,,False
+01476,McClintock and Southern - Coming Soon #1476,3108 S. McClintock Dr.,Ste. 2,Tempe,AZ,85282,US,Coming Soon,33.396082,-111.909636,,,True
+01084,Lindsay Groves #1084,2727 E. McKellips Rd.,Ste. 114,Mesa,AZ,85203,US,(480) 812-3808,33.4508692,-111.7726177,10:00am - 9:00pm,,False
+01350,Mill Towne Center #1350,107 E. Baseline Rd.,Ste. A1,Tempe,AZ,85283,US,(480) 307-8097,33.378093,-111.938813,10:00am - 9:00pm,,False
+01298,Southern & Dobson #1298,2110 W. Southern Ave.,Ste. 105,Mesa,AZ,85202,US,(480) 656-3700,33.393687,-111.877018,10:00am - 9:00pm,,False
+00838,Signal Butte #838,10720 E. Southern Ave.,Ste. 112d,Mesa,AZ,85209,US,(480) 833-0215,33.393458,-111.5994985,10:00am - 9:00pm,,False
+00565,McKellips Marketplace #565,1829 N. Power Rd.,Ste. 109,Mesa,AZ,85205,US,(480) 830-6680,33.45048,-111.681263,10:00am - 9:00pm,,False
+00662,Queen Creek Crossroads #662,20851 E. Rittenhouse Rd.,Ste 101,Queen Creek,AZ,85142,US,(480) 677-4136,33.2549107,-111.6335652,10:00am - 9:00pm,,False
+00453,Dana Park #453,3420 E. Baseline Rd.,Suite 101,Mesa,AZ,85204,US,(480) 539-4322,33.379618,-111.757045,10:00am - 10:00pm,,False
+00918,Market Street #918,2894 S. Santan Village Pkwy,Ste. 101,Gilbert,AZ,85295,US,(480) 855-0900,33.297409,-111.743317,10:00am - 10:00pm,,False
+01119,Big Curve #1119,2886 S. 4th Ave.,Suite 300,Yuma,AZ,85364,US,(928) 726-7827,32.6761976,-114.6245421,10:00am - 10:00pm,,False
+01003,Yuma Plaza #1003,1630 S. Pacific Ave.,#107,Yuma,AZ,85365,US,(928) 782-3460,32.6984816,-114.598968,10:00am - 10:00pm,,False
+01181,Fortuna Commons #1181,11259 E. South Frontage Rd.,,Yuma,AZ,85367,US,(928) 342-8118,32.6681748,-114.4442975,10:00am - 10:00pm,,False
+00566,Marana Marketplace #566,3844 W. River Road,#110,Tucson,AZ,85741,US,(520) 219-2322,32.322431,-111.045063,10:00am - 9:00pm,,False
+01086,Wetmore Plaza #1086,475 W. Wetmore,Ste. 135,Tucson,AZ,85705,US,(520) 207-0042,32.285471,-110.979597,10:00am - 9:00pm,,False
+01303,Prescott Valley #1303,3088 Glassford Hill Rd.,,Prescott Valley,AZ,86314,US,(928) 227-0557,34.587705,-112.340231,10:00am - 10:00pm,,False
+00814,Red Rock Commons #814,15 South River Road,Ste 310,Saint George,UT,84790,US,(435) 688-9020,37.10747,-113.5533631,10:30am - 10:00pm,,False
+00976,San Tan Valley #976,1735 West Hunt Highway,Ste. 103,San Tan Valley,AZ,85143,US,(480) 888-1911,33.178661,-111.584215,10:00am - 9:00pm,,False
+01308,Show Low #1308,5551 S. White Mountain Road,Ste. 4,Show Low,AZ,85901,US,(928) 892-5632,34.199333,-110.017938,10:00am - 9:00pm,,False
+00795,Sunset-Eastgate #795,510 Marks St.,Unit B-1 Ste 110,Henderson,NV,89014,US,(702) 565-4444,36.0586258,-115.03746,10:30am - 9:00pm,,False
+00330,Las Vegas - Eastern & Richmar #330,9555 S. Eastern Ave.,Ste 130,Las Vegas,NV,89123,US,(702) 893-3473,36.0164843,-115.1189122,10:30am - 9:00pm,,False
+01023,Winterwood Pavillion #1023,2208 S. Nellis Blvd.,Suite 7,Las Vegas,NV,89104,US,(702) 462-5300,36.1462399,-115.0636662,10:30am - 9:00pm,,False
+00777,McCarran Marketplace - Eastern & Russell #777,5905 S. Eastern Ave.,Suite 109,Las Vegas,NV,89119,US,(702) 262-7805,36.0819709,-115.119512,10:30am - 9:00pm,,False
+00960,University Square #960,4761 S. Maryland Pkwy,,Las Vegas,NV,89119,US,(702) 262-1222,36.1032681,-115.1372696,10:30am - 9:00pm,,False
+00069,Bryant #69,3108 Horizon St.,Suite 9,Bryant,AR,72022,US,(501) 653-3700,34.622774,-92.496996,10:30am - 10:00pm,,False
+00020,Chenal #20,12312 Chenal Pkwy.,Suite 40,Little Rock,AR,72211,US,(501) 228-5553,34.7521975,-92.4126413,10:30am - 10:00pm,,False
+00077,Rodney #77,10300 Rodney Parham,Suite D1,Little Rock,AR,72227,US,(501) 225-2001,34.768206,-92.3878267,10:30am - 10:00pm,,False
+00280,Maumelle #280,11617 Maumelle Blvd.,,North Little Rock,AR,72113,US,(501) 753-9898,34.8270566,-92.3890806,10:30am - 10:00pm,,False
+00021,Lakewood #21,2811 Lakewood Village Dr.,,N. Little Rock,AR,72116,US,(501) 812-5002,34.7970616,-92.2321299,10:30am - 10:00pm,,False
+00583,Waterford Creek #583,140 John Harden Drive,Ste 8,Jacksonville,AR,72076,US,(501) 983-4913,34.870221,-92.1254063,10:30am - 10:00pm,,False
+00022,Conway #22,1240 Highway 64 W.,,Conway,AR,72032,US,(501) 513-2410,35.1100727,-92.4413641,10:30am - 10:00pm,,False
+00842,Southcenter Shopping Center #842,4403-D Central Avenue,,Hot Springs,AR,71913,US,(501) 463-9803,34.4513869,-93.074325,10:30am - 10:00pm,,False
+00923,North Arkansas #923,2005 North Arkansas,,Russellville,AR,72801,US,(479) 967-7827,35.30083917,-93.13826177,10:30am - 9:00pm,,False
+00047,Fayetteville #47,1364 East Augustine Lane,Ste 2,Fayetteville,AR,72703,US,(479) 251-0044,36.1214854,-94.1384554,10:30am - 9:00pm,,False
+00569,Promenade Point #569,2009 Promenade Blvd.,,Rogers,AR,72758,US,(479) 631-2400,36.3110194,-94.1793426,10:30am - 9:00pm,,False
+00136,Jonesboro #136,401 Southwest Dr.,,Jonesboro,AR,72401,US,(870) 932-6339,35.817675,-90.708443,10:30am - 10:00pm,,False
+01240,Red Wolf #1240,3709 East Johnson Ave.,,Jonesboro,AR,72401,US,(870) 520-6030,35.8593402,-90.6524347,10:30am - 10:00pm,,False
+00264,Van Buren #264,2008 Fayetteville Rd.,Suite B,Van Buren,AR,72956,US,(479) 474-1400,35.466582,-94.355713,10:30am - 9:00pm,,False
+00075,Ft. Smith #75,7805-C Rogers Ave.,,Ft. Smith,AR,72903,US,(479) 452-4468,35.3507826,-94.3464056,10:30am - 9:00pm,,False
+00160,Zero St. #160,2307 Zero Street,Suite 101,Fort Smith,AR,72901,US,(479) 646-3334,35.3290409,-94.410493,10:30am - 10:00pm,,False
+00101,Fayetteville West #101,2612 W. Martin Luther King Blvd.,,Fayetteville,AR,72701,US,(479) 251-1122,36.0533579,-94.1971164,10:30am - 10:00pm,,False
+00771,Union Ave. #771,1571 Union Avenue,,Memphis,TN,38014,US,(901) 276-9599,35.1360856,-90.0091932,10:30am - 9:00pm,,False
+00408,Southaven #408,7111 Southcrest Parkway,Suite 11,Southaven,MS,38671,US,(662) 349-5940,34.96406,-89.995525,10:30am - 10:00pm,,False
+00371,East Gate #371,5062 Park Avenue,,Memphis,TN,38117,US,(901) 763-3066,35.106548,-89.8933349,10:30am - 10:00pm,,False
+01494,Wedgewood Commons #1494,5338 Goodman Road,Suite 111,Olive Branch,MS,38654,US,(662) 932-8190,34.962394,-89.893845,10:30am - 10:00pm,,False
+00266,Germantown #266,7685 Farmington Blvd.,Suite 108,Germantown,TN,38138,US,(901) 755-8633,35.0954943,-89.8021277,10:30am - 10:00pm,,False
+00311,Appling #311,7505 Hwy 64,Suite 109,Memphis,TN,38133,US,(901) 373-9200,35.204322,-89.81173,10:30am - 10:00pm,,False
+01427,Cordova Parkway Place #1427,1400 North Germantown Parkway,Ste. 108,Cordova,TN,38016,US,(901) 756-1104,35.163447,-89.793607,10:30am - 9:00pm,,False
+00721,Collierville #721,910 W. Poplar Ave.,Suite 3,Collierville,TN,38017,US,(901) 850-2109,35.0462124,-89.6928232,10:30am - 10:00pm,,False
+00544,Kennedy Lane #544,3213 Kennedy Lane,,Texarkana,TX,75503,US,(903) 831-2372,33.4538068,-94.078836,10:30am - 9:00pm,,False
+00633,Gin Creek #633,1547 East Race Avenue,Unit #4,Searcy,AR,72143,US,(501) 268-4851,35.250661,-91.720352,10:30am - 10:00pm,,False
+00398,Bentonville #398,3511 J St.,,Bentonville,AR,72712,US,(479) 273-5622,36.3358807,-94.196977,10:30am - 9:00pm,,False
+00906,Twin Oaks #906,4135 South National Avenue,,Springfield,MO,65807,US,(417) 887-4848,37.1388105,-93.2783092,10:30am - 9:00pm,,False
+00538,River Oaks #538,3011 Airline Drive,,Bossier City,LA,71111,US,(318) 747-6344,32.5600939,-93.7109647,10:30am - 10:00pm,,False
+01359,Alameda Landing #1359,2680 Fifth Street,Suite B,Alameda,CA,94501,US,(510) 217-8278,37.787288,-122.281499,10:30am - 9:00pm,,False
+01248,Persimmon Place #1248,5252 Dublin Blvd.,,Dublin,CA,94568,US,(925) 364-7279,37.705885,-121.898631,10:30am - 9:00pm,,False
+00825,Pacific Commons #825,43344 Boscell Rd.,,Fremont,CA,94538,US,(510) 252-1779,37.5036258,-121.9757772,10:30am - 9:00pm,,False
+00921,Novato #921,7505 Redwood Blvd.,Ste A,Novato,CA,94945,US,(415) 408-3403,38.1118526,-122.5692911,10:30am - 9:00pm,,False
+01222,Nut Tree Plaza #1222,1640 E. Monte Vista Ave,DD-102,Vacaville,CA,95688,US,(707) 474-9310,38.368359,-121.962231,10:30am - 9:00pm,,False
+01411,West Lane #1411,7860 West Lane,Ste. B1,Stockton,CA,95210,US,(209) 851-2563,38.020625,-121.293924,10:30am - 10:00pm,,False
+01441,Almaden Ranch #1441,5130 Cherry Ave.,#60,San Jose,CA,95118,US,(408) 620-1088,37.259107,-121.87603,10:30am - 9:00pm,,False
+01196,Antelope Valley Mall #1196,1113 W. Rancho Vista Blvd.,,Palmdale,CA,93551,US,(661) 274-7777,34.6018752,-118.1502157,10:30am - 9:00pm,,False
+00776,Creekside #776,23630 Valencia Blvd.,Ste. E,Valencia,CA,91355,US,(661) 255-3473,34.4159841,-118.5485325,10:00am - 9:30pm,,False
+01291,North Hollywood #1291,5077 Lankershim Blvd.,,North Hollywood,CA,91601,US,(818) 824-3071,34.162733,-118.373765,10:00am - 10:00pm,,False
+01408,8th St. - Coming Soon #1408,996 W. 8th St.,,Los Angeles,CA,90017,US,Coming Soon,34.048731,-118.262673,,,True
+01309,Westwood & Olympic - Coming Soon #1309,2215 Westwood Boulevard,Suite D,Los Angeles,CA,90084,US,Coming Soon,34.043174,-118.431556,,,True
+00882,Simi Town Center #882,1263 H1 Simi Town Center Way,,Simi Valley,CA,93065,US,(805) 579-9169,34.284189,-118.775463,10:30am - 9:30pm,,False
+01400,Puente Hills #1400,17490 Colima Rd.,Ste. C,Rowland Heights,CA,91748,US,(626) 723-3341,33.990306,-117.924766,10:30am - 10:00pm,,False
+01184,Chino Spectrum Mall #1184,3808 Grand Ave.,Suite A,Chino,CA,91710,US,(909) 464-0822,34.001173,-117.721335,10:30am - 9:00pm,,False
+01328,Hesperia - Marketplace on Main #1328,13325 Main Street,Ste. 108,Hesperia,CA,92345,US,(760) 983-5512,34.426779,-117.372834,10:30am - 9:30pm,,False
+01290,Magnolia & La Palma - Coming Soon #1290,1019 N. Magnolia Ave.,#101D,Anaheim,CA,92801,US,Coming Soon,33.845799,-117.976182,,,True
+01238,Temecula Promenade #1238,26480 Ynez Road,Suite #B,Temecula,CA,92591,US,(951) 296-1909,33.523559,-117.158266,10:00am - 10:00pm,,False
+01012,Escondido Gateway Center #1012,880 W. Valley Parkway,,Escondido,CA,92025,US,(760) 747-7827,33.1184372,-117.0953037,10:00am - 9:00pm,,False
+00914,The Springs #914,5200 E. Ramon Rd.,Suite G4,Palm Springs,CA,92264,US,(760) 656-0220,33.8159444,-116.4941718,10:00am - 9:00pm,,False
+01412,Beaumont Marketplace #1412,1668 E. 2nd St.,Ste. I,Beaumont,CA,92223,US,(951) 381-1124,33.92366,-116.948199,9:30am - 9:00pm,,False
+00631,El Camino North #631,2619-B1 Vista Way,,Oceanside,CA,92054,US,(760) 721-4321,33.1820109,-117.330919,10:00am - 10:00pm,,False
+01287,Desert Gateway Center #1287,34300 Monterey Ave.,#103,Palm Desert,CA,92211,US,(​760) 202-9100,33.8000714,-116.3873134,10:00am - 9:00pm,,False
+01250,Encinitas #1250,132 North El Camino Real,,Encinitas,CA,92024,US,(760) 479-0925,33.0478543,-117.2608578,10:30am - 9:00pm,,False
+00962,Mira Mesa #962,8118 Mira Mesa Blvd.,Ste. B,San Diego,CA,92126,US,(858) 566-6410,32.913138,-117.148558,10:00am - 9:30pm,,False
+01083,Santee Town Center #1083,214 Town Center Pkwy,Ste. B,Santee,CA,92071,US,(619) 631-7785,32.842844,-116.987254,10:30am - 9:00pm,,False
+01344,Kearny Mesa #1344,9187 Clairemont Mesa Blvd.,Suite 3,San Diego,CA,92123,US,(858) 569-7827,32.830857,-117.131629,10:00am - 9:00pm,,False
+01141,Center Point Loma Linda #1141,25713 Barton Rd.,,Loma Linda,CA,92354,US,(909) 799-1767,34.0483002,-117.2432547,9:30am - 9:00pm,,False
+01316,Fresno - Centrum #1316,128 W. Nees Ave.,Suite 101,Fresno,CA,93711,US,(559) 439-7827,36.852054,-119.791155,10:30am - 10:00pm,,False
+00835,El Toro #835,24100 El Toro Rd.,Suite B,Laguna Woods,CA,92637,US,(949) 581-3535,33.612171,-117.713703,10:00am - 9:00pm,,False
+00840,Mesa Verde #840,2701 Harbor Blvd.,D-4,Costa Mesa,CA,92626,US,(714) 432-1777,33.6718623,-117.920174,10:30am - 9:00pm,,False
+01182,Center on Seventeenth #1182,2266 E. 17th St.,,Santa Ana,CA,92705,US,(714) 543-7827,33.7585236,-117.8345516,10:00am - 9:00pm,,False
+00913,Tustin Road #913,2139 N. Tustin St.,,Orange,CA,92865,US,(714) 282-1743,33.8236002,-117.8353501,10:00am - 10:00pm,,False
+01230,Pleasant Grove #1230,933 Pleasant Grove Blvd.,Suite 100,Roseville,CA,95678,US,(916) 771-0572,38.7794057,-121.2876119,10:30am - 9:00pm ,,False
+01017,East Bidwell #1017,1001 East Bidwell,#101,Folsom,CA,95630,US,(916) 984-0600,38.6696487,-121.1558125,10:30am - 9:00pm,,False
+01262,Carson Hwy 50 #1262,3120 Hwy 50,,Carson City,NV,89701,US,(775) 882-8400,39.17659,-119.732887,10:30am - 9:00pm,,False
+00979,Truxel Rd. #979,3830 Truxel Rd.,Suite 100,Sacramento,CA,95834,US,(916) 928-6310,38.633979,-121.503491,10:00am - 9:00pm,,False
+01333,Tejon Ranch #1333,5602 Dennis McCarthy Dr.,#A,Lebec,CA,93243,US,(661) 858-1030,34.986652,-118.946349,10:30am - 10:00pm,,False
+01342,Las Tiendas (H and Broadway) #1342,510 Broadway Street,Suite 8,Chula Vista,CA,91910,US,(619) 882-2020,32.629986,-117.090337,9:30am - 11:00pm,,False
+00669,Point Loma Plaza #669,3625 Midway Dr.,Ste. 20A,San Diego,CA,92110,US,(619) 925-3473,32.7514542,-117.2160729,10:30am - 9:00pm,,False
+01518,The Medford Center - Coming Soon #1518,625 Medford Center,,Medford,OR,97502,US,Coming Soon,42.33201,-122.867141,,,True
+01483,Yucca Valley #1483,58709 Twenty-Nine Palms Hwy.,Ste. E,Yucca Valley,CA,92284,US,(760) 228-1234,34.134822,-116.382663,10:00am - 9:00pm,,False
+00781,N. Academy #781,7543 N. Academy Blvd,,Colorado Springs,CO,80920,US,(719) 598-1166,38.9399678,-104.7987244,10:30am - 9:00pm,,False
+00862,Marketplace at Austin Bluffs #862,3604 Austin Bluffs Parkway,#110,Colorado Springs,CO,80918,US,(719) 599-4386,38.891677,-104.758748,10:30am - 9:00pm,,False
+01294,North Powers #1294,5915 Dublin Blvd,Ste. 120,Colorado Springs,CO,80923,US,(719) 593-1099,38.926284,-104.72118,10:30am - 9:00pm,,False
+00872,Castle Rock Meadows #872,3993 Limelight Ave.,,Castle Rock,CO,80109,US,(303) 660-6121,39.401764,-104.880457,10:30am - 9:30pm,,False
+00570,Twenty Mile Rd. #570,11280 S. Twenty Mile Rd.,,Parker,CO,80134,US,(303) 841-7827,39.5116159,-104.771679,10:30am - 9:00pm,,False
+00637,Lincoln Commons #637,9992 Commons St.,Suite 120,Lone Tree,CO,08124,US,(303) 495-2218,39.5351844,-104.8820703,10:30am - 9:00pm,,False
+00500,Highlands Ranch #500,9559 S. University Blvd.,Ste 108,Highlands Ranch,CO,80126,US,(303) 346-4437,39.542421,-104.945763,10:30am - 9:00pm,,False
+00902,Park Meadows #902,9445 E. County Line Rd.,Suite B,Centennial,CO,80112,US,(303) 792-3216,39.5684068,-104.879284,10:30am - 9:00pm,,False
+01009,Cornerstar #1009,15405 E. Briarwood Cir.,"Unit B, Suite D",Aurora,CO,80016,US,(303) 699-1699,39.5933809,-104.808708,10:30am - 9:30pm,,False
+00713,Eagles Nest #713,24300 E. Smoky Hill Rd.,Suite 128,Aurora,CO,80016,US,(303) 693-7827,39.5953639,-104.7049229,10:30am - 9:00pm,,False
+00884,Village West #884,8555 W. Belleview Ave.,#2625-A,Littleton,CO,80123,US,(303) 968-7963,39.6245613,-105.0919184,10:30am - 10:00pm,,False
+00940,Highpointe #940,6345 E. Hampden Ave.,Suite 102,Denver,CO,80222,US,(303) 756-6874,39.6531852,-104.9158988,10:30am - 9:00pm,,False
+00503,29th Street Mall #503,1695 29th Street,,Boulder,CO,80301,US,(303) 440-7827,40.0197243,-105.2562767,10:00am - 10:00pm,,False
+01073,Clover Basin #1073,2343 Clover Basin Dr.,,Longmont,CO,80501,US,(303) 651-0559,40.1440701,-105.1314709,10:30am - 9:30pm,,False
+01528,Superior Plaza #1528,100 McCaslin Blvd.,,Superior,CO,80027,US,(303) 499-1394,39.955442,-105.164796,10:30am - 9:00pm,,False
+01097,Lafayette #1097,534 W. S. Boulder Rd.,Ste. D,Lafayette,CO,80026,US,(303) 665-9363,39.9868087,-105.08624,10:30am - 9:00pm,,False
+01280,Van de Water #1280,1395 Sculptor Dr.,,Loveland,CO,80537,US,(970) 663-1814,40.406433,-105.0358,10:30am - 9:30pm,,False
+00782,East Harmony #782,2120 E Harmony Rd,Suite 101,Fort Collins,CO,80528,US,(970) 226-0494,40.523777,-105.036936,10:30am - 9:30pm,,False
+01040,The Grove #1040,14356 Lincoln St.,,Thornton,CO,80023,US,(303) 450-7827,39.9553919,-104.9853551,10:30am - 9:00pm,,False
+01423,Ralston Plaza #1423,12345 W. 64th Ave.,,Arvada,CO,80004,US,(303) 568-9644,39.81359,-105.136425,10:30am - 9:00pm,,False
+00934,Northridge Center #934,7961 Wadsworth Blvd.,,Arvada,CO,80003,US,(303) 423-7827,39.8408996,-105.0819544,10:30am - 9:30pm,,False
+01200,North College #1200,1856 N. College Ave.,Ste. 130,Fort Collins,CO,80524,US,(970) 999-5352,40.612337,-105.076093,10:30am - 9:00pm,,False
+00452,Grant St #452,10060 Grant St,,Thornton,CO,80229,US,(303) 736-8066,39.8798847,-104.9829344,10:30am - 9:30pm,,False
+00919,Union One #919,195 S. Union Blvd.,Suite 140,Lakewood,CO,80228,US,(303) 989-0031,39.712321,-105.133961,10:30am - 9:00pm,,False
+00560,Belmar #560,650 S. Wadsworth Blvd.,Ste I,Lakewood,CO,80226,US,(303) 934-1552,39.7053457,-105.0806458,10:30am - 9:00pm,,False
+00995,Tower and Salida #995,3425 North Salida St.,Ste. B,Aurora,CO,80011,US,(303) 371-7827,39.764541,-104.7733007,10:30am - 9:30pm,,False
+01424,San Juan Plaza #1424,3030 E. Main St.,Suite A9,Farmington,NM,87402,US,(505) 258-4488,36.74665,-108.164258,10:30am - 10:00pm,,False
+01313,Glastonbury #1313,2520 Main St.,Unit B,Glastonbury,CT,06033,US,(860) 430-1800,41.714228,-72.609945,10:30am - 9:00pm,,False
+01155,Franklin Village #1155,10 Franklin Village Drive,,Franklin,MA,02038,US,(508) 528-5058,42.090037,-71.421911,10:30am - 9:00pm,,False
+01187,Centereach Mall #1187,17 Centereach Mall,,Centereach,NY,11720,US,(631) 648-9248,40.8631055,-73.0824752,10:30am - 9:00pm,,False
+01447,Palisades Center Mall - Coming Soon #1447,4364 Palisades Center Dr.,,West Nyack,NY,10994,US,Coming Soon,41.099085,-73.95503,,,True
+01539,Shoppes at Brookhaven - Coming Soon #1539,4824 Edgmont Ave.,,Brookhaven,PA,19015,US,Coming Soon,39.876921,-75.395296,,,True
+00582,Lincoln Court #582,235 Lancaster Ave,,Frazer,PA,19355,US,(610) 407-9191,40.04160445,-75.5429099,10:30am - 9:00pm,,False
+01486,Tollgate Marketplace - Coming Soon #1486,615 Baltimore Pike,,Bel Air,MD,21014,US,Coming Soon,39.525355,-76.354032,,,True
+01508,Moorestown Mall - Coming Soon #1508,1203 Nixon Dr.,,Moorestown,NJ,08057,US,Coming Soon,39.940346,-74.96226,,,True
+00992,West Palm Beach #992,4047 Okeechobee Blvd.,#101,West Palm Beach,FL,33409,US,(561) 623-8800,26.7075328,-80.1036486,10:30am - 9:00pm,,False
+00595,Lantana #595,6169 Jog Rd,A-1,Lake Worth,FL,33467,US,(561) 965-0321,26.588297,-80.149212,10:30am - 9:00pm,,False
+00335,Boynton Beach #335,975 Gateway Blvd,Unit 113,Boynton Beach,FL,33426,US,(561) 735-7827,26.5507339,-80.0754446,10:30am - 9:00pm,,False
+00511,Royal Palm Beach #511,10229 Okeechobee Blvd.,,Royal Palm Beach,FL,33411,US,(561) 790-3900,26.7094475,-80.2046482,10:30am - 9:00pm,,False
+01038,Boynton West #1038,9903 S. Military Trail,,Boynton Beach,FL,33436,US,(561) 737-4442,26.529211,-80.124045,10:30am - 9:00pm,,False
+01223,Delray Beach #1223,1000-A4 Linton Blvd.,,Delray Beach,FL,33483,US,(561) 303-3335,26.43926,-80.083883,10:30am - 9:00pm,,False
+00714,5th Avenue Shoppes #714,1920 NE 5th Ave,,Boca Raton,FL,33432,US,(561) 245-8219,26.367326,-80.0777923,10:30am - 9:00pm,,False
+00620,Margate #620,5516 W. Sample Road,,Margate,FL,33073,US,(954) 532-3464,26.2737708,-80.1991452,10:30am - 9:00pm,,False
+01465,Pompano Beach #1465,2313 N Federal Hwy.,,Pompano Beach,FL,33062,US,(954) 366-6155,26.25995,-80.099714,10:30am - 9:00pm,,False
+00557,Coral Springs #557,2070 N. University Dr.,,Coral Springs,FL,33071,US,(954) 575-0026,26.2565751,-80.2511563,10:30am - 9:00pm,,False
+00600,Lauderhill #600,7542 W. Commercial Blvd,,Lauderhill,FL,33319,US,(954) 746-9089,26.1936348,-80.2496033,10:30am - 9:00pm,,False
+00277,Sunrise Blvd. - Coming Soon #277,1607 E. Sunrise Blvd.,,Ft. Lauderdale,FL,33304,US,Coming Soon,26.137674,-80.127467,,,True
+00277,Harbor Shops #277,1824 Cordova Rd,,Fort Lauderdale,FL,33316,US,(954) 522-8294,26.0989125,-80.1307152,10:30am - 9:00pm,,False
+00817,Plantation #817,801 S. University Drive,Suite C139,Plantation,FL,33324,US,(954) 900-5271,26.109382,-80.252757,10:30am - 9:00pm,,False
+00320,Weston #320,134 Weston Rd.,,Sunrise,FL,33326,US,(954) 727-9111,26.1236808,-80.3608262,10:30am - 10:00pm,,False
+01576,Treasure Coast Square - Coming Soon #1576,2962 NW Federal Hwy.,,Jensen Beach,FL,34957,US,Coming Soon,27.241032,-80.27136,,,True
+00634,Davie #634,5975 S. University Drive,,Davie,FL,33328,US,(954) 252-1552,26.0459247,-80.2517661,10:30am - 10:00pm,,False
+00096,Hallandale Beach #96,701 E. Hallandale Blvd.,,Hallandale Beach,FL,33009,US,(754) 400-8885,25.986055,-80.141065,10:30am - 10:00pm,,False
+01034,Pembroke Pines #1034,15711 Pines Blvd.,,Pembroke Pines,FL,33027,US,(954) 406-7979,26.0078021,-80.3554141,10:30am - 9:00pm,,False
+00243,Gainesville UF #243,1412 W. University Ave,Suite 1,Gainesville,FL,32603,US,(352) 337-2631,29.65243,-82.3410169,10:30am - 9:00pm,,False
+00117,Gainesville #117,3221 SW 35th Blvd.,,Gainesville,FL,32608,US,(352) 336-0419,29.6236709,-82.376419,10:30am - 10:00pm,,False
+00543,Lake City Village Square #543,2929 W US Hwy 90,#102,Lake City,FL,32055,US,(386) 438-5195,30.1809613,-82.6704234,10:30am - 10:00pm,,False
+00558,Macclenny #558,1448 South Sixth Street,,Macclenny,FL,32063,US,(904) 259-3473,30.26602,-82.1218899,10:30am - 10:00pm,,False
+00032,Middleburg #32,2640 Blanding Blvd.,Suite 210,Middleburg,FL,32068,US,(904) 291-4411,30.06317,-81.873465,10:30am - 10:00pm,,False
+00049,Gaitway #49,2701 SW SR 200,Suite 108,Ocala,FL,34474,US,(352) 873-7827,29.165837,-82.16921,10:30am - 10:00pm,,False
+00579,Silver Springs #579,4905 E. Silver Springs Blvd.,,Ocala,FL,34470,US,(352) 732-7827,29.2097476,-82.068513,10:30am - 9:00pm,,False
+01217,Oakleaf #1217,9660 Argyle Forest Blvd.,,Jacksonville,FL,32222,US,(904) 329-3944,30.195049,-81.8305759,10:30am - 10:00pm,,False
+00066,Marianna #66,4918 Malloy Plaza,,Marianna,FL,32448,US,(850) 526-1991,30.7266524,-85.1855181,10:30am - 10:00pm,,False
+00978,Woodmore Town Center Dr. #978,9301 Woodmore Centre Dr,Ste. 513,Lanham,MD,20706,US,(301) 341-7000,38.920512,-76.847489,10:30am - 10:00pm,,False
+00530,Pinecrest Plaza #530,6550 Little River Turnpike,Ste. H,Annandale,VA,22312,US,(703) 333-5151,38.8226445,-77.162736,10:30am - 10:00pm,,False
+00302,Kingstowne Town Center #302,5900 Kingstowne Towne Center,Ste. 120,Kingstowne,VA,22315,US,(703) 822-9400,38.77429,-77.1354066,10:30am - 11:00pm,,False
+01177,Springfield Plaza #1177,6404 Springfield Plaza,,Springfield,VA,22150,US,(703) 992-8442,38.7787234,-77.1890782,10:30am - 10:00pm,,False
+01158,Engleside Plaza #1158,8628A Richmond Highway,,Alexandria,VA,22309,US,(571) 481-4215,38.724014,-77.120347,10:30am - 10:00pm,,False
+00644,Turnpike - Fairfax #644,9548-D Main Street,,Fairfax,VA,22031,US,(703) 268-5545,38.841471,-77.2734154,10:30am - 9:00pm,,False
+01460,Laurel Shopping Center #1460,901 Washington Blvd.,,Laurel,MD,20707,US,(301) 725-5679,39.097009,-76.851823,10:30am - 9:30pm,,False
+01390,Crain Highway Retail Center #1390,2875 Crain Highway,,Waldorf,MD,20601,US,(240) 448-5542,38.63263,-76.905313,10:30am - 10:00pm,,False
+00411,Fairfax Towne Center #411,12120 Fairfax Towne Center,,Fairfax,VA,22033,US,(703) 865-7997,38.8669031,-77.3667203,10:30am - 9:30pm,,False
+01619,Elden St. #1619,360 Elden St.,,Herndon,VA,20170,US,(703) 435-3233,38.968337,-77.374382,10:30am - 9:00pm,,False
+00629,Waugh Chapel #629,2622 Brandermill Blvd.,,Gambrills,MD,21054,US,(410) 721-3500,39.0389125,-76.6787898,10:30am - 10:00pm,,False
+00668,Sugarland Crossing #668,47010 Community Plaza,Suite 110,Sterling,VA,20164,US,(571) 267-7717,39.0163619,-77.3767427,10:30am - 9:30pm,,False
+01042,Herndon #1042,2545 Centreville Rd.,Q-14,Herndon,VA,20171,US,(703) 376-8000,38.9490431,-77.4114406,10:30am - 10:00pm,,False
+00646,Chantilly #646,13812 Metrotech Drive,,Chantilly,VA,20151,US,(703) 631-3473,38.8930424,-77.4265059,10:30am - 10:00pm,,False
+00610,Woodbridge #610,13305 Worth Ave.,,Woodbridge,VA,22192,US,(703) 910-7146,38.6490925,-77.295043,10:30am - 10:00pm,,False
+00763,Centreville Square #763,14245-L Centreville Square,,Centreville,VA,20121,US,(703) 942-5200,38.837376,-77.4373591,10:30am - 9:00pm,,False
+00702,Century Blvd. #702,19851 Century Blvd.,,Germantown,MD,20874,US,(240) 224-7266,39.1820906,-77.2651795,10:30am - 11:00pm,,False
+01113,Signal Hill #1113,9660 Liberia Ave.,,Manassas,VA,20110,US,(571) 364-8251,38.74739,-77.449938,10:30am - 10:00pm,,False
+00973,Festival at Riva #973,2317C Forest Drive,,Annapolis,MD,21401,US,(410) 571-5858,38.978131,-76.544478,10:30am - 10:00pm,,False
+01002,One Loudoun #1002,20544 Easthampton Plaza,,Ashburn,VA,20147,US,(703) 729-3473,39.0517201,-77.4546658,10:30am - 9:30pm,,False
+00443,Westgate #443,8097 Sudley Rd.,,Manassas,VA,20109,US,(703) 361-8736,38.7817048,-77.5114039,10:30am - 10:30pm,,False
+00912,Severna Plaza #912,574 Ritchie Hwy.,,Severna Park,MD,21146,US,(443) 906-2781,39.075374,-76.545707,10:30am - 10:00pm,,False
+01404,Prince Frederick #1404,641 Solomons Island Rd.,Unit 18,Prince Frederick,MD,20678,US,(443) 432-3442,38.553323,-76.594516,10:30am - 10:00pm,,False
+00495,Stafford Market Place #495,1465 Stafford Market Place,,Stafford,VA,22556,US,(540) 659-3400,38.4726674,-77.4117237,10:30am - 10:00pm,,False
+00603,Garrison Forest #603,10359 Reisterstown Road,,Owings Mills,MD,21117,US,(410) 998-9790,39.4184737,-76.7787979,10:30am - 10:00pm,,False
+00459,Westview #459,5100 Buckeystown Pike,Ste. 194,Frederick,MD,21704,US,(301) 668-6301,39.3716292,-77.4125984,10:30am - 11:00pm,,False
+00758,Timonium Crossing #758,2080 York Rd.,Ste. 145,Timonium,MD,21093,US,(443) 991-5954,39.4398821,-76.627179,10:30am - 10:00pm,,False
+00756,The Shops At Monocacy #756,1700 Kingfisher Dr.,Ste. 10,Frederick,MD,21701,US,(301) 898-2027,39.4479686,-77.3836686,10:30am - 9:30pm,,False
+00859,Warrenton Shopping Center #859,251 West Lee Highway,Suite #634,Warrenton,VA,20186,US,(540) 341-7500,38.7303846,-77.7993125,10:30am - 10:00pm,,False
+00851,Berea Market #851,1036 Warrenton Road,#103,Stafford,VA,22406,US,(540) 752-1400,38.3627638,-77.5209725,10:30am - 9:00pm,,False
+00784,Crossroads Square #784,625 Baltimore Blvd,Suite R,Westminster,MD,21157,US,(410) 848-0789,39.5621993,-76.9715613,10:30am - 9:30pm,,False
+00298,Central Park #298,1420 Carl D. Silver Parkway,,Fredericksburg,VA,22401,US,(540) 785-3473,38.3022418,-77.5083671,10:30am - 9:00pm,,False
+01067,Forum & Colonial #1067,3398 Forum Blvd.,Unit 116,Ft. Myers,FL,33905,US,(239) 245-7587,26.615102,-81.797307,10:30am - 10:00pm,,False
+00118,Ft. Myers #118,7091 College Pkwy,,Ft. Myers,FL,33907,US,(239) 334-7827,26.555775,-81.873426,10:00am - 10:00pm,,False
+01368,Santa Barbara & Veterans #1368,2612 Santa Barbara Blvd,Ste. 20,Cape Coral,FL,33914,US,(239) 800-2884,26.603003,-81.974371,10:30am - 10:00pm,,False
+01329,Riverchase North Naples (Immokalee & US 41) #1329,11178 Tamiami Trail North,,Naples,FL,34110,US,(239) 500-7827,26.273734,-81.800301,10:30am - 10:00pm,,False
+00821,Heritage Plaza #821,18500 Veterans Blvd,,Port Charlotte,FL,33954,US,(941) 979-8965,27.0134424,-82.146204,10:30am - 9:00pm,,False
+00227,Winter Haven #227,1107 3rd. St. SW,Suite 6,Winter Haven,FL,33880,US,(863) 293-8609,28.0092291,-81.7310483,10:30am - 10:00pm,,False
+00185,Merchants Walk #185,3615 S. Florida Ave.,Suite 820,Lakeland,FL,33803,US,(863) 709-1161,27.998589,-81.959599,9:00am - 10:00pm,,False
+01010,North Lakeland #1010,4141 US Hwy 98 N.,,Lakeland,FL,33809,US,(863) 859-1085,28.0938023,-81.9737106,10:30am - 10:00pm,,False
+01164,Plant City #1164,107-2 W. Alexander St.,,Plant City,FL,33563,US,(813) 704-4884,27.988813,-82.121933,10:00am - 10:00pm,,False
+00303,Bloomingdale #303,1013 E. Bloomingdale Ave,,Valrico,FL,33596,US,(813) 653-2700,27.8935157,-82.2682218,10:30am - 10:00pm,,False
+00200,Kissimmee #200,1305 W. Vine St.,,Kissimmee,FL,34741,US,(407) 518-7827,28.304815,-81.41738,10:30am - 10:00pm,,False
+00171,St. Cloud #171,4554 13th St.,,St. Cloud,FL,34741,US,(407) 957-2407,28.2563021,-81.3176338,10:30am - 10:00pm,,False
+00157,Brandon #157,1921 W. Brandon Blvd.,,Brandon,FL,33511,US,(813) 849-0057,27.9371991,-82.3152255,10:30am - 10:30pm,,False
+01036,Lake Buena Vista #1036,12515 SR 535,Ste. 515,Orlando,FL,32836,US,(321) 395-4898,28.383255,-81.505554,10:30am - 10:00pm,,False
+01551,Summerfield Crossing - Coming Soon #1551,13129 US Hwy 301 S.,,Riverview,FL,33578,US,Coming Soon,27.796288,-82.334978,,,True
+00196,Hunters Creek #196,13502 Village Park Dr,Suite 106,Orlando,FL,32837,US,(407) 438-4111,28.3703031,-81.427181,10:30am - 11:00pm,,False
+01192,IDrive/Seaworld #1192,10725 International Dr.,Ste. 130,Orlando,FL,32821,US,(407) 930-3727,28.4109152,-81.4561848,10:30am - 10:00pm,,False
+00195,Sand Lake #195,1790 W. Sand Lake Rd.,Suite B-134,Orlando,FL,32809,US,(407) 859-3977,28.449355,-81.404496,10:00am - 10:00pm,,False
+00051,Wesley Chapel #51,1824 Bruce B. Downs Blvd.,,Wesley Chapel,FL,33544,US,(813) 977-3181,28.18377431,-82.35104459,10:30am - 10:00pm,,False
+00129,Kirkman- TEMPORARILY CLOSED #129,5812 Conroy Rd.,,Orlando,FL,32835,US,(407) 447-9866,28.4935116,-81.4606714,10:30am - 10:00pm,,False
+00056,Millenia Mall #56,4200 Conroy Road,Suite N 263,Orlando,FL,32839,US,(407) 370-4342,28.485565,-81.4315497,10:30am - 9:00pm,,False
+00164,Fowler #164,2710 Fowler Ave.,Unit 3,Tampa,FL,33612,US,(813) 849-1640,28.0545711,-82.4288943,10:30am - 10:00pm,,False
+00643,Winter Garden #643,3119 Daniels Rd.,Ste #102,Winter Garden,FL,34787,US,(407) 654-3473,28.5238108,-81.5859437,10:30am - 10:00pm,,False
+00483,Clermont #483,1500 Oakley Seaver Dr.,,Clermont,FL,34711,US,(352) 394-4400,28.546146,-81.727928,10:30am - 10:00pm,,False
+00745,University of Tampa #745,2617 W. Kennedy Blvd.,,Tampa,FL,33609,US,(813) 443-0998,27.945091,-82.487537,10:30am - 9:00pm,,False
+00308,Hoffner - TEMPORARILY CLOSED #308,5691 S. Semoran Blvd.,,Orlando,FL,32822,US,(407) 447-9009,28.4811077,-81.3095322,10:30am - 10:00pm,,False
+00356,S. Dale Mabry #356,2227 S. Dale Mabry Hwy,,Tampa,FL,33629,US,(813) 251-1921,27.9248319,-82.5061665,10:30am - 9:00pm,,False
+00113,Goodhomes #113,8877 W. Colonial Dr.,,Ocoee,FL,34761,US,(407) 297-6700,28.5519728,-81.5066261,10:30am - 10:00pm,,False
+00130,Michigan #130,338 E. Michigan St.,,Orlando,FL,32806,US,(407) 447-2223,28.512623,-81.3731813,10:30am - 9:00pm,,False
+00717,Altamonte Springs #717,600 E Altamonte Drive,Ste 1050,Altamonte Springs,FL,32701,US,(407) 263-3008,28.663408,-81.370572,10:30am - 10:00pm,,False
+00053,Longwood #53,931 N. State Road 434,Suite 1045,Altamonte Springs,FL,32714,US,(407) 682-7827,28.681849,-81.417623,10:30am - 10:00pm,,False
+00168,Maitland #168,421 S. Orlando Ave.,,Maitland,FL,32751,US,(407) 788-7827,28.6246975,-81.3637514,10:30am - 9:00pm,,False
+00324,Wekiva #324,3309 E. State Road 436,Suite 1013,Apopka,FL,32703,US,(407) 331-7827,28.6696016,-81.4490671,9:00am - 9:00pm,,False
+00414,Casselberry #414,1455 Semoran Blvd.,Suite 295,Casselberry,FL,32707,US,(407) 673-7827,28.6284637,-81.3187111,10:30am - 9:30pm,,False
+00050,Lake Mary #50,3587 Lake Emma Rd.,,Lake Mary,FL,32746,US,(407) 833-8447,28.7505939,-81.3587179,10:30am - 10:00pm,,False
+00424,Red Bug #424,5285 Red Bug Lake Rd.,Ste 129,Winter Springs,FL,32708,US,(407) 628-9444,28.6475023,-81.2759168,10:30am - 10:00pm,,False
+00058,Winter Park #58,419 S. Semoran Blvd.,,Winter Park,FL,32792,US,(407) 678-7827,28.592435,-81.306982,10:30am - 10:00pm,,False
+00123,Bumby #123,2217 E. Colonial Dr.,,Orlando,FL,32803,US,(407) 447-7827,28.5532035,-81.3533241,10:30am - 10:00pm,,False
+00687,Apopka Commons #687,1608 W. Orange Blossom Trail,,Apopka,FL,32712,US,(407) 464-3624,28.68751,-81.539209,10:30am - 10:00pm,,False
+00218,Seminole Towne Center #218,1625 W.P. Ball Blvd.,,Sanford,FL,32771,US,(407) 936-1911,28.8005629,-81.3339821,10:30am - 9:00pm,,False
+00688,Tavares #688,2712 E. Burleigh Blvd.,,Eustis,FL,32726,US,(352) 508-9496,28.821609,-81.698704,10:30am - 9:00pm,,False
+00480,Leesburg #480,709 North 14th St.,,Leesburg,FL,34748,US,(352) 323-3473,28.8188537,-81.8875,10:30am - 9:00pm,,False
+00292,The Villages #292,13757 US Hwy 441,,Lady Lake,FL,32159,US,(352) 430-3870,28.95812797,-81.96114622,10:30am - 9:00pm,,False
+00086,Callaway #86,805 N Tyndall Pkwy.,,Panama City,FL,32404,US,(850) 215-3473,30.1601897,-85.5911978,10:30am - 9:00pm,,False
+00176,Manatee #176,4017 Manatee Ave.,,Bradenton,FL,34205,US,(941) 744-0204,27.4955587,-82.6012158,10:30am - 9:00pm,,False
+00083,Bradenton #83,621 Cortez Rd. W.,,Bradenton,FL,34207,US,(941) 727-1818,27.461148,-82.568624,10:30am - 9:00pm,,False
+00142,4th St. Pavillion #142,4949 4th Street N.,,St. Petersburg,FL,33703,US,(727) 521-0640,27.817148,-82.638125,10:30am - 10:00pm,,False
+00084,Pinellas Park #84,4394 Park Blvd.,,Pinellas Park,FL,33781,US,(727) 545-9001,27.8388578,-82.6937721,10:30am - 10:00pm,,False
+00115,Fruitville #115,5416 Fruitville Rd.,,Sarasota,FL,34232,US,(941) 379-5561,27.3378607,-82.4574415,10:30am - 9:00pm,,False
+00143,Bee Ridge #143,4400 Bee Ridge Road,,Sarasota,FL,34233,US,(941) 342-7827,27.2986247,-82.4806964,10:30am - 10:00pm,,False
+00743,Bardmoor #743,10801 Starkey Rd.,Unit 3,Largo,FL,33777,US,(727) 827-2845,27.871781,-82.7602591,10:30am - 10:00pm,,False
+00559,Gateway St. Pete #559,10490 Roosevelt Blvd,,St. Petersburg,FL,33716,US,(727) 828-4170,27.8664223,-82.6424844,10:30am - 10:00pm,,False
+00744,Largo Mall #744,10500 Ulmerton Rd.,Suite 750,Largo,FL,33771,US,(727) 584-4344,27.8929345,-82.7848052,10:30am - 10:00pm,,False
+00299,Union Park #299,10725 E. Colonial Dr.,,Orlando,FL,32817,US,(407) 277-1114,28.569937,-81.229925,10:30am - 9:00pm,,False
+00132,UCF #132,12075a Collegiate Way,,Orlando,FL,32817,US,(407) 447-9111,28.5970515,-81.2114665,10:30am - 10:00pm,,False
+00067,Rio Pinar #67,411 S. Chickasaw Trail,,Orlando,FL,32825,US,(407) 249-7827,28.5389711,-81.2761717,10:30am - 9:00pm,,False
+00650,Spring Hill #650,4165 Mariner Blvd.,,Spring Hill,FL,34609,US,(352) 610-9950,28.4930589,-82.5422979,10:30am - 10:00pm,,False
+00279,New Port Richey #279,8352 Little Rd.,,New Port Richey,FL,34654,US,(727) 847-9600,28.280111,-82.67535,10:30am - 10:00pm,,False
+00182,East Lake #182,3434 East Lake Road,Suite 1,Palm Harbor,FL,34685,US,(727) 210-4376,28.06124665,-82.70674191,10:30am - 10:00pm,,False
+00073,Eagle Harbor #73,1581 CR 220,Suite 115,Fleming Island,FL,32003,US,(904) 215-7302,30.102199,-81.713626,10:30am - 10:00pm ,,False
+00104,N. Woodland #104,217 N. Woodland Blvd.,,DeLand,FL,32720,US,(386) 740-8700,29.0304239,-81.3033444,10:30am - 10:00pm,,False
+00738,Orange City #738,2499-L Enterprise Road,,Orange City,FL,32764,US,(386) 218-6904,28.919973,-81.296181,10:30am - 10:00pm,,False
+00011,Tallahassee 2 #11,3220 Apalachee Parkway,Ste 8,Tallahassee,FL,32311,US,(850) 219-0436,30.428308,-84.22122,10:30am - 10:00pm,,False
+00407,Bannerman Crossing #407,6676 Thomasville Rd,Unit 2,Tallahassee,FL,32312,US,(850) 906-0013,30.5603705,-84.2180924,10:30am - 10:00pm,,False
+00229,Thomasville #229,14815 Hwy. 19 S.,Suite 700,Thomasville,GA,31792,US,(229) 228-5553,30.851527,-83.946096,10:30am - 9:00pm,,False
+00025,Tallahassee 3 #25,1908-1 Capital Cir. NE,,Tallahassee,FL,32308,US,(850) 219-9543,30.4755311,-84.2357858,10:30am - 9:00pm,,False
+00076,Killearn #76,3491-5 Thomasville Rd.,,Tallahassee,FL,32309,US,(850) 906-0007,30.521912,-84.2593459,10:30am - 10:00pm,,False
+00205,N. Monroe #205,2580 N. Monroe St.,Suite 1,Tallahassee,FL,32303,US,(850) 385-4280,30.475822,-84.297597,10:30am - 10:00pm,,False
+00010,Tallahassee 1 #10,1426 W. Tennessee St.,,Tallahassee,FL,32304,US,(850) 521-0300,30.4493148,-84.3061545,10:30am - 9:00pm,,False
+00071,Tally West #71,1420 Capital Cir. NW,,Tallahassee,FL,32303,US,(850) 350-0665,30.46092186,-84.36163155,10:30am - 9:00pm,,False
+00100,Baytree #100,1525 Baytree Rd.,Suite B,Valdosta,GA,31602,US,(229) 253-0515,30.8469115,-83.3169815,10:30am - 10:00pm,,False
+00089,Ashley #89,2525 N. Ashley St.,Suite C,Valdosta,GA,31602,US,(229) 253-1495,30.8648507,-83.2846593,10:30am - 10:00pm,,False
+00002,Neptune #2,233 3rd St. N.,,Neptune Beach,FL,32266,US,(904) 249-6013,30.3232121,-81.3979255,10:30am - 10:00pm,,False
+00013,Atlantic & Hodges #13,13245-9 Atlantic Blvd.,,Jacksonville,FL,32225,US,(904) 220-7140,30.320878,-81.460163,10:30am - 10:00pm,,False
+00257,Penman Rd. #257,1234 Beach Blvd.,,Jacksonville,FL,32250,US,(904) 339-0312,30.2879334,-81.4027296,10:30am - 10:00pm,,False
+00507,Hodges #507,13470 Beach Boulevard,,Jacksonville,FL,32224,US,(904) 223-9557,30.287059,-81.462652,10:30am - 10:00pm,,False
+00012,Ponte Vedra #12,357 Marsh Landing Pkwy.,,Jacksonville,FL,32250,US,(904) 280-9404,30.254608,-81.3897417,10:30am - 10:00pm,,False
+00194,St. Johns Town Center #194,10261 River Marsh Dr.,Suite 131,Jacksonville,FL,32246,US,(904) 674-0536,30.260578,-81.526718,10:30am - 10:00pm,,False
+00005,Deerwood #5,8221-4 Southside Blvd.,,Jacksonville,FL,32256,US,(904) 996-0894,30.2201096,-81.5516329,10:30am - 10:00pm,,False
+00004,University #4,4347-1 University Blvd.,,Jacksonville,FL,32216,US,(904) 731-1888,30.278488,-81.602105,10:30am - 10:00pm,,False
+00003,Baymeadows #3,8380-8 Baymeadows Rd.,,Jacksonville,FL,32256,US,(904) 737-3473,30.2206829,-81.5835271,10:30am - 9:00pm,,False
+00018,San Marco #18,1949-1 San Marco Blvd.,,Jacksonville,FL,32207,US,(904) 396-0001,30.304674,-81.6554139,10:30am - 10:00pm,,False
+00001,Mandarin #1,9825 San Jose Blvd.,,Jacksonville,FL,32257,US,(904) 886-2179,30.198534,-81.619706,10:30am - 10:00pm,,False
+00094,Dunn #94,1038-1 Dunn Ave.,,Jacksonville,FL,32218,US,(904) 338-0098,30.4299047,-81.661264,10:30am - 10:00pm,,False
+00823,5 Points #823,1620 Margaret Street,Suite 105,Jacksonville,FL,32204,US,(904) 674-2204,30.312232,-81.681485,10:30am - 9:00pm,,False
+00964,River City Marketplace #964,790 Skymarks Dr.,Ste. 103,Jacksonville,FL,32218,US,(904) 674-2799,30.482224,-81.636983,10:30am - 10:00pm,,False
+00156,Oldfield #156,4268 Oldfield Crossing Drive,,Jacksonville,FL,32223,US,(904) 338-0142,30.1652645,-81.602908,10:30am - 10:00pm,,False
+00223,NAS #223,6337 Roosevelt Blvd.,Suite 2,Jacksonville,FL,32244,US,(904) 854-0057,30.235344,-81.694794,10:30am - 10:00pm,,False
+00006,Cassat #6,1855 Cassat Ave.,,Jacksonville,FL,32254,US,(904) 695-1055,30.28440774,-81.73004271,10:30am - 10:00pm,,False
+00019,Julington Creek #19,465 State Road 13,Suite 13,Jacksonville,FL,32259,US,(904) 287-3495,30.118749,-81.62482,10:30am - 10:00pm,,False
+00072,CR 210 #72,2245 CR 210 W.,Suite 11,Jacksonville,FL,32259,US,(904) 823-9914,30.059389,-81.514056,10:30am - 10:00pm,,False
+00074,Normandy #74,6752-03 Normandy Blvd.,,Jacksonville,FL,32205,US,(904) 338-9000,30.303145,-81.758003,10:30am - 10:00pm,,False
+00027,Fernandina #27,1978 S. 8th St.,,Fernandina Beach,FL,32034,US,(904) 491-8095,30.6399163,-81.4584404,10:30am - 10:00pm,,False
+00210,103rd St. #210,6352 103rd. St.,Suite 5,Jacksonville,FL,32210,US,(904) 854-0224,30.2483877,-81.7462389,10:30am - 9:00pm,,False
+00623,Blanding #623,36B Blanding Blvd,,Orange Park,FL,32073,US,(904) 276-0701,30.187205,-81.7394675,10:30am - 10:00pm,,False
+00008,Kingsley #8,2285-B Kingsley Ave.,,Orange Park,FL,32073,US,(904) 276-1537,30.1658791,-81.7457704,10:30am - 10:00pm,,False
+01077,North Miami #1077,13581 Biscayne Blvd.,,North Miami,FL,33181,US,(786) 916-3688,25.900158,-80.160338,10:30am - 9:00pm,,False
+00107,Palm Coast #107,1475 Palm Coast Pkwy.,Suite 101,Palm Coast,FL,32137,US,(386) 986-2800,29.552803,-81.235566,10:30am - 9:00pm,,False
+00208,Ormond Beach #208,175 S. Nova Rd.,Suite 8,Ormond Beach,FL,32174,US,(386) 672-3893,29.2738772,-81.0828243,10:30am - 9:00pm,,False
+00596,International Speedway #596,2525 W. International Speedway,Suite 170,Daytona Beach,FL,32114,US,(386) 523-1333,29.177678,-81.080558,10:30am - 10:00pm,,False
+00082,South Daytona #82,1844 S. Ridgewood Ave.,,South Daytona,FL,32119,US,(386) 760-8823,29.1773706,-81.0055857,10:30am - 9:00pm,,False
+00105,Cobblestone #105,200 Cbl Dr.,Suite 106,St. Augustine,FL,32086,US,(904) 819-1808,29.8654367,-81.3299778,10:30am - 10:00pm,,False
+00753,Oviedo #753,1016 Lockwood Blvd.,,Oviedo,FL,32765,US,(407) 359-0045,28.658266,-81.179961,10:30am - 10:00pm,,False
+01440,Fountainbleau #1440,9204 West Flagler Street,,Miami,FL,33174,US,(305) 553-7757,25.769215,-80.34451,10:30am - 9:00pm,,False
+00045,Merritt Island #45,125 Merritt Island Causeway,Ste. 129,Merritt Island,FL,32952,US,(321) 449-8818,28.3569289,-80.6979125,10:30am - 10:00pm,,False
+00377,Rockledge Square #377,1852 S. Rockledge Blvd.,,Rockledge,FL,32955,US,(321) 690-0911,28.3295001,-80.721146,10:30am - 10:00pm,,False
+00037,Post #37,4100 N. Wickham Rd.,Suite 107,Melbourne,FL,32935,US,(321) 751-5401,28.1741664,-80.6738457,10:30am - 10:00pm,,False
+00153,Sarno #153,1080 N. Wickham Rd.,Suite C,Melbourne,FL,32935,US,(321) 751-2190,28.1238203,-80.6716112,10:30am - 10:00pm,,False
+01246,Palm Bay #1246,225 Palm Bay Road NE,Unit 184,West Melbourne,FL,32904,US,(321) 802-9555,28.035927,-80.664929,10:30am - 10:00pm,,False
+00172,23rd St. #172,668 West 23rd St.,,Panama City,FL,32405,US,(850) 872-3548,30.1899899,-85.6695286,10:30am - 9:00pm,,False
+00125,Carrollwood #125,13236 N. Dale Mabry Hwy,,Tampa,FL,33618,US,(813) 964-5877,28.0664134,-82.5052398,10:30am - 9:00pm,,False
+00042,Uptown Station #42,75 Eglin Pkwy,Suite 121,Ft. Walton Beach,FL,32548,US,(850) 796-3473,30.416473,-86.6073362,10:30am - 9:00pm,,False
+00550,Beal & Racetrack #550,796 Beal Street,,Ft. Walton Beach,FL,32569,US,(850) 226-6949,30.451078,-86.638259,10:30am - 9:00pm,,False
+00638,Kelly Plantation #638,34737 Emerald Coast Parkway,Suite #5,Destin,FL,32541,US,(850) 424-7331,30.3876186,-86.4343368,10:30am - 9:00pm,,False
+01091,Niceville #1091,1348 John Sims Pkwy,,Niceville,FL,32547,US,(850) 279-4400,30.5150887,-86.4616506,10:30am - 9:00pm,,False
+00097,Navarre #97,1894 Andorra St.,Unit C3,Navarre,FL,32566,US,(850) 515-0957,30.40307,-86.8792766,10:30am - 9:00pm,,False
+00092,Dunedin #92,1547 Main St.,,Dunedin,FL,34698,US,(727) 736-7827,28.019006,-82.761823,10:30am - 10:00pm,,False
+00079,Mariner #79,4692 East Michigan St.,,Orlando,FL,32812,US,(407) 737-7827,28.5132403,-81.3288153,10:30am - 9:00pm,,False
+00957,Kendall #957,12528 SW 88th St.,,Miami,FL,33186,US,(786) 431-1340,25.68528786,-80.39834273,10:30am - 9:30pm,,False
+00427,Miami Lakes #427,16010 Northwest 57th Ave.,Ste 118,Miami Lakes,FL,33014,US,(305) 231-7081,25.9191275,-80.293049,10:30am - 9:00pm,,False
+00036,Gulf Breeze Tiger Point #36,3755-C Gulf Breeze Pkwy.,,Gulf Breeze,FL,32563,US,(850) 916-1134,30.3887757,-87.0669283,10:30am - 9:00pm,,False
+00786,Doral #786,3887 NW 107th Ave,Suite 102,Doral,FL,33178,US,(305) 597-0060,25.8093275,-80.3692716,10:30am - 9:00pm,,False
+00479,Back Beach #479,11560 Panama City Beach Parkway,,Panama City Beach,FL,32413,US,(850) 588-7127,30.1983518,-85.8145141,10:30am - 9:00pm,,False
+00055,Lynn Haven #55,2310 Highway 77,Suite 170,Lynn Haven,FL,32444,US,(850) 271-3330,30.2237869,-85.6494335,10:30am - 9:00pm,,False
+00928,New Smyrna Beach #928,1998 State Road 44,Unit #3,New Smyrna Beach,FL,32168,US,(386) 410-4707,29.01249,-80.947961,10:30am - 10:00pm,,False
+00214,Venice Marketplace #214,1570 Venice Bypass,,Venice,FL,34292,US,(941) 493-4488,27.0772,-82.4251,10:30am - 9:00pm,,False
+00080,Vero Beach #80,6170 20th St.,,Vero Beach,FL,32966,US,(772) 562-4233,27.6391,-80.4539,10:30am - 10:00pm,,False
+00044,Gulf Breeze Proper #44,318 Gulf Breeze Pkwy.,,Gulf Breeze,FL,32561,US,(850) 916-7664,30.3648264,-87.1695877,10:30am - 9:00pm,,False
+00959,Kingsland #959,1393 GA Highway 40 East,,Kingsland,GA,31548,US,(912) 729-FIRE,30.7870472,-81.6472499,10:30am - 9:00pm,,False
+00206,Town & Country #206,8428 W. Hillsborough Ave.,,Tampa,FL,33615,US,(813) 882-0600,27.9965919,-82.5775581,10:30am - 10:00pm,,False
+00807,Tifton #807,1001 W. 8th Street,,Tifton,GA,31794,US,(229) 445-3557,31.4634711,-83.5272495,10:30am - 10:00pm,,False
+00585,Dublin #585,2102 Veterans Blvd.,Suite B,Dublin,GA,31021,US,(478) 275-2321,32.5433218,-82.9598807,10:30am - 10:00pm,,False
+01267,Lake Joy #1267,678 Lake Joy Rd.,Ste. 100,Kathleen,GA,31047,US,(478) 287-2811,32.547627,-83.691152,10:30am - 10:00pm (drive-thru til 11),,False
+00161,Russell Pkwy #161,206 Russell Pkwy,Ste 100,Warner Robins,GA,31088,US,(478) 542-9967,32.5938773,-83.6261437,10:30AM - 10:00PM,,False
+00248,Watson Blvd. #248,4025 Watson Blvd.,Suite 100,Warner Robins,GA,31093,US,(478) 953-1806,32.6150204,-83.6970045,10:30am - 10:00pm,,False
+00138,Dawson Rd #138,2416 Dawson Rd.,Suite C,Albany,GA,31707,US,(229) 438-7546,31.60904,-84.211001,10:30am - 10:00pm,,False
+00536,Acworth #536,3348 Cobb Parkway N W,Suite 120,Acworth,GA,30101,US,(770) 529-1772,34.036149,-84.680698,10:30am - 9:00pm,,False
+00987,Wade Green #987,4250 Wade Green Rd.,,Kennesaw,GA,30144,US,(770) 420-7557,34.0583752,-84.5926494,10:30am - 10:00pm,,False
+00310,Chastain #310,745 Chastain Rd. NW,,Kennesaw,GA,30144,US,(678) 354-6032,34.0353639,-84.5701414,10:30am - 9:00pm,,False
+01363,Barrett Parkway #1363,835 Ernest Barrett Parkway,Suite 300,Kennesaw,GA,30144,US,(404) 341-5855,34.00488,-84.575476,10:30am - 10:00pm,,False
+01136,West Cobb Marketplace #1136,2500 Dallas Hwy.,Ste. 65,Marietta,GA,30064,US,(770) 425-7890,33.948281,-84.624395,10:30am - 9:00pm,,False
+00188,Woodstock #188,9745-D Hwy 92,,Woodstock,GA,30188,US,(770) 928-5636,34.086912,-84.528611,10:30am - 10:00pm,,False
+00659,Cherokee Crossing #659,145 N Marietta Pkwy NE,,Marietta,GA,30060,US,(770) 792-5993,33.959339,-84.548357,10:30am - 9:00pm,,False
+01391,Sandy Plains #1391,2745 Sandy Plains Rd.,,Marietta,GA,30066,US,(678) 909-2660,34.017999,-84.492791,10:30am - 10:00pm,,False
+01285,Cartersville #1285,413 East Main St,,Cartersville,GA,30121,US,(678) 719-8743,34.167165,-84.787567,10:30am - 10:00pm,,False
+00333,Hiram #333,4795 Jimmy Lee Smith Pkwy,Suite 101,Hiram,GA,30141,US,(678) 567-0888,33.8895691,-84.7482341,10:30am - 10:00pm,,False
+00875,Austell Promenade #875,2860 East West Connector,,Austell,GA,30106,US,(770) 439-6165,33.866955,-84.626974,10:30am - 10:00pm,,False
+01162,Mabry Village #1162,4648 Woodstock Rd.,,Roswell,GA,30075,US,(770) 733-1683,34.062762,-84.42056,10:30am - 10:00pm,,False
+00740,Delk Spectrum #740,2900 Delk Rd.,Suite 4A,Marietta,GA,30068,US,(770) 690-8105,33.9230599,-84.4674048,10:30am - 10:00pm,,False
+00260,Woodlawn #260,1100 Johnson Ferry Rd.,Suite 395,Marietta,GA,30068,US,(770) 565-5952,33.97713,-84.4145659,10:30am - 10:00pm,,False
+01120,Cumberland Mall #1120,2970 Cobb Pkwy SE,,Atlanta,GA,30339,US,(678) 424-8042,33.880765,-84.4624761,10:30am - 9:30pm,,False
+01383,Riverstone #1383,1353 Riverstone Pkwy,#100,Canton,GA,30114,US,(770) 479-0047,34.248668,-84.47827,10:30am - 10:00pm,,False
+00529,Silver Comet #529,4624 Camp Highland Rd. SE,Suite 1000,Smyrna,GA,30082,US,(770) 436-9880,33.8415,-84.5054,10:30am - 9:00pm,,False
+00863,Lithia Springs #863,1300 W. Corporate Ct.,,Lithia Springs,GA,30122,US,(770) 485-4552,33.787012,-84.618505,10:30am - 9:00pm,,False
+00382,Sandy Springs #382,6309 Roswell Rd. NE,Suite 1b,Sandy Springs,GA,30328,US,(404) 236-7249,33.9271414,-84.378967,10:30am - 9:00pm,,False
+00189,Mansell Shops #189,10779 Alpharetta Highway,Suite 180,Roswell,GA,30076,US,(770) 641-6242,34.042165,-84.3398457,10:30am - 9:00pm,,False
+00548,Glenridge Springs #548,5610 Glenridge Dr.,,Sandy Springs,GA,30342,US,(678) 705-8878,33.9072777,-84.3644902,10:30am - 9:00pm,,False
+00169,Old Alabama #169,3005 Old Alabama Road,Suite 6001,Johns Creek,GA,30022,US,(770) 442-1945,34.0204436,-84.2724732,10:30am - 9:00pm,,False
+00270,Shops Of Buckhead #270,2221 Peachtree Rd.,Suite A,Atlanta,GA,30309,US,(404) 367-8314,33.8153002,-84.391422,10:30am - 10:00pm,,False
+01216,Douglasville #1216,2911 Chapel Hill Rd.,,Douglasville,GA,30135,US,(770) 726-9053,33.726062,-84.736583,10:30am - 10:00pm,,False
+00428,Deerfield #428,13087 Hwy 9,Suite 930,Milton,GA,30004,US,(770) 664-7607,34.1062962,-84.2694463,10:30am - 9:00pm,,False
+00249,Tech Plaza #249,537 10th St. NW,,Atlanta,GA,30318,US,(404) 347-9912,33.7816013,-84.4050155,10:30am - 10:00pm,,False
+00262,Norcross #262,3400 Holcomb Bridge Rd.,Suite 300,Norcross,GA,30092,US,(770) 209-6642,33.952052,-84.241299,10:30am - 9:00pm,,False
+01030,Peachtree Center Mall #1030,225 Peachtree St. NE,Ste. B-27,Atlanta,GA,30303,US,(404) 657-2662,33.7602058,-84.3873541,10:30am - 6:00pm,,False
+00792,John's Creek #792,6395 McGinnis Ferry Rd.,Suite 303,Johns Creek,GA,30005,US,(678) 417-5363,34.0681372,-84.1717569,10:30am - 10:00pm,,False
+00267,Bethelview #267,2320 Atlanta Hwy.,Suite 102,Cumming,GA,30040,US,(770) 886-8195,34.160932,-84.174605,10:30am - 10:00pm,,False
+00416,Tucker #416,4306 Lawrenceville Highway,Suite 130,Tucker,GA,30084,US,(678) 615-3121,33.8554118,-84.2093776,10:30am - 10:00pm,,False
+01144,Willow Trail - Coming Soon #1144,1740 Indian Trail Rd.,Ste. 300-400,Norcross,GA,30093,US,Coming Soon,33.925778,-84.173799,,,True
+01121,Cumming Marketplace #1121,905 Market Place Blvd.,Ste. B,Cumming,GA,30041,US,(770) 844-7790,34.1811098,-84.1331479,10:30am - 10:00pm,,False
+00772,Hinesville #772,556 West Oglethorpe Hwy,Unit A,Hinesville,GA,31313,US,(912) 877-7827,31.8358112,-81.5958574,10:30am - 9:00pm,,False
+00828,Pooler #828,481 Pooler Pkwy,,Pooler,GA,31322,US,(912) 330-9727,32.1375682,-81.253384,10:30am - 9:00pm,,False
+00373,Abercorn Common #373,8108 Abercorn Street,Suite 430,Savannah,GA,31406,US,(912) 920-4161,32.002341,-81.12434,10:30am - 9:00pm,,False
+00478,Victory Dr. #478,1935 East Victory Dr.,Ste 200,Savannah,GA,31404,US,(912) 354-3473,32.0419224,-81.0664473,10:30am - 9:00pm,,False
+00366,Brunswick #366,919 Glynn Isles,,Brunswick,GA,31525,US,(912) 262-2120,31.201658,-81.482037,10:30am - 9:00pm,,False
+00494,Gentily Square #494,590 Brannen Street,Suite A,Statesboro,GA,30458,US,(912) 764-2876,32.434259,-81.768875,10:30am - 9:00pm,,False
+00682,Waycross #682,1905 Memorial Drive,,Waycross,GA,31501,US,(912) 285-7506,31.1906589,-82.3199052,10:30am - 9:00pm,,False
+00527,Griffin #527,118 West Taylor St,,Griffin,GA,30223,US,(770) 227-7562,33.2470955,-84.2639459,10:30am - 10:00pm,,False
+00309,McDonough #309,1487 West Hwy 20,,McDonough,GA,30253,US,(770) 957-5987,33.4210577,-84.1881943,10:30am - 10:00pm,,False
+00102,Riverside Drive #102,4921 Riverside Dr.,,Macon,GA,31210,US,(478) 405-8101,32.926563,-83.711522,10:30am - 9:00pm,,False
+00232,Lovejoy #232,11348 Tara Blvd.,Suite 108,Lovejoy,GA,30250,US,(770) 473-0233,33.4455747,-84.3234324,10:30am - 10:00pm,,False
+00787,Town Crest #787,2109 Jonesboro Rd.,Ste. 15,McDonough,GA,30253,US,(678) 782-5370,33.464046,-84.224152,10:30am - 10:00pm,,False
+00213,Forsyth Road #213,4123 Forsyth Rd,Suite A,Macon,GA,31208,US,(478) 477-6461,32.866003,-83.692584,10:30am - 9:00pm,,False
+00318,Eisenhower Crossing #318,4640 Presidential Pkwy,Suite A,Macon,GA,31206,US,(478) 757-1210,32.819668,-83.711794,10:30am - 10:00pm,,False
+00440,Hudson Bridge #440,1465 Hudson Bridge Rd.,Suite 109,Stockbridge,GA,30281,US,(770) 389-5065,33.503972,-84.235289,10:30am - 10:00pm,,False
+00958,Hudson Plaza #958,46 Hudson Plaza,Suite 39A,Fayetteville,GA,30214,US,(770) 460-6500,33.4575549,-84.45311367,10:30am - 10:00pm,,False
+00911,Westpark Walk #911,321 Commerce Dr.,,Peachtree City,GA,30269,US,(770) 731-1836,33.3990902,-84.5907835,10:30am - 9:00pm,,False
+01362,Fairburn #1362,8055 Senoia Rd.,Suite 300,Fairburn,GA,30213,US,(770) 282-6714,33.538121,-84.577066,10:30am - 9:00pm,,False
+00409,Shallowford #409,333 Shallowford Rd. NW,Suite D,Gainesville,GA,30504,US,(770) 533-7415,34.294291,-83.849372,10:30am - 10:00pm,,False
+00694,Oakwood #694,3650 Mundy Mill Rd.,,Oakwood,GA,30566,US,(678) 971-4140,34.228729,-83.867998,10:30am - 10:00pm,,False
+00801,Flowery Branch #801,5911 Spout Springs Rd.,Suite B,Flowery Branch,GA,30542,US,(770) 965-1500,34.177176,-83.9106,10:30am - 10:00pm,,False
+01201,Dawsonville #1201,837 Hwy 400 S.,Ste. 145 & 150,Dawsonville,GA,30534,US,(706) 216-3988,34.353636,-84.045947,10:30am - 10:00pm,,False
+01088,Hamilton Mill #1088,3465 Braselton Highway,Ste. 150,Dacula,GA,30019,US,(770) 614-4602,34.0695237,-83.9106854,10:30am - 10:00pm,,False
+00369,Winder #369,108 E. May St.,Suite 800,Winder,GA,30680,US,(770) 586-0528,33.9872176,-83.7167672,10:30am - 10:00pm,,False
+00417,Mall Of Georgia #417,3350 Buford Drive,Suite A120,Buford,GA,30519,US,(770) 904-6817,34.0726,-83.9844666,10:30am - 10:00pm,,False
+00948,Prince Ave #948,1226 Prince Ave,,Athens,GA,30606,US,(706) 357-4994,33.962877,-83.398433,24 hours,,False
+00742,East Athens #742,1860 Barnett Shoals Rd.,Suite 506,Athens,GA,30605,US,(706) 543-4266,33.9249889,-83.341646,10:30am - 10:00pm,,False
+01085,Peach Orchard #1085,2930 Peach Orchard Rd.,,Augusta,GA,30906,US,(706) 793-8572,33.4167326,-82.0229914,10:30am - 9:00pm,,False
+00347,Wrightsboro Rd. #347,3424 Wrightsboro Rd.,Suite 300,Augusta,GA,30309,US,(706) 364-2525,33.467906,-82.0777092,10:30am - 9:00pm,,False
+00288,Walton Way #288,1509 Walton Way,,Augusta,GA,30904,US,(706) 364-4220,33.4754441,-81.9888663,10:30am - 9:00pm,,False
+00048,Martinez #48,3836 Washington Rd.,Suite 6,Martinez,GA,30907,US,(706) 868-1311,33.511556,-82.090215,10:30am - 9:00pm,,False
+00490,Maple St. Station #490,101 Maple Drive,Ste 1,Martinez,GA,30907,US,(706) 364-7827,33.5075517,-82.1391452,10:30am - 9:00pm,,False
+00140,North Augusta #140,1237 Knox Ave. N.,,N. Augusta,SC,29841,US,(803) 279-5534,33.5019646,-81.9593425,10:30am - 9:00pm,,False
+00166,Evans #166,4431 Washington Rd.,Suite 1,Evans,GA,30809,US,(706) 364-4422,33.543662,-82.1397848,10:30am - 9:00pm,,False
+00419,Shops At Richland #419,3555 Richland Ave. West,,Aiken,SC,29801,US,(803) 643-9677,33.5627134,-81.7635719,10:30am - 10:00pm,,False
+00235,Shoppes At Whiskey #235,152 South Aiken Lane,,Aiken,SC,29803,US,(803) 649-5170,33.51962,-81.715842,10:30am - 10:00pm,,False
+00367,Seneca #367,1026 Bypass 123,Suite B,Seneca,SC,29678,US,(864) 888-2900,34.693189,-82.975477,10:30am - 10:00pm,,False
+00190,Clemson #190,385 College Ave,,Clemson,SC,29631,US,(864) 654-7827,34.6837139,-82.8375446,10:30am - 10:00pm,,False
+00090,Anderson #90,3321 N. Main St.,Suite D,Anderson,SC,29621,US,(864) 222-3702,34.543283,-82.66917,10:30am - 10:00pm,,False
+00315,Village Green #315,201 Keith St. SW,Suite 18,Cleveland,TN,37311,US,(423) 476-7827,35.160961,-84.882417,10:30am - 10:00pm,,False
+00170,Snellville #170,1830 Scenic Highway,Ste. 120,Snellville,GA,30078,US,(678) 344-8556,33.877318,-84.012185,10:30am - 10:00pm,,False
+00797,Milledgeville #797,1909 North Columbia St.,Suite C,Milledgeville,GA,31061,US,(478) 452-3473,33.107565,-83.252387,10:30am - 10:00pm,,False
+00998,Conyers #998,1565 Highway 138,Suite A,Conyers,GA,30013,US,(770) 679-5217,33.649592,-84.010672,10:30am - 10:00pm,,False
+00255,Stonecrest #255,8075 Mall Pkwy,,Lithonia,GA,30038,US,(678) 526-1610,33.693028,-84.094447,10:30am - 10:00pm,,False
+00926,Covington #926,4127 Hwy 278 NW,,Covington,GA,30014,US,(770) 787-7778,33.60294,-83.8502442,10:30am - 10:00pm,,False
+00516,Arena at Gwinnett #516,1950 Satellite Blvd.,Suite 100,Duluth,GA,30097,US,(678) 739-4420,33.990929,-84.0863224,10:30am - 10:00pm,,False
+00577,Gwinnett Medical #577,860 Duluth Hwy,Suite 1040,Lawrenceville,GA,30043,US,(770) 682-1626,33.9662929,-84.0200339,10:30am - 10:00pm,,False
+00359,Sugarloaf #359,3375 Sugarloaf Parkway,Suite 105,Lawrenceville,GA,30044,US,(770) 338-4911,33.9226292,-84.017096,10:30am - 10:00pm,,False
+00783,Lilburn #783,4145 Lawrenceville Highway,Ste. 16,Lilburn,GA,30047,US,(678) 380-1110,33.90473848,-84.11897794,10:30am - 9:00pm,,False
+01193,Rail Crossing #1193,231 West Quinn Rd.,Ste. F,Pocatello,ID,83201,US,(208) 238-6333,42.9042884,-112.4525341,10:30am - 9:00pm,,False
+01509,Northgate Center - Coming Soon #1509,7808 N. Division St.,,Spokane,WA,99208,US,Coming Soon,47.72912,-117.410821,,,True
+01049,Bridgerland Square #1049,1077 N. Main St.,#110,Logan,UT,84341,US,(435) 753-1773,41.7512356,-111.8344887,10:30am - 9:00pm,,False
+00952,Fairview & Milwaukee #952,1569 North Milwaukee Street,,Boise,ID,83704,US,(208) 322-2555,43.6191832,-116.284342,10:30am - 9:00pm,,False
+01179,North Eagle Road #1179,2830 North Eagle Rd.,,Meridian,ID,83646,US,(208) 888-3576,43.630408,-116.353753,10:30am - 9:00pm,,False
+00778,Sterling Commons #778,4123 North Sterling Ave.,,Peoria,IL,61615,US,(309) 681-9277,40.738832,-89.632158,10:30am - 9:00pm,,False
+01581,Beloit - Milwaukee Rd - Coming Soon #1581,2787 Milwaukee Rd.,,Beloit,WI,53511,US,Coming Soon,42.524779,-88.98462,,,True
+00789,Lincoln Place #789,5909 North Illinois Street,,Fairview Heights,IL,62202,US,(618) 234-3400,38.5867608,-89.9848794,10:30am - 9:00pm,,False
+01514,Collinsville Centre #1514,1095 Beltline Rd.,Ste. 100,Collinsville,IL,62234,US,(618) 223-8533,38.690989,-89.985072,10:30am - 9:00pm,,False
+01037,Granite City #1037,3214 Nameoki Road,,Granite City,IL,62040,US,(618) 451-6600,38.7205158,-90.1227105,10:30am - 9:00pm,,False
+01015,Oakville #1015,4595 Chestnut Park Plaza,,Oakville,MO,63129,US,(314) 200-3200,38.4800599,-90.3044632,10:30am - 9:00pm,,False
+01045,Hampton Village #1045,38 Hampton Village Plaza,,St. Louis,MO,63109,US,(314) 353-7827,38.5918736,-90.2939065,10:30am - 9:00pm,,False
+01416,Tesson Ferry #1416,9964-A Kennerly Rd.,,St. Louis,MO,63128,US,(314) 270-4444,38.507227,-90.376249,10:30am - 9:00pm,,False
+01425,Division QC - Coming Soon #1425,1800 North Division St.,,Davenport,IA,52804,US,Coming Soon,41.537964,-90.60157,,,True
+00963,Red Bank Commons #963,222 S. Red Bank Road,Suite L,Evansville,IN,47712,US,(812) 401-0740,37.975254,-87.634719,10:30am - 10:00pm,,False
+00622,Green River Rd #622,1031 N. Green River Rd.,#102,Evansville,IN,47715,US,(812) 477-2141,37.986341,-87.492021,10:30am - 10:00pm,,False
+01599,Centennial Plaza - Coming Soon #1599,1465 W. Lake St.,,Addison,IL,60101,US,Coming Soon,41.947065,-88.02409,,,True
+01274,Villa Park - North Park Mall #1274,298 W. North Avenue,Unit 2,Villa Park,IL,60181,US,(630) 279-2011,41.90578,-87.971589,10:30am - 9:00pm,,False
+00910,Villa Park - Roosevelt Rd. #910,100 E. Roosevelt Rd.,,Villa Park,IL,60181,US,(331) 225-3194,41.861058,-87.97559,10:30am - 9:00pm,,False
+01559,Bloomingdale Square - Coming Soon #1559,398-402 W. Army Trail Rd.,Ste. 104,Bloomingdale,IL,60108,US,Coming Soon,41.937917,-88.113925,,,True
+01183,Stone Park #1183,3124 W. North Avenue,,Stone Park,IL,60165,US,(708) 397-5244,41.907436,-87.872683,10:30am - 9:00pm,,False
+00508,Danada West #508,272 Danada Square West,,Wheaton,IL,60189,US,(630) 221-0101,41.8304519,-88.1082053,10:30am - 9:00pm,,False
+01477,Poplar Creek #1477,2510 N. Sutton Road,,Hoffman Estates,IL,60192,US,(847) 645-9588,42.071161,-88.190212,10:30am - 9:00pm,,False
+00618,Pebblewood Commons #618,1979 McDowell Rd.,#101,Naperville,IL,60563,US,(331) 472-4377,41.796592,-88.204654,10:30am - 9:00pm,,False
+01102,Boughton Plaza #1102,1235 W. Boughton Rd.,,Bolingbrook,IL,60440,US,(630) 754-7774,41.703016,-88.122758,10:30am - 9:00pm,,False
+00718,Eola Commons #718,405 N. Eola Road,Unit N,Aurora,IL,60502,US,(630) 340-5760,41.760883,-88.242455,10:30am - 9:00pm,,False
+01561,Burbank Plaza - Coming Soon #1561,4823 W. 79th St.,,Burbank,IL,60459,US,Coming Soon,41.749118,-87.742632,,,True
+00956,Marketplace at Vernon Hills #956,325 N. Milwaukee Ave.,,Vernon Hills,IL,60061,US,(847) 383-5662,42.231982,-87.94207,10:30am - 9:00pm,,False
+01286,Oak Lawn #1286,11008 S. Cicero,,Oak Lawn,IL,60453,US,(708) 634-3950,41.692472,-87.74059,10:30am - 9:00pm ,,False
+01455,Evergreen Marketplace #1455,9204 S. Western Ave.,Ste 2A.1,Evergreen Park,IL,60805,US,(708) 634-8999,41.724372,-87.682866,10:30am - 9:00pm,,False
+00741,Orland Park #741,15892 S. La Grange Road,,Orland Park,IL,60462,US,(708) 428-4125,41.601697,-87.853201,10:30am - 9:00pm,,False
+01225,Joliet Commons #1225,1522 IL Route 59,,Joliet,IL,60431,US,(815) 846-2545,41.549172,-88.198918,10:30am - 9:00pm,,False
+00692,Shops Of Munster #692,8153 Calumet Ave.,D-1,Munster,IN,46321,US,(219) 836-0700,41.577075,-87.5222718,10:30am - 9:00pm,,False
+01143,Shops on Main #1143,69 US Hwy 41,Ste. 315,Schererville,IN,46375,US,(219) 865-3775,41.500599,-87.470871,10:30am - 9:00pm,,False
+00765,Crossings At Hobart #765,2627 E. 80th Ave.,,Merrillville,IN,46410,US,(219) 942-5555,41.4715931,-87.3164384,10:30am - 9:00pm,,False
+01106,Prospect Ave. #1106,803 W. Anthony Dr.,#3-4,Champaign,IL,61822,US,(217) 355-5580,40.136805,-88.257355,10:30am - 9:00pm,,False
+00685,Meadowbrook Plaza #685,4151 Wabash Ave.,Ste 106,Springfield,IL,62711,US,(217) 787-1000,39.7564863,-89.7247021,10:30am - 10:00pm,,False
+01306,Alton Corners #1306,317J Homer Adams Pkwy,,Alton,IL,62002,US,(618) 433-8769,38.919307,-90.170829,10:30am - 9:00pm,,False
+00991,Cape G #991,3047 Williams St.,Ste. 108,Cape Girardeau,MO,63703,US,(573) 803-3300,37.3007933,-89.569915,10:30am - 10:00pm,,False
+01075,West Park Plaza #1075,5194 Hinkleville Rd.,,Paducah,KY,42001,US,(270) 408-1782,37.0730946,-88.6984469,10:30am - 9:00pm,,False
+01340,Lakewood Plaza #1340,1407 N. Veterans Parkway,Unit F,Bloomington,IL,61704,US,(309) 808-1193,40.498203,-88.950915,10:30am - 9:30pm,,False
+00887,Oakbridge #887,7854 Mineral Point Rd.,,Madison,WI,53717,US,(608) 829-1001,43.060587,-89.5192273,10:30am - 9:00pm,,False
+01335,Bradley #1335,1609 Illinois Route 50,Suite C,Bradley,IL,60914,US,(815) 352-6882,41.174935,-87.851466,10:30am - 9:00pm,,False
+00766,Laura K #766,104 Laura K Dr,,O'Fallon,MO,63366,US,(636) 272-5877,38.7810699,-90.6981566,10:30am - 10:00pm,,False
+01471,Miralago #1471,4508 Mid Rivers Mall Dr.,,Cottleville,MO,63376,US,(636) 244-1292,38.761758,-90.636449,10:30am - 10:00pm,,False
+00856,Mark Twain Village #856,1365 Bass Pro Drive,Unit 5C,St. Charles,MO,63303,US,(636) 724-4668,38.7718814,-90.4963073,10:30am - 9:00pm,,False
+01098,Jeffrey Plaza #1098,2312 N. Hwy 67,,Florissant,MO,63033,US,(314) 736-6959,38.803202,-90.3101183,10:30am - 9:00pm,,False
+00949,Dorsett #949,12312 Dorsett Rd.,,Maryland Heights,MO,63043,US,(314) 548-6710,38.7144278,-90.4487507,10:30am - 9:00pm,,False
+01054,Forum Center #1054,79 Forum Center,,Chesterfield,MO,63017,US,(314) 579-0700,38.6801734,-90.5003357,10:30am - 9:00pm,,False
+00684,Chesterfield Crossing #684,1649 Clarkson Rd,,Chesterfield,MO,63017,US,(636) 536-0700,38.6449871,-90.5654323,10:30am - 9:00pm,,False
+01251,Racine #1251,6012 Washington Ave.,,Mt. Pleasant,WI,53406,US,(262) 583-1024,42.719694,-87.854896,10:30am - 9:00pm,,False
+00802,Brownsburg Village #802,124 East Northfield Dr,,Brownsburg,IN,46112,US,(317) 858-5082,39.8573172,-86.3903268,10:30am - 9:00pm,,False
+00491,Pyramid Place #491,3516 W. 86th St.,,Indianapolis,IN,46268,US,(317) 334-1471,39.9117588,-86.2210502,10:30am - 9:00pm,,False
+00496,Rockville Pointe #496,10726 East US Highway 36,,Avon,IN,46123,US,(317) 209-9005,39.7637226,-86.332874,10:30am - 9:00pm,,False
+00812,Speedway Crossing #812,5841 Crawfordsville Rd.,Suite 104,Indianapolis,IN,46224,US,(317) 802-1379,39.7971171,-86.2623846,10:30am - 9:00pm,,False
+00584,Plainfield Plaza #584,1850 East Main St.,,Plainfield,IN,46168,US,(317) 839-9200,39.7111407,-86.3759856,10:30am - 10:00pm,,False
+00722,Castleton #722,5963 E. 82nd Street,,Indianapolis,IN,46250,US,(317) 288-2399,39.904832,-86.065988,10:30am - 10:00pm,,False
+00657,Creasy Lane #657,170 South Creasy Lane,Suite 1720,Lafayette,IN,47905,US,(765) 449-FIRE,40.4143694,-86.8392787,10:30am - 9:00pm,,False
+00546,Stony Creek #546,17053 Mercantile Blvd.,,Noblesville,IN,46060,US,(317) 773-7333,40.0366862,-85.9936944,10:30am - 9:00pm,,False
+00616,Beech Grove #616,4576-4578 S. Emerson Avenue,,Indianapolis,IN,46203,US,(317) 782-9149,39.7007199,-86.0830294,10:30am - 9:00pm,,False
+00670,US 31 South #670,884 North US 31,,Greenwood,IN,46142,US,(317) 851-8615,39.6293704,-86.122545,10:30am - 11:00pm,,False
+00790,Franklin #790,1707 North Morton Street,,Franklin,IN,46131,US,(317) 346-0984,39.495158,-86.064665,10:30am - 10:00pm,,False
+01066,Harlan Center #1066,22 East McClarnon Dr.,,Greenfield,IN,46140,US,(317) 462-6570,39.8067778,-85.7702406,10:30am - 10:00pm,,False
+01282,Valparaiso Walk #1282,71 Silhavy Rd.,,Valparaiso,IN,46383,US,(219) 286-7382,41.467755,-87.026446,10:30am - 9:00pm,,False
+00775,Portage #775,6536 US Hwy 6,,Portage,IN,46368,US,(219) 763-3473,41.550997,-87.161061,10:30am - 9:00pm,,False
+00653,Illinois Rd #653,5215 Illinois Rd.,,Fort Wayne,IN,46804,US,(260) 416-0060,41.0745179,-85.2095688,10:30am - 10:00pm,,False
+00853,Glenbrook Plaza #853,4423 Coldwater Road,,Fort Wayne,IN,46825,US,(260) 755-5178,41.1188763,-85.135369,10:30am - 10:00pm,,False
+01021,Elizabethtown #1021,1570 N. Dixie Highway,Suite 106,Elizabethtown,KY,42701,US,(270) 737-5000,37.7278346,-85.8840652,10:30am - 9:00pm,,False
+01033,Jefferson Commons #1033,4905 Outer Loop,,Louisville,KY,40219,US,(502) 749-4257,38.13802,-85.666953,10:30am - 9:00pm ,,False
+00486,Hurstbourne Pkwy #486,215 South Hurstbourne Pkwy,Ste 104,Louisville,KY,40222,US,(502) 365-3473,38.2423091,-85.5768195,10:30am - 9:00pm,,False
+01264,Owensboro #1264,5220 Frederica St.,,Owensboro,KY,42301,US,(270) 683-9019,37.717417,-87.127799,10:30am - 9:00pm,,False
+01061,Hebron #1061,3065 North Bend Rd.,,Hebron,KY,41042,US,(859) 689-7827,39.065668,-84.704146,10:30am - 9:00pm,,False
+01331,Harrison #1331,10467 Harrison Ave.,,Harrison,OH,45030,US,(513) 845-4672,39.250461,-84.790702,10:30am - 9:00pm,,False
+00888,Highland Heights #888,2790 Alexandria Pike,,Highland Heights,KY,41076,US,(859) 781-7827,39.0322458,-84.4523403,10:30am - 10:00pm,,False
+00676,Tri-County #676,11711 Princeton Pike,Suite 461,Cincinnati,OH,45246,US,(513) 671-SUBS,39.2886583,-84.4682336,10:30am - 9:00pm,,False
+00686,Anderson Towne Center #686,7426 Beechmont Ave.,#204,Cincinnati,OH,45255,US,(513) 233-3473,39.0728327,-84.3499315,10:30am - 9:00pm,,False
+01332,Bridgewater #1332,3195 Princeton Rd.,,Hamilton,OH,45011,US,(513) 714-4115,39.390921,-84.509576,10:30am - 9:00pm,,False
+01208,Eastgate South  #1208,830 Eastgate South Dr.,,Cincinnati,OH,45245,US,(513) 943-7827,39.094758,-84.265687,10:30 am - 10:00 pm,,False
+00549,Tylersville Rd. #549,7770 Dudley Drive,,West Chester,OH,45069,US,(513) 759-6700,39.3540831,-84.3695475,10:30am - 9:00pm,,False
+01191,Middletown Commons #1191,13301 Shelbyville Rd.,Suite 104,Louisville,KY,40223,US,(502) 883-4168,38.242766,-85.509237,10:30am - 10:00pm ,,False
+01462,Corner Shoppes - Coming Soon #1462,1750 S. Drake Rd.,Ste. A,Kalamazoo,MI,49006,US,Coming Soon,42.274414,-85.64839,,,True
+01370,Englewood Gateway Center - Coming Soon #1370,1128 S. Main Street,,Englewood,OH,45322,US,Coming Soon,39.861595,-84.282162,,,True
+01337,University CF #1337,6406 University Ave.,Suite #C,Cedar Falls,IA,50613,US,(319) 242-3359,42.513828,-92.43484,10:30am - 10:00pm,,False
+01224,Ames Bluff #1224,703 S. Duff Ave.,Ste 110,Ames,IA,50010,US,(515) 233-7199,42.015228,-93.610309,10:30am - 9:00pm,,False
+01326,Ingersoll #1326,2708 Ingersoll Ave.,Ste. A,Des Moines,IA,50312,US,(515) 280-3024,41.585903,-93.653438,10:30am - 10:00pm,,False
+01327,Merle Hay #1327,3710 Merle Hay Rd.,,Des Moines,IA,50310,US,(515) 276-5822,41.629001,-93.697872,10:30am - 9:00pm,,False
+00936,Paradise Pointe #936,460 S. 68th St.,,West Des Moines,IA,50266,US,(515) 223-3834,41.563069,-93.799162,10:30am - 9:00pm,,False
+01505,University Clive #1505,10201 University Ave.,#A13,Clive,IA,50325,US,(515) 223-1811,41.600471,-93.756761,10:30am - 9:00pm,,False
+01527,Westdale Mall #1527,2460 Edgewood Road SW,Ste. 200,Cedar Rapids,IA,52404,US,(319) 200-2514,41.953275,-91.716224,10:30am - 10:00pm,,False
+01149,Lakeport Commons #1149,5008 Sergeant Rd.,,Sioux City,IA,51106,US,(712) 224-2920,42.4447927,-96.3412664,10:30am - 9:00pm,,False
+00845,Greenway Mall #845,3504 W 41st Street,,Sioux Falls,SD,57106,US,(605) 275-2400,43.5151325,-96.7674708,10:30am - 9:00pm,,False
+01163,Foss Crossing #1163,5200 E. Arrowhead Pkwy,,Sioux Falls,SD,57110,US,(605) 275-3473,43.5439357,-96.6575949,10:30am - 9:00pm,,False
+01112,Collins Crossing #1112,180 Collins Rd.,Ste. E,Cedar Rapids,IA,52402,US,(319) 373-0456,42.0297166,-91.627962,10:30am - 9:00pm,,False
+00640,Metro Crossing #640,3815 Metro Drive,Suite 200,Council Bluffs,IA,51501,US,(712) 256-5677,41.220464,-95.836025,10:30am - 10:00pm,,False
+01093,Market Pointe #1093,8920 S. 71st,Suite 105,Papillion,NE,68133,US,(402) 934-5913,41.1697879,-96.022937,10:30am - 9:00pm,,False
+00816,72 Crossing #816,721 S. 72nd St.,Ste. 107,Omaha,NE,68114,US,(402) 619-5501,41.253817,-96.022602,10:30am - 10:00pm,,False
+01407,Orchard Plaza #1407,2457 S. 132nd St.,,Omaha,NE,68144,US,(402) 933-4888,41.236186,-96.119452,10:30am - 9:00pm,,False
+00805,Legacy #805,17010 Wright Plaza,Ste 145,Omaha,NE,68164,US,(402) 884-3972,41.233429,-96.178692,10:30am - 9:00pm,,False
+01422,Grayhawk #1422,14919 W. Maple Rd.,Ste. 103,Omaha,NE,68116,US,(402) 800-3675,41.292052,-96.147174,10:30am - 10:00pm,,False
+01513,Yager Place #1513,1220 E. 23rd Street,Ste. 200,Fremont,NE,68025,US,(402) 816-4454,41.451599,-96.481287,10:30am - 10:00pm,,False
+00944,New Market Square #944,2755 N. Maize Rd.,Ste. 111,Wichita,KS,67203,US,(316) 260-9599,37.7328298,-97.4626889,10:30am - 9:00pm,,False
+01353,Ridge Road #1353,446 S. Ridge Road,Suite 200,Wichita,KS,67209,US,(316) 425-6070,37.676799,-97.425818,10:30am - 9:00pm,,False
+00929,Broadway Village #929,2000 W. 31st St.,Suite A,Lawrence,KS,66046,US,(785) 856-2562,38.9286237,-95.2582326,10:30am - 10:00pm,,False
+01281,Bel Aire #1281,1816 South Range Line Rd.,,Joplin,MO,64804,US,(417) 782-1210,37.070664,-94.477968,10:30am - 9:00pm,,False
+01349,Greenwich #1349,2413 N. Greenwich Rd.,Suite 103,Wichita,KS,67226,US,(316) 295-2200,37.725804,-97.208069,10:30am - 10:00pm,,False
+00980,South Rock #980,8007 E. Kellogg Dr.,#18,Wichita,KS,67207,US,(316) 440-2950,37.6780507,-97.2437731,10:30am - 10:00pm,,False
+01372,Tiffany Springs #1372,8934 NW Skyview Ave.,,Kansas City,MO,64154,US,(816) 382-3457,39.257001,-94.654323,10:30am - 10:00pm,,False
+00553,Antioch Mall #553,2698 NE Vivion Rd.,,Kansas City,MO,64119,US,(816) 455-0864,39.1870746,-94.5477214,10:30am - 10:00pm,,False
+00847,Shawnee Village Plaza #847,6415 Quivira Rd.,,Shawnee,KS,66216,US,(913) 631-0033,39.01258,-94.723714,10:30am - 10:00pm,,False
+00551,Pinnacle Village #551,7521 W. 119th St.,,Overland Park,KS,66213,US,(913) 451-6200,38.9128117,-94.6719185,10:30am - 10:00pm,,False
+00567,Olathe Station #567,15137 W. 119th Street,,Olathe,KS,66062,US,(913) 397-8000,38.911988,-94.762188,10:30am - 9:00pm,,False
+01602,Raymore Gateway - Coming Soon #1602,1943 Foxwood Dr.,,Raymore,MO,64083,US,Coming Soon,38.812638,-94.491253,,,True
+01438,Glenwood Commons #1438,9113 Metcalf Ave.,,Overland Park,KS,66212,US,(913) 242-7867,38.962013,-94.667482,10:30am - 10:00pm,,False
+00779,Ward Parkway Mall #779,8600 Ward Parkway,Suite 2128,Kansas City,MO,64114,US,(816) 214-6815,38.967384,-94.606619,10:30am - 10:00pm,,False
+01198,Owasso #1198,9538 N. Garnett Rd.,,Owasso,OK,74055,US,(918) 272-4401,36.304725,-95.848158,10:30am - 9:00pm,,False
+00889,Clarksville #889,3075 Wilma Rudolph Blvd.,,Clarksville,TN,37040,US,(931) 919-2222,36.594662,-87.285746,10:30am - 9:00pm,,False
+01263,Madison Street #1263,1839 Madison Street,Building E,Clarksville,TN,37040,US,(931) 919-2772,36.5141344,-87.3074426,10:30am - 9:00pm ,,False
+00506,Goodlettsville #506,480 Long Hollow Pike,,Goodlettsville,TN,37072,US,(615) 448-6069,36.330983,-86.697635,10:30am - 9:00pm,,False
+00627,Hendersonville #627,280 Indian Lake Blvd.,Suite 120,Hendersonville,TN,37075,US,(615) 590-7145,36.327884,-86.593313,10:30am - 9:00pm,,False
+01176,Bowling Green #1176,2300 Gary Farms Rd.,,Bowling Green,KY,42104,US,(270) 904-1168,36.956716,-86.430713,10:30am - 9:00pm,,False
+00526,Charlotte Pike #526,6606 Charlotte Pike,Suite 101,Nashville,TN,37205,US,(615) 739-6277,36.13896,-86.8815914,10:30am - 9:00pm,,False
+00468,Hermitage Commons #468,5225 Old Hickory Blvd.,Ste 203,Hermitage,TN,37076,US,(615) 730-7593,36.1880117,-86.6140889,10:30am - 10:00pm,,False
+00561,Berryhill #561,708 Thompson Lane,,Nashville,TN,37204,US,(615) 730-5004,36.112349,-86.764086,10:30am - 9:00pm,,False
+00774,Mt. Juliet South #774,650 S. Mt. Juliet Rd.,#330,Mount Juliet,TN,37122,US,(615) 553-2671,36.1630908,-86.514986,10:30am - 9:00pm,,False
+01019,Brentwood #1019,700 Old Hickory Blvd.,Suite 201,Brentwood,TN,37027,US,(615) 750-2955,36.0406197,-86.7711425,10:30am - 9:00pm,,False
+00974,Somerset #974,525 South US Highway 27,,Somerset,KY,42501,US,(606) 679-5011,37.08709,-84.615976,10:30am - 9:00pm,,False
+00678,Cookeville #678,670 S. Jefferson Ave,,Cookeville,TN,38501,US,(931) 854-9176,36.14663,-85.500342,10:30am - 9:00pm,,False
+00996,Richmond Center #996,1146 Barnes Mill Rd.,Suite 200,Richmond,KY,40475,US,(859) 353-5254,37.7361032,-84.3306663,10:30am - 9:00pm,,False
+01426,Russell Plaza #1426,254 Russell Road,,Ashland,KY,41101,US,(606) 326-0221,38.499143,-82.675881,10:30am - 9:00pm,,False
+01221,Marshall University #1221,1548 3rd Ave.,,Huntington,WV,25701,US,(304) 528-9100,38.423919,-82.4327569,10:30am - 10:00pm,,False
+00573,Leestown #573,1781 Sharkey Way,,Lexington,KY,40511,US,(859) 317-8008,38.0686311,-84.5309532,10:30am - 9:00pm,,False
+00301,UKY #301,535 S. Upper St.,Ste. 175,Lexington,KY,40508,US,(859) 226-0111,38.042448,-84.505329,10:30am - 10:00pm,,False
+00626,Nicholasville #626,455 Keene Centre Dr.,call for directions,Nicholasville,KY,40356,US,(859) 881-5011,37.88637,-84.570311,10:30am - 9:00pm,,False
+01153,Eagle Creek #1153,101 Sand Lake Dr.,Ste. 150,Lexington,KY,40509,US,(859) 244-8911,37.9991968,-84.444802,10:30am - 9:00pm,,False
+00449,Emory Road #449,603 E. Emory Rd.,Suite 106,Powell,TN,37849,US,(865) 859-0447,36.052118,-83.991832,10:30am - 9:00pm,,False
+00314,Fountain City #314,5226 N. Broadway,,Knoxville,TN,37918,US,(865) 357-9866,36.03466803,-83.93147083,10:30am - 9:00pm,,False
+00392,Clinton Hwy #392,2431 Callahan Dr,,Knoxville,TN,37912,US,(865) 947-3473,36.0089596,-84.0198885,10:30am - 9:00pm,,False
+00788,Northwest Plaza #788,4419 Western Avenue,#101,Knoxville,TN,37920,US,(865) 200-8681,35.972954,-83.9858129,10:30am - 9:00pm,,False
+00191,Cumberland Ave #191,1708 W. Cumberland Ave.,,Knoxville,TN,37916,US,(865) 673-0864,35.9563933,-83.9324395,10:30am - 9:00pm,,False
+00499,Bearden #499,4916 Kingston Pike,,Knoxville,TN,37919,US,(865) 450-8989,35.9411964,-83.9843148,10:30am - 9:00pm,,False
+01175,Kaliste Saloom #1175,104 E. Kaliste Saloom Rd.,Ste. 109,Lafayette,LA,70508,US,(337) 210-5915,30.189234,-92.01288,10:30am - 9:00pm,,False
+00592,Covington Nor Du Lac #592,6021 Pinnacle Parkway,,Covington,LA,70433,US,(985) 875-2075,30.4442022,-90.1297476,10:30am - 9:00pm,,False
+01079,Corporate Square #1079,1521 Gause Blvd.,,Slidell,LA,70458,US,(985) 326-8485,30.2846485,-89.7566801,10:30am - 9:00pm,,False
+00609,Hammond #609,1750 W. Thomas Street,Suite A,Hammond,LA,70401,US,(985) 429-1000,30.5009488,-90.4791645,10:30am - 9:00pm,,False
+01492,Vets at Belmont - Coming Soon #1492,3814 Veterans Blvd.,Ste. B,Metairie,LA,70002,US,Coming Soon,30.003925,-90.169043,,,True
+00773,Esplanade #773,5140 Corporate Blvd.,,Baton Rouge,LA,70808,US,(225) 923-3336,30.4255671,-91.1371732,10:30am - 9:00pm,,False
+01279,Siegen Lane #1279,6555 Siegen Lane,Ste. 9,Baton Rouge,LA,70809,US,(225) 302-7976,30.388381,-91.062677,10:30am - 9:00pm,,False
+01171,Denham Bass Pro #1171,121 Bass Pro Blvd.,Ste. G,Denham Springs,LA,70726,US,(225) 243-6659,30.4504118,-90.9587732,10:30am - 9:00pm,,False
+01283,Gonzales Cabela's #1283,2706 S. Cabela's Parkway,Ste. 130,Gonzales,LA,70737,US,(225) 450-2070,30.208529,-90.950694,10:30am - 9:00pm,,False
+01388,Canal Blvd #1388,402 N. Canal Blvd.,Ste. D,Thibodaux,LA,70301,US,(985) 492-1888,29.805938,-90.816986,10:30am - 9:00pm,,False
+00942,Houma #942,1826 Martin Luther King Blvd.,Ste. I,Houma,LA,70360,US,(985) 850-2725,29.624262,-90.760098,10:30am - 9:00pm,,False
+00128,98 West #128,6106 Hwy. 98 W.,Suite 10,Hattiesburg,MS,39402,US,(601) 261-9433,31.3208927,-89.3849103,10:30am - 9:00pm,,False
+00278,E. Hardy Street #278,2401 Hardy St,,Hattiesburg,MS,39401,US,(601) 599-7827,31.3249567,-89.3268797,10:30am - 9:00pm,,False
+00216,Shreveport #216,7230 Youree Dr.,Suite 113,Shreveport,LA,71105,US,(318) 798-6547,32.4391608,-93.7164188,10:30am - 10:00pm,,False
+01151,Port Arthur #1151,2780 Hwy 365,Ste. A,Port Arthur,TX,77640,US,(409) 729-8500,29.954374,-93.987033,10:30am - 9:00pm,,False
+01352,Madison Forum #1352,179 Grandview Blvd.,Suite 940,Madison,MS,39110,US,(601) 856-4143,32.464301,-90.135655,,,False
+01526,Waterville Commons #1526,8 Waterville Commons Dr.,,Waterville,ME,04901,US,(207) 616-3074,44.570078,-69.643062,10:30am - 9:00pm,,False
+01600,410 Center Street - Coming Soon #1600,410 Center St.,,Auburn,ME,04210,US,Coming Soon,44.117151,-70.225129,,,True
+01014,Topsham Fair #1014,56 Topsham Fair Mall Rd.,,Topsham,ME,04086,US,(207) 406-2517,43.93705,-69.97921,10:30am - 9:00pm,,False
+01157,Biddeford #1157,580 Alfred Street,,Biddeford,ME,04005,US,(207) 494-7742,43.475865,-70.511786,10:30am - 9:00pm,,False
+00869,Nashua North #869,341 Amherst St.,,Nashua,NH,03063,US,(603) 402-3575,42.782866,-71.503511,10:30am - 9:00pm,,False
+00606,Liberty Tree #606,35 Independence Way,,Danvers,MA,01923,US,(978) 774-8050,42.550136,-70.939506,10:30am - 9:00pm,,False
+01301,University Town Center #1301,1108 Giant St.,,Morgantown,WV,26501,US,(304) 598-1036,39.649074,-80.003644,10:30am - 10:00pm,,False
+01472,Greensburg East #1472,5109-B Route 30,,Greensburg,PA,15601,US,(724) 600-7220,40.302277,-79.494147,10:30am - 9:00pm,,False
+00572,Fairmont Plaza #572,9644 Mall Loop Road,,White Hall,WV,26554,US,(304) 816-3364,39.429182,-80.184041,10:30am - 10:00pm,,False
+00938,Lexington Park #938,22755 Maple Rd.,,Lexington Park,MD,20653,US,(301) 862-1221,38.292726,-76.495186,10:30am - 10:00pm,,False
+01278,Johnstown #1278,1513 Scalp Ave.,Suite 60,Johnstown,PA,15904,US,(814) 254-4668,40.268616,-78.855534,10:30am - 9:00pm,,False
+00870,Latham #870,860 Loudon Rd.,,Latham,NY,12110,US,(518) 608-4382,42.753398,-73.760015,10:30am - 9:00pm,,False
+00661,Metro North #661,103 Commerce Way,Suite C1,Woburn,MA,01801,US,(781) 938-SUBS,42.5172669,-71.1380217,10:30am - 9:00pm,,False
+00769,Westfield #769,5208A Monroe Street,,Toledo,OH,43623,US,(419) 725-9090,41.70163354,-83.6501975,10:30am - 9:00pm,,False
+00648,Brookside Mall #648,101 Brookside Lane,,Brighton,MI,48116,US,(810) 220-3500,42.5415926,-83.7860637,10:00am - 10:00pm,,False
+01288,Bay Road #1288,5208 Bay Rd.,,Saginaw,MI,48604,US,(989) 790-3300,43.482627,-83.974251,10:00am - 11:00pm ,,False
+00953,Eastman Avenue #953,7215 Eastman Ave.,,Midland,MI,48642,US,(989) 631-3800,43.662498,-84.2472051,10:00am - 10:00pm,,False
+00905,Grand Blanc #905,11501 S. Saginaw St.,Ste. B,Grand Blanc,MI,48439,US,(810) 603-7205,42.927598,-83.63025,10:00am - 10:00pm,,False
+00899,Roseville Professional Center #899,27115 Gratiot Ave.,,Roseville,MI,48066,US,(586) 359-2603,42.496088,-82.93795,10:00am - 10:00pm,,False
+00876,Hall-Hayes #876,15064 Hall Road,,Sterling Heights,MI,48313,US,(586) 580-7990,42.626965,-82.974501,10:00am - 10:00pm,,False
+01496,16 and Van Dyke #1496,36693 Van Dyke Avenue,,Sterling Heights,MI,48312,US,(586) 553-9171,42.56325,-83.029745,10:00am - 10:00pm,,False
+01195,Universal Shopping Center #1195,28508 Dequindre Rd.,,Warren,MI,48092,US,(586) 510-6050,42.5022078,-83.085477,10:00am - 9:00pm,,False
+00947,City Walk Mall -TIENKEN & Rochester Rd #947,1480 N. Rochester Rd.,,Rochester Hills,MI,48307,US,(248) 656-9200,42.695321,-83.133738,10:00am - 9:00pm,,False
+01506,Midtown #1506,4501 Woodward Avenue,Suite 103,Detroit,MI,48201,US,(313) 818-3681,42.353649,-83.062268,10:00am - 10:00pm,,False
+00839,Berkley #839,28557 Woodward Ave.,,Berkley,MI,48072,US,(248) 397-8283,42.4990061,-83.1681699,10:00am - 10:00pm,,False
+01401,Lake Orion #1401,1085 S. Lapeer Rd.,,Lake Orion,MI,48360,US,(248) 834-3003,42.766463,-83.240395,10:00am - 10:00pm,,False
+01218,Telegraph Rd. #1218,29950 Telegraph Road,,Southfield,MI,48034,US,(248) 809-9808,42.507957,-83.285223,10:00am - 10:00pm ,,False
+00904,Highland Row #904,5832 Highland Rd.,,Waterford,MI,48327,US,(248) 618-7777,42.6599958,-83.4021777,10:00am - 9:00pm,,False
+00846,Northville #846,20570 Haggerty Rd.,,Northville Township,MI,48167,US,(734) 432-7088,42.437964,-83.435626,10:00am - 9:00pm,,False
+01117,West Rd. #1117,19265 West Rd.,,Woodhaven,MI,48183,US,(734) 671-2100,42.139955,-83.223803,10:00am - 9:00pm,,False
+00909,Downtown Lansing #909,200 S. Washington,,Lansing,MI,48933,US,(517) 316-0483,42.7325388,-84.5522864,10:00am - 8:00pm,,False
+01074,Alpine #1074,3850 Alpine Ave.,,Comstock Park,MI,49321,US,(616) 647-0577,43.033715,-85.688418,10:00am - 10:00pm,,False
+01300,Holland #1300,90 Douglas Ave.,,Holland,MI,49424,US,(616) 298-7150,42.803071,-86.111975,10:00am - 9:00pm,,False
+00854,Celebration Village #854,2090 Celebration Dr.,Suite 124,Grand Rapids,MI,49525,US,(616) 288-3285,43.00059,-85.592132,10:00am - 10:00pm,,False
+00924,Henry St. #924,3194 Henry St.,,Muskegon,MI,49441,US,(231) 733-0202,43.1942059,-86.2633555,10:00am - 9:00pm,,False
+01295,Cascade #1295,5557 28th St. SE,Suite A,Grand Rapids,MI,49512,US,(616) 443-2132,42.913155,-85.530848,10:00am - 10:00pm,,False
+00866,Central Square #866,1729 South Mission St.,,Mt. Pleasant,MI,48858,US,(989) 775-8800,43.5849691,-84.7674314,10:00am - 10:00pm,,False
+00843,Plymouth Town Center #843,41608 Ann Arbor Rd.,,Plymouth,MI,48170,US,(734) 451-6200,42.3591743,-83.4516151,10:00am - 10:00pm,,False
+01558,Grand Promenade - Coming Soon #1558,48955 Grand River Ave.,Ste. 100,Novi,MI,48374,US,Coming Soon,42.493608,-83.53322,,,True
+01419,Navarre Ave #1419,3246 Navarre Avenue,,Oregon,OH,43616,US,(419) 214-0904,41.636433,-83.470499,10:30am - 10:00pm,,False
+00628,Oneida Centre #628,2665 S. Oneida St.,Suite E,Green Bay,WI,54304,US,(920) 544-4690,44.477635,-88.072456,10:30am - 9:00pm,,False
+01101,The Galleria on Veterans #1101,5675 26th Ave. South,Suite 132,Fargo,ND,58103,US,(701) 205-1268,46.841522,-96.882418,10:30am - 10:00pm,,False
+01415,Souththowne Square #1415,2650 32nd Ave S.,Ste. F-1,Grand Forks,ND,58201,US,(701) 757-1391,47.889988,-97.065314,10:30am - 9:00pm,,False
+01161,Tamarack Village #1161,8390 Tamarack Village,,Woodbury,MN,55123,US,(651) 493-7807,44.9414445,-92.9374281,10:30am - 9:00pm ,,False
+00605,White Bear Ave. #605,2303 White Bear Ave.,Suite G,Maplewood,MN,55109,US,(651) 731-7827,45.010593,-93.023605,10:30am - 9:00pm,,False
+01065,Roseville Har Mar Mall #1065,2111 Snelling Ave. N.,Ste. B,Roseville,MN,55113,US,(651) 493-7559,45.004423,-93.165242,10:30am - 9:00pm,,False
+00935,Lyndale Station #935,6535 Lyndale Ave. South,,Richfield,MN,55423,US,(612) 869-8504,44.8845807,-93.2858409,10:30am - 9:00pm,,False
+01436,Park Place on France #1436,10700 France Ave S.,Suite 116,Bloomington,MN,55437,US,(952) 303-3399,44.809428,-93.330472,10:30am - 9:00pm,,False
+01020,Arbor Lake #1020,11649 Fountains Drive,Ste A-3,Maple Grove,MN,55369,US,(763) 416-3727,45.0917457,-93.4262638,10:00am - 9:00pm,,False
+00908,Glacier Lane #908,2855 Glacier Lane,Suite 400,Plymouth,MN,55447,US,(763) 276-9514,45.01104,-93.463534,11:00am - 9:00pm,,False
+00937,Coborn Plaza #937,335 5th Avenue South,,St. Cloud,MN,56301,US,(320) 259-7889,45.5573494,-94.1548538,10:30am - 9:00pm,,False
+01484,212 Crossing #1484,2702 9th Ave. SE,,Watertown,SD,57201,US,(605) 878-0264,44.889371,-97.071124,10:30am - 9:00pm,,False
+00971,Eau Claire #971,5314 Prill Road,Ste. 3,Eau Claire,WI,54701,US,(715) 514-3600,44.7783786,-91.4268283,10:30am - 9:00pm,,False
+00574,Jackson Avenue #574,1501 Jackson Ave West,Suite 107,Oxford,MS,38655,US,(662) 234-0707,34.3670318,-89.5507514,10:30am - 9:00pm,,False
+00510,Flowood #510,153 Ridge Way,Suite D,Flowood,MS,39232,US,(601) 919-1819,32.3395498,-90.07208,10:30am - 9:00pm,,False
+01434,Orange Grove - Coming Soon #1434,11000 Highway 49,Suite C,Gulfport,MS,39503,US,Coming Soon,30.443291,-89.098256,,,True
+00950,Pass & Beauvoir #950,296 Beauvoir Rd,,Biloxi,MS,39530,US,(228) 388-5200,30.401973,-88.972423,10:30am - 9:00pm,,False
+01142,Campus Plaza #1142,401 S. Kimbrough Ave.,,Springfield,MO,65806,US,(417) 862-0591,37.2064649,-93.286948,10:30am - 9:00pm,,False
+01521,Sunshine Street - Coming Soon #1521,3309 East Sunshine Street,Suite B,Springfield,MO,65804,US,Coming Soon,37.181259,-93.227254,,,True
+00806,Copperleaf Village #806,715 North Highway 7,,Blue Springs,MO,64014,US,(816) 229-2440,39.02497269,-94.27288647,10:30am - 10:00pm,,False
+00484,Blue Ridge Crossing #484,4167 Sterling,,Kansas City,MO,64133,US,(816) 997-9555,39.0460621,-94.4476588,10:30am - 10:00pm,,False
+00611,Triangle Crossing #611,228 N. Hwy 291,,Liberty,MO,64068,US,(816) 407-7827,39.2477889,-94.4462023,10:30am - 10:00pm,,False
+00798,Boulevard Shoppes #798,2103 Missouri Blvd.,Suite D,Jefferson City,MO,65109,US,(573) 635-8150,38.58076,-92.205622,10:30am - 9:00pm,,False
+01211,Columbia Broadway #1211,2703 E. Broadway,Ste. 125,Columbia,MO,65201,US,(573) 228-6081,38.9472705,-92.2965607,10:30am - 10:00pm,,False
+00885,Ballwin #885,14948 Manchester Rd,,Ballwin,MO,63011,US,(636) 220-9220,38.5929525,-90.5456403,10:30am - 9:00pm,,False
+01146,Bozeman Gateway #1146,867 South 29th St.,#104,Bozeman,MT,59718,US,(406) 551-1144,45.670583,-111.077169,10:30am - 9:00pm,,False
+01433,East Park Plaza #1433,200 N. 66th St.,Ste. #201,Lincoln,NE,68505,US,(402) 904-4886,40.815766,-96.630027,10:30am - 10:00pm,,False
+01147,Grand Island #1147,3440 State Street,,Grand Island,NE,68803,US,(308) 675-0040,40.9386669,-98.3812792,10:30am - 9:00pm,,False
+01523,Benchmark #1523,1010 3rd Ave.,Suite B,Kearney,NE,68845,US,(308) 455-3330,40.684225,-99.08571,10:30am - 9:00pm,,False
+00883,Warm Springs #883,7250 S. Durango Drive,Ste 160,Las Vegas,NV,89113,US,(702) 614-1633,36.05657,-115.278503,10:30am - 9:00pm,,False
+00651,Rainbow Pavilion #651,6070 S. Rainbow Blvd.,Ste. 1,Las Vegas,NV,89118,US,(702) 463-3900,36.07837,-115.241982,10:30am - 9:00pm,,False
+00671,Hualapai Commons #671,9921 W. Charleston Blvd.,Ste 4,Las Vegas,NV,89117,US,(702) 463-9800,36.1588941,-115.3122252,10:30am - 9:00pm,,False
+01430,Westland Fair #1430,1121 S. Decatur Blvd.,Suite 140,Las Vegas,NV,89102,US,(702) 644-0043,36.158826,-115.20561,10:30am - 9:00pm,,False
+00534,Whole Foods Marketplace #534,7290 W. Lake Mead Blvd.,Ste 100,Las Vegas,NV,89128,US,(702) 240-3473,36.1962809,-115.2509056,10:30am - 9:00pm,,False
+01044,215 & Rice #1044,6171 N. Decatur,Ste. 170,Las Vegas,NV,89130,US,(702) 826-4877,36.272892,-115.208219,10:30am - 9:00pm,,False
+00829,Mercer Mall #829,3371 US Highway 1,,Lawrenceville,NJ,08648,US,(609) 520-0020,40.29736691,-74.68306431,10:30am - 9:00pm,,False
+01244,Plaza at Columbia Turnpike #1244,176 Columbia Turnpike,,Florham Park,NJ,07932,US,(973) 845-9555,40.789481,-74.391611,10:30am - 9:00pm,,False
+00861,Wayne Hills #861,1050 Hamburg Turnpike,,Wayne,NJ,07470,US,(973) 832-4850,40.960266,-74.238575,10:30am -9:30pm,,False
+00621,Airport Center #621,1824 Airport Rd.,,Allentown,PA,18109,US,(610) 841-9888,40.6395947,-75.4341032,10:30am - 9:00pm,,False
+01156,Totowa #1156,205 US Hwy 46 West,Unit E,Totowa,NJ,07512,US,(973) 837-8022,40.8938725,-74.2295636,10:30am - 9:30pm,,False
+00731,Montgomery Plaza #731,4411 San Mateo Blvd NE,Suite E9,Albuquerque,NM,87109,US,(505) 888-8850,35.1312352,-106.5865442,10:30am - 9:30pm,,False
+00555,Academy #555,8050 Academy Rd,Ste. 105,Albuquerque,NM,87111,US,(505) 797-4554,35.147195,-106.550215,10:30am - 9:30pm,,False
+01272,Piazza Fiorina #1272,3777 Cerrillos Rd.,,Santa Fe,NM,87507,US,(505) 438-3388,35.644972,-106.00967,10:30am - 9:00pm,,False
+00751,Cottonwood #751,3707 Ellison Dr. NW,Suite I,Albuquerque,NM,87107,US,(505) 898-1671,35.207819,-106.652647,10:30am - 9:00pm,,False
+01323,Redd Rd. #1323,436 Redd Road,Suite 103-104,El Paso,TX,79912,US,(915) 222-8435,31.863727,-106.572645,10:30am - 10:00pm,,False
+00747,The Fountains #747,8889 Gateway West Blvd.,Suite 525,El Paso,TX,79925,US,(915) 219-7123,31.77009363,-106.3716294,10:30am - 10:00pm,,False
+01464,George Dieter #1464,1505 George Dieter Dr.,,El Paso,TX,79936,US,(915) 307-5401,31.745198,-106.30183,10:30am - 10:00pm,,False
+00989,Ithaca #989,740 South Meadow Dr.,Suite 1100,Ithaca,NY,14850,US,(607) 256-3473,42.429828,-76.508514,10:30am - 9:00pm,,False
+00739,Eastgate Plaza #739,5205 Transit Rd.,Ste 200,Williamsville,NY,14221,US,(716) 276-3259,42.9880484,-78.6963865,10:30am - 9:00pm,,False
+00966,McKinley #966,4405 Milestrip Rd.,,Blasdell,NY,14219,US,(716) 604-5639,42.7895154,-78.8145571,10:30am - 10:00pm,,False
+01266,Camillus #1266,5308 West Genesee St.,,Camillus,NY,13031,US,(315) 487-5979,43.041673,-76.270934,10:30am - 9:00pm,,False
+01500,Pittsburgh Commons - Coming Soon #1500,2207 West 12th St.,,Erie,PA,16510,US,Coming Soon,42.104125,-80.131839,,,True
+00532,Stratford Towers #532,205 S. Stratford Rd.,,Winston-Salem,NC,27103,US,(336) 293-6230,36.0920321,-80.2790266,10:30am - 10:00pm,,False
+00291,Deep River #291,5815 Samet Drive,,High Point,NC,27265,US,(336) 885-9760,36.033035,-79.960525,10:30am - 10:00pm,,False
+01297,Jefferson Village #1297,1562B Highwoods Blvd.,,Greensboro,NC,27410,US,(336) 763-6426,36.111833,-79.879914,10:30am - 9:00pm,,False
+01336,Gate City Blvd. #1336,3704 W. Gate City Blvd.,,Greensboro,NC,27407,US,(336) 500-8882,36.039992,-79.850512,10:30am - 10:00pm,,False
+00712,Battleground Commons #712,1605 Westover Terrace,,Greensboro,NC,27408,US,(336) 355-9525,36.0938071,-79.8158333,10:30am - 10:00pm,,False
+00116,Dale Earnhardt Blvd. #116,2251 Spider Dr. NE,,Kannapolis,NC,28083,US,(704) 721-1100,35.4648191,-80.5922881,10:30am - 10:00pm,,False
+01170,Mooresville #1170,489 River Hwy,Suite C,Mooresville,NC,28117,US,(704) 360-2323,35.5943467,-80.8631077,10:30am - 10:00pm,,False
+01207,Asheboro #1207,1214-D E. Dixie Dr.,,Asheboro,NC,27203,US,(336) 318-4632,35.6954128,-79.7895229,10:30am - 10:00pm,,False
+01458,Concord Parkway #1458,28 Raiford Drive NW,,Concord,NC,28027,US,(704) 721-0200,35.394981,-80.618085,10:30am - 10:00pm,,False
+00505,"Concord Mills Mall, Food Court #505",8111 Concord Mills Blvd.,Ste 670,Concord,NC,28027,US,(704) 979-9900,35.3713178,-80.7183571,10:00am - 9:15pm,,False
+00272,Speedway Blvd. #272,7712 Sossaman Lane,Suite 100,Concord,NC,28027,US,(704) 979-3737,35.36496502,-80.70871281,10:30am - 9:00pm,,False
+00447,Gilead Rd. #447,9826 Gilead Rd.,Ste C-102,Huntersville,NC,28078,US,(704) 992-2282,35.406168,-80.864345,10:30am - 10:00pm,,False
+00219,Mallard Creek #219,2700 W. Mallard Creek Church Rd.,Suite #220,Charlotte,NC,28262,US,(704) 503-1111,35.3402049,-80.7650536,10:30am - 10:00pm,,False
+00329,North Lake Mall #329,9335 Center Lake Dr.,,Charlotte,NC,28216,US,(704) 494-3330,35.349081,-80.855113,10:30am - 10:00pm,,False
+01536,Downtown Suffolk #1536,1201 N. Main St.,,Suffolk,VA,23434,US,(757) 539-0980,36.745492,-76.58379,10:30am - 10:00pm,,False
+00749,Elizabeth City #749,316 W. Ehringhaus Street,,Elizabeth City,NC,27909,US,(252) 337-9111,36.2963587,-76.2268665,10:30am - 10:00pm,,False
+00752,Burlington #752,2471 S. Church Street,,Burlington,NC,27215,US,(336) 229-4405,36.081297,-79.482512,10:30am - 10:00pm,,False
+01058,New Bern #1058,3123 Dr. ML King Jr. Blvd,,New Bern,NC,28562,US,(252) 636-3473,35.1017073,-77.0889107,10:30am - 9:00pm,,False
+01512,Shoppes of Carolina Forest #1512,4200 Western Blvd.,Ste. 110,Jacksonville,NC,28546,US,(910) 219-4758,34.800903,-77.414716,10:30am - 9:00pm,,False
+00545,Western Blvd. #545,331-A Western Blvd.,,Jacksonville,NC,28546,US,(910) 219-0192,34.765062,-77.383819,10:30am - 9:00pm,,False
+01190,Greenville Blvd. #1190,205 Greenville Blvd. SE,,Greenville,NC,27834,US,(252) 689-6300,35.5798295,-77.3784627,10:30am - 9:00pm,,False
+00767,Arlington Crossing #767,1852 W. Arlington Blvd.,,Greenville,NC,27834,US,(252) 565-8540,35.5977865,-77.406495,10:30am - 9:00pm,,False
+00395,Maryville #395,419 S. Washington Street,,Maryville,TN,37804,US,(865) 980-3332,35.757418,-83.965118,10:30am - 10:00pm,,False
+00700,Pigeon Forge #700,2726 Parkway,,Pigeon Forge,TN,37863,US,(865) 365-1099,35.8018204,-83.57383355,10:30am - 10:00pm,,False
+00509,Sevierville #509,209 Middle Creek Rd.,,Sevierville,TN,37862,US,(865) 365-1173,35.863871,-83.547396,10:30am - 10:00pm,,False
+00412,Athens #412,1812 Decatur Pike,,Athens,TN,37303,US,(423) 744-3014,35.4528256,-84.6266642,10:30am - 10:00pm,,False
+00791,Lenoir City #791,149 Kelsey Lane,Suite 101,Lenoir City,TN,37772,US,(865) 816-6600,35.818804,-84.26509,10:30am - 9:00pm,,False
+01402,Aberdeen #1402,1844 North Sandhills Blvd.,,Aberdeen,NC,28315,US,(910) 684-8559,35.155567,-79.414058,10:30am - 9:00pm,,False
+00642,Glensford #642,300 Glensford Dr.,,Fayetteville,NC,28314,US,(910) 491-8341,35.066517,-78.9609,10:30am - 9:00pm,,False
+00173,Sanford #173,3248 NC Route 87 South,,Sanford,NC,27330,US,(919) 777-2996,35.44495455,-79.13089832,10:30am - 9:00pm,,False
+00878,Camden Square #878,5590 Camden Road,,Fayetteville,NC,28306,US,(910) 425-9648,34.9847774,-78.9675186,10:30am - 10:00pm,,False
+01094,Walter Reed Road #1094,1445 Walter Reed Rd.,,Fayetteville,NC,28304,US,(910) 475-0107,35.038967,-78.935095,10:30am - 9:00pm,,False
+00984,Lumberton #984,5082 Kahn Dr,,Lumberton,NC,28358,US,(910) 737-6006,34.667968,-79.0060009,10:30am - 10:00pm,,False
+00917,Fuquay Varina #917,1303 N. Main St.,,Fuquay Varina,NC,27526,US,(919) 762-5328,35.59229,-78.777625,10:30am - 9:00pm,,False
+01052,South Park Village - Coming Soon #1052,401 Village Walk Dr.,Ste. D,Holly Springs,NC,27540,US,Coming Soon,35.640324,-78.838122,,,True
+00487,Garner #487,1539 Highway 70,Ste 1551,Garner,NC,27529,US,(919) 662-4801,35.7238411,-78.6474336,10:30am - 9:00pm,,False
+00233,Apex #233,1047 Beaver Creek Commons Dr.,,Apex,NC,27502,US,(919) 367-0111,35.7439805,-78.872769,10:30am - 10:00pm,,False
+01237,Clayton #1237,476 Shotwell Rd.,,Clayton,NC,27520,US,(919) 550-7000,35.6558225,-78.4796405,10:30am - 9:30pm ,,False
+00528,Kildaire Farm - #528,100-B Wrenn Dr.,,Cary,NC,27511,US,(919) 535-8702,35.76515,-78.784008,10:30am - 10:00pm,,False
+00122,Cary #122,260 Grande Heights Dr.,,Cary,NC,27513,US,(919) 468-1822,35.804826,-78.7806263,10:30am - 10:00pm,,False
+01330,Monroe #1330,2319 W. Roosevelt Blvd.,Ste. D,Monroe,NC,28110,US,(980) 269-8025,35.009377,-80.562843,10:30am - 10:00pm,,False
+00334,Indian Trail #334,14039 Hwy 74 E.,,Indian Trail,NC,28079,US,(704) 893-2888,35.078635,-80.653317,10:30am - 10:00pm,,False
+00040,Windsor #40,1808 Windsor Sq. Dr.,,Matthews,NC,28105,US,(704) 708-5555,35.1339789,-80.709968,10:30am - 10:00pm,,False
+00313,Tunnel Road #313,105-B Riverhills Rd.,,Asheville,NC,28805,US,(828) 299-7552,35.57642,-82.519803,10:30am - 9:00pm,,False
+00941,Patton Ave. #941,1334 Patton Ave.,,Asheville,NC,28806,US,(828) 254-4133,35.5841055,-82.6040178,10:30am - 9:00pm,,False
+00364,"Long Shoals - I-26, Exit 37 #364",100 Julian Lane,Suite 150,Arden,NC,28704,US,(828) 681-0850,35.4824835,-82.5375693,10:30am - 10:00pm,,False
+01150,Merrimon Ave. #1150,354 Merrimon Ave.,,Asheville,NC,28801,US,(828) 252-0792,35.611086,-82.555352,10:30am - 9:00pm,,False
+01048,Asheville Airport #1048,229 Airport Rd.,#5,Arden,NC,28704,US,(828) 654-9095,35.450947,-82.525178,10:30am - 9:00pm,,False
+00517,Brooklyn Village #517,825 Spartanburg Highway,Ste. 18,Hendersonville,NC,28792,US,(828) 697-8344,35.30559,-82.451198,10:30am - 9:00pm,,False
+00346,Greer #346,1205-A West Wade Hampton Blvd.,,Greer,SC,29650,US,(864) 879-2306,34.941753,-82.256471,10:30am - 9:30pm,,False
+00162,Taylors #162,3023 Wade Hampton Blvd.,Suite A,Taylors,SC,29687,US,(864) 292-6887,34.906388,-82.331306,10:30am - 10:00pm,,False
+00258,Boiling Springs #258,3605 Boiling Springs Rd.,,Boiling Springs,SC,29316,US,(864) 578-9797,35.043987,-81.98034,10:30am - 10:00pm,,False
+00131,Haywood Road #131,765 Haywood Rd.,Ste. B-3,Greenville,SC,29607,US,(864) 271-7200,34.8518954,-82.3362056,10:30am - 9:00pm,,False
+00245,Easley #245,6310 Calhoun Memorial Hwy.,,Easley,SC,29640,US,(864) 859-5450,34.8233248,-82.5820504,10:30am - 10:00pm,,False
+00576,Plaza On Pelham #576,3935 Pelham Road,Suite E,Greenville,SC,29615,US,(864) 297-2535,34.860355,-82.263296,10:30am - 9:30pm,,False
+00276,Oleander #276,3608 Oleander Dr.,Unit D,Wilmington,NC,28403,US,(910) 791-7827,34.215488,-77.9039279,10:30 am - 10:00 pm,,False
+00397,Monkey Junction #397,5920 Carolina Beach Rd.,Ste. 170,Wilmington,NC,28412,US,(910) 799-5525,34.1247609,-77.902032,10:30 am - 10:00 pm,,False
+01100,Morganton #1100,905 N. Green St.,,Morganton,NC,28655,US,(828) 438-1188,35.7498907,-81.7060075,10:00am - 9:00pm,,False
+00155,Lenoir #155,417 Blowing Rock Blvd.,,Lenoir,NC,28645,US,(828) 754-8989,35.9190055,-81.5245955,10:30am - 9:00pm,,False
+00850,Gaston Mall #850,2290 E. Franklin Blvd.,Ste. 100,Gastonia,NC,28054,US,(980) 888-0927,35.261741,-81.1393375,10:30am - 10:00pm,,False
+00081,Whitehall #81,8516 South Tryon St.,Suite 105,Charlotte,NC,28273,US,(704) 583-0444,35.139703,-80.935214,10:30am - 9:00pm,,False
+00732,Steele Creek #732,12806 S. Tryon St.,Ste 282,Charlotte,NC,28273,US,(704) 588-9988,35.1032484,-80.9878177,10:30am - 9:00pm,,False
+00024,South Blvd. #24,4732 South Blvd.,,Charlotte,NC,28217,US,(704) 565-5230,35.175634,-80.877821,10:30am - 10:00pm,,False
+00552,Epicentre #552,210 East Trade St.,C-246,Charlotte,NC,28202,US,(704) 971-2050,35.225378,-80.841961,10:30am - 10:00pm,,False
+00009,Pineville #9,9101 Pineville-Matthews Rd.,,Pineville,NC,28134,US,(704) 341-6116,35.086948,-80.871878,10:30am - 10:00pm,,False
+01418,Valley Hills Mall #1418,2034 US Hwy 70 SE,,Hickory,NC,28602,US,(828) 358-3239,35.705783,-81.303233,10:00am - 10:00pm,,False
+00095,Viewmont #95,2423 N. Center St.,,Hickory,NC,28601,US,(828) 327-8800,35.7644683,-81.3327879,10:30am - 9:00pm,,False
+01395,Berkeley Mall #1395,501 N. Berkeley Blvd.,,Goldsboro,NC,27534,US,(919) 751-7330,35.374766,-77.945481,10:30am - 10:00pm,,False
+00768,Gaffney #768,1542 Floyd Baker Blvd.,,Gaffney,SC,29341,US,(864) 488-8004,35.0909407,-81.6627672,10:30am - 9:00pm,,False
+00785,Bent Tree #785,7901 Falls of Neuse Rd.,Ste. 133,Raleigh,NC,27615,US,(919) 322-0384,35.8932607,-78.6276564,10:30am - 9:00pm,,False
+01413,Roxboro Rd #1413,4201 N. Roxboro St.,Ste. 110,Durham,NC,27704,US,(919) 479-1333,36.04778,-78.903241,10:30am - 10:00pm,,False
+00325,Duke #325,2608 Erwin Rd.,Suite 128,Durham,NC,27705,US,(919) 383-2100,36.0092684,-78.9448144,10:30am - 10:00pm,,False
+00178,Brier Creek #178,10251 Little Brier Creek Lane,,Raleigh,NC,27617,US,(919) 806-3900,35.911335,-78.7851699,10:30am - 9:00pm,,False
+00192,North Myrtle Beach @ Gator Hole Plaza  - #192,560 Highway 17 N.,,North Myrtle Beach,SC,29582,US,(843) 663-3473,33.830979,-78.669941,10:30 am - 9:00 pm,,False
+00035,Myrtle Beach @ 38th Ave. -  #35,1211 38th Ave. N.,,Myrtle Beach,SC,29577,US,(843) 626-9111,33.7256746,-78.867921,10:30am - 9:00pm,,False
+00865,Myrtle Ridge - #865,152-A Middle Ridge Avenue,,Conway,SC,29526,US,(843) 349-4300,33.797974,-79.001637,10:30am - 9:00pm,,False
+00141,Socastee - #141,5407 Dick Pond Rd.,,Myrtle Beach,SC,29588,US,(843) 215-3473,33.6810138,-78.9996943,10:30am - 9:00pm,,False
+00159,Surfside Beach -  #159,1610 Hwy. 17 South,,Surfside Beach,SC,29575,US,(843) 650-9111,33.602387,-78.993652,10:30am - 9:00pm,,False
+00283,Indigo Village #283,5319 New Hope Commons Extension,Suite 104,Durham,NC,27707,US,(919) 489-2900,35.9540917,-78.9939094,10:30am - 10:00pm,,False
+00109,Hunters Crossing #109,16049-K Johnston Rd.,,Charlotte,NC,28277,US,(704) 540-5995,35.029324,-80.850153,10:30am - 10:00pm,,False
+01321,Waverly #1321,7211 Waverly Walk Ave.,Ste. B-1,Charlotte,NC,28277,US,(980) 339-8204,35.053931,-80.769203,10:30am - 10:00pm,,False
+01366,Dave Lyle - #1366,1969 Canterbury Glen Lane,#108,Rock Hill,SC,29730,US,(803) 329-0004,34.940631,-80.97639,10:30am - 10:00pm,,False
+01138,Edwards Mill #1138,4111 Ed Dr.,,Raleigh,NC,27612,US,(919) 783-7102,35.825702,-78.704551,10:30am - 9:00pm,,False
+01481,South Gate Crossing #1481,3112 16th St. SW,Ste. D,Minot,ND,58701,US,(701) 852-7827,48.203647,-101.317659,10:30am - 10:00pm,,False
+01213,Findlay #1213,1978 Tiffin Ave.,,Findlay,OH,45840,US,(567) 525-3600,41.054226,-83.607385,10:30am - 9:00pm,,False
+01345,Newark #1345,1222 N 21st Street,,Newark,OH,43055,US,(740) 281-3017,40.081863,-82.427435,10:00am - 9:30pm,,False
+01057,Pickerington #1057,152 Clint Drive,,Pickerington,OH,43147,US,(614) 892-7020,39.920282,-82.781884,10:30am - 10:00pm,,False
+01529,Washington Rd - Coming Soon #1529,360 Washington Rd.,,Washington,PA,15301,US,Coming Soon,40.186099,-80.22106,,,True
+01540,Market Street #1540,3023 West Market Street,,Fairlawn,OH,44333,US,(330) 835-4841,41.129045,-81.611112,10:00am - 10:00pm,,False
+00780,Strongsville #780,17250 Royalton Rd.,,Strongsville,OH,44136,US,(440) 238-1133,41.314029,-81.820734,10:30am - 9:00pm,,False
+00683,Mayfield Heights #683,6232 Mayfield Road,,Mayfield Heights,OH,44124,US,(440) 442-0782,41.519687,-81.454724,10:30am - 10:00pm,,False
+01501,River Plaza - Coming Soon #1501,21860 Center Ridge Road,,Rocky River,OH,44116,US,Coming Soon,41.459097,-81.862393,,,True
+00803,Mentor Ave. #803,9209 Mentor Ave.,,Mentor,OH,44060,US,(440) 974-8515,41.6764311,-81.3117527,10:30am - 10:00pm,,False
+00735,Grand Central Ave #735,107 Grand Central Avenue,Suite C,Vienna,WV,26105,US,(304) 893-9782,39.303734,-81.5496309,10:30am - 9:00pm,,False
+00894,Pointe at North Fayette #894,320 McHolme Drive,,Pittsburgh,PA,15275,US,(412) 788-4070,40.4489019,-80.174548,10:30am - 9:00pm,,False
+00815,North Heights Plaza #815,8436 Old Troy Pike,,Dayton,OH,45424,US,(937) 938-9737,39.877172,-84.1368565,10:30am - 10:00pm,,False
+00515,Polaris Parkway #515,2140 Polaris Parkway,,Columbus,OH,43240,US,(614) 515-5882,40.1457975,-82.9599507,10:30am - 9:00pm,,False
+00518,Sawmill Place #518,6454 Sawmill Rd.,,Columbus,OH,43235,US,(614) 889-1000,40.0998826,-83.0905428,10:30am - 10:00pm,,False
+01203,Hamilton Morse #1203,4994 N. Hamilton Rd.,Space B,Columbus,OH,43230,US,(614) 855-2444,40.058043,-82.863395,10:30am - 10:00pm,,False
+00983,Kenny Rd. #983,1132 W. Henderson Rd.,,Columbus,OH,43220,US,(614) 745-2823,40.0530809,-83.0482437,10:30am - 9:00pm,,False
+00680,South Gahanna #680,406 Granville Street,,Gahanna,OH,43230,US,(614) 269-8600,40.018692,-82.86702,10:30am - 10:00pm,,False
+00693,Grandview #693,955 W 5th Ave.,,Columbus,OH,43212,US,(614) 298-1324,39.987429,-83.031729,10:30am - 9:00pm,,False
+00663,Renner Road #663,1511 Hilliard Rome Road,,Columbus,OH,43228,US,(614) 851-3100,39.9799703,-83.1507396,10:30am - 9:00pm,,False
+00723,Cranberry Twp #723,20436 US HWY 19,Suite 600,Cranberry Township,PA,16066,US,(724) 591-8668,40.6953308,-80.1022959,10:30am - 9:00pm,,False
+01498,Butler Crossing #1498,620 Butler Crossing,Suite 1,Butler Township,PA,16001,US,(724) 841-0114,40.87733,-79.946654,10:30am - 9:00pm,,False
+01473,Cornerstone #1473,5239 Cornerstone North Blvd.,,Centerville,OH,45440,US,(937) 310-1160,39.663315,-84.107177,10:30am - 9:00pm,,False
+00970,University of Dayton #970,6 Oakwood Ave.,Suite A,Dayton,OH,45409,US,(937) 813-1585,39.733209,-84.179903,10:30am - 10:00pm,,False
+00945,Kettering #945,4301 Far Hills Ave.,,Kettering,OH,45429,US,(937) 298-4444,39.6854327,-84.1678855,10:30am - 9:00pm,,False
+00794,6th & West #794,524 W. 6th Ave,,Stillwater,OK,74074,US,(405) 564-0544,36.1157731,-97.0650744,10:30am - 9:00pm,,False
+01110,South Edmond #1110,1597 S. Broadway,,Edmond,OK,73013,US,(405) 513-7100,35.6370207,-97.4837028,10:30am - 9:00pm,,False
+00965,Quail Springs #965,2410 W. Memorial Rd.,Suite A,Oklahoma City,OK,73134,US,(405) 607-8199,35.6080577,-97.5576754,10:30am - 10:00pm,,False
+00868,NW Expressway OKC #868,5959 NW Expressway,,Oklahoma City,OK,73132,US,(405) 721-2000,35.5505774,-97.6212132,10:30am - 9:00pm,,False
+00435,Sherman #435,853 North Creek Dr.,,Sherman,TX,75092,US,(903) 892-6400,33.680434,-96.619681,10:30am - 9:00pm,,False
+00877,Eldorado Plaza #877,2890 Craig Dr.,,McKinney,TX,75070,US,(469) 952-6399,33.174662,-96.6436049,10:30am - 9:00pm ,,False
+00733,Crimson Creek #733,320 12th Ave SE,Suite 120,Norman,OK,73071,US,(405) 701-7002,35.21444,-97.424673,10:30am - 10:00pm,,False
+00891,Riverwalk North #891,1301 S. I35 Service Rd.,,Moore,OK,73160,US,(405) 703-2805,35.326309,-97.4911879,10:30am - 10:00pm,,False
+01389,N. MACARTHUR OKC #1389,5924 SW 3rd St.,,Oklahoma City,OK,73127,US,(405) 792-2236,35.461983,-97.620369,10:30am - 9:00pm,,False
+00871,Broken Arrow #871,1124 North 9th St.,,Broken Arrow,OK,74012,US,(918) 251-4953,36.0609232,-95.7795645,10:30am - 9:00pm,,False
+01152,71st & Lewis #1152,7030 S. Lewis Ave.,Ste. A,Tulsa,OK,74136,US,918-576-6100,36.061815,-95.959043,10:30am - 9:00pm,,False
+00370,Woodland Hills #370,6630 S. Memorial Dr.,,Tulsa,OK,74133,US,(918) 249-3473,36.0669545,-95.8868147,10:30am - 9:00pm,,False
+01485,Rayzor Ranch #1485,2735 W. University Dr.,Ste. 1059,Denton,TX,76201,US,(940) 243-5660,33.229796,-97.167544,10:30am - 9:00pm,,False
+01296,SE Commercial #1296,3810 Commercial St. SE,,Salem,OR,97302,US,(971) 719-2941,44.901059,-123.039441,10:30am - 9:00pm,,False
+01406,Gateway Mall #1406,2820 Gateway St.,Suite MT-104,Springfield,OR,97477,US,(458) 205-8250,44.073899,-123.045435,10:30am - 9:00pm,,False
+01062,Cedar Hills #1062,2755 SW Cedar Hills Blvd.,Suite 102,Beaverton,OR,97005,US,(503) 747-0910,45.5002612,-122.8066172,10:30am - 9:30pm,,False
+01515,Washington Green #1515,9120 SW Hall Blvd.,Suite C,Beaverton,OR,97223,US,Coming Soon,45.454722,-122.777189,10:30am - 9:30pm,,False
+01249,Nyberg Rivers #1249,7665 SW Nyberg St.,,Tualatin,OR,97062,US,(503) 454-0969,45.3827668,-122.7544666,10:00am - 9:30pm,,False
+01232,Vancouver Park Place #1232,8101 NE Parkway Dr.,C-1,Vancouver,WA,98662,US,(360) 718-2609,45.6541443,-122.5894575,10:30am - 9:00pm,,False
+01071,Mill Plain Crossing #1071,19151 SE Mill Plain Blvd,Suite 102,Vancouver,WA,98683,US,(360) 253-4200,45.6165875,-122.4776984,10:30am - 9:00pm,,False
+01252,Gresham Village #1252,2442 SE Burnside Rd,,Gresham,OR,97080,US,(503) 491-3585,45.495195,-122.408175,10:30am - 9:00pm,,False
+01063,West Manchester Mall #1063,310 Town Center Dr.,,York,PA,17408,US,(717) 764-3473,39.969286,-76.770065,10:30am - 9:00pm,,False
+01456,York Marketplace #1456,2531 East Market St.,,York,PA,17402,US,(717) 430-4847,39.974496,-76.678002,10:30am - 9:00pm,,False
+01105,Berkshire #1105,1665 State Hill Rd.,,Wyomissing,PA,19610,US,(484) 709-2780,40.3392907,-75.9709155,10:30am - 9:30pm,,False
+01444,Carlisle Commons - Coming Soon #1444,10 Noble Blvd.,Suite 5,Carlisle,PA,17013,US,Coming Soon,40.190589,-77.196661,,,True
+00602,Gallery Dr #602,126 Gallery Drive,,McMurray,PA,15317,US,(724) 260-5345,40.2899,-80.1133,10:30am - 9:00pm,,False
+00404,Greenwood #404,310 Hwy. 72 Bypass Nw,,Greenwood,SC,29649,US,(864) 227-1698,34.211288,-82.176833,10:30am - 10:00pm,,False
+00462,Sumter #462,1293 Broad St.,,Sumter,SC,29150,US,(803) 469-7000,33.957572,-80.3904359,10:30am - 10:00pm,,False
+00454,Magnolia Plaza #454,3007-B West Radio Dr.,,Florence,SC,29501,US,(843) 669-1411,34.1878199,-79.8384654,10:30am - 10:00pm,,False
+00054,Florence #54,2108 S. Irby St.,Ste. 3,Florence,SC,29505,US,(843) 679-9633,34.1541141,-79.7686277,10:30am - 9:00pm,,False
+00256,Spring Valley #256,10136-B Two Notch Rd.,,Columbia,SC,29229,US,(803) 419-8161,34.1171699,-80.8815508,10:30am - 10:00pm,,False
+00665,Forest Drive #665,3250 Forest Drive,,Columbia,SC,29204,US,(803) 445-1312,34.016874,-80.994283,10:30am - 10:00pm,,False
+00410,Hardscrabble #410,4546 Hardscrabble Rd.,,Columbia,SC,29229,US,(803) 736-9680,34.1489843,-80.9111585,10:30am - 10:00pm,,False
+00307,USC-Columbia #307,633 Main St.,,Columbia,SC,29201,US,(803) 733-9836,33.994284,-81.0305957,10:30am - 9:00pm,,False
+01467,Azalea Square #1467,220-C Azalea Square Blvd.,,Summerville,SC,29483,US,(843) 871-6107,33.037169,-80.161238,10:30am - 9:00pm,,False
+00358,Dorman Village #358,127 East Blackstock Road,Suite 700,Spartanburg,SC,29301,US,(864) 541-7523,34.932783,-81.989058,10:30am - 10:00pm,,False
+00658,Pine St. #658,159 S. Pine St.,Suite A,Spartanburg,SC,29302,US,(864) 541
