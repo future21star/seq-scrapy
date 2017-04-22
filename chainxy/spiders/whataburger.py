@@ -20,8 +20,9 @@ class WhataBurgerSpider(scrapy.Spider):
 
 	def start_requests(self):
 	  for row in self.place_reader:
-	    request_url = "https://locations.whataburger.com/search.html?q=%s" % row["city"]
-	    yield scrapy.Request(url=request_url, callback=self.parse_store)
+			city = '+'.join(row['city'].split(' '))
+			request_url = "https://locations.whataburger.com/search.html?q=%s" % city
+			yield scrapy.Request(url=request_url, callback=self.parse_store)
 
 	# get longitude and latitude for a state by using google map.
 	def parse_store(self, response):
@@ -30,7 +31,7 @@ class WhataBurgerSpider(scrapy.Spider):
 			for store in stores:
 				item = ChainItem()
 				item['store_name'] = self.validate(store.xpath('.//a[@class="location-title-link"]/span/text()'))
-				item['store_number'] = ""
+				item['store_number'] = self.validate(store.xpath('@id'))
 				item['address'] = self.validate(store.xpath('.//span[@class="c-address-street c-address-street-1"]/text()')) 
 				item['address2'] = ""
 				item['phone_number'] = ""

@@ -15,12 +15,15 @@ class WegmansSpider(scrapy.Spider):
     headers = {}
 
     def __init__(self):
-        place_file = open('cities.json', 'rb')
-        self.place_reader = json.load(place_file)
+			content = ""
+			with open("all_zips") as f:
+				content = f.readlines()
+			# you may also want to remove whitespace characters like `\n` at the end of each line
+			self.zip_code_list = [x.strip() for x in content]
     
     def start_requests(self):
-        for row in self.place_reader:
-            request_url = "https://sp1004f27d.guided.ss-omtrdc.net/?q=%s&do=location-search;sp_c=1000;callback=angular.callbacks._7" % (row["city"])  
+        for zip_code in self.zip_code_list:
+            request_url = "https://sp1004f27d.guided.ss-omtrdc.net/?q=*&do=location-search&sp_q_location_1=%s&sp_x_1=zip&sp_q_max_1=1000&sp_s=zip_proximity;sp_c=1000;callback=angular.callbacks._2" % (zip_code)  
             yield scrapy.Request(url=request_url, callback=self.parse_store)
 
     # get longitude and latitude for a state by using google map.
