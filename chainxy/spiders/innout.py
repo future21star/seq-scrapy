@@ -37,7 +37,7 @@ class InnoutSpider(scrapy.Spider):
 				item['city'] = self.validate(store, 'City')
 				item['state'] = self.validate(store, 'State')
 				item['zip_code'] = self.validate(store, 'ZipCode')
-				item['country'] = 'US'
+				item['country'] = ""
 				item['latitude'] = self.validate(store, 'Latitude')
 				item['longitude'] = self.validate(store,  'Longitude')
 				item['store_hours'] = ""

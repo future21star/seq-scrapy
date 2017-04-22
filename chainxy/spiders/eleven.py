@@ -25,7 +25,7 @@ class ElevenSpider(scrapy.Spider):
 					'Filters' : [],
 					'PageNumber' : "0",
 					"PageSize" : "100000",
-					"SearchRangeMiles" : "5",
+					"SearchRangeMiles" : "3000",
 					"SourceLatitude" : row[0],
 					"SourceLongitude": row[1]
 				}
@@ -52,7 +52,7 @@ class ElevenSpider(scrapy.Spider):
 				#item['store_type'] = info_json["@type"]
 				item['other_fields'] = ""
 				item['coming_soon'] = ""
-				if item['store_number'] == "" or (item["store_number"] in self.uid_list):
+				if ( item['store_number'] != "" and item["store_number"] in self.uid_list):
 				    return
 				self.uid_list.append(item["store_number"])
 				yield item

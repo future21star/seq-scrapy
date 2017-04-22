@@ -29,6 +29,7 @@ class FireHouseSubsSpider(scrapy.Spider):
 			stores = json.loads(response.body)
 			for store in stores:
 				item = ChainItem()
+				pdb.set_trace()
 				item['store_name'] = self.validate(store, 'siteId')
 				item['store_number'] = self.validate(store, 'title')
 				item['address'] = self.validate(store, 'address') 
@@ -37,7 +38,7 @@ class FireHouseSubsSpider(scrapy.Spider):
 				item['city'] = self.validate(store, 'city')
 				item['state'] = self.validate(store, 'state')
 				item['zip_code'] = self.validate(store, 'zip')
-				item['country'] = 'US'
+				item['country'] = ""
 				item['latitude'] = self.validate(store, 'latitude')
 				item['longitude'] = self.validate(store,  'longitude')
 				item['store_hours'] = self.validate(store,  'hoursOpen')
