@@ -28,8 +28,8 @@ class ElevenSpider(scrapy.Spider):
 			form_data = {
 				'Filters' : [],
 				'PageNumber' : "0",
-				"PageSize" : "5",
-				"SearchRangeMiles" : "5",
+				"PageSize" : "100000",
+				"SearchRangeMiles" : "1000000",
 				"SourceLatitude" : "34.0522342",
 				"SourceLongitude": "-118.2436849"
 			}
