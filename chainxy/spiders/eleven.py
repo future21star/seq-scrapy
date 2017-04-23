@@ -16,22 +16,19 @@ class ElevenSpider(scrapy.Spider):
 		headers = { "Content-Type": "application/json", "Accept":"*/*" }
 
 		def __init__(self):
-			place_file = open('all_code_list.csv', 'rb')
-			self.place_reader = csv.reader(place_file)
 			self.geolocator = Nominatim()
 
 		def start_requests(self):
-			for row in self.place_reader:
-				request_url = "https://www.7-eleven.com/api/location/searchstores"
-				form_data = {
-					'Filters' : [],
-					'PageNumber' : "0",
-					"PageSize" : "100000",
-					"SearchRangeMiles" : "1000000",
-					"SourceLatitude" : "34.0522342",
-					"SourceLongitude": "-118.2436849"
-				}
-				yield scrapy.Request(url=request_url, method="POST", body=json.dumps(form_data), headers=self.headers, callback=self.parse_store)
+			request_url = "https://www.7-eleven.com/api/location/searchstores"
+			form_data = {
+				'Filters' : [],
+				'PageNumber' : "0",
+				"PageSize" : "100000",
+				"SearchRangeMiles" : "1000000",
+				"SourceLatitude" : "34.0522342",
+				"SourceLongitude": "-118.2436849"
+			}
+			yield scrapy.Request(url=request_url, method="POST", body=json.dumps(form_data), headers=self.headers, callback=self.parse_store)
 
 		# get longitude and latitude for a state by using google map.
 		def parse_store(self, response):
@@ -49,7 +46,7 @@ class ElevenSpider(scrapy.Spider):
 				item['zip_code'] = self.validate(store, 'Zip')
 				item['latitude'] = self.validate(store, 'Latitude')
 				item['longitude'] = self.validate(store,  'Longitude')
-				item['country'] = self.get_info_from_latlng(item['latitude'], item['longitude']) if 'country' in self.get_info_from_latlng(item['latitude'], item['longitude']) else ""
+				item['country'] = self.get_info_from_latlng(item['latitude'], item['longitude'])['country'] if 'country' in self.get_info_from_latlng(item['latitude'], item['longitude']) else ""
 				item['store_hours'] = ""
 				#item['store_type'] = info_json["@type"]
 				item['other_fields'] = ""
@@ -57,6 +54,7 @@ class ElevenSpider(scrapy.Spider):
 				if ( item['store_number'] != "" and item["store_number"] in self.uid_list):
 				    return
 				self.uid_list.append(item["store_number"])
+				# if (item['country'] and item['country'] == 'US'):
 				yield item
 
 		def validate(self, store, attribute):
