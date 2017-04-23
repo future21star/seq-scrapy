@@ -17,14 +17,19 @@ class ElevenSpider(scrapy.Spider):
 
 		def __init__(self):
 			self.geolocator = Nominatim()
+			place_file = open('all_code_list.csv', 'rb')
+			self.place_reader = csv.reader(place_file)
+			self.us_zip_code_list = []
+			for row in self.place_reader:
+				self.us_zip_code_list.append(row[0])
 
 		def start_requests(self):
 			request_url = "https://www.7-eleven.com/api/location/searchstores"
 			form_data = {
 				'Filters' : [],
 				'PageNumber' : "0",
-				"PageSize" : "100000",
-				"SearchRangeMiles" : "1000000",
+				"PageSize" : "5",
+				"SearchRangeMiles" : "5",
 				"SourceLatitude" : "34.0522342",
 				"SourceLongitude": "-118.2436849"
 			}
@@ -46,7 +51,6 @@ class ElevenSpider(scrapy.Spider):
 				item['zip_code'] = self.validate(store, 'Zip')
 				item['latitude'] = self.validate(store, 'Latitude')
 				item['longitude'] = self.validate(store,  'Longitude')
-				item['country'] = self.get_info_from_latlng(item['latitude'], item['longitude'])['country'] if 'country' in self.get_info_from_latlng(item['latitude'], item['longitude']) else ""
 				item['store_hours'] = ""
 				#item['store_type'] = info_json["@type"]
 				item['other_fields'] = ""
@@ -54,8 +58,9 @@ class ElevenSpider(scrapy.Spider):
 				if ( item['store_number'] != "" and item["store_number"] in self.uid_list):
 				    return
 				self.uid_list.append(item["store_number"])
-				# if (item['country'] and item['country'] == 'US'):
-				yield item
+				if (item['zip_code'].split('-')[0] in self.us_zip_code_list):
+					item['country'] = "US"
+					yield item
 
 		def validate(self, store, attribute):
 			if (attribute in store) and (store[attribute] != "null") :
