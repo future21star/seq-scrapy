@@ -7,6 +7,7 @@ from scrapy.http import Request
 from scrapy.selector import HtmlXPathSelector
 from chainxy.items import ChainItem
 import pdb
+from geopy.geocoders import Nominatim
 
 class ElevenSpider(scrapy.Spider):
 		name = "eleven"
@@ -15,8 +16,9 @@ class ElevenSpider(scrapy.Spider):
 		headers = { "Content-Type": "application/json", "Accept":"*/*" }
 
 		def __init__(self):
-			place_file = open('uscanplaces.csv', 'rb')
+			place_file = open('all_code_list.csv', 'rb')
 			self.place_reader = csv.reader(place_file)
+			self.geolocator = Nominatim()
 
 		def start_requests(self):
 			for row in self.place_reader:
@@ -25,9 +27,9 @@ class ElevenSpider(scrapy.Spider):
 					'Filters' : [],
 					'PageNumber' : "0",
 					"PageSize" : "100000",
-					"SearchRangeMiles" : "3000",
-					"SourceLatitude" : row[0],
-					"SourceLongitude": row[1]
+					"SearchRangeMiles" : "1000000",
+					"SourceLatitude" : "34.0522342",
+					"SourceLongitude": "-118.2436849"
 				}
 				yield scrapy.Request(url=request_url, method="POST", body=json.dumps(form_data), headers=self.headers, callback=self.parse_store)
 
@@ -45,9 +47,9 @@ class ElevenSpider(scrapy.Spider):
 				item['city'] = self.validate(store, 'City')
 				item['state'] = self.validate(store, 'State')
 				item['zip_code'] = self.validate(store, 'Zip')
-				item['country'] = 'US'
 				item['latitude'] = self.validate(store, 'Latitude')
 				item['longitude'] = self.validate(store,  'Longitude')
+				item['country'] = self.get_info_from_latlng(item['latitude'], item['longitude']) if 'country' in self.get_info_from_latlng(item['latitude'], item['longitude']) else ""
 				item['store_hours'] = ""
 				#item['store_type'] = info_json["@type"]
 				item['other_fields'] = ""
@@ -62,4 +64,14 @@ class ElevenSpider(scrapy.Spider):
 				return store[attribute]
 			return ""
 
-
+		def get_info_from_latlng(self, lat, lng):
+			location = self.geolocator.reverse("%s, %s" % (str(lat), str(lng)))
+			try:
+				return {
+					'city': location.raw["address"]["town"] if "town" in location.raw["address"] else location.raw["address"]["city"],
+					'state': location.raw["address"]["state"] if "state" in location.raw["address"] else "",
+					'zip_code': location.raw["address"]["postcode"],
+					'country': location.raw["address"]["country_code"].upper()
+				}
+			except:
+				return {}
