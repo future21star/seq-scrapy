@@ -13,15 +13,10 @@ class SwarovskiSpider(scrapy.Spider):
     uid_list = []
 
     headers = { }
-
-    def __init__(self):
-        place_file = open('uscanplaces.csv', 'rb')
-        self.place_reader = csv.reader(place_file)
     
     def start_requests(self):
-        for row in self.place_reader:
-            request_url = "http://www.swarovski.com/is-bin/INTERSHOP.enfinity/WFS/SCO-Web_AA-Site/en_US/-/EUR/SPAG_Storefinder-GetStoresJSON?lat=%s&lng=%s&radius=30" % (row[0], row[1])  
-            yield scrapy.Request(url=request_url, callback=self.parse_store)
+			request_url = "http://www.swarovski.com/is-bin/INTERSHOP.enfinity/WFS/SCO-Web_AA-Site/en_US/-/EUR/SPAG_Storefinder-GetStoresJSON?lat=34.0522342&lng=-118.2436849&radius=1000000"
+			yield scrapy.Request(url=request_url, callback=self.parse_store)
 
     # get longitude and latitude for a state by using google map.
     def parse_store(self, response):

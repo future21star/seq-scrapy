@@ -14,14 +14,9 @@ class JourneysSpider(scrapy.Spider):
 
 		headers = { }
 
-		def __init__(self):
-			place_file = open('all_code_list.csv', 'rb')
-			self.place_reader = csv.reader(place_file)
-
 		def start_requests(self):
-			for row in self.place_reader:
-				request_url = "https://www.journeys.com/store_locator?latitude=&longitude=&State=&zip=%s&radius=100&JY=1&KZ=1&SHI=1&UBJ=1" % (row[0])  
-				yield scrapy.Request(url=request_url, callback=self.parse_store)
+			request_url = "https://www.journeys.com/stores_all"  
+			yield scrapy.Request(url=request_url, callback=self.parse_store)
 
     # get longitude and latitude for a state by using google map.
 		def parse_store(self, response):
@@ -35,9 +30,9 @@ class JourneysSpider(scrapy.Spider):
 					item['address'] = self.replaceWithNone(store.xpath('./text()').extract()[1]) 
 					item['address2'] = ""
 					item['phone_number'] = self.replaceWithNone(store.xpath('./text()').extract()[3])
-					item['city'] = self.replaceWithBlank(store.xpath('./text()').extract()[2]).split()[0]
-					item['state'] = self.replaceWithBlank(store.xpath('./text()').extract()[2]).split()[1]
-					item['zip_code'] = self.replaceWithBlank(store.xpath('./text()').extract()[2]).split()[2]
+					item['city'] = store.xpath('./text()').extract()[2].split(',')[0].replace('\r','').replace('\n','').strip()
+					item['state'] = store.xpath('./text()').extract()[2].split(',')[1].replace('\r','').replace('\n','').strip().split()[0]
+					item['zip_code'] = store.xpath('./text()').extract()[2].split(',')[1].replace('\r','').replace('\n','').strip().split()[1]
 					item['country'] = ""
 					item['latitude'] = ""
 					item['longitude'] = ""
@@ -60,11 +55,11 @@ class JourneysSpider(scrapy.Spider):
 
 		def replaceWithNone(self, str):
 			try:
-				return str.replace('\r', '').replace('\n','').replace('\t','')
+				return str.replace('\r', '').replace('\n','').replace('\t','').strip()
 			except:
 				return ""
 		def replaceWithBlank(self, str):
 			try:
-				return str.replace('\r', ' ').replace('\n',' ').replace('\t',' ').replace(',', ' ')
+				return str.replace('\r', ' ').replace('\n',' ').replace('\t',' ').replace(',', ' ').strip()
 			except:
 				return ""			
