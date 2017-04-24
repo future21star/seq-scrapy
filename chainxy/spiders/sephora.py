@@ -71,7 +71,7 @@ class SephoraSpider(scrapy.Spider):
 
 		def replaceWithNone(self, str):
 			try:
-				return str.replace('\r', '').replace('\n','').replace('\t','').strip()
+				return str.encode('utf-8').replace('\r', '').replace('\n','').replace('\t','').replace('\xc2\xa0', '').strip()
 			except:
 				return ""
 		def replaceWithBlank(self, str):

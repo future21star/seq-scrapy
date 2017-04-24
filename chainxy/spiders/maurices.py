@@ -37,14 +37,14 @@ class MauricesSpider(scrapy.Spider):
 					item['latitude'] = self.validate(store, 'lat')
 					item['longitude'] = self.validate(store, 'lng')
 					info = html.fromstring(store['info'])
-					item['store_name'] = info.xpath("//div[@class='location-name']/text()")[0].strip()
+					item['store_name'] = self.validate_xpath(info.xpath("//div[@class='location-name']/text()"))
 					item['store_number'] = ""
-					item['address'] = info.xpath("//p[@class='address']/span/text()")[0].strip()
+					item['address'] = self.validate_xpath(info.xpath("//p[@class='address']/span/text()"))
 					item['address2'] = ""
 					item['phone_number'] = info.xpath("//a[@class='phone']/text()")[1].strip()
-					item['city'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[0].strip()
-					item['state'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[1].split()[0].strip()
-					item['zip_code'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[1].split()[1].strip()
+					item['city'] = info.xpath("//p[@class='address']/span/text()")[-1].split(',')[0].strip()
+					item['state'] = info.xpath("//p[@class='address']/span/text()")[-1].split(',')[1].split()[0].strip()
+					item['zip_code'] = info.xpath("//p[@class='address']/span/text()")[-1].split(',')[1].split()[1].strip()
 					item['country'] = ""
 					if (item['zip_code'].split('-')[0] in self.us_zip_code_list):
 						item['country'] = "US"
@@ -62,3 +62,9 @@ class MauricesSpider(scrapy.Spider):
 			if attribute in store:
 				return store[attribute]
 			return ""
+
+		def validate_xpath(self, xpath_obj):
+			try:
+				return xpath_obj[0].strip()
+			except:
+				return ""
