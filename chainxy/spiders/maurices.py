@@ -30,31 +30,34 @@ class MauricesSpider(scrapy.Spider):
 
 		# get longitude and latitude for a state by using google map.
 		def parse_store(self, response):
-			# try:
 			stores = json.loads(response.body)["markers"]
 			for store in stores:
-				item = ChainItem()
-				item['latitude'] = self.validate(store, 'lat')
-				item['longitude'] = self.validate(store, 'lng')
-				info = html.fromstring(store['info'])
-				item['store_name'] = info.xpath("//div[@class='location-name']/text()")[0].strip()
-				item['store_number'] = ""
-				item['address'] = info.xpath("//p[@class='address']/span/text()")[0].strip()
-				item['address2'] = ""
-				item['phone_number'] = info.xpath("//a[@class='phone']/text()")[1].strip()
-				item['city'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[0].strip()
-				item['state'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[1].split()[0].strip()
-				item['zip_code'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[1].split()[1].strip()
-				item['country'] = ""
-				if (item['zip_code'].split('-')[0] in self.us_zip_code_list):
-					item['country'] = "US"
-				else:
-					item['country'] = "CA"				
-				item['store_hours'] = ""
-				#item['store_type'] = info_json["@type"]
-				item['other_fields'] = ""
-				item['coming_soon'] = ""
-				yield item
+				try:
+					item = ChainItem()
+					item['latitude'] = self.validate(store, 'lat')
+					item['longitude'] = self.validate(store, 'lng')
+					info = html.fromstring(store['info'])
+					item['store_name'] = info.xpath("//div[@class='location-name']/text()")[0].strip()
+					item['store_number'] = ""
+					item['address'] = info.xpath("//p[@class='address']/span/text()")[0].strip()
+					item['address2'] = ""
+					item['phone_number'] = info.xpath("//a[@class='phone']/text()")[1].strip()
+					item['city'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[0].strip()
+					item['state'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[1].split()[0].strip()
+					item['zip_code'] = info.xpath("//p[@class='address']/span/text()")[1].split(',')[1].split()[1].strip()
+					item['country'] = ""
+					if (item['zip_code'].split('-')[0] in self.us_zip_code_list):
+						item['country'] = "US"
+					else:
+						item['country'] = "CA"				
+					item['store_hours'] = ""
+					#item['store_type'] = info_json["@type"]
+					item['other_fields'] = ""
+					item['coming_soon'] = ""
+					pdb.set_trace()
+					yield item
+				except:
+					continue
 
 		def validate(self, store, attribute):
 			if attribute in store:
