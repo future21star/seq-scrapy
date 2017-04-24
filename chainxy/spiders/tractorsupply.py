@@ -28,7 +28,6 @@ class TractorSupplySpider(scrapy.Spider):
 	# get longitude and latitude for a state by using google map.
 	def parse_store(self, response):
 		try:
-			stores = response.xpath('//div[contains(@class, $val)]', val="storelocator_searchresults")
 			stores = response.xpath('//div[contains(@class, "cl-list")]//form')
 			for each_item in stores:
 				item = ChainItem()
@@ -51,7 +50,7 @@ class TractorSupplySpider(scrapy.Spider):
 				item['other_fields'] = ""
 				item['coming_soon'] = ""
 				if item['store_number'] != "" and item["store_number"] in self.uid_list:
-				    return
+				    continue
 				self.uid_list.append(item["store_number"])
 				yield item
 		except:
