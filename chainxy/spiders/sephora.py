@@ -11,7 +11,7 @@ import pdb
 class SephoraSpider(scrapy.Spider):
 		name = "sephora"
 		uid_list = []
-
+		start_request = "http://www.sephora.com/storelist"
 		headers = { "Content-Type": "application/json", "Accept":"*/*" }
 
 		def __init__(self):
@@ -19,49 +19,51 @@ class SephoraSpider(scrapy.Spider):
 			self.place_reader = csv.reader(place_file)
 
 		def start_requests(self):
-			for row in self.place_reader:
-				request_url = "http://www.sephora.com/about/storeresults.jsp?lng=%s&lat=%s&loc=%s&radius=5&unit=miles" % (row[2], row[1], row[0])
-				yield scrapy.Request(url=request_url, callback=self.parse_store)
+			yield scrapy.Request(url=self.start_request, callback=self.parse_stores_list)
+
+		def parse_stores_list(self, response):
+			for group in response.xpath("//ul[contains(@class, 'u-listReset')]"):
+				for store in group.xpath("./li"):
+					yield scrapy.Request(url=store.xpath("./a/@href").extract_first(), callback=self.parse_store)
 
     # get longitude and latitude for a state by using google map.
-		def parse_store(self, response):
+		def parse_store(self, store):
 			# try:
-			try:
-				pdb.set_trace()
-				stores = response.xpath('//div[contains(@class,"StoreResult")]')
-				for store in stores:
-					item = ChainItem()
-					item['store_name'] = self.replaceWithNone(store.xpath("./strong/a/text()").extract()[0])
-					item['store_number'] = self.replaceWithNone(store.xpath("./strong/a/text()").extract()[1])
-					item['address'] = self.replaceWithNone(store.xpath('./text()').extract()[1]) 
-					item['address2'] = ""
-					item['phone_number'] = self.replaceWithNone(store.xpath('./text()').extract()[3])
-					item['city'] = self.replaceWithBlank(store.xpath('./text()').extract()[2]).split()[0]
-					item['state'] = self.replaceWithBlank(store.xpath('./text()').extract()[2]).split()[1]
-					item['zip_code'] = self.replaceWithBlank(store.xpath('./text()').extract()[2]).split()[2]
-					item['country'] = ""
-					item['latitude'] = ""
-					item['longitude'] = ""
-					item['store_hours'] = ""
-					# item['store_type'] = info_json["@type"]
-					item['other_fields'] = ""
-					item['coming_soon'] = ""
-					if item['store_number'] == "" or (item["store_number"] in self.uid_list):
-					    return
-					self.uid_list.append(item["store_number"])
-					yield item
-			except:
-				pass
+				item = ChainItem()
+				item['store_name'] = self.validate(store.xpath('//*[@id="main"]/div/h1/text()'))
+				item['store_number'] = ""
+				item['address'] = self.validate(store.xpath('//li[@class="store-address1"]/text()'))
+				item['address2'] = ""
+				item['city'] = self.replaceWithNone(self.validate(store.xpath('//li[@class="store-address2"]/text()')).split(",")[0])
+				item['state'] = self.validate(store.xpath('//li[@class="store-address2"]/text()')).split(",")[1].split()[0]
+				item['zip_code'] = self.validate(store.xpath('//li[@class="store-address2"]/text()')).split(",")[1].split()[1]
+				item['country'] = ""
+				item['phone_number'] = self.validate(store.xpath('//li[@class="phone"]/text()')).split(":")[1].strip()
+				item['latitude'] = ""
+				item['longitude'] = ""
+				_hour_list = store.xpath('//ul[@class="u-listReset"]')[1]
+				hour_list = _hour_list.xpath('./li/text()').extract()
+				del hour_list[0]
+				item['store_hours'] = ""
+				for hour in hour_list:
+					item['store_hours'] += self.replaceWithNone(hour) + ";"
+				# item['store_type'] = info_json["@type"]
+				item['other_fields'] = ""
+				item['coming_soon'] = ""
+				if item['store_name'] == "" or (item["store_name"] in self.uid_list):
+				    return
+				self.uid_list.append(item["store_name"])					
+				yield item
 
 		def validate(self, xpath_obj):
 			try:
-				return xpath_obj.extract_first().strip()
+				return xpath_obj.extract_first().replace('\n','').replace('\r','').strip()
 			except:
 				return ""
 
 		def replaceWithNone(self, str):
 			try:
-				return str.replace('\r', '').replace('\n','').replace('\t','')
+				return str.replace('\r', '').replace('\n','').replace('\t','').strip()
 			except:
 				return ""
 		def replaceWithBlank(self, str):
