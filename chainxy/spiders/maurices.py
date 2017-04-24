@@ -54,7 +54,6 @@ class MauricesSpider(scrapy.Spider):
 					#item['store_type'] = info_json["@type"]
 					item['other_fields'] = ""
 					item['coming_soon'] = ""
-					pdb.set_trace()
 					yield item
 				except:
 					continue
