@@ -17,6 +17,9 @@ class SephoraSpider(scrapy.Spider):
 		def __init__(self):
 			place_file = open('all_code_list.csv', 'rb')
 			self.place_reader = csv.reader(place_file)
+			self.us_zip_code_list = []
+			for row in self.place_reader:
+				self.us_zip_code_list.append(row[0])
 
 		def start_requests(self):
 			yield scrapy.Request(url=self.start_request, callback=self.parse_stores_list)
@@ -37,7 +40,11 @@ class SephoraSpider(scrapy.Spider):
 				item['city'] = self.replaceWithNone(self.validate(store.xpath('//li[@class="store-address2"]/text()')).split(",")[0])
 				item['state'] = self.validate(store.xpath('//li[@class="store-address2"]/text()')).split(",")[1].split()[0]
 				item['zip_code'] = self.validate(store.xpath('//li[@class="store-address2"]/text()')).split(",")[1].split()[1]
-				item['country'] = ""
+				item["country"] = ""
+				if (item['zip_code'].split('-')[0] in self.us_zip_code_list):
+					item['country'] = "US"
+				else:
+					item['country'] = "CA"				
 				item['phone_number'] = self.validate(store.xpath('//li[@class="phone"]/text()')).split(":")[1].strip()
 				item['latitude'] = ""
 				item['longitude'] = ""
@@ -48,6 +55,7 @@ class SephoraSpider(scrapy.Spider):
 				for hour in hour_list:
 					item['store_hours'] += self.replaceWithNone(hour) + ";"
 				# item['store_type'] = info_json["@type"]
+				item['store_hours'] = item["store_hours"].encode("utf-8").replace('\xc2\xa0', '')
 				item['other_fields'] = ""
 				item['coming_soon'] = ""
 				if item['store_name'] == "" or (item["store_name"] in self.uid_list):
