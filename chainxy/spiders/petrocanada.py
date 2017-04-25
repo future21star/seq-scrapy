@@ -16,7 +16,7 @@ from lxml import etree
 class PetrocanadaSpider(scrapy.Spider):
 	name = "petrocanada"
 	uid_list = []
-
+	states_list = []
 	headers = {"Content-Type" : "application/x-www-form-urlencoded"}
 	request_url_for_gas_station = "http://www.petro-canada.ca/services/4146.aspx?P=%s&B=&SI=%s" #SI:count
 	request_url_for_truck_stop = "http://www.petro-canada.ca/services/6197.aspx?P=%s&B=&SI=%s"
@@ -30,27 +30,29 @@ class PetrocanadaSpider(scrapy.Spider):
 		for row in self.cities_list:
 			if self.cities_list[row]['country'] == 'Canada':
 				#Fuel Distributor
-				form_data = {
-					'id5684:_ctl0:ddlProvince' : self.cities_list[row]['state'],
-					'm' : 'r',
-					'id5684:_ctl0:ddlCity' : ''
-				}
-				yield FormRequest(url=self.request_url_for_fuel_distributor,
-	                    formdata=form_data,
-	                    headers=self.headers,
-	                    callback=self.parseStoreForFuelDistributor)
-				#Gas Station
-				request_url = self.request_url_for_gas_station % (self.cities_list[row]['state'], 0)
-				request = scrapy.Request(url=request_url,
-	                    callback=self.parseStoreForGasStation)
-				request.meta['state'] = self.cities_list[row]['state']
-				yield request
-				#Truck Stop
-				request_url = self.request_url_for_truck_stop % (self.cities_list[row]['state'], 0)
-				request = scrapy.Request(url=request_url,
-	                    callback=self.parseStoreForTruckStop)
-				request.meta['state'] = self.cities_list[row]['state']
-				yield request
+				if self.cities_list[row]['state'] not in self.states_list:
+					self.states_list.append(self.cities_list[row]['state'])
+					form_data = {
+						'id5684:_ctl0:ddlProvince' : self.cities_list[row]['state'],
+						'm' : 'r',
+						'id5684:_ctl0:ddlCity' : ''
+					}
+					yield FormRequest(url=self.request_url_for_fuel_distributor,
+		                    formdata=form_data,
+		                    headers=self.headers,
+		                    callback=self.parseStoreForFuelDistributor)
+					#Gas Station
+					request_url = self.request_url_for_gas_station % (self.cities_list[row]['state'], 0)
+					request = scrapy.Request(url=request_url,
+		                    callback=self.parseStoreForGasStation)
+					request.meta['state'] = self.cities_list[row]['state']
+					yield request
+					#Truck Stop
+					request_url = self.request_url_for_truck_stop % (self.cities_list[row]['state'], 0)
+					request = scrapy.Request(url=request_url,
+		                    callback=self.parseStoreForTruckStop)
+					request.meta['state'] = self.cities_list[row]['state']
+					yield request
 
 	# Gas Station
 	def parseStoreForGasStation(self, response):
