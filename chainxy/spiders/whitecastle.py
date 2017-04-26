@@ -22,8 +22,9 @@ class WhiteCastleSpider(scrapy.Spider):
 
 	def start_requests(self):
 		for row in self.states_list:
-			request_url = "https://www.whitecastle.com/api/location/search?form=%7B%22origin%22%3A%7B%22latitude%22%3A" + str(row['latitude']) + "%2C%22longitude%22%3A" + str(row['longitude']) + "%7D%2C%22count%22%3A" + "1000" + "%2C%22skip%22%3A0%2C%22targets%22%3A%5B%22Castle%22%2C%22Retail%22%2C%22CraveMobile%22%5D%7D"
-			yield scrapy.Request(url=request_url, callback=self.parseStore)
+			for i in range(10):
+				request_url = "https://www.whitecastle.com/api/location/search?form=%7B%22origin%22%3A%7B%22latitude%22%3A" + str(row['latitude']) + "%2C%22longitude%22%3A" + str(row['longitude']) + "%7D%2C%22count%22%3A" + "50" + "%2C%22skip%22%3A" + str(i * 50) + "%2C%22targets%22%3A%5B%22Castle%22%2C%22Retail%22%2C%22CraveMobile%22%5D%7D"
+				yield scrapy.Request(url=request_url, callback=self.parseStore)
 
 	def parseStore(self, response):
 		# try:
