@@ -47,7 +47,6 @@ class WhiteCastleSpider(scrapy.Spider):
 			#item['store_type'] = info_json["@type"]
 			item['other_fields'] = ""
 			item['coming_soon'] = 0
-			pdb.set_trace()
 			if item['store_number'] != "" and item["store_number"] in self.uid_list:
 				continue
 			self.uid_list.append(item["store_number"])
