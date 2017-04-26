@@ -15,17 +15,21 @@ from lxml import etree
 class WhiteCastleSpider(scrapy.Spider):
 	name = "whitecastle"
 	uid_list = []
-
+	used_states_list = []
 	def __init__(self):
-		place_file = open('states.json', 'rb')
+		place_file = open('cities_us.json', 'rb')
 		self.states_list = json.load(place_file)
 
 	def start_requests(self):
 		for row in self.states_list:
-			for i in range(10):
-				request_url = "https://www.whitecastle.com/api/location/search?form=%7B%22origin%22%3A%7B%22latitude%22%3A" + str(row['latitude']) + "%2C%22longitude%22%3A" + str(row['longitude']) + "%7D%2C%22count%22%3A" + "50" + "%2C%22skip%22%3A" + str(i * 50) + "%2C%22targets%22%3A%5B%22Castle%22%2C%22Retail%22%2C%22CraveMobile%22%5D%7D"
+			if row['state'] in self.used_states_list:
+				continue 
+			self.used_states_list.append(row['state'])
+			count = 100
+			for i in range(5):
+				request_url = "https://www.whitecastle.com/api/location/search?form=%7B%22origin%22%3A%7B%22latitude%22%3A" + str(row['latitude']) + "%2C%22longitude%22%3A" + str(row['longitude']) + "%7D%2C%22count%22%3A" + str(count) + "%2C%22skip%22%3A" + str(i * count) + "%2C%22targets%22%3A%5B%22Castle%22%2C%22Retail%22%2C%22CraveMobile%22%5D%7D"
 				yield scrapy.Request(url=request_url, callback=self.parseStore)
-
+			break
 	def parseStore(self, response):
 		# try:
 		stores = json.loads(response.body)
