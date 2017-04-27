@@ -19,6 +19,7 @@ class HardeesSpider(scrapy.Spider):
 	def start_requests(self):
 		for info in self.place_reader:
 			request_url = "http://maps.hardees.com/stores/search?country=&q=%s&brand_id=1&center_lat=%s&center_lng=%s&zoom=7" % (info['city'].replace(' ', '+'), info['latitude'], info['longitude'])
+
 			yield scrapy.Request(url=request_url, callback=self.parse_store)
 
 	def parse_store(self, response):
@@ -28,7 +29,7 @@ class HardeesSpider(scrapy.Spider):
 			item = ChainItem()
 			item['store_name'] = self.validate(store, 'title')
 			item['store_number'] = self.validate(store, 'id')
-			item['address'] = self.validate(store, 'id')
+			item['address'] = self.validate(self.validate(store, 'sidebar'), 'street')
 			item['address2'] = ""
 			item['phone_number'] = self.validate(self.validate(store, 'sidebar'), 'phone')
 			item['city'] = self.validate(self.validate(store, 'sidebar'), 'city')
