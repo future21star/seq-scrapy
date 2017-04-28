@@ -15,7 +15,7 @@ class HardeesSpider(scrapy.Spider):
 	def __init__(self):
 		place_file = open('cities_us.json', 'rb')
 		self.place_reader = json.load(place_file)
-
+		
 	def start_requests(self):
 		for info in self.place_reader:
 			request_url = "http://maps.hardees.com/stores/search?country=&q=%s&brand_id=1&center_lat=%s&center_lng=%s&zoom=7" % (info['city'].replace(' ', '+'), info['latitude'], info['longitude'])
