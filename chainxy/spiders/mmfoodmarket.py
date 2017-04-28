@@ -59,8 +59,8 @@ class MmfoodmarketSpider(scrapy.Spider):
 			item['state'] = response.meta['state']
 			item['zip_code'] = response.meta['zip_code']
 			item['country'] = "Canada"
-			item['latitude'] = response.meta['latitude']
-			item['longitude'] = response.meta['longitude']
+			item['latitude'] = ""
+			item['longitude'] = ""
 			item['store_hours'] = ""
 			#item['store_type'] = info_json["@type"]
 			item['other_fields'] = ""
@@ -75,6 +75,8 @@ class MmfoodmarketSpider(scrapy.Spider):
 	def parseHours(self, response):
 		item = response.meta['item']
 		hours = response.xpath('//*[@id="content_C006_Col00"]/div[2]/table//tr')
+		item['zip_code'] = response.xpath('//div[@class="store-info store-details"]/p[1]/text()').extract()[1].split()[-1]
+		item['state'] = response.xpath('//div[@class="store-info store-details"]/p[1]/text()').extract()[1].split()[-2]
 		for hour in hours:
 			item['store_hours'] += hour.xpath('./td[1]/text()').extract_first().strip().replace('\n','').replace(' ','') + hour.xpath('./td[2]//text()').extract()[1].strip() + ";"
 		yield item
