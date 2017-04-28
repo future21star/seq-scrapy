@@ -1,0 +1,54 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+44th & Indian,,"4280 E Indian School Rd, Suite 101",,Phoenix,AZ,85018,United States,(602) 314-8379,33.4954316,-111.9894653,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Southgate,,20152 W 153rd St,,Olathe,KS,66062,United States,(913) 254-3461,38.8516029,-94.8187785,Sun-Thurs:10:30AM-10PM;Sun-Thurs:10:30AM-10PM;,,0
+Evansville Pavilion,,"6401 East Lloyd Expressway, C #102",,Evansville,IN,47715,United States,,37.9750816,-87.4715816,,,1
+Highland Grove Shopping Center,,10441B Indianapolis Blvd,,Highland,IN,46322,United States,,41.524333,-87.4704924,,,1
+Waukegan Road,,1494 Waukegan Rd,,Glenview,IL,60025,United States,(847) 832-5012,42.0824264,-87.7984461,Sun-Thu:11AM-8PM::;Sun-Thu:11AM-8PM::;,,0
+Touhy Town Center,,5530 West Touhy Ave,,Skokie,IL,60077,United States,(847) 983-8025,42.0119794,-87.7658728,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+South Naperville,,"2835 Showplace Dr, Unit 10-40",,Naperville,IL,60564,United States,(630) 946-0300,41.7123839,-88.2075735,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Shops at Kildeer,,"20505 N Rand Rd, Suite 520",,Kildeer,IL,60047,United States,(847) 307-4030,42.1624839,-88.0502808,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Roscoe Village,,3643 N Western Ave,,Chicago,IL,60618,United States,,41.9480057,-87.6880362,,,1
+Rivertree Court,,"701 N Milwaukee Ave, Unit 364",,Vernon Hills,IL,60061,United States,(847) 281-0177,42.2400002,-87.9433895,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+La Grange Road,,15139 Lagrange Rd,,Orland Park,IL,60462,United States,(708) 737-7359,41.6148386,-87.852723,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Gurnee Plaza,,6447 Grand Ave,,Gurnee,IL,60031,United States,(224) 610-0766,42.3845937,-87.9625848,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Downtown,,"103 S Washington St, Suite 113",,Naperville,IL,60540,United States,(630) 544-3471,41.7737266,-88.148125,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Deerbrook Mall,,"70 S Waukegan Rd, Suite B",,Deerfield,IL,60015,United States,(847) 770-6499,42.151988,-87.835468,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Bloomingdale Court,,370 W Army Trail Rd,,Bloomingdale,IL,60108,United States,(630) 523-5296,41.9391985,-88.112453,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Ramsey Park,,"2824 N Ramsey Rd, Suite 105",,Coeur d'Alene,ID,83815,United States,(208) 277-9500,47.7034843,-116.8078884,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Mosaic,,4151 N Oakland Ave,,Shorewood,WI,53211,United States,,43.0934648,-87.8874288,,,1
+Moorland Road,,3721 S Moorland Rd,,New Berlin,WI,53151,United States,(262) 901-2756,42.9770469,-88.1085661,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Hwy 50 & 94th Ave,,"9250 76th St, Suite A",,Pleasant Prairie,WI,53158,United States,262-484-4060,42.5654911,-87.9201831,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Hatchery Hill Towne Center,,"2960 Cahill Main, Suite 130",,Fitchburg,WI,53711,United States,(608) 416-5224,43.0169302,-89.4228617,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Vintner Square,,2801 Queensgate Dr,,Richland,WA,99352,United States,,46.256971,-119.31326,,,1
+Union Gap,,"1905 South 1st St, Suite 100",,Yakima,WA,98903,United States,(509) 759-7315,46.5747875,-120.4896229,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+U-District,,"1414 42nd St NE, Ste 103-B",,Seattle,WA,98105,United States,(206) 632-7111,47.6584286,-122.3123432,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Town Center,,17848 Garden Way NE,,Woodinville,WA,98072,United States,(425) 471-7903,47.756976,-122.1545343,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Town Center,,17171 Bothell Way NE,,Lake Forest Park,WA,98155,United States,(206) 204-7760,47.7539913,-122.2782191,Sun-Thurs:10:30AM-10PM;Sun-Thurs:10:30AM-10PM;,,0
+The Y,,"9405 N. Newport Hwy, Suite 200",,Spokane,WA,99218,United States,(509) 290-5465,47.7434467,-117.4083634,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+The Trails at Silverdale,,"11065 Pacific Crest Pl NW, Building B, Suite 119",,Silverdale,WA,98383,United States,(360) 204-5641,47.66336315104997,-122.69638916773681,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Tacoma Mall,,"4502 S Steele St, Ste 1507",,Tacoma,WA,98409,United States,(253) 274-0663,47.2164165,-122.4678568,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Summerwalk,,"5128 Yelm Hwy SE, Suite A",,Lacey,WA,98503,United States,(360) 918-0023,46.9961962,-122.8122503,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+South Hill,,3104 E Palouse Hwy,,Spokane,WA,99223,United States,(509) 570-7060,47.6099428,-117.3651311,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+South Hill,,"10301 156th St E, Ste B201",,Puyallup,WA,98374,United States,(253) 864-6663,47.1150368,-122.2915929,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Shadle Center,,"2503 W Wellesley Ave, Building C, Suite 104",,Spokane,WA,99205,United States,(509) 326-1650,47.7003244,-117.4480242,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Seattle Center,,"305 Harrison St, Armory Building, Ste 221",,Seattle,WA,98109,United States,(206) 428-6315,47.6215512,-122.3509386,Sun-Thu:10:30AM-8PM;Sun-Thu:10:30AM-8PM;,,0
+Redmond Ridge,,23423 NE Novelty Hill Rd,,Redmond,WA,98053,United States,(425) 307-1150,47.6989809,-122.0275756,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Overlake,,14309 NE 20th St,,Bellevue,WA,98007,United States,(425) 214-9903,47.627658,-122.1504469,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Nob Hill,,"2550 W Nob Hill Blvd, Suite 100",,Yakima,WA,98902,United States,(509) 759-7364,46.5850863,-120.5435225,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Millcreek Town Center,,"1214 SW Scotton Way, Suite 117",,Battle Ground,WA,98604,United States,(360) 342-8077,45.7701476,-122.5484786,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Marysville Town Center,,"319 State Ave, Suite 101",,Marysville,WA,98270,United States,(360) 651-2161,48.0515632,-122.1774723,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Lynnwood Crossroads,,19718 Hwy 99,,Lynnwood,WA,98036,United States,(425) 582-5392,47.8196185,-122.3169995,Sun-Thurs:10:30AM-10PM;Sun-Thurs:10:30AM-10PM;,,0
+Lake Meridian,,13030 Kent-Kangley Rd,,Kent,WA,98030,United States,(253) 216-7025,47.3581354,-122.1662068,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Highlands,,"1568 Highlands Dr NE, Ste 120",,Issaquah,WA,98029,United States,(425) 313-4663,47.542968,-122.0187044,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Hazel Dell,,7916 NE 6th Ave,,Vancouver,WA,98665,United States,(360) 828-5220,45.6796135,-122.6668674,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Haggen Drive,,"626 Haggen Dr, Suite 116",,Burlington,WA,98233,United States,,48.4698821,-122.3357522,,,1
+Frontier Village,,"513 SR 9 NE, Suite 515-A",,Lake Stevens,WA,98258,United States,(425) 903-5965,48.0003895,-122.1058592,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Four Corner Square,,23916-A SE Kent-Kangley Rd Suite 100,,Maple Valley,WA,98038,United States,(425) 578-9093,47.3616512,-122.0223061,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Eastlake,,22833 NE 8th St,,Sammamish,WA,98074,United States,(425) 836-7345,47.6155459,-122.0333875,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Downtown,,"707 W Main Ave, Suite A-12",,Spokane,WA,99201,United States,(509) 570-0433,47.6587008,-117.4227914,Sun-Thu:10:30AM-9PM;Sun-Thu:10:30AM-9PM;,,0
+Downtown,,1302 6th Ave,,Seattle,WA,98101,United States,(206) 332-0200,47.6094657,-122.3326328,Mon-Sat:10:30AM-9PM;Mon-Sat:10:30AM-9PM;,,0
+Downtown,,317 Bellevue Way NE,,Bellevue,WA,98004,United States,(425) 455-0141,47.6133437,-122.2019275,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Columbia Tech Center,,"19151 SE Mill Plain Blvd, Ste 100",,Vancouver,WA,98683,United States,(360) 254-4663,45.6162858,-122.4781881,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+City Center,,"16330 Bothell Everett Hwy, Ste. 102",,Mill Creek,WA,98012,United States,(425) 582-5901,47.8506166,-122.2185476,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Cascade Park,,"305 SE Chkalov Dr, Suite 120",,Vancouver,WA,98683,United States,(360) 952-4915,45.6197897,-122.5546287,Sun-Thu:10:30AM-10PM;Sun-Thu:10:30AM-10PM;,,0
+Canyon Park,,"22833 

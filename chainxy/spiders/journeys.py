@@ -26,7 +26,7 @@ class JourneysSpider(scrapy.Spider):
 				for store in stores:
 					item = ChainItem()
 					item['store_name'] = self.replaceWithNone(store.xpath("./strong/a/text()").extract()[0])
-					item['store_number'] = self.replaceWithNone(store.xpath("./strong/a/text()").extract()[1])
+					item['store_number'] = self.replaceWithNone(store.xpath("./strong/a/text()").extract()[1]).split('#')[-1]
 					item['address'] = self.replaceWithNone(store.xpath('./text()').extract()[1]) 
 					item['address2'] = ""
 					item['phone_number'] = self.replaceWithNone(store.xpath('./text()').extract()[3])

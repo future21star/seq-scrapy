@@ -42,6 +42,7 @@ class DollaramaSpider(scrapy.Spider):
 			#item['store_type'] = info_json["@type"]
 			item['other_fields'] = ""
 			item['coming_soon'] = 0
+
 			if item['store_name'] != "" and item['store_name'] in self.uid_list:
 				continue
 			self.uid_list.append(item['store_name'])
