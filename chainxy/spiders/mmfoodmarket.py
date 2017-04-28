@@ -50,38 +50,44 @@ class MmfoodmarketSpider(scrapy.Spider):
 		stores = response.xpath('//div[@class="data"]')
 		for store in stores:
 			item = ChainItem()
-			item['store_name'] = ""
 			item['store_number'] = store.xpath('./div[5]/a[1]/@href').extract_first().split('/')[1]
-			item['address'] = store.xpath('./div[2]/text()').extract()[1].strip()
-			item['address2'] = ""
-			item['phone_number'] = store.xpath('./div[2]/text()').extract()[2].strip()
-			item['city'] = store.xpath('./div[3]/text()').extract()[1].strip()
-			item['state'] = response.meta['state']
-			item['zip_code'] = response.meta['zip_code']
-			item['country'] = "Canada"
-			item['latitude'] = ""
-			item['longitude'] = ""
-			item['store_hours'] = ""
-			#item['store_type'] = info_json["@type"]
-			item['other_fields'] = ""
-			item['coming_soon'] = 0
-			if item['store_number'] != "" and item['store_number'] in self.uid_list:
-				continue
-			self.uid_list.append(item['store_number'])
 			hour_request = scrapy.Request(url=self.domain + store.xpath('./div[5]/a[1]/@href').extract_first(), callback=self.parseHours)			
 			hour_request.meta['item'] = item
 			yield hour_request
 
 	def parseHours(self, response):
 		item = response.meta['item']
+		item['store_name'] = ""
+		item['store_number'] = ""
+		item['address'] = response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-3].strip()
+		item['address2'] = ""
+		item['phone_number'] = response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-1].strip()
+		item['city'] = response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-2].strip().encode('utf8').replace('\xc2\xa0\n', '').split()[0][:-1]
+		item['state'] = response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-2].strip().encode('utf8').replace('\xc2\xa0\n', '').split()[1]
+		item['country'] = "Canada"
+		item['latitude'] = ""
+		item['longitude'] = ""
+		#item['store_type'] = info_json["@type"]
+		item['other_fields'] = ""
+		item['coming_soon'] = 0
+		if self.hasNumbers(response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-2].strip().encode('utf8').replace('\xc2\xa0\n', '').split()[-2]):
+			item['zip_code'] = response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-2].strip().encode('utf8').replace('\xc2\xa0\n', '').split()[-2] + response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-2].strip().encode('utf8').replace('\xc2\xa0\n', '').split()[-1]
+		else:
+			item['zip_code'] = response.xpath('//div[@class="store-info store-details"]/p//text()').extract()[-2].strip().encode('utf8').replace('\xc2\xa0\n', '').split()[-1]			
 		hours = response.xpath('//*[@id="content_C006_Col00"]/div[2]/table//tr')
-		item['zip_code'] = response.xpath('//div[@class="store-info store-details"]/p[1]/text()').extract()[1].split()[-1]
-		item['state'] = response.xpath('//div[@class="store-info store-details"]/p[1]/text()').extract()[1].split()[-2]
+		item['store_hours'] = ""
 		for hour in hours:
 			item['store_hours'] += hour.xpath('./td[1]/text()').extract_first().strip().replace('\n','').replace(' ','') + hour.xpath('./td[2]//text()').extract()[1].strip() + ";"
+		if item['store_number'] != "" and item['store_number'] in self.uid_list:
+			return
+		self.uid_list.append(item['store_number'])
 		yield item
+
 	def validate(self, xpath_obj):
 		try:
 			return xpath_obj.extract_first().strip().encode('utf8').replace('\xc3\xb4', 'o').replace("&#39", "'").replace('&amp;nbsp;', '').replace('&nbsp;', '')
 		except:
 			return ""
+
+	def hasNumbers(self, str):
+		return any(char.isdigit() for char in str)
