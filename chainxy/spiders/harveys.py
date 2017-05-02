@@ -84,14 +84,12 @@ class HarveysSpider(scrapy.Spider):
 				pos += 1
 			item['longitude'] = item['longitude'].strip()
 			item['other_fields'] = ""
-			pdb.set_trace()
 			item['coming_soon'] = 0
 			if item['phone_number'] == "" or item['phone_number'] in self.uid_list:
 				return
 			self.uid_list.append(item['phone_number'])
 			yield item
 		except:
-			pdb.set_trace()
 			pass
 
 	def validate(self, xpath):
