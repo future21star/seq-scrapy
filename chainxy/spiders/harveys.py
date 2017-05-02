@@ -29,7 +29,7 @@ class HarveysSpider(scrapy.Spider):
 				item['store_number'] = store_number
 				url = url.replace(".php", "")
 				url = "https://www.harveys.ca/eng/" + url
-				request = scrapy.Request(url = url, callback=self.parse_store)
+				request = scrapy.Request(url = "https://www.harveys.ca/eng/location_map?id=1345", callback=self.parse_store)
 				request.meta['item'] = item
 				yield request
 		except:
@@ -84,6 +84,7 @@ class HarveysSpider(scrapy.Spider):
 				pos += 1
 			item['longitude'] = item['longitude'].strip()
 			item['other_fields'] = ""
+			pdb.set_trace()
 			item['coming_soon'] = 0
 			if item['phone_number'] == "" or item['phone_number'] in self.uid_list:
 				return
@@ -107,7 +108,7 @@ class HarveysSpider(scrapy.Spider):
 
 	def replaceUnknownLetter(self, source):
 		try:
-			formatted_value = source.encode('utf8').replace('\xc3', '').replace('\xa9', 'e').replace('\xa8', 'e').replace('\xb4', 'o').replace('\xb3', 'o').replace('\xb9', 'u').replace('\xba', 'u').replace('\x89', 'E').replace('\xaa', 'e').replace('\x89', 'E').replace('\xa2', 'a').replace('\xac', 'i').replace('\xad', 'i').replace('\xae', 'i')
+			formatted_value = source.replace('\xc3', '').replace('\xe9', 'e').replace('\xe8', 'e').replace('\xe4', 'o').replace('\xe3', 'o').replace('\xe9', 'u').replace('\xea', 'u').replace('\x89', 'E').replace('\xaa', 'e').replace('\x89', 'E').replace('\xa2', 'a').replace('\xac', 'i').replace('\xad', 'i').replace('\xae', 'i')
 			# if "x8" in formatted_value or "x9" in formatted_value or "xa" in formatted_value or "xb" in formatted_value:
 			# 	pdb.set_trace()
 			return formatted_value
