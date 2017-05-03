@@ -1,0 +1,71 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,01,1020 Quitman St.,,Houston,TX,77009,United States,(713) 224-7332,29.781445,-95.359216,6:30am–10:30pm,,0
+,49,4114 Fulton,,Houston,TX,77009,United States,(713) 696-4110,29.797648,-95.367265,7am–10:30pm,,0
+,11,4711 Airline,,Houston,TX,77022,United States,(713) 697-0050,29.836878,-95.384383,6:30am–12am,,0
+,50,5815 Lockwood St,,Houston,TX,77026,United States,(713) 636-8300,29.812998,-95.318088,7am–10pm,,0
+,23,9419 Mesa,,Houston,TX,77028,United States,(713) 631-9292,29.848819,-95.264561,7am–10pm,,0
+,28,11006 Airline,,Houston,TX,77037,United States,(281) 878-7000,29.916131,-95.405365,6:30am–12am,,0
+,41,1728 W Mt Houston,,Houston,TX,77038,United States,(281) 847-5300,29.898540,-95.428136,7am–10pm;Fri/Sat 11pm,,0
+,08,2323 Wirt Rd,,Houston,TX,77055,United States,(713) 722-1101,29.815561,-95.485163,7am–11pm,,0
+,20,8320 FM 1960,,Houston,TX,77070,United States,(281) 955-5590,29.960008,-95.548401,6:30am–11pm,,0
+,09,10401 Jensen,,Houston,TX,77093,United States,(713) 697-0018,29.863773,-95.333941,7am–11pm;Fri/Sat 12am,,0
+,05,5600 Mykawa,,Houston,TX,77033,United States,(713) 644-1611,29.693462,-95.328154,7am–10pm;Sun-Thur;7am-10:30pm,,0
+,43,8650 S Braeswood,,Houston,TX,77031,United States,(713) 988-1685,29.672122,-95.529083,7am–10:30pm,,0
+,31,1175 Edgebrook,,Houston,TX,77034,United States,(713) 948-9888,29.642502,-95.242964,7am–11pm,,0
+,22,12355 Main,,Houston,TX,77035,United States,(713) 551-7575,29.648168,-95.461281,7am–10pm,,0
+,51,9420 Cullen,,Houston,TX,77051,United States,(713) 731-2100,29.655411,-95.355470,7am–10pm,,0
+,18,8130 Kirby,,Houston,TX,77054,United States,(713) 666-9260,29.691306,-95.412950,7am–12am,,0
+,37,7510 Bellfort,,Houston,TX,77061,United States,(713) 649-5802,29.672132,-95.288329,7am–11pm,,0
+,24,11240 Fondren,,Houston,TX,77096,United States,(713) 272-2700,29.656805,-95.508500,7am–10pm;Fri/Sat 11pm,,0
+,06,3707 Ave H,,Rosenberg,TX,77471,United States,(281) 342-2252,29.560955,-95.789540,7am–11pm,,0
+,04,1603 Spencer Hwy,,S Houston,TX,77587,United States,(713) 943-7651,29.664719,-95.211743,6:30am–11pm,,0
+,10,12201 East Fwy,,Houston,TX,77015,United States,(713) 455-9919,29.770816,-95.221986,7am–11pm,,0
+,12,5800 Lyons,,Houston,TX,77020,United States,(713) 672-8985,29.775610,-95.312040,6:30am–10:30pm,,0
+,03,800 S Wayside,,Houston,TX,77023,United States,(713) 928-2854,29.730606,-95.310226,6:30am–11pm,,0
+,17,4200 San Jacinto,,Houston,TX,77004,United States,(713) 529-0155,29.733665,-95.380183,6:30am–10:30pm,,0
+,39,8710 Bellaire,,Houston,TX,77036,United States,(713) 981-0858,29.704970,-95.540283,6:30am–11pm,,0
+,07,6200 Bellaire,,Houston,TX,77081,United States,(713) 270-5889,29.706410,-95.491919,7am–12am,,0
+,14,14315 Bellaire,,Houston,TX,77083,United States,(281) 568-4149,29.703835,-95.639242,7am-11pm,,0
+,56,4330 Hwy 6 North,,Houston,TX,77084,United States,(281) 856-5200,29.837118,-95.645655,6:30am–11pm,,0
+,66,333 S. Mason Road,,Katy,TX,77450,United States,(281) 599-6350,29.780578,-95.749377,7am–11pm,,0
+,70,1235 S Josey Lane,,Carrollton,TX,75006,United States,(972) 417-0580,32.950380,-96.889766,7am–11pm,,0
+,54,2940 S 1st Street,,Garland,TX,75041,United States,(972) 271-9060,32.879925,-96.630856,7am–11pm,,0
+,53,975 E Irving Blvd,,Irving,TX,75060,United States,(972) 554-2574,32.811772,-96.934686,7am–11pm,,0
+,73,1145 W Airport Fwy,,Irving,TX,75062,United States,(972) 255-2303,32.837397,-96.960960,7am–11pm,,0
+,75,1332 S Plano Rd,,Richardson,TX,75081,United States,(972) 994-4300,32.931738,-96.701000,7am–11pm,,0
+,59,1200 E Parker,,Plano,TX,75074,United States,(972) 881-3211,33.037500,-96.697712,7am–11pm,,0
+,40,5334 Ross Ave,,Dallas,TX,75206,United States,(214) 887-3000,32.806551,-96.776191,7am–11pm,,0
+,29,611 W Jefferson,,Dallas,TX,75208,United States,(214) 944-3300,32.743198,-96.833071,6:30am–11pm,,0
+,71,3434 W Illinois,,Dallas,TX,75211,United States,(214) 331-3885,32.719326,-96.877432,7am–11pm,,0
+,34,3030 S Lancaster,,Dallas,TX,75216,United States,(214) 302-4000,32.710488,-96.803319,7am–10pm,,0
+,74,11445 Garland Road,,Dallas,TX,75218,United States,(214) 324-0111,32.851223,-96.681866,7am–11pm,,0
+,32,9727 Webb Chapel,,Dallas,TX,75220,United States,(214) 353-7650,32.866971,-96.864819,6am–12am,,0
+,77,3460 Webb Chapel,,Dallas,TX,75220,United States,(214) 902-7030,32.864155,-96.863979,6am–11pm,,0
+,65,2225 West Ledbetter,,Dallas,TX,75224,United States,(214) 331-0270,32.691308,-96.854094,7am–11pm,,0
+,57,2951 S Buckner Blvd,,Dallas,TX,75227,United States,(214) 275-3020,32.761692,-96.682850,7am–11pm,,0
+,68,6401 Abrams,,Dallas,TX,75231,United States,(214) 342-3380,32.862264,-96.745828,7am–11pm,,0
+,58,8060 Spring Valley,,Dallas,TX,75240,United States,(972) 783-8255,32.939271,-96.768161,6am–11pm,,0
+,60,1300 E Pioneer Pkwy,,Arlington,TX,76010,United States,(817) 804-7800,32.706883,-97.090567,6:30am–12am,,0
+,76,4245 E Berry Street,,Fort Worth,TX,76105,United States,(817) 531-1067,32.713951,-97.262095,7am–11pm,,0
+,46,275 NE 28th Street,,Fort Worth,TX,76106,United States,(817) 625-3500,32.795800,-97.345989,7am–11pm,,0
+,67,421 W Bolt Street,,Fort Worth,TX,76110,United States,(817) 920-1930,32.687276,-97.328695,7am–11pm,,0
+,61,2700 8th Ave,,Fort Worth,TX,76110,United States,(817) 920-1900,32.712162,-97.343823,7am–11pm,,0
+,69,7809 Camp Bowie W,,Fort Worth,TX,76116,United States,(817) 696-9631,32.722333,-97.450320,7am–11pm,,0
+,25,3909 N I-35 Service Rd,,Austin,TX,78722,United States,(512) 406-3900,30.296129,-97.718142,6am-12am,,0
+,64,5510 South IH-35,,Austin,TX,78745,United States,(512) 373-7800,30.192294,-97.771980,7am–11pm,,0
+,79,12584 Westheimer,,Houston,TX,77077,United States,(281) 596-0600,29.736241,-95.605395,7am–11pm,,0
+,69,7809 Camp Bowie W,,Fort Worth,TX,76116,United States,(817) 696-9631,32.722333,-97.450320,7am–11pm,,0
+,81,210 E Davis St,,Conroe,TX,77301,United States,(936) 760-0340,30.312781,-95.454448,6am - 10pm,,0
+,82,20331 FM 529 Rd,,Cypress,TX,77433,United States,(281) 855-5960,29.879748,-95.717463,7am-11pm,,0
+,47,1530 Independence Blvd.,,Missouri City,TX,77489,United States,(281) 261-0200,29.597451,-95.525409,Sun.-Thurs.: 6:30 am-10 pm; Fri.-Sat.: 6:30 am-11 pm,,0
+,210,10121 E. Lake June Rd.,,Dallas,TX,75217,United States,(972) 285-8907,32.734868,-96.650195,7am-11pm,,0
+,209,2200 W Shady Grove Rd.,,Irving,TX,75060,United States,(972) 790-5020,32.799643,-96.974749,7am-11pm,,0
+,212,3230 MLK Jr. Blvd.,,Dallas,TX,75210,United States,(214) 421-2371,32.772976,-96.762156,7am-11pm,,0
+,207,8040 Ferguson Rd.,,Dallas,TX,75228,United States,2143285795,32.801858,-96.712203,7am-11pm,,0
+,208,3630 Forest Ln,,Dallas,TX,75234,United States,2143513737,32.908446,-96.857280,7am-11pm,,0
+,211,4202 Pioneer Rd.,,Balch Springs,TX,75180,United States,9722868711,32.712914,-96.604452,7am-11pm,,0
+,213,1450 West Pleasant Run Rd.,,Lancaster,TX,75146,United States,9722188028,32.603049,-96.786487,7am-11pm,,0
+,214,2223 Singleton Blvd.,,Dallas,TX,75212,United States,2146781119,32.779446,-96.858751,7am-11pm,,0
+,201,2877 South Richey,,Houston,TX,77017,United States,7133780929,29.676397,-95.230591,6:30 am-11 pm,,0
+,204,3300 Harwood Rd.,,Bedford,TX,76021,United States,8175714563,32.850809,-97.114255,7 am-11 pm,,0
+,205,6324 Meadowbrook Dr.,,Ft. Worth,TX,76112,United States,8174297581,32.745188,-97.220905,7 am-10 pm,,0

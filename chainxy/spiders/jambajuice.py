@@ -15,13 +15,16 @@ class JambajuiceSpider(scrapy.Spider):
 		headers = { }
 
 		def __init__(self):
-			place_file = open('all_code_list.csv', 'rb')
-			self.place_reader = csv.reader(place_file)
+			place_file = open('citiesusca.json', 'rb')
+			self.place_reader = json.load(place_file)
+
 
 		def start_requests(self):
-			for row in self.place_reader:
-				request_url = "http://www.jambajuice.com/services/findastore.svc/GetStores?latitude=%s&longitude=%s" % (row[1], row[2])  
-				yield scrapy.Request(url=request_url, callback=self.parse_store)
+			for city in self.place_reader:
+				info = self.place_reader[city]
+				if info['country'] == 'United States':
+					request_url = "http://www.jambajuice.com/services/findastore.svc/GetStores?latitude=%s&longitude=%s" % (info['latitude'], info['longitude'])
+					yield scrapy.Request(url=request_url, callback=self.parse_store)
 
 		# get longitude and latitude for a state by using google map.
 		def parse_store(self, response):
@@ -35,8 +38,8 @@ class JambajuiceSpider(scrapy.Spider):
 				item['phone_number'] = self.validate(store, 'PhoneNumber').replace('.', '-')
 				item['city'] = self.validate(store, 'City')
 				item['state'] = self.validate(store, 'State')
-				item['zip_code'] = self.validate(store, 'CityStatePostalCode')
-				item['country'] = ""
+				item['zip_code'] = self.validate(store, 'PostalCode')
+				item['country'] = "United States"
 				item['latitude'] = self.validate(store, 'Latitude')
 				item['longitude'] = self.validate(store,  'Longitude')
 				item['store_hours'] = "Weekday:" + self.validate(store,  'WeekdayHours') + ";" + "Friday:" + self.validate(store,  'FridayHours') + ";" + "Saturday:" + self.validate(store,  'SaturdayHours') + ";" + "Sunday:" + self.validate(store,  'SundayHours') + ";"

@@ -8,8 +8,8 @@ from scrapy.selector import HtmlXPathSelector
 from chainxy.items import ChainItem
 import pdb
 
-class AcfpSpider(scrapy.Spider):
-	name = "acfp"
+class AnthonyscoalfiredSpider(scrapy.Spider):
+	name = "anthonyscoalfired"
 	uid_list = []
 	start_urls = ["https://acfp.com/locations/"]
 		
