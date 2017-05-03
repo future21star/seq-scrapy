@@ -21,7 +21,7 @@ class Fitness19Spider(scrapy.Spider):
 				pass
 		def parse_url(self, response):
 			try:
-				for state in response.xpath('//section[@id="locations_list"]//a'):
+				for state in response.xpath('//section[@id="locations_list"]//h2[@class="location_title"]/a'):
 					yield scrapy.Request(url=state.xpath('./@href').extract_first(), callback=self.parse_store)
 			except:
 				pass
@@ -83,3 +83,7 @@ class Fitness19Spider(scrapy.Spider):
 				return unicodedata.normalize('NFKD', item).encode('ascii','ignore').strip()
 			except:
 				return ''			
+
+
+
+
