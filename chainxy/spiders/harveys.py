@@ -24,7 +24,7 @@ class HarveysSpider(scrapy.Spider):
 				while markers[pos] != "'":
 					url += markers[pos]
 					pos += 1
-				store_number = url[url.find("id=")+3 : -1]
+				store_number = url[url.find("id=")+3:]
 				item = ChainItem()
 				item['store_number'] = store_number
 				url = url.replace(".php", "")
