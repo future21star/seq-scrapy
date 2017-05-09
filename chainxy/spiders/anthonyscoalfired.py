@@ -13,6 +13,7 @@ class AnthonyscoalfiredSpider(scrapy.Spider):
 	uid_list = []
 	start_urls = ["https://acfp.com/locations/"]
 		
+	count = dict()
 	def parse(self, response):
 		try:
 			store_urls = response.xpath('//li[contains(@class, "menu-item-object-acfp_location_state")]')
@@ -32,9 +33,12 @@ class AnthonyscoalfiredSpider(scrapy.Spider):
 				item['store_number'] = ""
 				item['address'] = store.xpath('.//div[@class="address"]/p/text()').extract_first()
 				item['address2'] = ""
-				item['city'] = store.xpath('.//div[@class="address"]/p/text()').extract()[1].strip().split(',')[0].strip()
-				item['state'] = store.xpath('.//div[@class="address"]/p/text()').extract()[1].strip().split(',')[1].split()[0]
-				item['zip_code'] = store.xpath('.//div[@class="address"]/p/text()').extract()[1].strip().split(',')[1].split()[1]
+				address_parse = store.xpath('.//div[@class="address"]/p/text()').extract()[1] 
+				if 'Suite' in address_parse:
+					address_parse = store.xpath('.//div[@class="address"]/p/text()').extract()[2] 
+				item['city'] = address_parse.strip().split(',')[0].strip()
+				item['state'] = address_parse.strip().split(',')[1].split()[0]
+				item['zip_code'] = address_parse.strip().split(',')[1].split()[1]
 				item['phone_number'] = store.xpath('.//a[@class="phone"]/text()').extract_first()
 				item['country'] = "United States"
 				item['latitude'] = store.xpath('.//a[@class="directions"]/@href').extract_first().split('/')[-1][1:-1].split(',')[0]
@@ -46,9 +50,6 @@ class AnthonyscoalfiredSpider(scrapy.Spider):
 					item['store_hours'] += self.validate_with_index(store.xpath('.//div[@class="hours"]//text()'),7) + self.validate_with_index(store.xpath('.//div[@class="hours"]//text()'), 8) + ";" 
 				item['other_fields'] = ""
 				item['coming_soon'] = 0
-				if item['phone_number'] == "" or item['phone_number'] in self.uid_list:
-					continue
-				self.uid_list.append(item['phone_number'])
 				yield item
 		except:
 			pdb.set_trace()

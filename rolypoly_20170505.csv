@@ -1,0 +1,56 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,,3038 Mockingbird Ln,,Dallas,TX,75205,United States,214-363-0522,,,Monday Thru Sunday:10 am - 9 pm;,,0
+,,1202 Sumter St.,,Columbia,SC,29201,United States,803-252-1081,,,Mon-Fri 7:30am-4:30pm:Sat & Sun Closed;,,0
+,,1616 Woodruff Rd.,,Greenville,SC,29607,United States,864-286-3503,,,Mon-Fri 10am-7pm:Sat 11am-4pm;Sunday Closed:,,0
+,,5076 Sunset Blvd,,Lexington,SC,29072,United States,803-996-0397,,,Mon-Fri 10am-6pm:Sat Closed;Sun 10am-3pm:,,0
+,,One Presidential Blvd,,Bala-Cynwyd,PA,19004,United States,215-921-6895,,,Mon-Fri 8am-5pm:Closed Saturday's and Sunday's but catering is available on weekends.;,,0
+,,1550 Golden Gate Plaza,,Mayfield Heights,OH,44124,United States,440-385-6655,,,Mon-Sat 10am-8pm:Sun Catering Only;,,0
+,,8111 Tryon Woods Dr.,,Cary,NC,27518,United States,919-858-0630,,,Mon-Fri 10am-8pm:Sat-Sun 11am-4pm;,,0
+,,306 N. McPherson Church Rd.,,Fayetteville,NC,28303,United States,910-826-7659,,,Monday 10am-6pm:Tues- Fri 10-7pm;Sat 11am-5pm:Sunday Close - Catering orders only.;,,0
+,,2511 Battleground Ave.,,Greensboro,NC,27408,United States,336-288-3900,,,Mon-Fri 10am-7pm:Sat 11am-6pm;Sun Closed:,,0
+,,4040 Ed Drive Ste 125,,Raleigh,NC,27612,United States,919-785-0441,,,Mon-Fri 10am-6pm:Sat-Sun 11am-3pm;,,0
+,,300 Jonestown,,Winston-Salem,NC,27104,United States,336-774-7659,,,Mon-Fri 10am-2pm:Sat 10am-4pm;Sunday Closed:,,0
+,,846 Main St.,,Buffalo,NY,14202,United States,716-885-7659,,,Mon-Fri: 10am-6pm:Sat & Sun: Closed;Apr 14 & 17: 10am-3pm:,,0
+,,8457 Seneca Turnpike,,New Hartford,NY,13413,United States,315-624-0015,,,Mon-Sat 11am-6pm Sun 12pm-4pm. Special arrangements can be made for catering. Please contact Dean.:Please call today for delivery arrangements.;,,0
+,,4070 Dearborn Circle,,Mount Laurel,NJ,08054,United States,856-231-0615,,,Mon-Fri 10am-6pm:Sat-Sun 11am-5pm;,,0
+,,545 E. Grand Blanc Rd.,,Grand Blanc,MI,48439,United States,810-695-0042,,,Mon-Fri 10am-6pm:Sat 11am-4pm;Sun- Closed:For after hours and Sunday Catering please call:;Esra 810-429-4923:,,0
+,,1025 N. Wisner St.,,Jackson,MI,49202,United States,,,,,,0
+,,626 Admiral Dr.,,Annapolis,MD,21401,United States,410-266-5252,,,Mon-Fri 10am-6pm:Sat 10am-4pm;Closed Sunday:,,0
+,,1707 Metro Drive,,Alexandria,LA,71301,United States,318-767-8772,,,Mon-Fri 10am-6pm:Sat 10am-3pm;Sun 11am-2pm:,,0
+,,327 North Blvd.,,Baton Rouge,LA,70801,United States,225-412-4234,,,Mon-Fri 10am-3pm:$8.00 minimum order for delivery.;,,0
+,,4005 Nicholson Dr.,,Baton Rouge,LA,70808,United States,225-361-0957,,,Mon-Fri 10am-9pm:Sat-11am-6pm;Sun-11am-9pm:Holiday hours.;,,0
+,,1911 Benton Rd.,,Bossier City,LA,71111,United States,318-734-1036,,,"11-3:Driver accepts credit and debit only. Please allow 1.5 hours for platter orders, thank you.;",,0
+,,"411 Corporate Drive, Suite C",,Houma,LA,70360,United States,,,,,,0
+,,1004 Coolidge Street,,Lafayette,LA,70503,United States,337-234-3289,,,Mon-Fri 10:00AM- 6:00PM:Sat 10:30AM-4:00PM;No Delivery's On Saturdays.:CLOSED SUNDAYS;,,0
+,,4423 Nelson Road,,Lake Charles,LA,70605,United States,337-474-3332,,,Mon-Fri 10am-8pm:Sat 11am-7pm;Sunday CLOSED:,,0
+,,3100 Ryan Street,,Lake Charles,LA,70601,United States,337-433-3130,,,Mon-Fri 10am-5pm:Sat 11am-3pm;Sun Closed:,,0
+,,701 Poydras Street,,New Orleans,LA,70139,United States,504-561-9800,,,Mon-Fri 10am-4pm:Closed Sat & Sun;,,0
+,,732 Celebrity Drive,,Ruston,LA,71270,United States,318-251-4000,,,Mon-Fri 11-2:Local Business Only in a 3 mile radius;,,0
+,,6105 Youree Dr.,,Shreveport,LA,71105,United States,318-798-2210,,,Mon-Fri 10am-6pm:Sat 10am-3pm;Closed Sunday:,,0
+,,2241 Maplewood Drive,,Sulphur,LA,70663,United States,337-625-5555,,,Mon-Fri 10am-7pm:Sat 11am-5pm;Sunday Closed:,,0
+,,302 Bridge St.,,West Monroe,LA,71291,United States,318-398-0711,,,Mon-Fri 10am-7pm:Sat 10am-3pm;Sunday closed:,,0
+,,3191 Beaumont Centre Circle,,Lexington,KY,40513,United States,859-223-8823,,,,,0
+,,308 West State St.,,Rockford,IL,61101,United States,815-966-6000,,,Mon-Fri 8:30am-5pm:Sat & Sun closed;,,0
+,,1616 West 3rd Street,,Bloomington,IN,47404,United States,812-332-7659,,,Monday-Friday: 10-6:Saturday: 11-4;Sunday: Closed:,,0
+,,424 Wabash Ave.,,Terre Haute,IN,47807,United States,812-478-7659,,,Mon-Fri 10am-8pm:Sat 11am-5pm;Sun Closed:,,0
+,,1429 N. 6th St.,,Terre Haute,IN,47804,United States,812-231-6803,,,Mon-Fri 8am-5pm:Closed Sat & Sun;,,0
+,,8 Park Place South SE,,Atlanta,GA,30303,United States,404-223-6776,,,Mon-Fri 10am-6pm:Sat & Sun Closed;Call store for Catering orders for Sat & Sun.:,,0
+,,3626 Walton Way,,Augusta,GA,30909,United States,706-736-1099,,,Mon-Fri 10am-6pm:Sat 10am-3pm;Sunday Closed:,,0
+,,425 Peachtree Parkway,,Cumming,GA,30041,United States,770-406-8690,,,Mon-Fri 10am-6pm:Sat & Sun 11am-4pm;,,0
+,,3675 Satellite Blvd.,,Duluth,GA,30096,United States,770-623-3355,,,Mon- Sat: 10am-6pm:Sun Closed.;,,0
+,,"3895 Cherokee St. NW, Suite 622",,Kennesaw,GA,30144,United States,678-581-0707,,,Mon-Sat 9am-5pm:Sunday Closed;,,0
+,,624 New Street,,Macon,GA,31201,United States,478-745-7659,,,Mon-Fri 10am-6pm:Sat 11am-3pm;Sunday Closed:,,0
+,,1325 Commerce Drive,,Peachtree City,GA,30269,United States,770-631-1312,,,Mon-Fri 10am-6pm:Sat 11am-3:30;Sun 11:30am-2:30pm:,,0
+,,114 Barnard Street,,Savannah,GA,31401,United States,912-233-8222,,,Mon-Fri 10am-5pm:Sat 11am-5pm;Sunday Closed:**$5.00 minimum for credit card charges**;,,0
+,,.,,Warner Robins,GA,.,United States,,,,,,0
+,,875 Towne Lake Pkwy,,Woodstock,GA,30189,United States,770-928-7659,,,Mon-Fri 9am-6pm:Sat 10am-4pm;Sun Closed:,,0
+,,21 Temple St,,New Haven,CT,06510,United States,203-777-7659,,,Mon - Friday 10:00am - 5:00pm:,,0
+,,223 Boston Post Rd.,,Orange,CT,06477,United States,203-799-7659,,,Mon - Fri 10am - 6pm:Sat 11am - 5pm;Sun 11am - 4pm:,,0
+,,3 Corporate Dr.,,Shelton,CT,06484,United States,,,,,,0
+,,2505 Main St.,,Stratford,CT,06614,United States,203-378-3333,,,Mon 10-5:30pm:Tue-Fri 10am-6pm;Sat 10am-4pm:Closed Sun;,,0
+,,45 Saugatuck Avenue,,Westport,CT,06880,United States,203-226-9376,,,Mon-Fri 10am-5pm:Sat 10am-3pm;Closed Sunday:,,0
+,,313 20th Street North,,Birmingham,AL,35203,United States,205-324-3393,,,Mon-Fri 9am - 6pm:Saturday 9am - 3pm;,,0
+,,150 Inverness Plaza,,Birmingham,AL,35242,United States,205-980-9133,,,Mon-Sat 10am-9pm:Sun 10am-7:30pm;,,0
+,,180 Main St.,,Hoover,AL,35244,United States,205-402-9977,,,Sun-Thurs 9-8:Fri & Sat 9-9;,,0
+,,3220 Dauphin St.,,Mobile,AL,36606,United States,251-479-2480,,,Mon-Fri 9am-8pm:Sat 10am-3pm;Sunday-Catering Orders Only:,,0
+,,2310 4th St.,,Tuscaloosa,AL,35401,United States,,,,,,0

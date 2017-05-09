@@ -1,0 +1,96 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Benton – Hurricane Creek,,"20770 I-30, Ste 150",,Benton,AR,72019,United States,501-794-4900,34.60014,-92.54948009999998,Sunday – Thursday 11 a.m. – 9 p.m.,,0
+Little Rock,,10800 Bass Pro Parkway Ste. D,,Little Rock,AR,72210,United States,501-455-7435,34.65662,-92.41215,Sunday – Thursday 11 a.m. – 9 p.m.,,0
+Dover – Farley Plaza,,1211 N. DuPont Hwy.,,Dover,DE,19901,United States,302-734-7435,39.189211,-75.53921000000003,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Chambersburg,,580 Walker Rd.,,Chambersburg,PA,17201,United States,(717) 753-3446,39.9400895,-77.62532859999999,Monday – Sunday 11 a.m. - 10 p.m.,,0
+West York,,890 Loucks Rd.,,York,PA,17404,United States,717-430-4198,39.9799945,-76.75215939999998,Monday – Sunday 11 a.m. – 10 p.m.,,1
+Ankeny,,"1315 SW Oralabor Road, Suite 101",,Ankeny,IA,50023,United States,515-289-0480,41.7028519,-93.61264110000002,Sunday - Thursday 11 a.m. - 9 p.m.,,0
+Tucson – TUS Airport,,"Tucson International Airport, 7250 South Tucson Boulevard",,Tucson,AZ,85756,United States,,32.1145102,-110.9392269,,,1
+McDonough,,"1500 Highway 20 W, Suite 130",,McDonough,GA,30253,United States,770-957-7470,33.468393,-84.11975810000001,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Newnan,,"311 Bullsboro Dr., Suite 190",,Newnan,GA,30263,United States,770-251-2876,33.3934646,-84.76520199999999,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Lexington – Fayette Mall,,3401 Nicholasville Rd.,,Lexington,KY,40503,United States,859-271-6839,37.9890031,-84.52718440000001,Monday – Saturday 11 a.m. – 10 p.m.,,0
+Lexington – S Broadway,,"867 South Broadway, Suite 130",,Lexington,KY,40504,United States,859-246-0014,38.039821,-84.51469600000001,Monday - Thursday 11 a.m. – 10 p.m.,,0
+Indianapolis – Castleton Crossing,,"5320 E. 82nd St., Ste. 104",,Indianapolis,IN,46250,United States,317-578-8090,39.9057644,-86.07762359999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Indianapolis – Washington Street,,48 E. Washington St.,,Indianapolis,IN,46204,United States,317-955-4300,39.7670461,-86.15667380000002,Monday – Saturday 10:30 a.m. – 10 p.m.,,0
+Mishawaka – Meijer B Shops,,"5111 North Main Street, #400",,Mishawaka,IN,46545,United States,574-271-3660,41.7052585,-86.18239979999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Zionsville – Village at Anson,,6704 Whitestown Parkway,,Zionsville,IN,46077,United States,317-769-2900,39.949456,-86.340940,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Biloxi – Hard Rock Hotel and Casino,,777 Beach Blvd.,,Biloxi,MS,39530,United States,228-435-4159,30.39223939999999,-88.8877334,Sunday - Thursday 11:00  a.m. - Midnight,,0
+Flowood,,96 Laurel Park Drive,,Flowood,MS,39232,United States,769-243-6180,32.3377602,-90.06928470000003,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Baltimore – BWI Airport (Concourse B),,"Baltimore/Washington International Airport, 7050 Friendship Road",,Baltimore,MD,21240,United States,,39.1774042,-76.66839219999997,,,1
+Baltimore – BWI Airport (Main Terminal),,"Baltimore/Washington International Airport, 7050 Friendship Road",,Baltimore,MD,21240,United States,443-960-4632,39.179462,-76.66863260000002,Monday – Sunday 4 a.m. – 10 p.m,,1
+Columbia – Dobbin Center,,6455-32 Dobbin Road,,Columbia,MD,21045,United States,240-512-0025,39.1946096,-76.81826260000003,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Ellicott City – Arcadia Square,,"9525 Baltimore National Pike, Suite 100",,Ellicott City,MD,21042,United States,443-420-7700,39.27734299999999,-76.83983899999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Frederick – Market Square,,200 C Shorebird Street,,Frederick,MD,21701,United States,301-624-1100,39.4469202,-77.39576649999998,Monday – Thursday 11 a.m. – 9 p.m.,,0
+Glen Burnie – Governor Plaza,,6653A Governor Ritchie Hwy,,Glen Burnie,MD,21061,United States,410-760-1200,39.19550170000001,-76.6132566,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Owings Mills – Boulevard College Center,,10995 Owings Mills Blvd,,Owings Mills,MD,21117,United States,410-581-7998,39.4267719,-76.77943729999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+White Marsh,,5209B Campbell Blvd.,,White Marsh,MD,21236,United States,410-933-6672,39.36983,-76.45431880000001,Monday - Sunday 11 a.m. - 10 p.m.,,0
+L’Enfant Plaza,,"429 L'Enfant Plaza Center, Suite 417",,Washington,DC,20022,United States,202-484-3300,38.8834792,-77.0247548,Monday - Friday 11 a.m.- 5 p.m.,,0
+Glen Allen,,10921 F West Broad St,,Glen Allen,VA,23060,United States,804-270-7435,37.646508,-77.58537619999998,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Richmond – Willow Lawn,,1601 Willow Lawn Dr.,,Richmond,VA,23230,United States,804-358-7435,37.5817815,-77.4984447,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Hickory,,2117 US Hwy 70 SE,,Hickory,NC,28602,United States,828-449-8812,35.7054265,-81.30223849999999,Sunday - Thursday 11 a.m. - 9 p.m.,,0
+Matthews,,1915 Matthews Township Parkway,,Matthews,NC,28105,United States,704-846-0422,35.124853,-80.707806,Sunday – Thursday 11 a.m. – 8 p.m.,,0
+Oak Brook,,537 Oakbrook Center,,Oak Brook,IL,60523,United States,630-560-3215,41.8453412,-87.97827510000002,Monday – Saturday 10 a.m. – 9 p.m.,,1
+Schaumburg,,1428 N Meacham Rd,,Schaumburg,IL,60173,United States,847-744-5161,42.0554239,-88.04593740000001,Monday - Saturday 11 a.m. - 9 p.m,,0
+Clarksville – Gateway Commons,,"108 Morris Road, Suite 104",,Clarksville,TN,37040,United States,931-919-5045,36.5922695,-87.28845339999998,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Franklin – Cool Springs,,401 B Cool Springs Blvd.,,Franklin,TN,37067,United States,615-236-9120,35.9459168,-86.82834129999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Hendersonville – Indian Lake,,"271 Indian Lake Blvd., Suite 130",,Hendersonville,TN,37075,United States,615-265-8182,36.3304771,-86.5949678,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Johnson City – Hamilton Place,,2059 Hamilton Place Dr.,,Johnson City,TN,37604,United States,423-262-0095,36.3354983,-82.40533800000003,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Kingsport,,1708 East Stone Drive,,Kingsport,TN,37660,United States,423-765-9361,36.5472684,-82.51675769999997,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Murfreesboro,,3053 Medical Center Parkway,,Murfreesboro,TN,37129,United States,,35.8670105,-86.45438050000001,,,1
+Nashville – Donelson,,2266 Lebanon Pike,,Nashville,TN,37214,United States,615-457-1051,36.1687796,-86.68509310000002,Monday – Sunday 10:30 a.m. – 10 p.m.,,0
+Nashville – Melrose,,"810 Gale Lane, Ste. 102",,Nashville,TN,37204,United States,615-678-1065,36.1200445,-86.77501289999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Smyrna,,450 Sam Ridley Parkway West,,Smyrna,TN,37167,United States,615-984-7607,35.9848974,-86.5516687,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Hoover – Chace Landing,,"4741 Chace Circle, Suite 114",,Hoover,AL,35244,United States,205-989-4964,33.3682668,-86.79970249999997,Sunday - Thursday 10:30 a.m. – 9 p.m.,,0
+Mobile – Academy Outparcel,,"7450 Airport Boulevard, Suite D",,Mobile,AL,36608,United States,251-287-1808,30.687727,-88.216567,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Estero,,,,Estero,FL,,United States,,26.438136,-81.80675229999997,,,1
+Ormond Beach,,"1290 Granada Blvd., Suite 200",,Ormond Beach,FL,32174,United States,386-947-7654,29.2649708,-81.10467640000002,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Tampa,,,,Tampa,FL,,United States,,27.950575,-82.45717760000002,,,1
+Branson,,482 Branson Landing Blvd. Ste. 103,,Branson,MO,65616,United States,417-320-6184,36.6506498,-93.22042069999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Independence,,"18921 E Valley View Parkway, Unit D",,Independence,MO,64055,United States,816-886-0229,39.0331698,-94.35626869999999,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Kansas City,,534 Westport Road,,Kansas City,MO,64111,United States,816-895-3298,39.052738,-94.59313399999996,Sunday – Thursday  11 a.m. – 10 p.m.,,0
+Springfield,,"1008 East Battlefield Road, Suite 100",,Springfield,MO,65807,United States,,37.1592467,-93.2818585,,,1
+St. Joseph,,3508 N. Belt Hwy,,St. Joseph,MO,64506,United States,816-273-5252,39.8022992,-94.81587189999999,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Moore – Fritts Farm,,"750 SW 19th St, Suite C",,Moore,OK,73160,United States,405-799-2801,35.3197866,-97.5001739,Monday - Sunday 11 a.m - 10 p.m.,,0
+Stillwater,,"611 N. Perkins Rd. , Suite A",,Stillwater,OK,74075,United States,405-372-2177,36.128117,-97.05114300000002,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Tulsa – Olympia Avenue,,7454 S. Olympia Ave. W,,Tulsa,OK,74132,United States,918 - 445-6814,36.0424877,-96.00515819999998,Monday – Sunday 11 a.m. – 10 p.m.,,1
+Tulsa – TUL Airport,,"Tulsa International Airport, 7777 East Apache Street",,Tulsa,OK,74115,United States,,36.198778,-95.88386589999999,,,1
+Yukon,,"2121 S. Yukon Parkway, Suite 100",,Yukon,OK,73099,United States,405-265-2088,35.4912005,-97.72469030000002,Store hours 10:30 a.m. – 9 p.m.,,0
+Hutchinson – 17th Ave.,,1532 E. 17th Avenue,,Hutchinson,KS,67501,United States,620-259-8743,38.0726801,-97.8990609,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Lawrence,,2500 Iowa Street,,Lawrence,KS,66046,United States,785-551-7170,38.9383498,-95.26000590000001,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Leawood – Camelot Court,,"11725 Roe Ave, Suite A",,Leawood,KS,66211,United States,913-906-9003,38.9144697,-94.63970239999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Lenexa – Oak Park,,12154 W. 95th St.,,Lenexa,KS,66215,United States,913-495-9509,38.9573001,-94.72676439999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Manhattan – Aggieville,,623 N Manhattan Avenue,,Manhattan,KS,66502,United States,785-473-7691,39.1858771,-96.5768387,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Mission,,6809 Johnson Dr.,,Mission,KS,66202,United States,913-283-8321,39.0221735,-94.66382550000003,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Olathe – Northridge,,15404 W 119th Street,,Olathe,KS,66062,United States,913-782-0580,38.9128635,-94.7664246,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Overland Park – Deer Creek,,13366 Metcalf Ave.,,Overland Park,KS,66213,United States,913-897-7435,38.8858184,-94.66818990000002,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Overland Park – Glenwood Commons,,9133 Metcalf Ave.,,Overland Park,KS,66212,United States,913-766-1407,38.960368,-94.6674964,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Topeka,,1129 SW Wanamaker,,Topeka,KS,66604,United States,785-273-7435,39.0470614,-95.76219129999998,Monday - Sunday 11:00 a.m. - 10:00 p.m.,,0
+Wichita – Ridge Road,,334 South Ridge Road,,Wichita,KS,67209,United States,316-267-7435 (PIE5),37.6793369,-97.42583279999997,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Wichita – Rock Road,,2035 North Rock Road,,Wichita,KS,67206,United States,316-252-8400,37.7203759,-97.24548729999998,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Omaha – Aksarben Village,,"1303 South 72nd Street, Suite 108",,Omaha,NE,68124,United States,402-932-9880,41.2466096,-96.02383150000003,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Addison,,"15250 Dallas Parkway, (Beltline & Dallas North Tollway)",,Dallas,TX,75248,United States,972-726-7435,32.9569358,-96.82037409999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Allen,,190 E. Stacy Rd.,,Allen,TX,75002,United States,972-912-3135,33.1265211,-96.6610766,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Arlington – North Collins Street,,2151 N Collins St.,,Arlington,TX,76011,United States,817-303-7435,32.7690093,-97.09667260000003,Monday – Sunday 11 a.m. - 10 p.m.,,0
+Arlington – UTA,,501 Spaniolo Drive,,Arlington,TX,76010,United States,817-460-7435,32.7300971,-97.10865769999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Carrollton – Park and Midway,,3400 East Hebron Parkway,,Carrollton,TX,75007,United States,972-931-7435,33.0257764,-96.84912079999998,Monday – Sunday 11 a.m. - 10 p.m.,,0
+Dallas – Upper Greenville,,5927 Greenville Ave.,,Dallas,TX,75206,United States,214-526-7435,32.857806,-96.76891969999997,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Euless – Glade Parks,,2921 Hwy 121,,Euless,TX,76039,United States,817-283-0231,32.8800436,-97.09986879999997,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Flower Mound – Highlands Plaza,,"3711 Justin Rd., Suite 110",,Flower Mound,TX,75028,United States,972-355-5792,33.070897,-97.086862,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Fort Worth – Alliance,,3000 Texas Sage Trail,,Fort Worth,TX,76177,United States,817-741-7435,32.9118719,-97.31261359999996,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Fort Worth – Camp Bowie,,6370 Camp Bowie Blvd.,,Fort Worth,TX,76116,United States,817-989-7435,32.72657,-97.42184099999997,Monday – Sunday 11 a.m. - 10 p.m.,,0
+Fort Worth – Montgomery Plaza,,"2600 W 7th St., Suite 105",,Fort Worth,TX,76107,United States,817-332-7435,32.752131,-97.35337600000003,Monday – Sunday 11 a.m. - 10 p.m.,,0
+Frisco,,5110 West Main Street,,Frisco,TX,75034,United States,214-705-6335,33.1533918,-96.84229909999999,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Georgetown – Wolf Ranch,,"1201 W University Avenue, #105",,Georgetown,TX,78628,United States,512-942-5960,30.6328894,-97.69783389999998,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Keller Station,,"1431 Keller Parkway, Suite 100",,Keller,TX,76248,United States,817-741-7439,32.9344547,-97.22075330000001,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Las Colinas,,"6440 N MacArthur Blvd, Suite 130",,Irving,TX,75039,United States,972-506-7435,32.89683520000001,-96.95799749999998,Monday – Sunday 11 a.m. - 10 p.m.,,0
+Lewisville – Castle Hills,,"4600 S.H. 121, Suite 110",,Lewisville,TX,75056,United States,214-618-8487,33.0647077,-96.89255889999998,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Lubbock – West End,,"2912 W. Loop 289, Ste. 101",,Lubbock,TX,79407,United States,806-788-5554,33.5661869,-101.9444896,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Lufkin,,4415 S. Medford,,Lufkin,TX,75901,United States,936-632-7276,31.3129429,-94.71936619999997,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Pflugerville – Shops on 685,,"2424 FM 685, Ste. 200",,Pflugerville,TX,78660,United States,512-942-0017,30.4545976,-97.60292479999998,Monday - Sunday 11 a.m. - 10 p.m.,,0
+Plano – Village 121,,"8315 Preston Rd., Suite 400",,Plano,TX,75024,United States,,33.0898422,-96.80569149999997,,,1
+Rowlett,,,,Rowlett,TX,,United States,,32.9029017,-96.56387999999998,,,1
+Southlake,,"2645 E. Southlake Blvd., Suite 180",,Southlake,TX,76092,United States,817-488-2335,32.9389914,-97.11169210000003,Monday – Sunday 11 a.m. – 10 p.m.,,0
+Spring,,21460 Kuykendahl Bldg 14A,,Spring,TX,77379,United States,281-288-7435,30.0805316,-95.5201472,Monday - Sunday 11:00 a.m. - 10:00 p.m.,,0
+Tyler,,,,Tyler,TX,,United States,,32.3512601,-95.30106239999998,,,1
+Waco – Bear Ground Plaza,,"720 South 5th Street, #100",,Waco,TX,76706,United States,254-727-7355,31.5513401,-97.12454869999999,Monday – Sunday 11 a.m. – 10 p.m.,,1
+Webster – Baybrook,,19325 Gulf Freeway,,Webster,TX,77598,United States,281-554-3091,29.5424228,-95.14239320000001,Monday – Sunday 11 a.m. – 10 p.m.,,0

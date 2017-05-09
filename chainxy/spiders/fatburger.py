@@ -10,23 +10,30 @@ import pdb
 import unicodedata
 
 class FatburgerSpider(scrapy.Spider):
-		name = "fatburger"
+		name = "fatburgers"
 		uid_list = []
 		start_urls = ['https://www.fatburger.com/domestic']
+		count = []
 
 		def parse(self, response):
-			for url in response.xpath('//a[contains(@href, "https://www.fatburger.com/locations/")]'):
-				extracted_url = url.xpath('./@href').extract_first()
-				item = ChainItem()
-				if extracted_url == "https://www.fatburger.com/locations/venice":
-					item['state'] = "CA"
-					item['city'] = "Los Angeles"
-				else:
-					item['state'] = self.validateState(url.xpath('./text()').extract_first().split(',')[-1].strip())
-					item['city'] = self.getCity(url.xpath('./text()').extract_first().split(',')[0]).strip()
-				request = scrapy.Request(url=extracted_url, callback=self.parse_store)
-				request.meta['item'] = item
- 				yield request
+			try:
+				for url in response.xpath('//a[contains(@href, "https://www.fatburger.com/locations/")]'):
+					extracted_url = url.xpath('./@href').extract_first()
+					item = ChainItem()
+					if extracted_url == "https://www.fatburger.com/locations/torrance":
+						pdb.set_trace()
+					if extracted_url == "https://www.fatburger.com/locations/venice":
+						item['state'] = "CA"
+						item['city'] = "Los Angeles"
+					else:
+						item['state'] = self.validateState(url.xpath('./text()').extract_first().split(',')[-1].strip())
+						item['city'] = self.getCity(url.xpath('./text()').extract_first().split(',')[0]).strip()
+					request = scrapy.Request(url=extracted_url, callback=self.parse_store)
+					request.meta['item'] = item
+	 				yield request
+	 		except:
+	 			pdb.set_trace()
+	 			pass
 
 		def parse_store(self, response):
 			try:
@@ -56,10 +63,15 @@ class FatburgerSpider(scrapy.Spider):
 				item['latitude'] = response.xpath('//meta[@property="og:latitude"]/@content').extract_first()
 				item['longitude'] = response.xpath('//meta[@property="og:longitude"]/@content').extract_first()
 				#item['store_type'] = info_json["@type"]
+				if item['state'] == 'CA':
+					self.count.append(item["city"])
+				print "pp"
+				print self.count
 				item['other_fields'] = ""
 				item['coming_soon'] = 0
 				yield item
 			except:
+				pdb.set_trace()
 				pass			
 
 		def validate(self, xpath):

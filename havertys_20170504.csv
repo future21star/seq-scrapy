@@ -1,0 +1,125 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Anniston,,1701 S Quintard Ave,,Anniston,AL,36201,United States,256-831-4740,33.6254147,-85.8264772,10am - 7pm Mon - Sat;12pm - 6pm Sun,,0
+Azalea Center,,4013 Airport Blvd,,Mobile,AL,36608,United States,251-341-3349,30.6748371,-88.1503968,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Huntsville,,930 Old Monrovia Road,,Huntsville,AL,35806,United States,256-837-4283,34.7361055,-86.6620054,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Montgomery,,6201 Atlanta Hwy,,Montgomery,AL,36117,United States,334-271-5400,32.3828532,-86.1923855,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Riverchase,,3650 Lorna Rd,,Hoover,AL,35216,United States,205-989-6492,33.3797069,-86.7979613,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Trussville,,3679 Roosevelt Blvd,,Trussville,AL,35235,United States,205-661-1390,33.6103193,-86.6368839,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Tuscaloosa,,"3215 Mcfarland Blvd., East",,Tuscaloosa,AL,35405,United States,205-556-2100,33.1794291,-87.5245154,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Pine Bluff,,2801 E Harding Ave,,Pine Bluff,AR,71601,United States,870-536-8000,34.2096817,-91.9723022,9am - 6pm Mon - Sat;Closed Sun,,0
+Rogers,,2203 Promenade Boulevard,,Rogers,AR,72758,United States,479-202-7166,36.3091069,-94.1770041,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Shackleford Crossing,,2616 S Shackleford Rd,,Little Rock,AR,72205,United States,501-223-8435,34.7309744,-92.3995969,10am - 8pm Mon - Sat;12pm -6pm Sun,,0
+Altamonte Springs,,645 W State Road 436,,Altamonte Springs,FL,32714,United States,407-774-1330,28.6626358,-81.4079962,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Atlantic,,9735 Atlantic Blvd,,Jacksonville,FL,32225,United States,904-721-7075,30.3218678,-81.5457639,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Avenues,,10464 Philips Hwy,,Jacksonville,FL,32256,United States,904-262-8801,30.1781201,-81.5523554,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Boca Raton,,6650 N. Federal Hwy.,,Boca Raton,FL,33487,United States,561-912-0117,26.408715,-80.076088,10am - 8pm Mon - Sat;11am - 6pm Sun,,0
+Brandon,,1906 W Brandon Blvd,,Brandon,FL,33511,United States,813-643-2010,27.938756,-82.314989,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Cocoa,,4075 N Us Hwy 1,,Cocoa,FL,32927,United States,321-632-9556,28.4344964,-80.7604425,10am - 7pm Mon - Sat;11am - 6pm Sun,,0
+Coconut Creek,,6812 N. State Rd. 7,,Coconut Creek,FL,33073,United States,954-246-2775,26.3145943,-80.2012038,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Dale Mabry,,16312 N Dale Mabry Hwy,,Tampa,FL,33618,United States,813-264-6131,28.1035132,-82.502984,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Daytona,,2600 W International Speedway,,Daytona Beach,FL,32114,United States,386-323-3772,29.1772967,-81.0829648,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+East Colonial,,4545 E Colonial Dr,,Orlando,FL,32803,United States,407-228-0551,28.5535168,-81.3302859,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Fort Myers,,11798 Cleveland Ave,,Fort Myers,FL,33907,United States,239-936-2229,26.5702524,-81.8727909,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Fort Pierce,,1718 S Us-1,,Fort Pierce,FL,34950,United States,772-465-5400,27.4306957,-80.3249631,9am - 6pm Mon - Sat;11am - 6pm Sun,,0
+Fort Walton Beach,,1175 Eglin Pkwy,,Shalimar,FL,32579,United States,850-651-0101,30.4408761,-86.5803402,10am - 7pm Mon - Sat;12pm - 6pm Sun,,0
+Ft. Lauderdale,,3700 North Federal Hwy.,,Ft. Lauderdale,FL,33308,United States,954-453-1678,26.1734978,-80.1189081,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Kissimmee,,751 Centerview Boulevard,,Kissimmee,FL,34741,United States,407-552-0091,28.3384843,-81.4156021,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Lakeland,,4240 S Florida Ave,,Lakeland,FL,33813,United States,863-646-1463,27.9885403,-81.9564745,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Melbourne,,2800 W New Haven Ave,,Melbourne,FL,32904,United States,321-768-0019,28.0790246,-80.6682496,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Naples,,1000 Immokalee Rd Ste 50,,Naples,FL,34110,United States,239-596-1256,26.271744,-81.7977909,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+North Davis Hwy Store,,6500 N Davis Hwy,,Pensacola,FL,32504,United States,850-484-3500,30.4916007,-87.2235715,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Orange Park,,86 Blanding Blvd,,Jacksonville,FL,32073,United States,904-272-6655,30.1830581,-81.7386844,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Palm Harbor,,31594 Us-19 N,,Palm Harbor,FL,34684,United States,727-787-4177,28.0591843,-82.7396111,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Port Charlotte,,2000 Tamiami Trail Suite 225,,Port Charlotte,FL,33948,United States,941-625-0363,27.0035405,-82.1295775,10am - 8pm Mon - Sat;11am - 6pm Sun,,0
+Port Richey,,8905 Us 19,,Port Richey,FL,34668,United States,727-834-9429,28.2863634,-82.7154283,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Sarasota,,8599 S Tamiami Trl,,Sarasota,FL,34238,United States,941-926-3196,27.2263838,-82.4898237,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Tallahassee,,2940 Apalachee Pkwy,,Tallahassee,FL,32301,United States,850-656-3444,30.4283408,-84.2281863,10am - 8pm Mon - Sat;11am - 6pm Sun,,0
+Treasure Coast,,3534 Nw Federal Hwy,,Jensen Beach,FL,34957,United States,772-692-9214,27.2439111,-80.2723394,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Wesley Chapel,,26450 Golden Maple Loop,,Wesley Chapel,FL,33543,United States,813-994-0541,28.1897609,-82.380867,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+West Palm Beach,,2501 Okeechobee Blvd,,West Palm Beach,FL,33409,United States,561-615-0049,26.7069821,-80.0908585,10am - 8pm Mon - Sat;11am - 6pm Sun,,0
+Winter Garden,,3053 N. Daniels Road,,Winter Garden,FL,34787,United States,407-654-7409,28.5239843,-81.5865603,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Abercorn Ext,,7923 Abercorn St,,Savannah,GA,31406,United States,912-927-4600,32.0036035,-81.1235962,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Athens,,4120 Atlanta Hwy,,Athens,GA,30622,United States,706-546-6831,33.9410048,-83.4785893,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Augusta,,3411 Wrightsboro Rd,,Augusta,GA,30909,United States,706-738-8217,33.4703079,-82.0763263,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Buckhead Style Studio,,3255 Peachtree Rd. Suite 101,,Atlanta,GA,30305,United States,404-443-9964,33.8435617,-84.3702619,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Cobb Parkway,,2079 Cobb Pkwy Se,,Smyrna,GA,30080,United States,404-443-2907,33.9025191,-84.4856327,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Columbus Park Crossing,,5555 Whittlesey Blvd. Suite 1000,,Columbus,GA,31909,United States,706-320-1042,32.545534,-84.949405,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Fayetteville,,1302 Hwy 85 N,,Fayetteville,GA,30214,United States,678-817-6542,33.474501,-84.441217,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Gainesville,,1918 Browns Bridge Rd,,Gainesville,GA,30501,United States,770-536-9158,34.283303,-83.849524,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Gwinnett Place,,3380 Satellite Blvd,,Duluth,GA,30096,United States,770-497-0567,33.9631961,-84.1294917,10am - 9pm Mon - Sat;12pm - 7pm Sun,,0
+Havertys Outlet,,4000 Venture Drive,,Duluth,GA,30096,United States,770-810-8673,33.9473444444444,-84.1455925925926,10am - 6pm Thu - Mon;12pm -6pm Sun,,0
+Macon Store,,3654 Eisenhower Pkwy,,Macon,GA,31206,United States,478-788-1396,32.814548,-83.6913206,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Mall Of Georgia,,3333 Buford Drive,,Buford,GA,30519,United States,770-831-6110,34.0627932,-83.9846376,10am - 9pm Mon - Sat;11am - 7pm Sun,,0
+McDonough,,201 Southpoint Boulevard,,McDonough,GA,30253,United States,678-432-5019,33.42353,-84.18885,10am - 9pm Mon - Sat;12pm - 7pm Sun,,0
+North Point,,6731 N Point Pkwy,,Alpharetta,GA,30022,United States,770-442-2810,34.0442243,-84.2965947,10am - 9pm Mon - Sat;11am - 7pm Sun,,0
+Perimeter,,132 Perimeter Ctr W,,Atlanta,GA,30346,United States,770-352-0901,33.9274395,-84.3471489,10am - 9pm Mon - Sat;11am - 7pm Sun,,0
+Snellville,,2297 Main St E,,Snellville,GA,30078,United States,770-972-0564,33.854238,-84.0084597,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Stonecrest Mall,,7990 Mall Parkway,,Lithonia,GA,30038,United States,404-443-2906,33.6960695,-84.0992243,10am - 9pm Mon - Sat;12pm - 7pm Sun,,0
+Town Center Mall,,724 Home Center Dr Nw,,Kennesaw,GA,30144,United States,770-423-0266,34.0049795,-84.5724787,10am - 9pm Mon - Sat;11am - 7pm Sun,,0
+Castleton Commons,,8410 Castleton Corner,,Indianapolis,IN,46250,United States,317-558-2992,39.9087056,-86.0737795,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Wichita,,1725 N Rock Rd,,Wichita,KS,67206,United States,316-636-5445,37.7151722,-97.2452907,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Lexington,,2150 Paul Jones Way Hamburg Place,,Lexington,KY,40509,United States,859-543-1223,38.0204586,-84.4205194,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Louisville,,103 N Hurstbourne Pkwy,,Louisville,KY,40222,United States,502-339-8874,38.2483618,-85.5773066,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Alexandria,,2300 S Macarthur Dr,,Alexandria,LA,71301,United States,318-445-7752,31.272251,-92.465715,9am - 7pm Mon - Sat;12pm - 6pm Sun,,0
+Baton Rouge,,8680 Airline Hwy,,Baton Rouge,LA,70815,United States,225-201-1484,30.4491319,-91.097104,10am - 7pm Mon - Sat;12pm - 6pm Sun,,0
+Eastgate,,1744 East 70th Street,,Shreveport,LA,71105,United States,318-524-3325,32.4445762,-93.7154659,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Monroe,,4641 Pecanland Mall Dr,,Monroe,LA,71203,United States,318-362-8093,32.4978408,-92.0631231,10am - 7pm Mon - Sat;12pm - 6pm Sun,,0
+Bowie,,4510 Mitchellville Road,,Bowie,MD,20716,United States,301-464-5415,38.9512643,-76.7233516,10am - 9pm Mon - Sat;11AM - 6PM Sun,,0
+Columbia,,6475 Dobbin Road,,Columbia,MD,21045,United States,410-715-9700,39.1941759,-76.8179075,10am - 9pm Mon - Sat;11AM - 6PM Sun,,0
+Rockville,,1428 Rockville Pike,,Rockville,MD,20852,United States,301-230-2310,39.0670807,-77.1286736,10am - 9pm Mon - Sat;11AM - 6PM Sun,,0
+Towson Place,,1238 Putty Hill Avenue,,Towson,MD,21286,United States,410-825-0951,39.3968,-76.5808,10am - 9pm Mon - Sat;11AM - 6PM Sun,,0
+Springfield,,1212 N Eastgate Ave,,Springfield,MO,65802,United States,417-864-5300,37.2198164,-93.2230539,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Capital Blvd,,6140 Capital Blvd,,Raleigh,NC,27616,United States,919-792-0888,35.8690505,-78.5801149,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Carolina Place,,11500 Carolina Place Pkwy,,Pineville,NC,28134,United States,704-542-9886,35.0770478,-80.8783819,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Glensford,,191 Glensford Drive,,Fayetteville,NC,28303,United States,910-867-1535,35.066983,-78.9606349,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Greensboro,,4528 W Wendover Ave,,Greensboro,NC,27409,United States,336-690-6985,36.0535666666666,-79.9106444444444,,,1
+Land Fall,,1319 Military Cutoff Road,,Wilmington,NC,28405,United States,910-256-0242,34.228775,-77.8282742,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Raleigh,,6701 Glenwood Ave Ste 121,,Raleigh,NC,27612,United States,919-783-6115,35.8602663,-78.7094604,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+River Hills,,107c River Hills Drive,,Asheville,NC,28805,United States,828-281-8172,35.576213,-82.519045,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Smith Corners,,7101 Smith Corners Blvd,,Charlotte,NC,28269,United States,704-596-2125,35.3490493,-80.8451199,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Winston-Salem,,1935 Hampton Inn Ct.,,Winston-Salem,NC,27103,United States,336-293-1094,36.0637266,-80.306258,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Columbus Polaris,,935 Polaris Parkway,,Columbus,OH,43240,United States,614-785-6190,40.1484241,-82.9944948,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Tri-County,,11444 Princeton Pike,,Cincinnati,OH,45246,United States,513-671-4920,39.2867523,-84.4633664,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Florence,,220 S Cashua Dr,,Florence,SC,29501,United States,843-665-0411,34.1906917,-79.803095,10am - 7pm Mon - Thu;10am - 8pm Fri and Sat,,0
+Greenville,,610 Haywood Rd,,Greenville,SC,29607,United States,864-288-9525,34.8462692,-82.3389038,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Hilton Head,,2 Buckingham Plantation Dr,,Bluffton,SC,29910,United States,843-837-5500,32.2369034,-80.8099735,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+North Charleston,,7619 Rivers Ave,,Charleston,SC,29406,United States,843-553-0048,32.9395846,-80.0428979,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Two Notch Road,,7515 Two Notch Rd,,Columbia,SC,29223,United States,803-788-0516,34.0760151,-80.9452789,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+West Ashley,,1760 Sam Rittenberg Blvd,,Charleston,SC,29407,United States,843-556-6221,32.8024821,-80.0153691,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Cool Springs,,8105 Moores Ln,,Brentwood,TN,37027,United States,615-370-4525,35.9652614,-86.8020624,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Knoxville,,9641 Kingston Pike,,Knoxville,TN,37922,United States,865-694-7572,35.9100682,-84.1064488,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Rivergate,,2208 Gallatin Pike N,,Madison,TN,37115,United States,615-851-6722,36.3050919,-86.6875857,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+The Avenue,,2615 Medical Center Parkway Suite 2700,,Murfreesboro,TN,37129,United States,615-895-6736,35.8612896,-86.4452266,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Wolfcreek,,2825 Wolfcreek Pkwy,,Memphis,TN,38133,United States,901-380-4150,35.2026007,-89.7945924,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Allen,,170 E. Stacy Road Building # 2020,,Allen,TX,75002,United States,972-912-3170,33.12972,-96.65587,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Alliance Town Center,,9312 Sage Meadow Trail,,North Fort Worth,TX,76177,United States,817-569-6411,32.9119889,-97.314437,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Amarillo,,8600 W 34th St,,Amarillo,TX,79121,United States,806-358-7544,35.1778197,-101.936316,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Arbor Trails,,"4301 West William Cannon Bldg B, Suite 700",,Austin,TX,78749,United States,512-358-8646,30.2210704,-97.8422056,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Arlington,,1900 Pleasant Ridge Rd,,Arlington,TX,76015,United States,817-467-3280,32.6777902,-97.1382934,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Austin Lakeline,,11091 Pecan Park Blvd,,Cedar Park,TX,78613,United States,512-257-9803,30.4705185,-97.8028925,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Cedar Hill,,320 Clancy Nolan Drive,,Cedar Hill,TX,75104,United States,972-291-2344,32.5939699,-96.9449342,10am - 8pm Mon - Sat;11am - 6pm Sun,,0
+College Station,,2004 Texas Ave. S,,College Station,TX,77840,United States,979-329-7068,30.612661,-96.315865,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Coppell,,770 Gateway Blvd,,Coppell,TX,75019,United States,469-948-9704,32.9476835,-97.0173526,10am - 7pm Mon and Thurs ;Closed Tues and Wed,,0
+Frisco,,8049 Gaylord Pkwy,,Frisco,TX,75034,United States,972-668-5820,33.1009905,-96.8152226,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Galleria,,4505 Lyndon B Johnson Fwy,,Dallas,TX,75244,United States,972-239-7174,32.9280028,-96.8323525,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Hulen,,5801 South Hulen St,,Ft. Worth,TX,76132,United States,817-346-8595,32.66472,-97.40234,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Longview,,1101 West Loop 281,,Longview,TX,75604,United States,903-759-9474,32.5363171,-94.7687627,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Lubbock,,7401 Quaker Ave,,Lubbock,TX,79424,United States,806-799-7544,33.52699,-101.90537,10AM - 8PM Mon - Sat;12PM - 6PM Sun,,0
+Midland,,4110 West Loop 250 North,,Midland,TX,79707,United States,432-689-2178,32.030312,-102.14416,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+North Richland Hills,,8251 Bedford Euless Rd Suite 101 Old Town Square,,North Richland Hills,TX,76180,United States,817-581-9945,32.835101,-97.202617,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+San Angelo,,1735 Knickerbocker Rd,,San Angelo,TX,76904,United States,325-944-7133,31.4268039,-100.458119,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+San Antonio,,13141 Ih 10 West,,San Antonio,TX,78249,United States,210-690-1409,29.5668326,-98.5896475,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Sherman,,4612 Texoma Pkwy,,Sherman,TX,75090,United States,903-868-0502,33.6832713,-96.5845097,10am - 7pm Mon - Sat;12pm - 6pm Sun,,0
+The Forum,,14555 Forum Parkway At Loop 1604 And I35,,Selma,TX,78154,United States,210-566-0303,29.5713548,-98.3277472,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Town East,,18515 Lyndon B Johnson Fwy,,Mesquite,TX,75149,United States,972-270-7401,32.8050061,-96.6282351,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Tyler,,4409 Old Bullard Rd,,Tyler,TX,75703,United States,903-509-8500,32.30147,-95.30437,10am - 8pm Mon - Sat;12pm - 6pm Sun,,0
+Vista Ridge,,Vista Ridge Village 598 E. Fm 3040,,Lewisville,TX,75067,United States,972-315-2800,33.0034802,-96.9763483,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Waco,,4633 South Jack Kultgen Expwy.,,Waco,TX,76706,United States,254-902-8000,31.49971,-97.1509753,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Charlottesville,,140 Wegmans Way,,Charlottesville,VA,22902,United States,434-218-6524,38.009121,-78.497443,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Dulles,,21085 Dulles Town Circle,,Dulles,VA,20166,United States,703-444-0944,39.0288002,-77.4207635,10am - 9pm Mon - Sat;11AM - 6PM Sun,,0
+Fairfax,,11151 Lee Hwy,,Fairfax,VA,22030,United States,703-934-0263,38.8516872,-77.3301639,10am - 9pm Mon - Sat;11AM - 6PM Sun,,0
+Glen Allen,,10070 W Broad St,,Glen Allen,VA,23060,United States,804-270-7043,37.6462649,-77.5716887,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Midlothian,,11501 Midlothian Tpke,,Richmond,VA,23235,United States,804-794-7902,37.5047287,-77.6091431,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Newport News,,11871 Jefferson Ave,,Newport News,VA,23606,United States,757-881-9500,37.0882608,-76.485791,10am - 9pm Mon - Sat;12pm - 6pm Sun,,0
+Virginia Beach,,5169 Virginia Beach Blvd,,Virginia Beach,VA,23462,United States,757-497-9500,36.8463416,-76.1598436,10am - 9pm Mon - Sat;11am - 6pm Sun,,0
+Woodbridge,,2600 Opitz Blvd,,Woodbridge,VA,22192,United States,703-492-1122,38.6363246,-77.2928838,10am - 9pm Mon - Sat;11AM - 6PM Sun,,0

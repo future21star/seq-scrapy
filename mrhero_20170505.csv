@@ -1,0 +1,111 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Mr.Hero,,437 East State Street,,Alliance,OH,44601,United States,330-680-8064,,,,,0
+Mr.Hero,,3208 State Road,,Ashtabula,OH,44004,United States,440-998-2772,,,,,0
+Mr.Hero,,1746 West Prospect Road,,Ashtabula,OH,44004,United States,440-650-5302,,,,,0
+Mr.Hero,,124 S Chestnut St,,Jefferson,OH,44047,United States,440-576-5085,,,,,0
+Mr.Hero,,53 East Main Street,,Orwell,OH,44047,United States,,,,,,0
+Mr.Hero,,772 South Broadway,,Geneva,Ohio,44041,United States,440-361-4041,,,,,0
+Mr.Hero,,277 Northfield Road,,Bedford,OH,44146,United States,440-439-5549,,,,,0
+Mr.Hero,,24932 Aurora Road,,Bedford Heights,OH,44146,United States,440-439-4380,,,,,0
+Mr.Hero,,7 West Grand Street,,Berea,OH,44017,United States,440-243-8686,,,,,0
+Mr.Hero,,5875 Smith Road,,Brook Park,OH,44142,United States,,,,,,0
+Mr.Hero,,4750 Ridge Road,,Brooklyn,OH,44144,United States,216-749-0400,,,,,0
+Mr.Hero,,6409 Harvard Avenue,,Cleveland,OH,44105,United States,216-641-6860,,,,,0
+Mr.Hero,,7134 Denison Avenue,,Cleveland,OH,44102,United States,216-631-6311,,,,,0
+Mr.Hero,,15617 Puritas Avenue,,Cleveland,OH,44135,United States,216-267-4402,,,,,0
+Mr.Hero,,4675 West 130th Street,,Cleveland,OH,44135,United States,216-251-4700,,,,,0
+Mr.Hero,,13720 Lorain Road,,Cleveland,OH,44111,United States,216-252-7676,,,,,0
+Mr.Hero,,4918 Memphis Avenue,,Cleveland,OH,44144,United States,216-741-4100,,,,,0
+Mr.Hero,,7606 St. Clair Avenue,,Cleveland,OH,44103,United States,216-431-4222,,,,,0
+Mr.Hero,,6210 Broadway Avenue,,Cleveland,OH,44127,United States,216-441-1500,,,,,0
+Mr.Hero,,17027 Euclid Avenue,,Cleveland,OH,44112,United States,216-692-3331,,,,,0
+Mr.Hero,,2114 Brookpark Road,,Cleveland,OH,44134,United States,216-749-6199,,,,,0
+Mr.Hero,,2033 Ontario Street,,Cleveland,Ohio,44115,United States,216-505-5700,,,,,0
+Mr.Hero,,13207 Miles Avenue,,Cleveland,OH,44105,United States,,,,,,0
+Mr.Hero,,2125 E. 79th Street,,Cleveland,OH,44103,United States,,,,,,0
+Mr.Hero,,13464 Euclid Avenue,,Cleveland,OH,44112,United States,216-834-0702,,,,,0
+Mr.Hero,,1923 South Taylor Road,,Cleveland Heights,OH,44118,United States,216-600-5118,,,,,0
+Mr.Hero,,24686 Euclid Avenue,,Euclid,OH,44117,United States,216-692-3100,,,,,0
+Mr.Hero,,523 East 185th Street,,Euclid,OH,44119,United States,216-486-6900,,,,,0
+Mr.Hero,,22812 Lakeshore Boulevard,,Euclid,OH,44123,United States,216-261-6789,,,,,0
+Mr.Hero,,3265 West Market Street,,Fairlawn,OH,44333,United States,330-835-4225,,,,,0
+Mr.Hero,,5130 Turney Road,,Garfield Heights,OH,44125,United States,216-662-2324,,,,,0
+Mr.Hero,,16204 Detroit Avenue,,Lakewood,OH,44107,United States,216-228-6489,,,,,0
+Mr.Hero,,1510 West 117th Street,,Lakewood,OH,44107,United States,216-521-2299,,,,,0
+Mr.Hero,,5217 Mayfield Road,,Lyndhurst,OH,44124,United States,440-461-9996,,,,,0
+Mr.Hero,,21680 Libby Road,,Maple Heights,OH,44137,United States,216-662-7011,,,,,0
+Mr.Hero,,16473 Broadway,,Maple Heights,OH,44137,United States,216-475-1738,,,,,0
+Mr.Hero,,6833 Pearl Road,,Middleburg Heights,OH,44130,United States,440-888-4376,,,,,0
+Mr.Hero,,7555 Pearl Road,,Middleburg Heights,OH,44130,United States,440-625-0073,,,,,0
+Mr.Hero,,24751 Lorain Road,,North Olmsted,OH,44070,United States,440-777-4995,,,,,0
+Mr.Hero,,4954 Great Northern Mall,,North Olmsted,OH,44070,United States,,,,,,0
+Mr.Hero,,4601 Northfield Road,,North Randall,OH,44128,United States,216-475-1544,,,,,0
+Mr.Hero,,34258 Center Ridge Raod,,North Ridgeville,OH,44039,United States,440-353-3149,,,,,0
+Mr.Hero,,6815 Royalton Road,,North Royalton,OH,44133,United States,440-582-8211,,,,,0
+Mr.Hero,,26918 Cook Road,,Olmsted Township,OH,44138,United States,,,,,,0
+Mr.Hero,,8505 Day Drive,,Parma,OH,44129,United States,440-884-7878,,,,,0
+Mr.Hero,,5846 State Road,,Parma,OH,44134,United States,440-842-6575,,,,,0
+Mr.Hero,,5820 Stumph Road,,Parma Heights,OH,44130,United States,440-888-9414,,,,,0
+Mr.Hero,,7305 Broadview Road,,Seven Hills,OH,44131,United States,216-236-6936,,,,,0
+Mr.Hero,,16710 Chagrin Boulevard,,Shaker Heights,OH,44120,United States,216-921-8080,,,,,0
+Mr.Hero,,12465 Pearl Road,,Strongsville,OH,44136,United States,440-238-8811,,,,,0
+Mr.Hero,,500 Southpark Center,,Strongsville,OH,44136,United States,440-238-5757,,,,,0
+Mr.Hero,,5345 Canal Road,,Valley View,OH,44125,United States,216-447-9797,,,,,0
+Mr.Hero,,4017 Warrensville Center Road,,Warrensville Heights,OH,44122,United States,216-991-8800,,,,,0
+Mr.Hero,,4640 Richmond Road,,Warrensville Heights,OH,44128,United States,216-591-9444,,,,,0
+Mr.Hero,,24513 Center Ridge Road,,Westlake,OH,44145,United States,440-835-1267,,,,,0
+Mr.Hero,,27315 Detroit Road,,Westlake,OH,44145,United States,440-808-8400,,,,,0
+Mr.Hero,,2625 East 55th Street,,Cleveland,OH,44104,United States,216-361-2335,,,,,0
+Mr.Hero,,11321 Buckeye Road,,Cleveland,OH,44104,United States,216-785-9325,,,,,0
+Mr.Hero,,552 East 152nd Street,,Cleveland,OH,44110,United States,216-862-0876,,,,,0
+Mr.Hero,,22061 Lorain Road,,Fairview Park,OH,44126,United States,440-777-8733,,,,,0
+Mr.Hero,,468 Richmond Road,,Richmond Heights,OH,44143,United States,216-862-2300,,,,,0
+Mr.Hero,,13910 Cedar Road,,University Heights,OH,44118,United States,216-321-1991,,,,,0
+Mr.Hero,,5321 Detroit Road,,Sheffield Village,OH,44054,United States,,,,,,0
+Mr.Hero,,4816 Milan Road,,Sandusky,Ohio,44870,United States,419-621-7476,,,,,0
+Mr.Hero,,2087 East Livingston Avenue,,Columbus,OH,43209,United States,614-338-8500,,,,,0
+Mr.Hero,,108 Cherry Street,,Chardon,OH,44024,United States,440-286-6169,,,,,0
+Mr.Hero,,13940 Grand Army of the Republic Hwy,,Chardon,OH,44024,United States,440-286-2493,,,,,0
+Mr.Hero,,328 7th Street,,Fairport Harbor,OH,44077,United States,440-354-2233,,,,,0
+Mr.Hero,,6663 North Ridge Road,,Madison,OH,44057,United States,,,,,,0
+Mr.Hero,,7488 Mentor Ave,,Mentor,OH,44060,United States,440-946-3995,,,,,0
+Mr.Hero,,5965 Andrews Road,,Mentor-on-the-Lake,OH,44060,United States,440-257-6844,,,,,0
+Mr.Hero,,169 Richmond Road,,Painesville,OH,44077,United States,440-352-3109,,,,,0
+Mr.Hero,,1860 North Ridge Road,,Painesville,OH,44077,United States,440-357-1125,,,,,0
+Mr.Hero,,4839 Robinhood Dr.,,Willoughby,OH,44094,United States,440-946-9393,,,,,0
+Mr.Hero,,31910 Vine Street,,Willowick,OH,44095,United States,440-585-5234,,,,,0
+Mr.Hero,,919 Leavitt Road,,Amherst,OH,44001,United States,440-988-2288,,,,,0
+Mr.Hero,,"32730 Walker Road, D-2",,Avon Lake,OH,44012,United States,440-933-5207,,,,,0
+Mr.Hero,,1227 Lake Avenue,,Elyria,OH,44036,United States,440-324-3266,,,,,0
+Mr.Hero,,506 Middle Avenue,,Elyria,OH,44035,United States,440-323-9710,,,,,0
+Mr.Hero,,540 Chestnut Commons Drive,,Elyria,OH,44035,United States,440-365-0464,,,,,0
+Mr.Hero,,717 East Erie Street,,Lorain,OH,44052,United States,440-288-3150,,,,,0
+Mr.Hero,,1150 Tower Blvd,,Lorain,OH,44052,United States,440-240-8408,,,,,0
+Mr.Hero,,525 East Manhattan Boulevard,,Toledo,OH,43608,United States,419-726-2991,,,,,0
+Mr.Hero,,2829 West Central Avenue,,Toledo,OH,43606,United States,419-407-5719,,,,,0
+Mr.Hero,,75 Pearl Road,,Brunswick,OH,44212,United States,330-460-3039,,,,,0
+Mr.Hero,,1737 Pearl Road,,Brunswick,OH,44212,United States,330-225-4991,,,,,0
+Mr.Hero,,741 Bank Street,,Lodi,OH,44254,United States,330-302-4127,,,,,0
+Mr.Hero,,9911 Avon Lake Road,,Lodi,OH,44214,United States,,,,,,0
+Mr.Hero,,3597 Medina Road,,Medina,OH,44256,United States,330-721-6622,,,,,0
+Mr.Hero,,1029 North Court Street,,Medina,OH,44256,United States,330-722-4376,,,,,0
+Mr.Hero,,1343 S Water Street,,Kent,OH,44240,United States,330-673-6273,,,,,0
+Mr.Hero,,9229 State Route 14,,Streetsboro,OH,44241,United States,330-626-3459,,,,,0
+Mr.Hero,,987-B Ashland Road,,Mansfield,OH,44905,United States,419-589-9037,,,,,0
+Mr.Hero,,265 N. Washington,,Tiffin,OH,44883,United States,419-447-3820,,,,,0
+Mr.Hero,,"3312 Cleveland Avenue, NW",,Canton,OH,44709,United States,330-493-9303,,,,,0
+Mr.Hero,,3046 West Tuscarawas,,Canton,OH,44708,United States,330-454-3810,,,,,0
+Mr.Hero,,5021 Whipple Avenue,,Canton,OH,44718,United States,330-546-7204,,,,,0
+Mr.Hero,,"3319 Harmont Avenue, NE",,Canton,OH,44705,United States,330-452-9300,,,,,0
+Mr.Hero,,525 Lincolnway East,,Massillon,OH,44646,United States,330-830-1515,,,,,0
+Mr.Hero,,1453 S. Arlington Road,,Akron,OH,44306,United States,330-724-9296,,,,,0
+Mr.Hero,,484 West Market Street,,Akron,OH,44303,United States,330-376-3087,,,,,0
+Mr.Hero,,3454 Manchester Road,,Akron,OH,44319,United States,330-644-5319,,,,,0
+Mr.Hero,,510 Canton Road,,Akron,OH,44312,United States,330-734-0204,,,,,0
+Mr.Hero,,2863 South Arlington Road,,Akron,Ohio,44312,United States,330-644-0792,,,,,0
+Mr.Hero,,1561 South Hawkins Avenue,,Akron,OH,44320,United States,,,,,,0
+Mr.Hero,,1425 Wooster Road West,,Barberton,OH,44203,United States,330-825-5273,,,,,0
+Mr.Hero,,3482 Hudson Drive,,Cuyahoga Falls,OH,44221,United States,330-920-8201,,,,,0
+Mr.Hero,,905 E. Aurora Road,,Macedonia,OH,44056,United States,330-468-5575,,,,,0
+Mr.Hero,,10434 Northfield Road,,Northfield,OH,44067,United States,330-468-0108,,,,,0
+Mr.Hero,,135 Hostetler Road,,Orrville,Ohio,44667,United States,330-930-0677,,,,,0

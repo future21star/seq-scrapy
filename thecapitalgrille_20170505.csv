@@ -1,0 +1,57 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,8017,2502 East Camelback Road,,Phoenix,AZ,85016,United States,(602) 952-8900,33.51022600,-112.02707200,,,0
+,8027,310 W Wisconsin Ave,,Milwaukee,WI,53203,United States,(414) 223-0600,43.03904600,-87.91587900,,,0
+,8030,1301 4th Ave,,Seattle,WA,98101,United States,(206) 382-0900,47.60825600,-122.33519800,,,0
+,8014,1861 International Drive,,Mclean,VA,22102,United States,(703) 448-3900,38.91580700,-77.22536600,,,0
+,8046,7300 Dallas Parkway,,Plano,TX,75024,United States,(972) 398-2221,33.07849000,-96.82319900,,,0
+,8057,840 W Sam Houston Pkwy NCity Centre Four,,Houston,TX,77024,United States,(713) 463-5051,29.78010068,-95.56188056,,,0
+,8007,5365 Westheimer Rd,,Houston,TX,77056,United States,(713) 623-4600,29.73910900,-95.46962100,,,0
+,8048,800 Main Street,,Fort Worth,TX,76102,United States,(817) 348-9200,32.75247000,-97.32992000,,,0
+,8012,500 Crescent Ct,,Dallas,TX,75201,United States,(214) 303-0500,32.79406600,-96.80473400,,,0
+,8053,117 W 4th Street,,Austin,TX,78701,United States,(512) 322-2005,30.26627046,-97.74446684,,,0
+,8051,6065 Poplar Ave,,Memphis,TN,38119,United States,(901) 683-9291,35.10181686,-89.86174624,,,0
+,8059,10 Memorial Blvd,,Providence,RI,02903,United States,(401) 521-5600,41.82635398,-71.41459095,,,0
+,8031,301 Fifth Avenue,,Pittsburgh,PA,15222,United States,(412) 338-9100,40.44075600,-80.00011600,,,0
+,8013,1338-46 Chestnut Street,,Philadelphia,PA,19107,United States,(215) 545-9588,39.95072000,-75.16390000,,,0
+,8043,236 Mall Blvd,,King of Prussia,PA,19406,United States,(610) 265-1415,40.09115000,-75.39225000,,,0
+,8060,25389 Cedar Road,,Lyndhurst,OH,44124,United States,(216) 382-5093,41.50229066,-81.50146128,,,0
+,8052,3821 Edwards Road,,Cincinnati,OH,45209,United States,(513) 351-0814,39.14869000,-84.44298000,,,0
+,8061,4242 Six Forks Road,,Raleigh,NC,27609,United States,(919) 787-3901,35.83827951,-78.64082964,,,0
+,8011,201 N. Tryon Street,,Charlotte,NC,28202,United States,(704) 348-1400,35.22821200,-80.84198400,,,0
+,8021,155 East 42nd Street,,New York,NY,10017,United States,(212) 953-2000,40.75116400,-73.97486200,,,0
+,8039,120 Broadway,,New York,NY,10271,United States,(212) 374-1811,40.70784700,-74.01022600,,,0
+,8038,120 W 51st Street,,New York,NY,10020,United States,(212) 246-0154,40.76086100,-73.98105700,,,0
+,8049,630 Old Country Road,,Garden City,NY,11530,United States,(516) 746-1675,40.73934650,-73.61502176,,,0
+,8045,1 Garden State Plaza,,Paramus,NJ,07652,United States,(201) 845-7040,40.91810800,-74.07483100,,,0
+,8040,2000 Route 38,,Cherry Hill,NJ,08002,United States,(856) 665-5252,39.94132000,-75.02832000,,,0
+,8020,3200 Las Vegas Blvd South,,Las Vegas,NV,89109,United States,(702) 932-6631,36.12771900,-115.16860700,,,0
+,8015,4740 Jefferson Street,,Kansas City,MO,64112,United States,(816) 531-8345,39.04106000,-94.59513500,,,0
+,8010,801 Hennepin AveLasalle Plaza,,Minneapolis,MN,55402,United States,(612) 692-9000,44.97695200,-93.27588700,,,0
+,8005,2800 West Big Beaver Rd,,Troy,MI,48084,United States,(248) 649-5300,42.56257800,-83.18373000,,,0
+,8004,250 Boylston Street,,Chestnut Hill,MA,02467,United States,(617) 928-1400,42.31923200,-71.17779500,,,0
+,8028,10 Wayside Rd,,Burlington,MA,01803,United States,(781) 505-4130,42.48577500,-71.19099500,,,0
+,8047,900 Boylston StreetHynes Convention Ctr,,Boston,MA,02115,United States,(617) 262-8900,42.34772500,-71.08525500,,,0
+,8041,5310 Western Ave,,Chevy Chase,MD,20815,United States,(301) 718-7812,38.96029345,-77.08684966,,,0
+,8023,500 East Pratt Street,,Baltimore,MD,21202,United States,(443) 703-4064,39.28709644,-76.60791769,,,0
+,8032,40 W. Washington Street,,Indianapolis,IN,46204,United States,(317) 423-8790,39.76732800,-86.15918600,,,0
+,8036,5340 N River Road,,Rosemont,IL,60018,United States,(847) 671-8125,41.97486085,-87.86304142,,,0
+,8026,87 Yorktown Center,,Lombard,IL,60148,United States,(630) 627-9800,41.83683900,-88.00802000,,,0
+,8008,633 North St. Clair Street,,Chicago,IL,60611,United States,(312) 337-9400,41.89350600,-87.62249800,,,0
+,8050,94 Perimeter Center West,,Dunwoody,GA,30346,United States,(770) 730-8447,33.92653800,-84.34037200,,,0
+,8016,255 E. Paces Ferry Road,,Atlanta,GA,30305,United States,(404) 262-1162,33.83884900,-84.37918700,,,0
+,8022,2223 N Westshore Blvd,,Tampa,FL,33607,United States,(813) 830-9433,27.96593000,-82.52117000,,,0
+,8056,180 University Town Center Dr,,Sarasota,FL,34243,United States,(941) 256-3647,27.38402240,-82.45358105,,,0
+,8035,11365 Legacy Ave.,,Palm Beach Gardens,FL,33410,United States,(561) 630-4994,26.84422000,-80.09071000,,,0
+,8054,4200 Conroy Rd.Millenia Mall,,Orlando,FL,32839,United States,(407) 351-2210,28.48624465,-81.43141333,,,0
+,8025,9101 International Drive,,Orlando,FL,32819,United States,(407) 370-4392,28.43093000,-81.47010500,,,0
+,8034,9005 Mercato Drive,,Naples,FL,34108,United States,(239) 254-0640,26.25313000,-81.80076000,,,0
+,8006,444 Brickell Ave,,Miami,FL,33131,United States,(305) 374-4500,25.76949100,-80.19032000,,,0
+,8029,5197 Big Island Drive,,Jacksonville,FL,32246,United States,(904) 997-9233,30.25260000,-81.52553700,,,0
+,8019,2430 E Sunrise Blvd,,Fort Lauderdale,FL,33304,United States,(954) 446-2000,26.13736000,-80.11253000,,,0
+,8037,6000 West Glades Rd.,,Boca Raton,FL,33431,United States,(561) 368-1077,26.36630000,-80.13281000,,,0
+,8003,601 Pennsylvania Ave NW,,Washington,DC,20004,United States,(202) 737-6200,38.89311000,-77.02016800,,,0
+,8033,230 Tresser Blvd,,Stamford,CT,06901,United States,(203) 967-0000,41.05132900,-73.53751500,,,0
+,8055,44 Front Street,,Hartford,CT,06103,United States,(860) 244-0075,41.76287920,-72.67038001,,,0
+,8018,1450 Larimer Street,,Denver,CO,80202,United States,(303) 539-2500,39.74789600,-104.99884100,,,0
+,8044,3333 Bristol St.,,Costa Mesa,CA,92626,United States,(714) 432-1140,33.69004000,-117.88753000,,,0
+,8024,16489 North Scottsdale Rd,,Scottsdale,AZ,85254,United States,(480) 348-1700,33.63713300,-111.92410500,,,0
