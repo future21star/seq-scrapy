@@ -16,6 +16,7 @@ class ClubfitnessSpider(scrapy.Spider):
     start_urls = ['http://www.clubfitness.us/locations/']
 
     def parse(self, response):
+        respons.body.find("var maplistScriptParamsKo = ") + 28
         stores = response.xpath('//li[contains(@class, "corePrettyStyle prettylink map")]')
         for store in stores:
             item = ChainItem()
