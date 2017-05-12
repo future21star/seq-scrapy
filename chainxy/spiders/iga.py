@@ -29,11 +29,6 @@ class IgaSpider(scrapy.Spider):
 		min_lng = -166.78969779687498
 		max_lng = -45.500635296874975
 
-		form_datas = [
-		'{"srl":{"MinLong":"-67.18764701562498","MaxLong":"-52.026514203124975","MinLat":"45.41569287852881","MaxLat":"52.67128950037055","ZoomLevel":6},"pinType":"1"}',
-		'{"srl":{"MinLong":"-81.18422904687498","MaxLong":"-66.02309623437498","MinLat":"43.70946398971876","MaxLat":"51.19473686018495","ZoomLevel":6},"pinType":"1"}',
-		'{"srl":{"MinLong":"-81.03042045312498","MaxLong":"-65.86928764062498","MinLat":"39.64153017921161","MaxLat":"47.652330681043054","ZoomLevel":6},"pinType":"1"}'
-		]
 		url = "http://myirving.com/ajaxpro/StationWebsites.SharedContent.Web.Common.Controls.Map.StoreData,StationWebsites.ashx"
 		lat = min_lat
 		while lat < max_lat:
