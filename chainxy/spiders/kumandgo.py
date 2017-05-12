@@ -51,7 +51,10 @@ class KumandgoSpider(scrapy.Spider):
 				item['latitude'] = store["latitude"]
 				item['longitude'] = store["longitude"]
 				item['country'] = store["country"]
-				item['phone_number'] = store["kitchen_phone"]
+				try:
+					item['phone_number'] = store["kitchen_phone"].replace('{}', '')
+				except:
+					item['phone_number'] = ""
 				item['store_hours'] = "Monday:" + store["monday_hours"] + ";" + "Tuesday:" + store["tuesday_hours"] + ";" + "Wednesday:" + store["wednesday_hours"] + ";" + "Thursday:" + store["thursday_hours"] + ";" + "Friday:" + store["friday_hours"] + ";" + "Saturday:" + store["saturday_hours"] + ";" + "Sunday:" + store["sunday_hours"] + ";"
 				item['other_fields'] = ""
 				item['coming_soon'] = 0
