@@ -8,20 +8,19 @@ from scrapy.selector import HtmlXPathSelector
 from chainxy.items import ChainItem
 import pdb
 
-class TimberlandSpider(scrapy.Spider):
-    name = "timberland"
+class UnderarmourSpider(scrapy.Spider):
+    name = "underarmour"
     uid_list = []
-
-    payload = '<request><appkey>3BD8F794-CA9E-11E5-A9D5-072FD1784D66</appkey><formdata id="locatorsearch"><dataview>store_default</dataview><order>retail_store,_distance</order><limit>2000</limit><geolocs><geoloc><addressline>Dallas TX 75205</addressline><longitude>%s</longitude><latitude>%s</latitude><country>US</country></geoloc></geolocs><radiusuom></radiusuom><searchradius>3000</searchradius><where><or><retail_store><eq></eq></retail_store><factory_outlet><eq></eq></factory_outlet><authorized_reseller><eq></eq></authorized_reseller><icon><eq></eq></icon><pro_workwear><eq></eq></pro_workwear><pro_footwear><eq></eq></pro_footwear></or></where></formdata></request>'
+    payload = '<request><appkey>24358678-428E-11E4-8BC2-2736C403F339</appkey><formdata id="locatorsearch"><dataview>store_default</dataview><order>UASPECIALITY, UAOUTLET, AUTHORIZEDDEALER, rank,_distance</order><limit>2000</limit><stateonly>1</stateonly><nobf>1</nobf><geolocs><geoloc><addressline>Dallas TX 75205</addressline><longitude>%s</longitude><latitude>%s</latitude><country>US</country></geoloc></geolocs><searchradius>3000</searchradius><where><or><uaspeciality><eq>1</eq></uaspeciality><uaoutlet><eq>1</eq></uaoutlet><authorizeddealer><eq>1</eq></authorizeddealer></or></where></formdata></request>'
 
     def __init__(self):
-        long_lat_fp = open('states.json', 'rb')
+        long_lat_fp = open('cities_us.json', 'rb')
         self.long_lat_reader = json.load(long_lat_fp)
     
     def start_requests(self):
         for row in self.long_lat_reader:
             payload = self.payload % (row['longitude'], row['latitude'])         
-            yield scrapy.Request(url='https://hosted.where2getit.com/timberland/local/ajax?lang=en-EN&xml_request=%s' % payload, callback=self.parse_store)
+            yield scrapy.Request(url='https://hosted.where2getit.com/underarmour/2015/ajax?lang=en-EN&xml_request=%s' % payload, callback=self.parse_store)
 
     # get longitude and latitude for a state by using google map.
     def parse_store(self, response):
