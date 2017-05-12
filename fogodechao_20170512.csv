@@ -1,0 +1,395 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Trois-Rivières Dépanneur Café-Gourmet,2496,5700 boul. des Forges,,Trois-Rivières, Québec,G8Y 1X8,Canada,819 840-4449,46.36522,-72.59720,,,0
+Super Sagamie Plus,2223,50 Boul. Tadoussac,,St-Fulgence, Québec,G0V 1S0,Canada,418 674-2811,48.45749,-70.96300,,,0
+Super Sagamie Aux Écluses,2512,"6095, rue Melançon O.",,Alma, Québec,G8B 5V3,Canada,418 669-0330,48.58373,-71.74746,,,0
+Super Dépanneur Lac Saint-Charles Inc,2329,"15500, boul. de la Colline",,Québec, Québec,G3G 2Z4,Canada,418 849-0889,46.88884,-71.37196,,,0
+Super Dépanneur Jonquière,2249,"3899, rue des Mouettes",,Jonquière, Québec,G7X 0M4,Canada,418 542-9898,48.39707,-71.26099,,,0
+St-Hyacinthe / Dépanneur Gaumond,2443,"17090, av. St-Louis",,St-Hyacinthe, Québec,J2T 3G3,Canada,450 250-9777,45.61999,-72.92742,,,0
+Station-Service Saint-Dominique,2424,"1147, rue Principale",,St-Dominique, Québec,J0H 1L0,Canada,450 773-1274,45.56569,-72.85435,,,0
+Station-service Saint-Basile,2403,"235, boul. Sir Wilfrid-Laurier",,St-Basile-le-Grand, Québec,J3N 1E7,Canada,450 441-3398,45.52669,-73.29755,,,0
+Station-service Saint-Armand inc.,2401,"1050, ch. St-Armand",,St-Armand, Québec,J0J 1T0,Canada,450 248-0474,45.03858,-73.01288,,,0
+Station-service Ouimet,2445,"703, rue de Lanaudière",,Joliette, Québec,J6E 3M9,Canada,450 756-6070,46.02049,-73.44107,,,0
+Station-service des Patriotes Inc.,2490,"1145, ch. des Patriotes",,Sorel-Tracy, Québec,J3P 2N1,Canada,450 743-9492,46.01065,-73.12706,,,0
+Station-service C.R.C. inc.,2420,"99, rue Wellington",,Coaticook, Québec,J1A 2H8,Canada,819 849-4959,45.13398,-71.80359,,,0
+Station Service Pierre et Pierre Inc,2225,99 rue Dequoy,,St-Gabriel de Brandon, Québec,J0K 2N0,Canada,450 835-7358,46.29393,-73.38483,,,0
+Station service Manseau Inc,2290,"2920, route 218",,Manseau, Québec,G0X 1V0,Canada,,46.36533,-72.00687,,,0
+Station Service Lave-Auto Paillé,2362,"2114, av. de la Montagne",,Shawinigan, Québec,G9N 6J7,Canada,819 539-8748,46.57025,-72.76347,,,0
+Station Service Jeannot Miousse Inc,2219,743 Chemin des Caps,,Fatima, Québec,G4T 2T4,Canada,418 986-3214,47.40345,-61.90271,,,0
+Station Service Carol,2200,117 Boul. De Quen,,Dolbeau-Mistassini, Québec,G8L 4R9,Canada,418 276-7050,48.88603,-72.20341,,,0
+Station service  Johnny,2347,"492, Notre-Dame",,Repentigny, Québec,J6A 2T7,Canada,450 581-2002,45.75360,-73.46637,,,0
+Station Serge Dumaine,2307,8730 Boulevard Saint-Michel,,Montréal, Québec,H1Z 3E9,Canada,514 728-4563,45.56860,-73.62140,,,0
+Station Roger Bacon,2375,739 rue St-Jacques,,Ste-Thècle, Québec,G0X 3G0,Canada,418 289-3062,46.82249,-72.50363,,,0
+Station Pierre Vir Enr.,2355,"1020, Route 204",,Ste-Rose de Watford, Québec,G0R 4G0,Canada,418 267-4545,46.34388,-70.39523,,,0
+Station Pétro-T Mégantic,2463,"3592, rue Laval",,Lac Megantic, Québec,G6B 2X4,Canada,819 583-6301,45.58922,-70.90460,,,0
+Station Patrick Paradis,2462,"2266, rue Laval",,Lac Megantic, Québec,G6B 2V5,Canada,819 583-0901,45.60119,-70.92497,,,0
+Station Namur Inc.,2526,"906, rte 323",,Namur, Québec,J0V 1N0,Canada,819 426-2822,45.88111,-74.92716,,,0
+Station Multiservices,2153,1901 Rg Bas L'Assomption Nord,,L'Assomption, Québec,J5W 2J2,Canada,450 589-7304,45.78026,-73.45189,,,0
+Station M.M.C Inc.,2339,"5105, boul. Wilfrid-Hamel",,Québec, Québec,G2E 2G8,Canada,418 877-4371,46.80273,-71.33123,,,0
+Station Dan Esso Service Enr,2288,"200, rue Jacques-Cartier",,Maliotenam, Québec,G0G 2B0,Canada,418 927-4748,50.21998,-66.20741,,,0
+Station Calixie,2287,"1305, Sherbrooke",,Magog, Québec,J1X 2T4,Canada,,45.27448,-72.13501,,,0
+Station Bon Service,2191,"1028, Kennedy",,St-Côme de Linière, Québec,G0M 1J0,Canada,418 685-2766,46.06081,-70.54944,,,0
+Sagamie du Vieux Pont Inc,2250,2319 rue Saint-Jean Baptiste,,Jonquière, Québec,G8A 1W5,Canada,418 412-6882,48.41129,-71.26218,,,0
+Roy & Dionne inc.,2175,"507, rue Marquis",,St-Célestin, Québec,J0C 1G0,Canada,819 229-3450,46.21342,-72.43221,,,0
+Relais Saint-André,2513,"124, rue Principale",,St-André-du-Lac-St-Jean, Québec,G0W 2K0,Canada,418 349-8065,48.31603,-71.98994,,,0
+R. Bouffard et Fils Inc,2315,636 Route 138,,Neuville, Québec,G0A 2R0,Canada,418 876-2018,46.69789,-71.57829,,,0
+Place d`armes  automobiles inc,2180,"138, rue Dubé",,Chicoutimi, Québec,G7H 2V2,Canada,418 549-3514,48.41600,-71.06537,,,0
+Pimii Plus Enr,2304,284 Queen St.,,Mistissini, Québec,G0W 1C0,Canada,418 923-2727,50.41642,-73.86471,,,0
+Pièces d'autos C.M. inc.,2447,"3789, ch. Oka",,St-Joseph du Lac, Québec,J0N 1M0,Canada,450 472-7363,45.53264,-73.92427,,,0
+Philippe Gosselin & Ass. Ltée,2412,"2210, boul Sir-Wilfrid Laurier",,St-Bruno de Montarville, Québec,J3V 4P6,Canada,450 690-1770,45.52024,-73.31914,,,0
+Pétro-T Terrebonne,2493,"5511, boul. Laurier",,Terrebonne, Québec,J7M 1C3,Canada,450 477-8072,45.75439,-73.71009,,,0
+Pétro-T Super Sagamie,2416,"970, 3ième Rue",,Chibougamau, Québec,G8P 1R6,Canada,418 748-4414,49.90584,-74.38562,,,0
+Pétro-T Saint-Hubert,2440,"1450, boul. Edouard",,St-Hubert, Québec,J4T 3T2,Canada,450 462-2741,45.50325,-73.46944,,,0
+Pétro-T Rocheleau,2427,"2700, rue St-Pierre",,Drummondville, Québec,J2C 0P9,Canada,819 477-4132,45.86589,-72.52432,,,0
+Pétro-T Quali-T,2407,"417, boul. Adolphe-Chapleau",,Bois-des-Filion, Québec,J6Z 1H9,Canada,450 621-7766,45.66737,-73.75780,,,0
+Pétro-T Candiac,2170,"59, chemin Saint-François-Xavier",,Candiac, Québec,J5R 4V4,Canada,450 638-1254,45.38319,-73.53483,,,0
+Petro-T Borromée,2409,"600, rue de la Visitation",,St-Charles Borromée, Québec,J6E 4P6,Canada,450 756-1962,46.05032,-73.46603,,,0
+Pétro-T Bonconseil,2408,"280, rue Notre-Dame",,Notre-Dame-Bon-Conseil, Québec,J0C 1A0,Canada,819 336-2323,45.99538,-72.34964,,,0
+Petro-T Beauharnois,2404,"253, boul. Maple Grove",,Beauharnois, Québec,J6N 1L5,Canada,450 429-6201,45.31674,-73.85538,,,0
+Pétroles G.B. Inc.,2343,"222, rue St-paul",,Québec, Québec,G1K 3W4,Canada,418 694-0230,46.81713,-71.20920,,,0
+Pétroles  L.D.J,2256,"70, de l'Église",,Lacolle, Québec,J0J 1J0,Canada,450 246-4197,45.08659,-73.37337,,,0
+Paul & Guy Boisvert,2457,"265, rue Principale",,Mansfield, Québec,J0X 1R0,Canada,819 683-2810,45.85239,-76.73323,,,0
+Palli-5 inc.,2505,"1467, boul. Lionel-Boulet",,Varennes, Québec,J3X 1P7,Canada,,45.63153,-73.39008,,,0
+Nordipro inc.,2480,"20335, boul. Henri-Bourassa",,Québec, Québec,G2N 1N8,Canada,418 841-4315,46.89914,-71.30489,,,0
+Municipalité de Sainte-Perpetué,2475,"2197, rue St-Joseph C.P. 98",,Ste-Perpétue, Québec,J0C 1R0,Canada,819 336-6740,46.08443,-72.47058,,,0
+Migneault Service JMY,2184,206 rue Vallilée,,Chute-Aux-Outardes, Québec,G0H 1C0,Canada,418 567-4211,49.12264,-68.39360,,,0
+Mécanique LPG,2203,"1004, rue Principale",,St-Donat, Québec,J0T 2C0,Canada,819 424-2493,46.30808,-74.20641,,,0
+Marché Soleil Chanceux,2323,329 rue Notre-Dame,,St-Pie, Québec,J0H 1W0,Canada,450 772-2468,45.50013,-72.90597,,,0
+Marché Sélection inc.,2510,"174, rue Monseigneur Parenteau",,Yamaska, Québec,J0G 1W0,Canada,450 789-3074,46.01037,-72.91945,,,0
+Marché René Samson 2011,2212,365 rue St-Louis,,St-Elie de Caxton, Québec,G0X 2N0,Canada,819 221-3288,46.38582,-72.89200,,,0
+Marché Natashquan Inc.,2312,28 ch. d'En Haut,,Natashquan, Québec,G0G 2E0,Canada,418 726-3223,50.18477,-61.81666,,,0
+Marché Lemay St-Alexis,2140,450 rue Notre-Dame,,St-Alexis des Monts, Québec,J0K 1V0,Canada,819 265-2023,46.45292,-73.14767,,,0
+Marché Express Esso,2272,"3265, boul. St-Martin O",,Laval, Québec,H7T 1S2,Canada,450 686-9949,45.55703,-73.74907,,,0
+Marché Express Esso,2511,"201, ch. de la Gare",,St-Sauveur, Québec,J0R 1R3,Canada,450 227-8788,45.89028,-74.14888,,,0
+Marché Express Des Sources,2201,"3340, boul. des Sources",,Dollard Des Ormeaux, Québec,H9B 1Z9,Canada,514 683-4693,45.48330,-73.79687,,,0
+Marché du Carrefour,2324,1 rue Granier,,Pointe-Lebel, Québec,G0H 1N0,Canada,418 589-6002,49.16126,-68.25022,,,0
+Marché des Rapides,2284,"341, chemin Héroux",,St-Liguori, Québec,J0K 2X0,Canada,450 752-8385,46.01103,-73.56883,,,0
+Marché Atlantide,2240,"1847, boul. Perrot bur. 100",,L'Île-Perrot, Québec,J7V 7P2,Canada,514 585-7773,45.36357,-73.87907,,,0
+Manoir de l'alimentation,2525,"1161, ch. des Érables",,St-Gérard-des-Laurentides, Québec,G9R 1H8,Canada,819 539-2609,46.59850,-72.80741,,,0
+Magasin Général M.G.,2258,382 rue Principale,,Lac St-Paul, Québec,J0W 1K0,Canada,819 587-3700,46.73146,-75.30960,,,0
+Magasin Général G.L.R.,2405,"121, rue Principale",,Les Bergeronnes, Québec,G0T 1G0,Canada,418 232-6262,48.24991,-69.53405,,,0
+Magasin Arpin,2319,"2471, Immaculée Conception",,St-Ours, Québec,J0G 1P0,Canada,450 785-2308,45.89312,-73.14808,,,0
+Madeleine Automobiles enr.,2216,1401 Ch. de la Vernière,,L'Étang-du-Nord, Québec,G4T 3G1,Canada,418 986-2144,47.37237,-61.91267,,,0
+M & M Mini Marché Enr.,2196,"7390, boulvard Bourque",,Deauville, Québec,J1N 3L2,Canada,,45.34162,-72.04186,,,0
+Location A Pelletier Ltée,2305,233 Boul. Albiny Paquette,,Mont Laurier, Québec,J9L 1K2,Canada,819 623-3506,46.54871,-75.50592,,,0
+Librex Notre-Dame,2346,183 rue Notre-Dame,,Repentigny, Québec,J6A 2R1,Canada,450 582-3110,45.71919,-73.46778,,,0
+Libre-Service Cartier Inc.,2342,"1700, av. Jules-Verne",,Québec, Québec,G2G 2R1,Canada,418 861-8884,46.77687,-71.35867,,,0
+Libre Service Mattawin Inc,2384,3902 Route 155,,Trois-Rives, Québec,G0X 2C0,Canada,819 646-5753,46.89985,-72.92798,,,0
+Libre Service M.F. Inc.,2296,"3100, Ch. Ste-Marie",,Mascouche, Québec,J7K 1P4,Canada,450 474-4255,45.74299,-73.59869,,,0
+Libre Service Fermont,2222,401 Le Carrefour,,Fermont, Québec,G0G 1J0,Canada,418 287-5252,52.79945,-67.08537,,,0
+L'essentiel (Le magasin affilié),2227,"12755, 36 ième avenue",,St-Georges de Beauce, Québec,G6A 0B3,Canada,418 228-5322,46.13274,-70.64540,,,0
+Les Pétroles Turmel Inc,2373,"588, route 108",,Stornoway, Québec,G0Y 1N0,Canada,,45.71160,-71.15632,,,0
+Les Pétroles R. Turmel Inc.,2192,900 Craig Nord,,Cookshire-Eaton, Québec,J0B 1M0,Canada,800 449-2296,45.58595,-70.88332,,,0
+Les Gestions L.P. Fillion Inc.,2501,"275, rue Jacques-Cartier",,Salaberry-de-Valleyfield, Québec,J6T 4S9,Canada,450 370-0920,45.24557,-74.12162,,,0
+Les entreprises Sylvain Dostie,2237,"536, rue Principale",,St-Honoré (Beauce), Québec,G0M 1V0,Canada,,45.96056,-70.81956,,,0
+Les Entreprises Rilathes Inc.,2172,325 Ch. Principal,,Cap-aux-Meules, Québec,G4T 1E2,Canada,418 986-4555,47.37796,-61.86546,,,0
+Les Entreprises Nassim inc.,2453,"248, rue J. A. Paré",,Le Gardeur, Québec,J5Z 4M6,Canada,450 654-8342,45.76432,-73.47599,,,0
+Les entreprises Desroches Inc,2230,"160, rue Denison",,Granby, Québec,J2G 4C3,Canada,,45.39477,-72.71257,,,0
+Les Développements Gérard Brousseau Inc,2178,20800 Henri Bourassa,,Charlesbourg, Québec,G2N 1P5,Canada,418 849-3654,46.90616,-71.31889,,,0
+Les Développements Gérard Brousseau Inc,2179,2080 boul. Talbot,,Charlesbourg, Québec,G0A 2S0,Canada,418 849-3329,46.93044,-71.34482,,,0
+Les Développements Gérard Brousseau Inc,2260,"1144 rue Bellevue, RR2",,St-Lambert de Lévis, Québec,,Canada,418 889-8150,46.58681,-71.21855,,,0
+Les Développements Gérard Brousseau Inc,2330,4750 route Ste-Geneviève,,Québec, Québec,G2B 4P1,Canada,418 843-7022,46.84436,-71.38887,,,0
+Les Développements Gérard Brousseau Inc,2331,1983 boul. Bastien,,Québec, Québec,G2B 1C2,Canada,418 842-0838,46.85768,-71.33252,,,0
+Les dépanneurs Sol Pal7,2524,"817, 1ère Rue",,St-Jean sur le Richelieu, Québec,J2X 3C5,Canada,450 347-7898,45.30403,-73.24126,,,0
+Les Dépanneurs des Anges Inc.,2147,"9272, boul. Ste-Anne",,Ste-Anne-de-Beaupré, Québec,G0A 3C0,Canada,418 827-3621,47.01357,-70.94903,,,0
+Les Carburants Mercier inc.,2465,"885, boul. Ste-Marguerite",,Mercier (Roussillon), Québec,J6R 2L1,Canada,450 691-8748,45.30552,-73.72733,,,0
+Lenca Canada,2166,"55, chemin Bellevue rang 2",,St-Boniface, Québec,G0X 2L0,Canada,819 535-1567,46.52924,-72.79401,,,0
+Le roi de l'alignement (1976) Ltée,2468,"9212, boul. St-Michel",,Montréal, Québec,H1Z 3G5,Canada,514 381-2961,45.57250,-73.62998,,,0
+Le Rendez-Vous St-Damien,2195,"7165, route 347",,St-Damien, Québec,J0K 2E0,Canada,450 835-1395,46.33510,-73.49179,,,0
+Le Rendez-Vous St-Ambroise,2145,"930, Route 343",,St-Ambroise de Kildare, Québec,J0K 1C0,Canada,450 753-1000,46.07660,-73.54976,,,0
+Le Rendez-Vous Mandeville,2289,400 Rang St-Augustin,,Mandeville, Québec,J0K 1L0,Canada,450 835-5902,46.33763,-73.37198,,,0
+Le Relais des Navigateurs,2197,1070 Marie-Victorin,,Deschaillons, Québec,G0S 1G0,Canada,819 292-1111,46.55567,-72.11755,,,0
+Le magasin,2430,"142, rue Angus S.",,East Angus, Québec,J0B 1R0,Canada,819 832-4557,45.47579,-71.66603,,,0
+Le dépanneur Esso Mirabel,2632,11500 Mtée Sainte-Marianne suite 200,,Mirabel, Québec,J7J 2A9,Canada,,45.67306,-73.93191,,,0
+Le Dépanneur Caliprix,2217,507 Grande Côte,,St-Eustache, Québec,J7P 1K5,Canada,450 623-8153,45.58652,-73.85085,,,0
+Lave-Auto Dépan'Express,2393,"195, rue Principale Nord",,Windsor, Québec,J1S 2E1,Canada,,45.57992,-72.01294,,,0
+Lave-Auto 3 min senc,2231,"14, rue Langlois",,Granby, Québec,J2G 6J4,Canada,,45.40957,-72.74202,,,0
+La Vieille Station du Village,2400,"257, rte du Long-Sault",,St-André d'Argenteuil, Québec,J0V 1X0,Canada,450 537-8181,45.55624,-74.33446,,,0
+Julie Chabot,2281,"261, route 279",,St-Lazare-de-Bellechasse, Québec,G0R 3JO,Canada,,46.64909,-70.87732,,,0
+Harnois Le magasin Trois-Rivières,2385,"6500, boul. Marion",,Trois-Rivières, Québec,G9A 6H3,Canada,819 379-4771,46.32020,-72.57901,,,0
+Harnois Le magasin Sorel,2370,145 Victoria,,Sorel, Québec,J3P 1Z1,Canada,450 742-2220,46.03972,-73.10751,,,0
+Harnois Le magasin Saint-Roch de l'Achigan,2352,1219 rue Principale,,St-Roch de l'Achigan, Québec,J0K 3H0,Canada,450 588-5008,45.85584,-73.59373,,,0
+Harnois Le magasin Saint-Gabriel-de-Brandon,2224,"120, rue Michaud",,St-Gabriel de Brandon, Québec,J0K 2N0,Canada,450 835-2882,46.29321,-73.37927,,,0
+Harnois Le magasin Saint-Charles Borromée,2167,180 Visitation,,St-Charles Borromée, Québec,J6E 4N5,Canada,450 759-0753,46.04294,-73.45003,,,0
+Harnois Le magasin Saint-Ambroise,2144,"3600, chemin Ste-Béatrix",,St-Ambroise de Kildare, Québec,J0K 1C0,Canada,450 759-4848,46.08578,-73.51574,,,0
+Harnois Le magasin Rouyn-Noranda,2356,3182 rue Saguenay,,Rouyn-Noranda, Québec,J9Y 0E2,Canada,819 764-6999,48.29059,-79.03791,,,0
+Harnois Le magasin Rosemère,2353,255 Boul. Roland Durand,,Rosemère, Québec,J7A 4J2,Canada,450 965-0739,45.63821,-73.81236,,,0
+Harnois Le magasin Rawdon,2344,"3738, Queen",,Rawdon, Québec,J0K 1S0,Canada,450 834-6839,46.04449,-73.70982,,,0
+Harnois Le magasin Notre-Dame des Prairies,2314,"200, Antonio Barrette",,Notre-Dame des Prairies, Québec,J6E 6J5,Canada,450 756-4664,46.04474,-73.42970,,,0
+Harnois Le magasin Mascouche,2294,605 Montée Masson,,Mascouche, Québec,J7K 2L6,Canada,450 474-4204,45.73546,-73.61288,,,0
+Harnois Le magasin Le Gardeur,2282,"225, rue St-Paul",,Le Gardeur, Québec,J5Z 2H9,Canada,450 581-2332,45.75723,-73.47985,,,0
+Harnois Le magasin L'Assomption,2151,"846, boul l'Ange Gardien",,L'Assomption, Québec,J5W 4M9,Canada,450 589-4598,45.84089,-73.41621,,,0
+Harnois Le magasin La Sarre,2266,"632, 2e rue Est",,La Sarre, Québec,J9Z 2S5,Canada,819 333-4005,48.78966,-79.20004,,,0
+Harnois Le magasin Joliette (Rue Saint-Pierre),2246,"900, St-Pierre Sud",,Joliette, Québec,J6E 3Z1,Canada,450 756-4119,46.01031,-73.43150,,,0
+Hamelin & Fille Inc,2211,"3800, rue Notre Dame",,St-Édouard-de-Maskinongé, Québec,J0K 2H0,Canada,819 268-5353,46.32952,-73.14596,,,0
+Halte 174,2394,"14, boul. Ste-Anne",,Yamachiche, Québec,G0X 3L0,Canada,819 228-5620,46.27697,-72.84622,,,0
+Halte 138,2328,3 Route 138,,Portneuf-sur-Mer, Québec,G0T 1P0,Canada,418 587-0190,48.64225,-69.09982,,,0
+Guy et Marylène Deneault,2509,"957, rue Principale",,Wickham, Québec,J0C 1S0,Canada,819 398-7600,45.76371,-72.49420,,,0
+Gestion JBMD,2484,"457, boul. Lacombe",,Repentigny, Québec,J5Z 1P2,Canada,450 582-2277,45.75420,-73.46920,,,0
+Gestion Gérard Brousseau Inc,2283,659 route Président Kennedy,,Pintendre, Québec,G6C 1M9,Canada,418 833-9319,46.76549,-71.13361,,,0
+Gestion Carlisa Inc,2388,6600 boul. Parent,,Trois-Rivières, Québec,G9A 5E1,Canada,819 840-2612,46.35746,-72.61686,,,0
+Gestion C . Caron,2386,"3130, boul. des Forges",,Trois-Rivières, Québec,G8Z 1V5,Canada,819 691-2063,46.34884,-72.57137,,,0
+Georges Carignan Inc,2220,1 Principale Sud,,St-Félix de Dalquier, Québec,J0Y 1G0,Canada,819 732-3855,48.67570,-78.11402,,,0
+Gaz-O-Pneus Inc,2363,"5050, boulvard Industriel",,Sherbrooke, Québec,J1R 0P4,Canada,,45.39500,-71.99395,,,0
+Gaz Bar Dépanneur Neuville Inc.,2471,"1220, rte 138",,Neuville, Québec,G0A 2R0,Canada,418 876-2396,46.69945,-71.62693,,,0
+Gaz Bar Camile Lambert  Enr.,2228,"990, av. de St-Georges",,St-Georges de Champlain, Québec,G9T 5K4,Canada,819 538-5927,46.63164,-72.64658,,,0
+Garage Yves Malo et Fils Inc.,2309,4830 rue Ontario Est,,Montréal, Québec,H1V 1L7,Canada,514 254-5776,45.55795,-73.53630,,,0
+Garage Yves  Morin,2189,1545 rue Principale,,St-Côme, Québec,J0K 2B0,Canada,450 883-6121,46.27122,-73.77154,,,0
+Garage Valiquette,2291,"123, Chemin Ste-Marguerite",,Estérel, Québec,J0T 1E0,Canada,450 228-2555,46.02881,-74.06208,,,0
+Garage UMS Monette Inc.,2449,"119, rue St-Joseph",,Lac-des-Écorces, Québec,JOW 1H0,Canada,819 585-2223,46.50874,-75.35422,,,0
+Garage U. Alarie Ltée,2176,25 rue Notre-Dame,,Charlemagne, Québec,J5Z 1G8,Canada,450 581-3940,45.71709,-73.48634,,,0
+Garage S. Hébert,2301,502 rue Brassard,,St-Michel des Saints, Québec,J0K 3B0,Canada,450 833-6565,46.67817,-73.91704,,,0
+Garage Roland & Besner Inc.,2421,"2, rue du Parc",,Coteau-du-Lac, Québec,J0P 1B0,Canada,450 763-5898,45.29430,-74.17635,,,0
+Garage Robert Plante,2437,"555, 8ième Rue E.",,La Guadeloupe, Québec,G0M 1G0,Canada,418 459-6792,45.96160,-70.93382,,,0
+Garage Robert Cormier,2297,"163, boul. Ouest",,Maskinongé, Québec,J0K 1N0,Canada,819 227-2030,46.21828,-73.02366,,,0
+Garage Raynald Beaulieu,2418,"487, boul. Ste-Geneviève",,Chicoutimi, Québec,G7G 2E5,Canada,418 543-0279,48.44284,-71.07622,,,0
+Garage P.A. Roy Inc,2292,"326, route 204 sud",,St-Martin de Beauce, Québec,G0M 1B0,Canada,,45.85956,-70.62812,,,0
+Garage P. Bédard Inc,2551,"291, route 265",,Villeroy, Québec,G0S 3K0,Canada,,46.37300,-71.85628,,,0
+Garage Marcel Lamarche,2464,"1945, rte 125",,Notre-Dame de la Merci, Québec,J0T 2A0,Canada,819 424-5337,46.22721,-74.06175,,,0
+Garage Marcel Coutu & Fils Inc,2311,15538 Notre-Dame Est,,Montréal, Québec,H1A 1W8,Canada,514 642-3537,45.68875,-73.48928,,,0
+Garage Lussier,2285,"979, rue Saint-Isidore",,St-Lin, Québec,J5W 2V5,Canada,450 439-2506,45.86648,-73.75708,,,0
+Garage L.P. inc.,2491,"2, rue Junction",,Stanstead, Québec,J0B 3E5,Canada,819 876-5242,45.01146,-72.14566,,,0
+Garage Jean-Louis Lefrançois Inc.,2483,"724, rue de l'Église",,St-Rémi, Québec,J0L 2L0,Canada,450 454-2233,45.27169,-73.64758,,,0
+Garage Germain et Audy inc.,2452,"298, rue Bostonnais",,La Tuque, Québec,G9X 2G3,Canada,,47.44815,-72.77522,,,0
+Garage Généreux 2013,2322,"44, Boul. Brassard",,St-Paul de L'Industrie, Québec,J0K 3E0,Canada,450 753-9914,45.98017,-73.44338,,,0
+Garage G.M.P. Inc.,2320,276 rue Principale,,St-Pamphile de l'Islet, Québec,J0G 1P0,Canada,418 356-3325,46.95600,-69.78477,,,0
+Garage EGB inc.,2235,1193 boulevard de l'Escale,,Havre St-Pierre, Québec,G0G 1P0,Canada,418 538-2576,50.25095,-63.60574,,,0
+Garage Deschênes & fils,2243,86 ave de Gaspé est,,St-Jean Port Joli, Québec,G0R 3G0,Canada,,47.21846,-70.26419,,,0
+Garage Claude Roy inc.,2419,"287, rue Main E",,Coaticook, Québec,J1A 1N4,Canada,819 849-0062,45.13282,-71.79932,,,0
+Garage Claude Lacoursière Inc.,2520,"621, rte 349",,St-Alexis des Monts, Québec,J0K 1V0,Canada,819 265-2344,46.44680,-73.14992,,,0
+Garage Central,2234,15 Ch. Central,,Havre-aux-Maisons, Québec,G4T 5G8,Canada,418 969-2268,47.40458,-61.79897,,,0
+Garage bureau 2005 inc.,2521,"131, rue Principale O.",,Coaticook, Québec,J1A 1P3,Canada,,45.13249,-71.80729,,,0
+Garage Benoit Guérin,2141,495 Boul. Saint-Jude Sud,,Alma, Québec,G8B 3J8,Canada,418 668-7429,48.54512,-71.65950,,,0
+Garage Abate,2268,4683 Boul. Lévesque Est,,Laval, Québec,H7C 1M8,Canada,450 664-1143,45.60539,-73.64574,,,0
+Garage A.D.G Richard Inc,2193,"101, rue Principale",,Courcelles, Québec,G0M 1C0,Canada,,45.88007,-70.98778,,,0
+Esso Turgeon & Desjardins,2377,"166, rue Turgeon",,Ste-Thérèse, Québec,J7E 3J3,Canada,450 433-7544,45.63306,-73.83341,,,0
+Esso Saint-Jean/Brunswick,2325,"800, boul. St-Jean",,Pointe-Claire, Québec,H9R 4Y8,Canada,514 695-7146,45.46723,-73.82929,,,0
+Esso Saint-Jean & Hymus Pointe-Claire,2326,"601, boul. St-Jean",,Pointe-Claire, Québec,H9R 3K1,Canada,514 697-2885,45.45896,-73.82141,,,0
+Esso Saint-Hubert,2238,"3100, boul. Moïse-Vincent",,St-Hubert, Québec,J3Z 0C4,Canada,450 462-6969,45.47687,-73.39827,,,0
+Esso Saint-Faustin du Lac carré,2534,"1468, route 117",,St-Faustin-Lac Carré, Québec,J0T 1J2,Canada,819 688-2178,46.12225,-74.45328,,,0
+Esso Saint-Eustache,2218,"490, boul. Arthur-Sauvé",,St-Eustache, Québec,J7R 4Z3,Canada,450 473-0202,45.56671,-73.90776,,,0
+Esso Saint-Esprit,2215,"128, rue St-Isidore",,St-Esprit, Québec,J0K 2L0,Canada,450 839-6888,45.90510,-73.66372,,,0
+Esso Saint-Charles & Brunswick Kirkland,2253,"3562, boul. St-Charles",,Kirkland, Québec,H9H 3C3,Canada,514 695-7604,45.45603,-73.86306,,,0
+Esso Saint-Charles,2254,"3035, boul. St-Charles",,Kirkland, Québec,H9H 3B5,Canada,514 695-3842,45.44943,-73.85506,,,0
+Esso rue Clemenceau Beauport,2334,"625, rue Clémenceau",,Québec, Québec,G1C 4N6,Canada,418 666-0201,46.87462,-71.19759,,,0
+Esso rue Charles Mirabel,2303,"17555, rue Charles",,Mirabel, Québec,J7J 0V8,Canada,450 971-1666,45.69409,-73.93527,,,0
+Esso Marché Express Saint-Martin / McNamara,2277,"1155, boul. St-Martin O",,Laval, Québec,H7S 1M8,Canada,450 663-9350,45.57113,-73.72275,,,0
+Esso Marché Express Sainte-Rose,2273,"2025, boul. Arthur-Sauvé",,Laval, Québec,H7R 3W8,Canada,450 962-4235,45.55344,-73.87002,,,0
+Esso Marché Express Henri Bourassa,2340,"4680, boul. Henri-Bourassa",,Québec, Québec,G1H 3A5,Canada,418 627-4775,46.84965,-71.24185,,,0
+Esso Marché Express Grande-Allée Québec,2337,"1280, Grande-Allée O",,Québec, Québec,G1S 1E8,Canada,418 527-3902,46.78966,-71.24611,,,0
+Esso Marché Express Du Côteau,2376,"301, boul. du Coteau",,Ste-Thérèse, Québec,J7E 2J7,Canada,450 434-7524,45.64499,-73.86362,,,0
+Esso Lebourgneuf,2336,"1515, boul. Lebourgneuf",,Québec, Québec,G2K 2G3,Canada,418 627-0555,46.83326,-71.30169,,,0
+Esso Le magasin Trois-Rivières,2387,"4500, côte Rosemont",,Trois-Rivières, Québec,G8Y 6Z5,Canada,819 374-6996,46.35271,-72.60846,,,0
+Esso Le magasin Sept-Iles,2359,5 rue Comeau,,Sept-Iles, Québec,G4R 1H8,Canada,418 962-5545,50.21567,-66.36363,,,0
+Esso Le magasin Saint-Jacques,2516,"221, rue St-Jacques",,St-Jacques, Québec,J0K 2R0,Canada,450 839-2086,45.95307,-73.57800,,,0
+Esso Le magasin Saint-Ignace,2239,"212B, Chemin de la Traverse",,St-Ignace de Loyola, Québec,J0K 2P0,Canada,450 836-6971,46.06867,-73.13116,,,0
+Esso Le magasin Sainte-Madeleine,2286,5 St-Simon,,Ste-Madeleine, Québec,J0H 1S0,Canada,450 795-0010,45.60399,-73.10162,,,0
+Esso Le magasin Sainte-Julienne,2252,2912 route 125,,Ste-Julienne, Québec,J0K 2T0,Canada,450 834-5375,46.00089,-73.72210,,,0
+Esso Le magasin Sainte-Catherine de la Jacques-Cartier,2174,"4600, Route Fossambault",,Ste-Catherine Jac Cartier, Québec,,Canada,418 875-2111,46.84226,-71.61214,,,0
+Esso Le magasin Sainte-Anne-de-la-Pérade,2149,"310, boul. Lanaudière",,Ste-Anne de la Pérade, Québec,G0X 2J0,Canada,418 325-2188,46.57020,-72.18513,,,0
+Esso Le magasin Sainte-Adèle,2138,"258, Valiquette",,Ste-Adèle, Québec,J8B 2M1,Canada,450 229-2023,45.94427,-74.12671,,,0
+Esso Le magasin Saint-Augustin-de-Desmaures,2155,991 boul. Fossambault,,St-Augustin de Desmaures, Québec,G3A 1W8,Canada,418 878-3577,46.76536,-71.48707,,,0
+Esso Le magasin Pont-Rouge,2327,220 rue du Collège local 101,,Pont-Rouge, Québec,G3H 0C6,Canada,418 873-2442,46.74504,-71.69246,,,0
+Esso Le magasin Notre-Dame des Prairies,2313,"565, route 131",,Notre-Dame des Prairies, Québec,J6E 0M1,Canada,450 752-0531,46.05974,-73.41946,,,0
+Esso Le magasin Lavaltrie,2280,"643, Notre Dame",,Lavaltrie, Québec,J5T 1P4,Canada,450 586-3664,45.87423,-73.29067,,,0
+Esso Le magasin Jonquière (Kenogami),2251,"1821, rue Ste-Famille",,Jonquière, Québec,G7X 4Z1,Canada,418 695-2563,48.43112,-71.23382,,,0
+Esso Le magasin Jonquière,2248,3820 Boul. Harvey,,Jonquière, Québec,G7X 8T5,Canada,418 542-6627,48.41355,-71.24688,,,0
+Esso Le magasin Joliette (Rue Beaudry),2244,"635, rue Beaudry",,Joliette, Québec,J6E 8L7,Canada,450 752-1888,46.02636,-73.46079,,,0
+Esso Le magasin Joliette (boul. Joseph-Arthur),2247,103 boul. Joseph-Arthur,,Joliette, Québec,J6E 8T4,Canada,450 753-3825,46.02200,-73.41917,,,0
+Esso Le magasin Halte Saint-Gabriel,2226,"148, rue St-Gabriel",,St-Gabriel de Brandon, Québec,J0K 2N0,Canada,450 835-0172,46.29091,-73.38123,,,0
+Esso Le magasin Granby,2229,373 rue Dufferin,,Granby, Québec,J2G 4Y3,Canada,450 375-6682,45.41489,-72.71832,,,0
+Esso Le magasin Donnacona,2204,210 Route 138,,Donnacona, Québec,G3M 1C2,Canada,418 285-4121,46.68279,-71.73495,,,0
+Esso Le magasin Cap-de-la-Madeleine,2171,"1975, Des Prairies",,Trois-Rivières, Québec,G8V 1P9,Canada,819 373-7272,46.39442,-72.54560,,,0
+Esso Le magasin Alma,2143,520 Ave du Pont Sud,,Alma, Québec,G8B 2L1,Canada,418 662-3326,48.54228,-71.64499,,,0
+Esso Jean-Talon,2341,"9485, boul. Henri-Bourassa",,Québec, Québec,G1G 4E7,Canada,418 622-5016,46.87031,-71.27770,,,0
+Esso Groupe Paré,2364,"3555, Queen Victoria",,Sherbrooke, Québec,J1H 0B6,Canada,,45.44328,-71.92511,,,0
+Esso Edimbourg,2275,"1664, boul. des Laurentides",,Laval, Québec,H7M 2P4,Canada,450 575-4295,45.59531,-73.72053,,,0
+Esso Dollard Des Ormeaux,2202,"3580, boul. St-Jean",,Dollard Des Ormeaux, Québec,H9G 1W8,Canada,514 626-0999,45.47033,-73.83261,,,0
+Esso Dépanneur Yvan Vignola,2333,"4105, 4è Avenue E",,Québec, Québec,G1H 3N2,Canada,418 627-3325,46.84376,-71.24429,,,0
+Esso Ch. des Quatre-Bourgeois Québec,2338,"3235, ch. des Quatre-Bourgeois",,Québec, Québec,G1W 2K9,Canada,418 658-3434,46.76658,-71.31072,,,0
+Esso Boul. Saint-Martin Est Laval,2276,"2160, boul. St-Martin E",,Laval, Québec,H7E 4X9,Canada,450 933-2459,45.59662,-73.68711,,,0
+Esso Boul. Labelle Rosemère,2354,"198, boul. Labelle",,Rosemère, Québec,J7A 2H1,Canada,450 979-3078,45.62421,-73.80174,,,0
+Esso Boul. Harwood Vaudreuil-Dorion,2390,"330, boul. Harwood",,Vaudreuil, Québec,J7V 1Y5,Canada,450 455-2691,45.38011,-74.01703,,,0
+Esso Boul. des Sources Dorval,2205,"2855, boul. des Sources",,Dorval, Québec,H9R 4N3,Canada,514 685-7176,45.47697,-73.78943,,,0
+Esso Boul. Brien Repentigny,2349,"209, boul. Brien",,Repentigny, Québec,J6A 8L6,Canada,450 704-2220,45.74752,-73.46059,,,0
+Esso Boni Soir Granby,2233,"879, rue Principale",,Granby, Québec,J2G 2Z5,Canada,,45.41373,-72.75254,,,0
+Esso Bellerose,2274,"2170, boul. des Laurentides",,Laval, Québec,H7M 2R5,Canada,450 629-4911,45.61008,-73.73677,,,0
+Esso Av. St-Charles Vaudreuil-Dorion,2391,"524, ave. St-Charles",,Vaudreuil, Québec,J7V 8H1,Canada,450 455-1600,45.40594,-74.03315,,,0
+Esso 3e Avenue Québec,2335,"355, 3è Avenue",,Québec, Québec,G1L 2V9,Canada,418 523-6060,46.82218,-71.22626,,,0
+Essence 722,2482,"722, rue Notre-Dame",,St-Rémi, Québec,J0L 2L0,Canada,450 454-4951,45.26221,-73.61507,,,0
+Épicerie Marché Bécancour,2160,"7805, boul. du Parc Industriel",,Bécancour, Québec,G9H 3N7,Canada,819 979-1988,46.30479,-72.28010,,,0
+Épicerie Dépanneur L'Essenciel,2261,"203, Route 397",,La Morandière, Québec,J0Y 1S0,Canada,819 734-6129,48.60429,-77.63794,,,0
+Épicerie Claude & Jean Lacharité Inc.,2139,"1227, rue Principale",,St-Albert, Québec,,Canada,819 353-3050,46.00181,-72.08860,,,0
+Entreprise Jean-Jacques Savaria Inc.,2410,"634, rue Marie-Victorin",,Boucherville, Québec,J4B 1X3,Canada,450 655-1694,45.61669,-73.45562,,,0
+Entreprise Clément Lavoie Inc,2187,"92, St-Jacques Sud",,Coaticook (1), Québec,J1A 2N8,Canada,,45.13080,-71.79718,,,0
+Dyson & Armstrong Inc,2350,"491, rue Craig",,Richmond, Québec,J0B 2H0,Canada,,45.66273,-72.13519,,,0
+Dumar Enterprises Ltd,2255,101 Airport Road,,Labrador City, Terre-Neuve Labrador,A2V 2J6,Canada,709 944-2673,52.94658,-66.90077,,,0
+Dépanneur Yara (Le magasin affilié),2265,80 boul. Taschereau,,La Prairie, Québec,J5R 1S8,Canada,450 659-8445,45.42016,-73.48685,,,0
+Dépanneur Xtra Plus,2423,"1616, rue du Sud, local 102",,Cowansville, Québec,J2K 0A9,Canada,450 263-0556,45.19126,-72.75572,,,0
+Dépanneur Waterville,2529,"130, rue Principale",,Waterville, Québec,J0B 3H0,Canada,819 837-2345,45.27848,-71.89026,,,0
+Dépanneur Vidéo Éclair Inc,2332,2530 boul. Central,,Québec, Québec,G1P 3P1,Canada,418 683-1515,46.81164,-71.29355,,,0
+Dépanneur Victoria,2502,"345, rue Victoria",,Valleyfield, Québec,J6T 1B4,Canada,450 371-4360,45.25600,-74.13745,,,0
+Dépanneur Ultra Denison,2232,"1000, Denison",,Granby, Québec,J2G 8C7,Canada,,45.36863,-72.75720,,,0
+Dépanneur Tami,2381,"1394, route 158",,St-Thomas de Joliette, Québec,J0K 3L0,Canada,450 755-2209,46.02074,-73.33961,,,0
+Dépanneur Super Sagamie Jodan,2451,"1450, rue Ducharme",,La Tuque, Québec,G9X 4R8,Canada,819 523-8865,47.41087,-72.78523,,,0
+Dépanneur Super Sagamie Dubose,2446,"2320, rue Dubose",,Jonquière, Québec,G7S 5G5,Canada,418 548-2977,48.40054,-71.14555,,,0
+Dépanneur Super Sagamie des Champs Élysées,2417,"1285, rue des Champs Élysées",,Chicoutimi, Québec,G7H 5Y4,Canada,418 973-5500,48.40665,-71.05204,,,0
+Dépanneur Super Sagamie,2497,"5430, boul. Jean XXIII",,Trois-Rivières, Québec,G8Z 4E2,Canada,,46.33577,-72.58984,,,0
+Dépanneur Super 7,2278,"6180, boul. Lévesque E.",,Laval, Québec,H7C 1P2,Canada,450 664-3738,45.62521,-73.63921,,,0
+Dépanneur Super 7,2279,"5530, boul. des Laurentides",,Laval, Québec,H7K 2K2,Canada,450 625-6269,45.62599,-73.75168,,,0
+Dépanneur Super 7,2433,"660, av. Buckingham",,Gatineau, Québec,J8L 2H7,Canada,819 986-8777,45.58157,-75.41260,,,0
+Dépanneur Super 7,2444,"130, route 104",,St-Jean sur le Richelieu, Québec,J2X 1H1,Canada,450 358-2965,45.33710,-73.16067,,,0
+Dépanneur Super 7,2458,"1487, rue du Pont",,Marieville, Québec,J3M 1G2,Canada,450 708-2500,45.43255,-73.16034,,,0
+Dépanneur Super 7,2473,"250, rue Papineau",,Papineauville, Québec,J0V 1R0,Canada,819 427-6161,45.61748,-75.01631,,,0
+Dépanneur St-Félix Esso (Le magasin affilié),2173,4243 rue Saint-Félix,,Cap Rouge, Québec,G1Y 1X6,Canada,418 656-6621,46.74788,-71.34556,,,0
+Dépanneur Stef,2498,"261, rue Principale",,Upton, Québec,J0H 2E0,Canada,450 549-5420,45.64943,-72.69630,,,0
+Dépanneur Sim D-Xiang Jun Wu,2506,"1547, ch. des Patriotes",,Ste-Victoire de Sorel, Québec,J0G 1T0,Canada,450 561-1495,45.98645,-73.13656,,,0
+Dépanneur Shawinigan-Sud,2361,"4675, 12e Avenue",,Shawinigan-Sud, Québec,G9N 8L3,Canada,819 536-3551,46.49559,-72.71689,,,0
+Dépanneur Séléna,2374,971 Notre-Dame,,St-Sulpice, Québec,J5W 3W2,Canada,450 589-4579,45.82501,-73.36020,,,0
+Dépanneur Samo,2406,"850, av. Gilles Villeneuve",,Berthierville, Québec,J0K 1A0,Canada,450 836-1270,46.08573,-73.18955,,,0
+Dépanneur Saint-Narcisse,2470,"830, rue Notre-Dame",,St-Narcisse, Québec,G0X 2Y0,Canada,418 328-3178,46.55542,-72.48471,,,0
+Dépanneur Sainte-Rosalie,2413,"12, rte 137 N",,Ste-Cécile Milton, Québec,J0E 2C0,Canada,450 405-4444,45.48328,-72.75915,,,0
+Dépanneur Sagamie Kiatou,2358,60 rue Saint-Laurent,,Sept-Iles, Québec,G4R 5K4,Canada,418 962-1022,50.22417,-66.35574,,,0
+Dépanneur S.G. Bardier S.E.N.C.,2461,"948, rue Royale",,Massueville, Québec,J0G 1K0,Canada,450 788-2000,45.90791,-72.92832,,,0
+Dépanneur Roxane,2357,"736, rue Principale",,Roxton Pond, Québec,J0E 1Z0,Canada,,45.46910,-72.66570,,,0
+Dépanneur Rougemont,2486,"454, rue de la Grande-Caroline",,Rougemont, Québec,J0L 1M0,Canada,450 469-9999,45.43795,-73.04330,,,0
+Dépanneur Rond'eau,2396,"6940, rue Brassard",,St-Zénon, Québec,J0K 3N0,Canada,450 884-5274,46.59577,-73.84403,,,0
+Dépanneur Robin Tremblay,2210,2225 route du Fleuve,,Les Éboulements, Québec,G0A 2M0,Canada,418 635-2465,47.47876,-70.32317,,,0
+Dépanneur Rivière du Loup JG,2351,"65, boulvard Cartier",,Rivière du Loup, Québec,G5R 5Z3,Canada,,47.85597,-69.54642,,,0
+Dépanneur Rioux,2455,"10, rang Smith",,St-Louis de Blandford, Québec,G0Z 1B0,Canada,819 364-7004,46.26337,-72.02809,,,0
+Dépanneur Reli,2154,"2724, route 343",,L'Assomption, Québec,J5W 4R8,Canada,450 588-3321,45.89721,-73.43156,,,0
+Dépanneur Relai 112,2538,"5556, route 112",,Ascot Corner, Québec,J0B 1A0,Canada,,45.44600,-71.76953,,,0
+Dépanneur Quali-T,2518,"5426, rte 329 N",,Ste-Agathe-des-Monts, Québec,J8C 0M4,Canada,819 326-1646,46.11959,-74.28880,,,0
+Dépanneur Porte de la Beauce Inc,2241,"2061, route de la Rivière",,St-Isidore, Québec,G0S 2S0,Canada,,46.54559,-71.14052,,,0
+Dépanneur Plus,2207,"2905, boul. St-Joseph",,Drummondville, Québec,J2B 7P5,Canada,819 477-3800,45.86577,-72.47757,,,0
+Dépanneur Plus,2209,126 rue Angus N,,East Angus, Québec,J0B 1R0,Canada,819 832-2169,45.48737,-71.66047,,,0
+Dépanneur Place du Golf,2369,"735, rue Paul-Desruisseaux",,Sherbrooke, Québec,J1J 4L9,Canada,819 822-3970,45.40909,-71.93119,,,0
+Dépanneur Pierre Faucher Inc.,2494,"2274, rue Notre-Dame E.",,Thetford Mines, Québec,G6G 2W5,Canada,418 335-2310,46.11447,-71.26692,,,0
+Dépanneur PH Garneau inc.,2397,"2115, rue Principale",,St-Paul-d'Abbotsford, Québec,J0E 1A0,Canada,450 379-9210,45.43027,-72.83922,,,0
+Dépanneur Paul-Omer Enr.,2474,"109, ch. Landry",,St-Paul de L'Industrie, Québec,J0K 3E0,Canada,450 754-2154,45.93783,-73.38795,,,0
+Dépanneur M. J. Dauphinais,2438,"191, rue Principale",,St-Guillaume, Québec,J0C 1L0,Canada,819 396-2457,45.88686,-72.76257,,,0
+Dépanneur LX,2478,"14270, boul. Gouin O.",,Pierrefonds, Québec,H8Z 1Y1,Canada,514 626-9098,45.49385,-73.85252,,,0
+Dépanneur L'Urgence,2472,"2281, ch. du Parc",,Orford, Québec,J1X 7A2,Canada,819 843-4333,45.31045,-72.16504,,,0
+Dépanneur Lison,2460,"434, ch. des Anglais",,Mascouche, Québec,J7L 3R1,Canada,450 477-0645,45.73382,-73.64969,,,0
+Dépanneur Lemelin Inc.,2476,"311, rue Principale",,Ste-Perpétue (l'Islet), Québec,G0R 3Z0,Canada,418 359-2011,47.05851,-69.92882,,,0
+Dépanneur Le Tapageur,2186,"591, Principale",,St-Cléophas de Brandon, Québec,J0K 2A0,Canada,450 889-5357,46.22572,-73.41184,,,0
+Dépanneur Le Spot,2432,"29, ch. de Montréal O.",,Gatineau, Québec,J8M 1A4,Canada,819 986-6227,45.54239,-75.43037,,,0
+Dépanneur Le quartier,2500,"5323, boul. Hébert",,Salaberry-de-Valleyfield, Québec,J6S 6H4,Canada,450 371-2237,45.29033,-74.03867,,,0
+Dépanneur Le Campagnard,2522,"1, rue Commerciale",,Hébertville, Québec,G8N 1N2,Canada,418 344-4022,48.38484,-71.68534,,,0
+Dépanneur Lave-Auto SO,2206,"1420, boul. St-Joseph",,Drummondville, Québec,J2C 2E6,Canada,819 477-2575,45.88462,-72.49924,,,0
+Dépanneur Lakeside,2448,"756, ch. Lakeside",,Lac Brome, Québec,J0E 1R0,Canada,450 539-4902,45.29069,-72.50298,,,0
+Dépanneur Laframboise,2442,"3520, boul. Laframboise",,St-Hyacinthe, Québec,J2R 1J9,Canada,450 253-1010,45.64439,-72.97723,,,0
+Dépanneur Lafortune et filles (Le magasin affilié),2263,"80, ch. Joliette",,Lanoraie, Québec,J0K 1E0,Canada,450 887-0515,45.95899,-73.22504,,,0
+Dépanneur Lafontaine,2508,"720, rue Notre-Dame E.",,Victoriaville, Québec,G6P 4B7,Canada,819 752-6895,46.06425,-71.94213,,,0
+Dépanneur Lac Vallée,2158,"531, Ch. Ste-Béatrix",,Ste-Béatrix, Québec,J0K 1Y0,Canada,450 883-2408,46.18725,-73.61192,,,0
+Dépanneur L.H. Inc.,2389,"5830, boul. Gene-H-Kruger",,Trois-Rivières, Québec,G9A 4P2,Canada,819 379-9549,46.31887,-72.56885,,,0
+Dépanneur JR S.E.N.C.,2540,2036 Route 112,,St-Césaire, Québec,J0L 1T0,Canada,450 947-0573,45.41469,-73.01333,,,0
+Dépanneur Jacques-Cartier,2367,"1785, King Ouest",,Sherbrooke, Québec,J1J 2E1,Canada,,45.39884,-71.91832,,,0
+Dépanneur J & G,2392,"72, St-Jacques",,Village St-Pierre, Québec,J6E 3H3,Canada,450 753-3893,46.00682,-73.46322,,,0
+Dépanneur HB,2467,"10750, boul. Henri-Bourassa E",,Montréal, Québec,H1C 1S9,Canada,514 648-0720,45.65227,-73.53581,,,0
+Dépanneur H. Kanika Enr.,2477,"336, ch. Lussier",,St-Pie, Québec,J0H 1W0,Canada,450 772-1100,45.52829,-72.87133,,,0
+Dépanneur Gaumond,2435,"187, rue Fréchette",,Granby, Québec,J2G 5Y8,Canada,450 378-5033,45.40843,-72.73684,,,0
+Dépanneur Gami,2317,"1831, rue Principale",,St-Norbert, Québec,J0K 3C0,Canada,450 836-4775,46.16383,-73.30883,,,0
+Dépanneur Foucault,2415,"945, boul. Foucault",,St-Charles-de-Drummond, Québec,J2C 1A8,Canada,819 472-3732,45.90374,-72.47476,,,0
+Dépanneur et Gas Guimond inc.,2456,"1632, ch. Ste-Lucie",,Ste-Lucie-Laurentides, Québec,J0T 2J0,Canada,819 323-0030,46.12194,-74.18945,,,0
+Dépanneur Esso Centre-Ville,2299,"3576, Agnès",,Lac Megantic, Québec,G6B 1L3,Canada,,45.57252,-70.88068,,,0
+Dépanneur Esso Bonisoir,2264,705 chemin St-Jean,,La Prairie, Québec,J5R 4S7,Canada,450 695-1153,45.41464,-73.48484,,,0
+Dépanneur Entrelacs,2214,"2400, chemin Entrelacs",,Entrelacs, Québec,J0T 2E0,Canada,450 228-2273,46.11008,-74.00268,,,0
+Dépanneur Émery St-Côme,2190,"1101, rue Principale",,St-Côme, Québec,J0K 2B0,Canada,450 883-6621,46.27651,-73.76614,,,0
+Dépanneur Émery  Ste-Émélie,2213,"631, Rg St-Joseph",,Ste-Émélie de l'Énergie, Québec,J0K 2K0,Canada,450 886-1714,46.32966,-73.62776,,,0
+Dépanneur Écono-prix,2523,"2375, rue Ste-Anne",,St-Hyacinthe, Québec,J2S 5H8,Canada,450 768-5331,45.63052,-72.95574,,,0
+Dépanneur Dunant,2368,"1585, rue Dunant",,Sherbrooke, Québec,J1H 5N6,Canada,819 820-0668,45.38307,-71.90010,,,0
+Dépanneur du village,2194,"1953, rue Principale",,St-Cuthbert, Québec,J0K 2C0,Canada,450 836-2525,46.14921,-73.22002,,,0
+Dépanneur du Village,2236,"2241, rue des Hauteurs",,St-Hippolyte, Québec,,Canada,450 563-1616,45.93010,-74.02583,,,0
+Dépanneur du petit bourgeois,2569,"205,A route 343",,St-Ambroise de Kildare, Québec,J0K 1C0,Canada,450 755-6865,46.07767,-73.52582,,,0
+Dépanneur du Domaine 2000,2570,619 route 341,,L'Épiphanie, Québec,J5X 4B2,Canada,450 588-7000,45.86011,-73.50858,,,0
+Dépanneur du Boulevard,2157,581 Rte 138,,St-Barthélémy, Québec,J0K 1X0,Canada,450 885-3244,46.17579,-73.09317,,,0
+Dépanneur du Boulevard,2379,"111, boulvard Frontenac",,Thetford Mines, Québec,G6G 1N3,Canada,,46.10512,-71.31150,,,0
+Dépanneur Delisle (Le magasin affilié),2142,2472 Av du Pont N,,Alma, Québec,G8E 1R1,Canada,418 662-5456,48.59450,-71.62967,,,0
+Dépanneur de l'Estale,2169,"210, chemin Windsor",,Bromptonville, Québec,J1C 0E5,Canada,,45.48286,-71.94905,,,0
+Dépanneur de la Presqu'Ile,2177,269 rue de la Presqu'Ile,,Charlemagne, Québec,J5Z 4C7,Canada,450 581-8974,45.73201,-73.49476,,,0
+Dépanneur Combo Saint-Janvier,2302,"13470, boul Curé Labelle",,Mirabel, Québec,J7J 1G9,Canada,450 435-4573,45.70014,-73.92189,,,0
+Dépanneur Coleraine,2188,"90, St-Patrick",,St-Joseph-de-Coleraine, Québec,G0N 1B0,Canada,,45.95679,-71.36300,,,0
+Dépanneur chez Stéph 2002,2402,"811, rue Notre-Dame",,St-Barnabé Nord, Québec,G0X 2K0,Canada,819 264-2800,46.40034,-72.87241,,,0
+Dépanneur Carrefour 74,2168,"2000, Pierre Laporte",,Bromont, Québec,J2L 2W8,Canada,,45.33791,-72.70377,,,0
+Dépanneur Caliprix,2348,50 Boul. L'Assomption,,Repentigny, Québec,J6A 6A8,Canada,450 932-4406,45.72075,-73.47951,,,0
+Dépanneur C. Lessard,2434,"120, boul. Canam",,St-Gédéon, Québec,G0M 1T0,Canada,418 582-6170,45.85550,-70.63538,,,0
+Dépanneur C & J Bernard,2199,315 rue Principale,,Didyme, Québec,G0W 1P0,Canada,418 274-2909,48.90540,-72.66245,,,0
+Dépanneur Bonisoir,2414,"705, rue St-Féréol",,Les Cèdres, Québec,J7T 1M9,Canada,514 447-4461,45.33530,-74.08067,,,0
+Dépanneur Boileau,2489,"3150, boul. de Tracy",,Sorel-Tracy, Québec,J3R 5M7,Canada,450 746-8059,46.01468,-73.15700,,,0
+Dépanneur Bilodeau Sud,2527,"3300, boul. Louis-Fréchette",,Nicolet, Québec,J3T 1R7,Canada,819 293-5295,46.24495,-72.58365,,,0
+Dépanneur Beauséjour,2492,"2668, rue Talbot",,Stoneham, Québec,G3C 1J5,Canada,418 848-2890,46.97252,-71.36856,,,0
+Dépanneur Baktar Inc.,2499,"526, ch. Larocque",,Valleyfield, Québec,J6T 4C5,Canada,450 373-0606,45.23713,-74.12223,,,0
+Dépanneur ABL,2485,"1170, rue L'Annonciation N",,Rivière-Rouge, Québec,J0T 1T0,Canada,819 275-3223,46.41824,-74.87602,,,0
+Dépanneur 60 Grande Ile,2503,"60, rue Grande Ile",,Valleyfield, Québec,J6S 3L8,Canada,450 371-4636,45.26358,-74.13285,,,0
+Dépanneur 4P,2259,4190 rue des Peupliers,,La Doré, Québec,G8J 1E5,Canada,418 256-1266,48.70546,-72.63999,,,0
+Dépanneur 4 Saisons,2165,"1262, Chemin 4 saisons",,Notre-Dame-Bon-Conseil, Québec,J0C 1A0,Canada,,45.99013,-72.38985,,,0
+Dépanneur 350,2146,2311 route Lupien,,Ste-Angèle-de-Prémont, Québec,J0K 1R0,Canada,819 268-6116,46.37613,-73.03871,,,0
+Dépanne-Nord,2298,"100, boul. Matagami",,Matagami, Québec,J0Y 2A0,Canada,819 739-4005,49.75676,-77.63415,,,0
+D.S. Mécanique Générale,2308,"4605, Rue Amiens",,Montréal, Québec,H1H 2H5,Canada,514 321-2844,45.59186,-73.63046,,,0
+Couche-Tard St-Léonard D'Aston,2608,"180, rang du Moulin",,St-Léonard-d'Aston, Québec,G9P 1M6,Canada,,46.05811,-72.31163,,,0
+Couche-Tard Inc. Mascouche,2295,"6, Napoléon",,Mascouche, Québec,J7L 3A8,Canada,450 477-6441,45.73259,-73.67743,,,0
+Couche-Tard Inc. Assomption,2152,200 boul. L'Ange Gardien,,L'Assomption, Québec,J5W 1R5,Canada,450 589-5990,45.82963,-73.42032,,,0
+Couche-Tard Inc. #1057,2208,"2115, rue Canadien",,Drummondville, Québec,J2C 7V9,Canada,819 475-2239,45.88564,-72.53876,,,0
+Couche-Tard Inc rue Commerciale,2242,"800, rue Commerciale",,St-Jean Chrysostome, Québec,G6Z 2C9,Canada,,46.73058,-71.20701,,,0
+Couche-Tard #463,2441,"32, rue Châteauguay",,Huntingdon, Québec,J0S 1H0,Canada,,45.08962,-74.17236,,,0
+Couche-Tard #1994,2507,"260, rue Notre-Dame O",,Victoriaville, Québec,G6P 1S2,Canada,819 758-4848,46.05852,-71.96467,,,0
+Couche-Tard #1067,2198,"25, rue des Pins",,Deschambault, Québec,G0A 1S0,Canada,418 286-4164,46.63931,-71.99598,,,0
+Couche-Tard #1066,2429,"2010, rue St-Pierre",,Drummondville, Québec,J2C 3Y5,Canada,819 477-7044,45.87289,-72.51526,,,0
+Couche-Tard #1065,2383,"3000, rue Marie-Victorin",,Tracy, Québec,J3R 1N2,Canada,450 743-3310,46.01679,-73.03441,,,0
+Couche-Tard #1063,2372,"3, Chemin de Fairfax",,Stanstead, Québec,J0B 3E0,Canada,819 876-7624,45.02368,-72.08717,,,0
+Couche-Tard #1055,2150,"495, rue Laurier",,St-Apollinaire, Québec,,Canada,418 881-2001,46.61512,-71.51629,,,0
+Couche-Tard #1053,2425,"5000, rue Girardin",,Drummondville, Québec,J2E 1A1,Canada,819 478-8168,45.90280,-72.52978,,,0
+Couche-Tard #1052,2137,"699, rue de Roxton",,Acton Vale, Québec,J0H 1A0,Canada,450 546-0053,45.64452,-72.57090,,,0
+Couche-Tard # 581,2528,"183, boul. Baril",,Princeville, Québec,G6L 3V5,Canada,819 364-5326,46.16893,-71.87102,,,0
+Couche-Tard # 1064,2428,"4014, boul. St-Joseph",,Drummondville, Québec,J2B 8K5,Canada,819 478-9186,45.85131,-72.45597,,,0
+Couche-Tard # 1062,2426,"1607, av. du Marais-Ombragé",,Drummondville, Québec,J2C 0B5,Canada,819 479-7782,45.89159,-72.48488,,,0
+Couche-Tard # 1061,2436,"577, rue St-Hubert",,Granby, Québec,J5H 1Y5,Canada,450 361-3023,45.42162,-72.72597,,,0
+Couche-Tard,2156,344 boul. Lasalle,,Baie Comeau, Québec,G4Z 2W3,Canada,418 296-2099,49.21425,-68.19508,,,0
+Couche-Tard,2181,1495 boul. St-Paul,,Chicoutimi, Québec,G7J 3Y3,Canada,418 545-0411,48.40403,-71.09656,,,0
+Couche-Tard,2366,"875, King Est",,Sherbrooke, Québec,J1G 1E1,Canada,,45.40839,-71.86988,,,0
+Couche-Tard,2530,"2991, rue Broder",,St-Alphonse de Granby, Québec,J0E 2A0,Canada,,45.35182,-72.77963,,,0
+Couche Tard Laurier-Station,2267,"123, boulvard Laurier",,Laurier-Station, Québec,G0S 1N0,Canada,,46.53799,-71.63644,,,0
+Couche Tard 12ième avenue,2365,"1575, 12ième avenue",,Sherbrooke, Québec,J1H 5H3,Canada,,45.42887,-71.86891,,,0
+Coop de solidarité du Lac-Édouard,2450,"148, rue Principale",,Lac-Édouard, Québec,G0X 3N0,Canada,819 653-2222,47.65944,-72.27189,,,0
+Coop de la solidarité Notre-Dame-de-Ham,2439,"11, rue Principale",,Notre-Dame-de-Ham, Québec,GOP 1C0,Canada,819 464-0011,45.90865,-71.73400,,,0
+Chabot carrosserie Inc,2306,"250, chemin des Poiriers",,Montmagny, Québec,G5V 3S7,Canada,,46.96419,-70.58645,,,0
+Centre Multiservice d'Anjou,2183,"1476, boul. Saguenay Est",,Chicoutimi, Québec,G7H 6V2,Canada,418 545-2409,48.42678,-71.02323,,,0
+Centre Multiservice Bégin,2182,"950, rue Bégin",,Chicoutimi, Québec,G7H 4P3,Canada,418 690-2001,48.41343,-71.06741,,,0
+Centre mécanique Extra inc.,2459,"620, Mtée Masson",,Mascouche, Québec,J7K 3B6,Canada,450 474-2688,45.73618,-73.61301,,,0
+Centre de service Lévesque,2271,8109 boul Lévesque est,,Laval, Québec,H7A 1T9,Canada,450 665-8181,45.66339,-73.58318,,,0
+Centre d'Auto Lavigne Inc,2148,45 rue Christie,,Ste-Anne de Bellevue, Québec,H9X 1X4,Canada,514 457-5688,45.40598,-73.95198,,,0
+Cardlock Kahnawake,2515,"4278, rte 132",,Kahnawake, Québec,J0L 1B0,Canada,450 635-8617,45.39554,-73.60831,,,0
+Cardlock Hébertville,2549,"100, rue Industrielle",,Hébertville, Québec,G8N 1M8,Canada,,48.38451,-71.68481,,,0
+Cardlock Harnois Groupe pétrolier,2380,"80, Route 158",,St-Thomas de Joliette, Québec,J0K 3L0,Canada,,46.01771,-73.39523,,,0
+Cardlock Harnois Groupe pétrolier,2382,639 Rte 153,,St-Tite, Québec,G0X 3H0,Canada,,46.72804,-72.57379,,,0
+Cardlock Drummondville,2548,"2115, rue Canadien",,Drummondville, Québec,J2C 7V9,Canada,,45.88564,-72.53876,,,0
+Cardlock Deschambault,2547,"25A, rue des Pins",,Deschambault, Québec,G0A 1S0,Canada,,46.63799,-71.99490,,,0
+CANEX,2360,"605, boul. Jacques-Cartier",,Shannon, Québec,G0A 4N0,Canada,418 538-3668,46.88717,-71.51592,,,0
+Café Express - Esso St-Félix de Valois,2221,391 Chemin Joliette,,St-Félix de Valois, Québec,J0K 2M0,Canada,450 889-1100,46.16334,-73.42965,,,0
+Cado Gaz (Le magasin affilié),2395,"713, 15e Rue",,St-Zacharie, Québec,G0M 2C0,Canada,418 593-6711,46.12614,-70.36432,,,0
+Boucherville Dépanneur Tarifi,2411,"700, ru du Montbrun",,Boucherville, Québec,J4B 8H2,Canada,450 449-7919,45.61116,-73.43863,,,0
+Bonisoir Sorel,2371,333 Boul. Fiset,,Sorel, Québec,J3P 3R2,Canada,450 556-0602,46.03790,-73.09600,,,0
+Bonisoir Esso Verchères,2517,"306, boul. Marie-Victorin",,Verchères, Québec,J0L 2R0,Canada,450 583-6345,45.76976,-73.36723,,,0
+Bois-des-Filion Gestion Loick Gosselin,2164,"701, boul. Adolphe-Chapleau",,Bois-des-Filion, Québec,,Canada,514 874-6022,45.65619,-73.77134,,,0
+Beau-Soir St-Canut,2466,"9061, rte Sir Wilfrid-Laurier",,Mirabel, Québec,J7N 1L6,Canada,450 431-4747,45.69826,-74.11208,,,0
+Barton Goodleaf,2514,"4278, rte 132",,Kahnawake, Québec,J0L 1B0,Canada,450 635-8617,45.39554,-73.60831,,,0
+Bar du Littoral inc.,2481,"358, rte 138",,Ragueneau, Québec,G0H 1S0,Canada,418 567-4411,49.07820,-68.44162,,,0
+Automotion 2000 inc.,2270,3345 boul. Dagenais Ouest,,Laval, Québec,H7P 1V5,Canada,450 622-6001,45.57980,-73.80443,,,0
+Autobus Aston inc.,2454,"566, rue Principale",,St-Léonard-d'Aston, Québec,J0C 1M0,Canada,819 399-2499,46.11215,-72.37768,,,0
+André Service Station,2310,5415 rue Bélanger Est,,Montréal, Québec,H1T 1E6,Canada,514 721-3146,45.57850,-73.57607,,,0
+Alimentation St-Henri,2262,"1020, Ch. Joliette",,Lanoraie, Québec,J0K 1E0,Canada,450 887-7323,45.98435,-73.27899,,,0
+Alimentation Duplain,2345,710 Côte Joyeuse,,St-Raymond, Québec,G3L 4B1,Canada,418 337-4240,46.87108,-71.83447,,,0
+Accomodation St-Pierre Inc.,2257,"367, Route 111",,La Corne, Québec,J0Y 1R0,Canada,819 799-3561,48.36329,-77.99764,,,0
+Accomodation Micheline Tanguay,2422,"677, rue Rivières",,Cowansville, Québec,J2K 3G6,Canada,450 263-6387,45.21097,-72.81457,,,0
+Accomodation GL inc.,2495,"6108, boul. Frontenac E.",,Thetford Mines, Québec,G6H 4J8,Canada,,46.14362,-71.21125,,,0
+Accomodation Giro,2488,"1800, rue Belvédère",,Sherbrooke, Québec,J1H 5W7,Canada,819 346-2772,45.37830,-71.89355,,,0
+Accomodation du Rond Point (Le magasin affilié),2300,1773 Route 169,,Metabetchouan, Québec,G8G 1A8,Canada,418 349-3413,48.43383,-71.85878,,,0
+Accomodation du Pont enr.,2399,341. av. du Pont N.,,Alma, Québec,G8B 5C8,Canada,418 669-1117,48.55437,-71.63924,,,0
+Accomodation Acton,2398,"1236, rue Boulay",,Acton Vale, Québec,J0H 1A0,Canada,450 546-7153,45.64719,-72.56914,,,0
+Accommodeur Saint-Francois,2431,"7, rte Marie-Victorin",,St-François-du-Lac, Québec,J0G 1M0,Canada,450 568-3975,46.06372,-72.81905,,,0
+Accommodation St-Odilon Inc,2318,"254, rue Langevin",,St-Odilon de Cranbourne, Québec,G0S 3A0,Canada,418 464-2311,46.35187,-70.66753,,,0
+Accommodation Papillon inc.,2479,"300, rue St-Charles",,Notre-Dame-de-Portneuf, Québec,G0A 2Y0,Canada,418 286-4242,46.70911,-71.89111,,,0
+Accommodation du Domaine Beaulieu Inc,2159,1779 boul. Raymond,,Beauport, Québec,G1B 0C5,Canada,418 667-2540,46.95095,-71.20722,,,0
+Accommodation Chez Rose Enr.,2293,"222, 1er avenue",,St-Martin de Beauce, Québec,G0M 1B0,Canada,418 382-5660,45.95037,-70.65439,,,0
+A.L. Chouinard Auto Service Inc,2269,3980 Montée Masson,,Laval, Québec,H7B 1C4,Canada,450 666-6377,45.68336,-73.62655,,,0
+9335-6186 Québec Inc.,2487,"445, rue Laval",,Sherbrooke, Québec,J1C 0R1,Canada,,45.46783,-71.95669,,,0

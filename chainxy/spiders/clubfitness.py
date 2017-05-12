@@ -16,65 +16,59 @@ class ClubfitnessSpider(scrapy.Spider):
     start_urls = ['http://www.clubfitness.us/locations/']
 
     def parse(self, response):
-        respons.body.find("var maplistScriptParamsKo = ") + 28
-        stores = response.xpath('//li[contains(@class, "corePrettyStyle prettylink map")]')
+        stores = self.getInfo(response)["KOObject"][0]["locations"]
         for store in stores:
             item = ChainItem()
-            location = store.xpath('.//div[@class="location"]/text()').extract()
-            pdb.set_trace()
             item['store_number'] = ""
-            item['store_name'] = store.xpath('./name/text()')[0][:-3]
-            description = store.xpath('./description//text()')
-            description = [a.strip() for a in description if a.strip() != ""]
-            if self.isEndWithZipCode(description[3]):
-                item['address'] = description[2]
-                i = 0
-            else:
-                item['address'] = description[2] + " " + description[3]
-                i = 1
+            item['store_name'] = store["title"].strip()
+            addr = etree.HTML(store["address"].strip())
+            addr = addr.xpath('//text()')
+            item['address'] = " ".join(addr[:-1]).strip()
             item['address2'] = ""
-            item['city'] = description[3 + i].strip().split(',')[0].strip()
             try:
-                item['state'] = description[3 + i].strip().split(',')[1].strip().split()[0].strip()
+                item['city'] = addr[-1].split(',')[0].strip()
+                item['state'] = addr[-1].split(',')[1].split()[0].strip()
+                item['zip_code'] = addr[-1].split(',')[1].split()[1].strip()
             except:
-                pdb.set_trace()
-
-            item['zip_code'] = " ".join(description[3 + i].strip().split(',')[1].strip().split()[1:]).strip()
-            try: 
-                zip = int(item['zip_code'])
-                item['country'] = "United States" 
+                item['state'] = addr[-2].split(',')[-1].strip()
+                item['zip_code'] = addr[-1].strip()
+                item['city'] = addr[-2].split(',')[0].strip()
+            item['country'] = "United States"
+            description = etree.HTML(store["description"].strip())
+            description = description.xpath('//div[@class="location"]/text()')
+            try:
+                item['phone_number'] = self.validatePhoneNumber(description[1])
             except:
-                item['country'] = "Canada"
-            item['phone_number'] = description[5 + i].strip()
+                item['phone_number'] = ""
             item['store_hours'] = ""
-            item['latitude'] = store.xpath('.//point/coordinates/text()')[0].split(',')[1].strip()
-            item['longitude'] = store.xpath('.//point/coordinates/text()')[0].split(',')[0].strip()
+            item['latitude'] = store["latitude"].strip()
+            item['longitude'] = store["longitude"].strip()
             #item['store_type'] = info_json["@type"]
             item['other_fields'] = ""
-            item['coming_soon'] = 0
-            yield item
+            if 'Coming Soon' in store["title"]:
+                item['coming_soon'] = 1
+            else:
+                item['coming_soon'] = 0
+            url = store["locationUrl"].strip()
+            request = scrapy.Request(url=url, callback=self.parse_hour)
+            request.meta['item'] = item
+            yield request
         # except:
             # pass            
 
+    def parse_hour(self, response):
+        item = response.meta['item']
+        item['store_hours'] = ""
+        for hour in response.xpath('//ul[@class="class-hours"][1]/li'):
+            hour_value = hour.xpath('.//text()').extract()
+            hour_value = [a.strip() for a in hour_value if a.strip() != ""]
+            item['store_hours'] += hour_value[0] + ":" + hour_value[1] + ";"
+        yield item
     def validate(self, xpath):
         try:
             return self.replaceUnknownLetter(xpath.extract_first().strip())
         except:
             return ""
-
-    def isEndWithZipCode(self, str):
-        str = str[-5:]
-        count = 0
-        if str[0].isdigit():
-            for char in str:
-                if char.isdigit():
-                    count += 1
-            if count == 5:
-                return True
-        str = str[-3:]
-        if (str[0].isdigit() and (not str[1].isdigit()) and str[2].isdigit()):
-            return True            
-        return False
 
     def replaceUnknownLetter(self, source):
         try:
@@ -84,12 +78,22 @@ class ClubfitnessSpider(scrapy.Spider):
             return formatted_value
         except:
             return source
+    
     def format(self, item):
         try:
             return unicodedata.normalize('NFKD', item).encode('ascii','ignore').strip()
         except:
             return ''           
 
+    def getInfo(self, response):
+        body = response.body
+        pos = body.find("var maplistScriptParamsKo = ") + 28
+        dest = ""
+        while body[pos: pos+2] != "};":
+            dest += body[pos]
+            pos += 1
+        dest += "}"
+        return json.loads(dest)
 
-
-
+    def validatePhoneNumber(self, phone_number):
+        return phone_number.strip().replace('.', '-')        

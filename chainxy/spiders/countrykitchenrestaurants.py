@@ -1,0 +1,86 @@
+import scrapy
+import json
+import csv
+from scrapy.spiders import Spider
+from scrapy.http import FormRequest
+from scrapy.http import Request
+from scrapy.selector import HtmlXPathSelector
+from chainxy.items import ChainItem
+import pdb
+import unicodedata
+
+class CountrykitchenrestaurantsSpider(scrapy.Spider):
+    name = 'countrykitchenrestaurants'
+    start_urls = ['http://www.countrykitchenrestaurants.com/location/']
+    # you can set the user agent either in the settings or the spider
+
+    headers = {
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Accept-Language":"en-GB,en-US;q=0.8,en;q=0.6",
+        "Cache-Control":"no-cache",
+        "Connection":"keep-alive",
+        "Content-Length":"13500",
+        "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
+        "Cookie":"__utmt=1; ASP.NET_SessionId=yscgjcl3vcxdkk3a1jsbzyen; __utma=104187999.1747365670.1494253057.1494306342.1494397540.4; __utmb=104187999.2.10.1494397540; __utmc=104187999; __utmz=104187999.1494253057.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+        "Host":"www.countrykitchenrestaurants.com",
+        "Origin":"http://www.countrykitchenrestaurants.com",
+        "Referer":"http://www.countrykitchenrestaurants.com/location/",
+        "User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36",
+        "X-MicrosoftAjax":"Delta=true",
+        "X-Requested-With":"XMLHttpRequest"
+    }
+    def parse(self, response):
+        for state in response.xpath('//select[@name="ddlStateSelect"]/option'):
+            url = "http://www.countrykitchenrestaurants.com/location/"
+            state_value = state.xpath('./@value').extract_first()
+            formdata = {
+                "ScriptManager1":"upnStateSearchResults|btnSearch",
+                "ddlStateSelect":state_value,
+                "__EVENTTARGET":"",
+                "__EVENTARGUMENT":"",
+                "__VIEWSTATE":"/wEPDwUKLTM0MzYxMDQ5Ng9kFgZmDxYCHgRUZXh0BfkbPCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPg0KCTxoZWFkPg0KCQk8dGl0bGU+Q291bnRyeSBLaXRjaGVuIExvY2F0aW9uczwvdGl0bGU+DQoJCTxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJbTUVUQV9LRVldIj4NCgkJPG1ldGEgbmFtZT0ia2V5d29yZHMiIGNvbnRlbnQ9IiIgLz4NCgkJPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7Y2hhcnNldD1VVEYtOCIgLz4NCgkJPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0iZW4tVVMiIC8+DQoJCTxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSxjaHJvbWU9MSIgLz4NCgkJPG1ldGEgbmFtZT0iYXV0aG9yIiBjb250ZW50PSIiPg0KCQk8bWV0YSBuYW1lPSJjb3B5cmlnaHQiIGNvbnRlbnQ9IkNvcHlyaWdodCAyMDE0IiAvPg0KCQk8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9ImluZGV4LCBmb2xsb3ciIC8+DQoNCgkJPGxpbmsgaHJlZj0iL2Nzcy9zdHlsZXMuY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPg0KDQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoNCiAgdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KICBfZ2FxLnB1c2goWydfc2V0QWNjb3VudCcsICdVQS04MzE5NTYxLTE5J10pOw0KICBfZ2FxLnB1c2goWydfc2V0RG9tYWluTmFtZScsICcuY291bnRyeWtpdGNoZW5yZXN0YXVyYW50cy5jb20nXSk7DQogIF9nYXEucHVzaChbJ190cmFja1BhZ2V2aWV3J10pOw0KDQogIChmdW5jdGlvbigpIHsNCiAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQogICAgZ2Euc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vc3NsJyA6ICdodHRwOi8vd3d3JykgKyAnLmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJzsNCiAgICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnYSwgcyk7DQogIH0pKCk7DQoNCjwvc2NyaXB0Pg0KCTwvaGVhZD4NCg0KCTxib2R5Pg0KDQoJCTxkaXYgaWQ9IndyYXBwZXIiPg0KDQoJCQk8ZGl2IGlkPSJoZWFkZXIiPg0KCQkJCTxkaXYgaWQ9ImhlYWRlcl9pbm5lciI+DQoJCQkJCTxhIGhyZWY9Ii8iPg0KCQkJCQkJPGltZyBzcmM9Ii9pbWFnZXMvY2tpX2xvZ28ucG5nIiBjbGFzcz0ibG9nbyIgLz4NCgkJCQkJPC9hPg0KDQoJCQkJCTxkaXYgaWQ9Im5hdl9jb250YWluZXIiPg0KDQoJCQkJCQk8ZGl2IGNsYXNzPSJuYXZfaXRlbSI+DQoJCQkJCQkJPGEgaHJlZj0iL2Fib3V0LyIgY2xhc3M9Im5hdjEiPkFib3V0PC9hPg0KCQkJCQkJPC9kaXY+DQoJCQkJCQk8IS0tZW5kIG5hdl9pdGVtIC0tPg0KDQoJCQkJCQk8ZGl2IGNsYXNzPSJuYXZfaXRlbSI+DQoJCQkJCQkJPGEgaHJlZj0iL21lbnUvYnJlYWtmYXN0L3BhbmNha2VwYXJhZGlzZS8iIGNsYXNzPSJuYXYyIj5NZW51PC9hPg0KCQkJCQkJPC9kaXY+DQoJCQkJCQk8IS0tZW5kIG5hdl9pdGVtIC0tPg0KDQoJCQkJCQk8ZGl2IGNsYXNzPSJuYXZfaXRlbSI+DQoJCQkJCQkJPGEgaHJlZj0iL2xvY2F0aW9uLyIgY2xhc3M9Im5hdjMiPkxvY2F0aW9uczwvYT4NCgkJCQkJCTwvZGl2Pg0KCQkJCQkJPCEtLWVuZCBuYXZfaXRlbSAtLT4NCg0KCQkJCQkJPGRpdiBjbGFzcz0ibmF2X2l0ZW0iPg0KCQkJCQkJCTxhIGhyZWY9Ii9lY2x1Yi8iIGNsYXNzPSJuYXY0Ij5FLUNsdWI8L2E+DQoJCQkJCQk8L2Rpdj4NCgkJCQkJCTwhLS1lbmQgbmF2X2l0ZW0gLS0+DQoNCgkJCQkJCTxkaXYgY2xhc3M9Im5hdl9pdGVtIj4NCgkJCQkJCQk8YSBocmVmPSIvZ2lmdGNhcmRzLyIgY2xhc3M9Im5hdjUiPkdpZnQgQ2FyZHM8L2E+DQoJCQkJCQk8L2Rpdj4NCgkJCQkJCTwhLS1lbmQgbmF2X2l0ZW0gLS0+DQoNCgkJCQkJCTxkaXYgY2xhc3M9Im5hdl9pdGVtIj4NCgkJCQkJCQk8YSBocmVmPSIvZnJhbmNoaXNpbmcvIiBjbGFzcz0ibmF2NiI+RnJhbmNoaXNlPC9hPg0KCQkJCQkJPC9kaXY+DQoJCQkJCQk8IS0tZW5kIG5hdl9pdGVtIC0tPg0KDQoNCgkJCQkJPC9kaXY+DQoJCQkJCTwhLS1lbmQgbmF2X2NvbnRhaW5lciAtLT4NCg0KCQkJCQk8ZGl2IGlkPSJ0b3BfYnV0dG9uc19jb250YWluZXIiPg0KDQoJCQkJCQk8ZGl2IGNsYXNzPSJ0b3BfYnV0dG9uIj4NCgkJCQkJCQk8YSBocmVmPSIvZWNsdWIvIiBjbGFzcz0iZWNsdWJfYnRuIj5FLUNsdWI8L2E+DQoJCQkJCQk8L2Rpdj4NCg0KCQkJCQkJPGRpdiBjbGFzcz0idG9wX2J1dHRvbiI+DQoJCQkJCQkJPGEgaHJlZj0iL2xvY2F0aW9uLyIgY2xhc3M9ImZpbmRfbG9jYXRpb25zX2J0biI+R2V0IHRoZSBNb2JpbGUgQXBwPC9hPg0KCQkJCQkJPC9kaXY+DQoNCgkJCQkJPC9kaXY+DQoJCQkJCTwhLS1lbmQgdG9wX2J1dHRvbnNfY29udGFpbmVycyAtLT4NCgkJCQk8L2Rpdj4NCgkJCQk8IS0tZW5kIGhlYWRlcl9pbm5lciAtLT4NCgkJCTwvZGl2Pg0KCQkJPCEtLWVuZCBoZWFkZXIgLS0+DQoNCg0KCQkJPGRpdiBpZD0iYm9keV9jb250YWluZXIiPg0KCQkJCTxkaXYgaWQ9ImRzX21haW5fY29udGFpbmVyIj4NCg0KCQkJCQk8ZGl2IGlkPSJkc19jb250ZW50X2FyZWEiPg0KDQoJCQkJCQk8ZGl2IGlkPSJkc19sZWZ0X2NvbHVtbl9jb250YWluZXIiPg0KDQoJCQkJCQkJPGgyIGNsYXNzPSJzdWJuYXZfdGl0bGUiPjwvaDI+DQoJCQkJCQkJPGRpdiBpZD0iZHNfc3VibmF2Ij4NCg0KCQkJCQkJCQk8ZGl2IGNsYXNzPSJkc19tZW51X2RpdiI+DQoJCQkJCQkJCQk8dWw+DQoJCQkJCQkJCQkJPGxpIGlkPSJhY3RpdmUiPg0KCQkJCQkJCQkJCQk8YSBocmVmPSIjIj48L2E+DQoJCQkJCQkJCQkJPC9saT4NCgkJCQkJCQkJCQkNCgkJCQkJCQkJCTwvdWw+DQoJCQkJCQkJCTwvZGl2Pg0KCQkJCQkJCQk8IS0tIGNsb3NlcyBkc19tZW51X2RpdiAtLT4NCgkJCQkJCQk8L2Rpdj4NCgkJCQkJCQk8IS0tIGNsb3NlcyBkc19zdWJuYXYgLS0+DQoNCg0KCQkJCQkJPC9kaXY+DQoJCQkJCQk8IS0tIGNsb3NlcyBkc19sZWZ0X2NvbHVtbl9jb250YWluZXIgLS0+DQoNCg0KCQkJCQkJPGRpdiBpZD0iZHNfY29udGVudCI+DQoJCTwhLS0NCgkJCQkJCQk8ZGl2IGNsYXNzPSJtYXN0aGVhZF9jb250YWluZXIiPg0KCQkJCQkJCQk8aW1nIHNyYz0iL2ltYWdlcy9kb3duc3RyZWFtX2Jhbm5lci5qcGciIC8+DQoJCQkJCQkJPC9kaXY+DQoJCS0tPg0KCQkJCQkJCTxoMSBjbGFzcz0icGFnZV90aXRsZSI+DQoJCQkJCQkJCTxpbWcgc3JjPSIvaW1hZ2VzL3BhZ2V0aXRsZXMvY2tpX2xvY2F0aW9ucy5wbmciIC8+DQoJCQkJCQkJPC9oMT4NCgkJDQoJCQkJCQkJPGRpdiBjbGFzcz0iZHNfYm9keSI+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PFRSPjxURD7KATxzdHJvbmc+SGliYmluZyA8L3N0cm9uZz4mbmJzcDsmbmJzcDs8QSBIUkVGPSJodHRwOi8vd3d3Lm1hcHF1ZXN0LmNvbS9tYXBzL21hcC5hZHA/YWRkcmVzcz0yNTIwK0UrQmVsdGxpbmUmY2l0eT1IaWJiaW5nKyZzdGF0ZT1NTiZ6aXBjb2RlPTU1NzQ2JmNvdW50cnk9VVMmY2lkPWxmbWFwbGluayIgdGFyZ2V0PSJfYmxhbmsiPlZpZXcgTWFwPC9BPjxicj4TMjUyMCBFIEJlbHRsaW5lPGJyPgAWSGliYmluZyAsIE1OIDU1NzQ2PGJyPhdQaG9uZTogMjE4LTI2My1UT0dPPGJyPgAJPC9URD48VEQ+ZAIHD2QWAmYPFQgA0QE8c3Ryb25nPkh1dGNoaW5zb248L3N0cm9uZz4mbmJzcDsmbmJzcDs8QSBIUkVGPSJodHRwOi8vd3d3Lm1hcHF1ZXN0LmNvbS9tYXBzL21hcC5hZHA/YWRkcmVzcz01MjgrSGlnaHdheSs3K0Vhc3QmY2l0eT1IdXRjaGluc29uJnN0YXRlPU1OJnppcGNvZGU9NTUzNTAmY291bnRyeT1VUyZjaWQ9bGZtYXBsaW5rIiB0YXJnZXQ9Il9ibGFuayI+VmlldyBNYXA8L0E+PGJyPhY1MjggSGlnaHdheSA3IEVhc3Q8YnI+KWZhY2Vib29rLmNvbS9Db3VudHJ5S2l0Y2hlbkh1dGNoaW5zb248YnI+GEh1dGNoaW5zb24sIE1OIDU1MzUwPGJyPhdQaG9uZTogMzIwLTU4Ny00OTQwPGJyPhVGYXg6IDMyMC01ODctNzYwMTxicj4JPC9URD48VEQ+ZAIID2QWAmYPFQgAygE8c3Ryb25nPk5ldyBIb3BlPC9zdHJvbmc+Jm5ic3A7Jm5ic3A7PEEgSFJFRj0iaHR0cDovL3d3dy5tYXBxdWVzdC5jb20vbWFwcy9tYXAuYWRwP2FkZHJlc3M9Nzg0OSs0Mm5kK0F2ZStOJmNpdHk9TmV3K0hvcGUmc3RhdGU9TU4memlwY29kZT01NTQyNyZjb3VudHJ5PVVTJmNpZD1sZm1hcGxpbmsiIHRhcmdldD0iX2JsYW5rIj5WaWV3IE1hcDwvQT48YnI+Ezc4NDkgNDJuZCBBdmUgTjxicj4AFk5ldyBIb3BlLCBNTiA1NTQyNzxicj4XUGhvbmU6IDc2My01MzctMjA2Mjxicj4VRmF4OiA3NjMtNTM3LTExNDM8YnI+CjwvVEQ+PC9UUj5kAgkPZBYCZg8VCAg8VFI+PFREPtYBPHN0cm9uZz5SZWR3b29kIEZhbGxzPC9zdHJvbmc+Jm5ic3A7Jm5ic3A7PEEgSFJFRj0iaHR0cDovL3d3dy5tYXBxdWVzdC5jb20vbWFwcy9tYXAuYWRwP2FkZHJlc3M9MTIwMStFK0JyaWRnZStTdC4mY2l0eT1SZWR3b29kK0ZhbGxzJnN0YXRlPU1OJnppcGNvZGU9NTYyODMmY291bnRyeT1VUyZjaWQ9bGZtYXBsaW5rIiB0YXJnZXQ9Il9ibGFuayI+VmlldyBNYXA8L0E+PGJyPhUxMjAxIEUgQnJpZGdlIFN0Ljxicj4AG1JlZHdvb2QgRmFsbHMsIE1OIDU2MjgzPGJyPhdQaG9uZTogNTA3LTYzNy0zMjIwPGJyPgAJPC9URD48VEQ+ZAIFD2QWAgIVD2QWAmYPFgRkZGRlZAIEDxYCHwAFwA0NCgkJCQkJCQkJDQoNCgkJCQkJCQk8L2Rpdj4NCgkJCQkJCQk8IS0tIGNsb3NlcyBkc19ib2R5IC0tPg0KDQoJCQkJCQk8L2Rpdj4NCgkJCQkJCTwhLS0gY2xvc2VzIGRzX2NvbnRlbnQgLS0+DQoNCg0KCQkJCQkJDQoJCQkJCQk8ZGl2IGNsYXNzPSJydWxlIj4NCgkJCQkJCQk8aW1nIHNyYz0iL2ltYWdlcy9ja2lfZG90dGVkX2xpbmVfaG9yaXpvbnRhbC5wbmciIGhlaWdodD0iMiIgLz4NCgkJCQkJCTwvZGl2Pg0KDQoJCQkJCQk8ZGl2IGNsYXNzPSJmb290ZXJfbWVudSI+DQoJCQkJCQkJPHVsPg0KCQkJCQkJCQk8bGk+DQoJCQkJCQkJCQk8YSBocmVmPSIvY29udGFjdC8iPkNvbnRhY3QgVXM8L2E+DQoJCQkJCQkJCTwvbGk+DQoJCQkJCQkJCTxsaT4NCgkJCQkJCQkJCTxhIGhyZWY9Imh0dHA6Ly9wb3J0YWwuY291bnRyeWtpdGNoZW5yZXN0YXVyYW50cy5jb20vIiB0YXJnZXQ9Il9ibGFuayI+RnJhbmNoaXNlZSBMb2dpbjwvYT4NCgkJCQkJCQkJPC9saT4NCgkJCQkJCQkJPGxpPg0KCQkJCQkJCQkJPGEgaHJlZj0iL251dHJpdGlvbi8iPk51dHJpdGlvbiAmIEFsbGVyZ2VuIEluZm88L2E+DQoJCQkJCQkJCTwvbGk+DQoJCQkJCQkJCTxsaT4NCgkJCQkJCQkJCTxhIGhyZWY9Ii9jYXJlZXJzLyI+Q2FyZWVyczwvYT4NCgkJCQkJCQkJPC9saT4NCgkJCQkJCQkJPGxpPg0KCQkJCQkJCQkJPGEgaHJlZj0iL25ld3MvIj5OZXdzIEFyY2hpdmU8L2E+DQoJCQkJCQkJCTwvbGk+DQoJCQkJCQkJCTxsaT4NCgkJCQkJCQkJCTxhIGhyZWY9Ii9naWZ0Y2FyZHMvbWVyY2hhbmRpc2UvIj5NZXJjaGFuZGlzZTwvYT4NCgkJCQkJCQkJPC9saT4NCjxsaT4NCgkJCQkJCQkJCTxhIGhyZWY9Ii9wcml2YWN5LyI+UHJpdmFjeTwvYT4NCgkJCQkJCQkJPC9saT4NCg0KCQkJCQkJCTwvdWw+DQoJCQkJCQkJPGRpdiBzdHlsZT0iY2xlYXI6Ym90aCI+PC9kaXY+DQoNCgkJCQkJCTwvZGl2Pg0KCQkJCQkJPCEtLSBjbG9zZXMgZm9vdGVyX21lbnUgLS0+DQoNCg0KDQoNCgkJCQkJPC9kaXY+DQoJCQkJCTwhLS0gY2xvc2VzIGRzX2NvbnRlbnRfYXJlYSAtLT4NCg0KCQkJCTwvZGl2Pg0KCQkJCTwhLS0gY2xvc2VzIG1haW5fY29udGFpbmVyIC0tPg0KDQoJCQk8L2Rpdj4NCgkJCTwhLS0gY2xvc2VzIGJvZHlfY29udGFpbmVyIC0tPg0KCQkJPGRpdiBzdHlsZT0iY2xlYXI6Ym90aCI+PC9kaXY+DQoNCgkJCTxkaXYgY2xhc3M9ImRzX2NraV9mb290ZXJfaW1hZ2VzIj4NCgkJCQk8IS0tDQoJCQkJCQkJPGRpdiBpZD0iZHNfY291bnRyeV9ib3kiPg0KCQkJCQkJCQk8aW1nIHNyYz0iL2ltYWdlcy9jb3VudHJ5X2JveS5wbmciIHdpZHRoPSIxOTAiIC8+DQoJCQkJCQkJPC9kaXY+DQoNCg0KCQkJCQkJCTxkaXYgaWQ9ImRzX2NvdW50cnlfZ2lybCI+DQoJCQkJCQkJCTxpbWcgc3JjPSIvaW1hZ2VzL2NvdW50cnlfZ2lybC5wbmciIHdpZHRoPSIxOTciIC8+DQoJCQkJCQkJPC9kaXY+DQoJCQktLT4NCg0KCQkJCTxpbWcgc3JjPSIvaW1hZ2VzL2NraV9waG90b19zcHJlYWQucG5nIiBjbGFzcz0iZm9vdGVyX3Bob3RvX3NwcmVhZCIgLz4NCg0KCQkJPC9kaXY+DQoJCQk8IS0tZW5kIGNraV9mb290ZXJfaW1hZ2VzIC0tPg0KDQoJCQk8ZGl2IHN0eWxlPSJjbGVhcjpib3RoIj48L2Rpdj4NCgkJCTxkaXYgaWQ9ImRzX2Zvb3RlciI+PC9kaXY+DQoJCQk8IS0tZW5kIGZvb3RlciAtLT4NCg0KCQk8L2Rpdj4NCgkJPCEtLWVuZCB3cmFwcGVyIC0tPg0KDQoNCgk8L2JvZHk+DQo8L2h0bWw+DQpkZHJMuylfh961lVUI2ad+fDoJe+mKBfLqTMCFmF72Q1Iq",
+                "__VIEWSTATEGENERATOR":"93D427D6",
+                "__EVENTVALIDATION":"/wEdABXAAxfzhRiJ0EgaXsNDRHPaCU2PUQXtU+CYvH4wLOSM4NOSPQqHz2/I+xXk/tq+vq0Z5Glgrn9wO7s3T35i8bJdK3yAxE3b3uHf2QaRsHgq4KqgOksDnIQFDqPOUgJ4PuHHYmN0VLRx6yxisLqHxFV72xnbYPae7IZTr+tX1vIemTONRwA+qx+hJt7Gn074GEQ/BY8cTeJ/gYx59OficlWZszjAfEFqp9pSLp98iXPKYPhQkBgvpVoKrkYnUA0zYMYvbonzGNdqbwSXxCA7xNY5yv42ZFT/6FHxrdrU3FCGu1bFtPsM3jrQikRdW6dD3Aa2aUeInzRrKTCqA/3J53pf4ujM/pdq1ckwF3PBDZT3BTeYA2+lkM0JElb/A3lrsVcJf+S4L9bEwW0L8OS0pmlNfjQXQWZ/ySMjerM5hgpdzI7U3Vc0WZ+wxclqyPFfzmOiOmCnPp7hMCAo5idkGInB864phMiViF/4IrY/ts0CIg==",
+                "__ASYNCPOST":"true",
+                "btnSearch":"Search"            
+            }
+            yield FormRequest(url=url, formdata=formdata, headers=self.headers, callback=self.parse_store)
+
+    def parse_store(self, response):
+        stores = response.xpath('//table[@class="body_text"]//td')
+        for store in stores:
+            if self.validate(store.xpath('./strong/text()')) != "":
+                item = ChainItem()
+                item['store_name'] = ""
+                item['store_number'] = ""
+                addr = store.xpath('./text()').extract()
+                item['address'] = addr[2].strip()
+                item['address2'] = ""
+                i = 0
+                if "facebook.com" in addr[3] or "PO Box" in addr[3] or "Box" in addr[3] or "Inn on" in addr[3]:
+                    i = 1
+                item['city'] = addr[3 + i].strip().split(',')[0]
+                item['state'] = addr[3 + i].strip().split(',')[-1].split()[0]
+                item['zip_code'] = addr[3 + i].strip().split(',')[-1].split()[1]
+                if item['state'] == "MB":
+                    item['zip_code'] = " ".join(addr[3 + i].strip().split(',')[-1].split()[1:])
+                try:
+                    zip_code = int(item['zip_code'])
+                    item['country'] = "United States"
+                except:
+                    item['country'] = "Canada"
+                item['phone_number'] = addr[4 + i].strip().split(':')[-1].strip()
+                item['latitude'] = ""
+                item['longitude'] = ""
+                item['store_hours'] = ""
+                #item['store_type'] = info_json["@type"]
+                item['other_fields'] = ""
+                item['coming_soon'] = 0
+                yield item
+
+    def validate(self, xpath_obj):
+        try:
+            return xpath_obj.extract_first().strip().encode('utf8').replace('\xc3\xb4', 'o').replace("&#39", "'").replace('&amp;nbsp;', '').replace('&nbsp;', '')
+        except:
+            return ""
