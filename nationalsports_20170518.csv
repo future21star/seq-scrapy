@@ -1,0 +1,19 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Windsor,22,3051 Legacy Park Drive,,Windsor,Ontario,N8W 5S6,Canada,(519) 969-8662,,,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Waterloo,19,24 Forwell Creek Rd.,,Waterloo,Ontario,N2J 3Z3,Canada,(519) 886-6704,43.486349,-80.524418,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+St. Clair Beach,18,13580 Tecumseh Road E.,,St. Clair Beach,Ontario,N8N 3N7,Canada,(519) 979-1882,43.784221,-79.255936,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Scarborough,17,1455 McCowan Rd.,,Scarborough,Ontario,M1S 5K7,Canada,(416) 335-0056,43.817008,-79.118047,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Pickering,16,699 Kingston Road,,Pickering,Ontario,L1V 3N7,Canada,(905) 831-2599,44.295946,-78.319328,M - F : 9:30am - 9:00pm;SAT :   9:00am - 8:00pm;SUN : 10:00am - 6:00pm,,0
+Peterborough,15,81 George Street North,,Peterborough,Ontario,K9J 3G3,Canada,(705) 740-0748,43.935414,-78.867563,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Oshawa,14,285 Taunton Rd.,,Oshawa,Ontario,L1G 3V2,Canada,(905) 434-3836,43.450619,-79.700319,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Orleans,25,4338 Innes Road,,Orléans,Ontario,K4A 3W3,Canada,(613) 590-1158,,,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Oakville,13,210 North Service Rd. W.,,Oakville,Ontario,L6M 2Y2,Canada,(905) 338-6631,37.0625,-95.677068,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Newmarket,12,1111 Davis Drive,,Newmarket,Ontario,L3Y 8X2,Canada,(905) 853-4389,43.617492,-79.574693,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Mississauga,11,1770 Dundas St. E.,,Mississauga,Ontario,L4X 1L8,Canada,(905) 270-1010,43.86815,-79.362714,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+London,9,332 Wellington Rd. S.,,London,Ontario,N6C 4P6,Canada,(519) 858-9042,43.21857,-79.864054,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Hamilton,8,"970 Upper Wentworth Street, Unit 2",,Hamilton,Ontario,L9A 4V8,Canada,(905) 388-6477,43.550648,-79.715968,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Erin Mills,7,2921 Eglinton Avenue West,,Erin Mills,Ontario,L5M 6J3,Canada,(905) 820-9534,43.807217,-79.483466,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Concord,6,2160 HWY. 7 West,,Concord,Ontario,L4K 1W6,Canada,(905) 669-2819,37.0625,-95.677068,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Cambridge,5,600 Hespeler Road,,Cambridge,Ontario,N1R 8H2,Canada,(519) 620-9747,43.703006,-79.737296,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Brampton,4,539 Steeles Avenue East,,Brampton,Ontario,L6W 4S2,Canada,(905) 454-7888,43.676967,-79.718632,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0
+Barrie,3,353 Bayfield Street,,Barrie,Ontario,L4M 3C3,Canada,(705) 725-0448,44.404158,-79.702875,M - F : 9:30am - 9:00pm;SAT :   9:00am - 6:00pm;SUN : 10:00am - 6:00pm,,0

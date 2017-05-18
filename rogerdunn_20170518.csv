@@ -1,0 +1,90 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Edwin Watts Golf,75,946 Orleans Rd.,,Charleston,South Carolina,29407,United States,843-763-1995,32.797781,-80.028158,weekday:10:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,117,230 Retreat Village,,St. Simons Island,Georgia,31522,United States,912-638-5034,31.159005,-81.391218,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,15,"11921 N. Dale Mabry, Ste. 9",,Tampa,Florida,33618,United States,813-960-5330,28.057700,-82.502839,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+The Golf Mart,27,4200 Wyoming Blvd NE Suite A5,,Albuquerque,New Mexico,87111,United States,505-299-0998,35.128571,-106.550147,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Edwin Watts Golf,4,5711 N. Davis Hwy,,Pensacola,Florida,32503,United States,850-477-0519,30.47962,-87.224525,weekday:10:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Edwin Watts Golf,5,34898 Emerald Coast Pkwy,,Destin,Florida,32541,United States,850-654-0363,30.387869,-86.428943,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,7,3889 Northlake Blvd.,,Palm Beach Gardens,Florida,33403,United States,561-625-6430,26.808846,-80.096453,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Edwin Watts Golf,8,32257 US Hwy 19 N,,Palm Harbor,Florida,34684,United States,727-787-3370,28.065687,-82.738164,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,12,"19595 State Rd 7, Suite C",,Boca Raton,Florida,33498,United States,561-717-8432,26.385975,-80.204927,weekday:9:00am - 7:00pm;sat:9:00am - 6:00pm;sun:9:00am - 7:00pm;,,0
+Edwin Watts Golf,13,7501 Turkey Lake Rd.,,Orlando,Florida,32819,United States,407-345-8451,28.455188,-81.476145,weekday:9:00 am - 8:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 8:00 pm;,,0
+Edwin Watts Golf,16,15100 N. Biscayne Blvd.,,North Miami Beach,Florida,33160,United States,305-944-2925,25.915323,-80.157065,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf - Clearance Center,17,7024 International Dr.,,Orlando,Florida,32819,United States,407-352-2535,28.456924,-81.472945,weekday:10:00 am - 8:00 pm;sat:10:00 am - 7:00 pm;sun:10:00 am - 8:00 pm;,,0
+Edwin Watts Golf,20,5600 N. Federal Hwy,,Fort Lauderdale,Florida,33308,United States,954-771-3256,26.197256,-80.110537,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,21,4625 Poplar Ave,,Memphis,Tennessee,38117,United States,901-767-1244,35.11641,-89.907909,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,22,2423 Capital Circle NE,,Tallahassee,Florida,32308,United States,850-383-6935,30.484315,-84.236767,weekday:9:00 am - 6:00 pm;sat:9:00 am - 5:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,23,"9365 Philips Hwy, STE 110",,Jacksonville,Florida,32256,United States,904-332-0933,30.200185,-81.561608,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Edwin Watts Golf,25,4082 South 3rd Street,,Jacksonville Beach,Florida,32250,United States,904-246-7893,30.257566,-81.389937,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,26,1540 Wells Road,,Orange Park,Florida,32073,United States,904-264-9801,30.188948,-81.713894,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,31,820 East County Line Rd.,,Ridgeland,Mississippi,39157,United States,601-956-8784,32.399711,-90.142652,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,32,1050 NE Loop 410,,San Antonio,Texas,78209,United States,210-822-4060,29.515838,-98.456831,weekday:10:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,33,5395 Westheimer Rd.,,Houston,Texas,77056,United States,713-627-2411,29.739411,-95.469688,weekday:9:00 am - 8:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 8:00 pm;,,0
+Edwin Watts Golf,36,4526 South Padre Island Dr.,,Corpus Christi,Texas,78411,United States,361-852-0358,27.717406,-97.388113,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,37,410 West SW Loop 323,,Tyler,Texas,75701,United States,903-561-8851,32.30288,-95.304383,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,41,2436 Veteran's Memorial Blvd.,,Kenner,Louisiana,70062,United States,504-467-1991,30.006279,-90.234123,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Edwin Watts Golf,43,1820 East 70th St.,,Shreveport,Louisiana,71105,United States,318-797-7518,32.443748,-93.711506,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,44,5235 S. Sherwood Forest Blvd.,,Baton Rouge,Louisiana,70816,United States,225-295-1408,30.40703,-91.051168,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Edwin Watts Golf,46,2515 McGavock Pike,,Nashville,Tennessee,37214,United States,615-883-0125,36.21777,-86.698887,weekday:10:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+"Edwin Watts Golf ""New location next door""",47,11364 Parkside Drive,,Knoxville,Tennessee,37934,United States,865-675-3340,35.900022,-84.15891,weekday:10:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,48,2801 East Northwest Parkway,,Southlake,Texas,76092,United States,817-310-6492,32.941848,-97.107489,weekday:10:00 am - 6:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Edwin Watts Golf,49,"2602 Shackleford Rd, Ste G",,Little Rock,Arkansas,72205,United States,501-227-0539,34.732524,-92.394746,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Edwin Watts Golf,50,5805 Camp Bowie Blvd,,Fort Worth,Texas,76107,United States,817-731-4441,32.730678,-97.40998,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,51,189 State Farm Pkwy,,Birmingham,Alabama,35209,United States,205-942-7083,33.44892,-86.823275,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,52,168 West I-65 Service Rd S.,,Mobile,Alabama,36608,United States,251-343-9059,30.685967,-88.127861,weekday:9:00 am - 6:00 pm;sat:9:00 am - 5:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,58,9212 Panama City Bch Pkwy,,Panama City,Florida,32407,United States,850-235-0391,30.19096,-85.791347,weekday:CLOSED;sat:CLOSED;sun:CLOSED;,,0
+Edwin Watts Golf,66,1366 B Hwy 82 West,,Leesburg,Georgia,31763,United States,229-889-0350,31.634307,-84.244549,weekday:10:00 am - 6:00 pm;sat:9:00 am - 5:00 pm;sun:10:00 am - 6:00 pm;,,0
+Edwin Watts Golf,67,592 Bobby Jones Exway # 21,,Martinez,Georgia,30907,United States,706-855-5153,33.501914,-82.087355,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,69,1 Buckingham Plantation Dr,,Bluffton,South Carolina,29910,United States,843-837-3399,32.23686,-80.809823,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,71,3503 Wedgewood Lane,,The Villages,Florida,32162,United States,352-633-3270,28.928205,-82.011616,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,81,5247 S. Tamiami Trail,,Sarasota,Florida,34231,United States,941-922-1006,27.277148,-82.530664,weekday:10:00 am - 6:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Edwin Watts Golf,84,"8484 NW 36th St, Ste 200",,Doral,Florida,33166,United States,305-591-1220,25.809735,-80.334328,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,100,7700 Abercorn Street,,Savannah,Georgia,31406,United States,912-355-0815,32.005118,-81.11715,weekday:10:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Edwin Watts Golf,107,6824 W 119th Street,,Overland Park,Kansas,66209,United States,913-491-4653,38.913526,-94.664572,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+Edwin Watts Golf,110,3150 Piedmont Rd NE,,Atlanta,Georgia,30305,United States,404-816-2166,33.842427,-84.371018,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,,7628 Memorial Pkwy SW,,Huntsville,Alabama,35802,United States,2568832992,34.663295,-86.572140,weekday:9:30 am - 6:00 pm;sat:9:30 am - 5:00 pm;sun:9:30 am - 6:00 pm;,,0
+Uinta Golf,112,560 E 2100 South,,Salt Lake City,Utah,84106,United States,801-487-8233,40.725178,-111.874831,weekday:9:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 6:00 pm;,,0
+Uinta Golf,113,10855 S State Street,,Sandy,Utah,84070,United States,801-571-5770,40.554188,-111.889916,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Uinta Golf,114,5360 S Freeway Park Drive,,Riverdale,Utah,84405,United States,801-825-4009,41.166761,-112.020592,weekday:10:00 am - 6:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Uinta Golf,115,1666 South State,,Orem,Utah,84097,United States,801-221-7494,40.266607,-111.682724,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Uinta Golf,116,"2376 East Red Cliffs Drive, Suite 312",,St. George,Utah,84790,United States,435-256-6496,37.123387,-113.532393,weekday:9:00 am - 6:00 pm;sat:9:00 am - 5:00 pm;sun:9:00 am - 6:00 pm;,,0
+Edwin Watts Golf,123,3024 Richmond Road,,Lexington,Kentucky,40509,United States,859-268-4653,38.004269,-84.450936,weekday:10:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Van's Golf Shop,309,801 S. Power Road #115,,Mesa,Arizona,85206,United States,480-985-0601,33.399883,-111.684130,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Van's Golf Shop,317,3217 E. Camelback Rd.,,Phoenix,Arizona,85018,United States,602-957-0001,33.509818,-112.012263,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Van's Golf Shop,311,8720 E. Frank Lloyd Wright Blvd,,Scottsdale,Arizona,85260,United States,480-483-1800,33.630610,-111.892704,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Van's Golf Shop,316,2716 S. Market St.,,Gilbert,Arizona,85295,United States,480-963-9441,33.300762,-111.744819,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Van's Golf Shop,307,4230 N. Oracle Rd. #180,,Tucson,Arizona,85705,United States,520-293-1381,32.283428,-110.976743,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Van's Golf Shop,315,4861 East Grant Road #161,,Tucson,Arizona,85712,United States,520-721-2111,32.251769,-110.888976,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Van's Golf Shop,305,"10001 West Bell Road, Ste. #118",,Sun City,Arizona,85351,United States,623-972-0171,33.637239,-112.275823,weekday:8:00 am - 6:00 pm;sat:8:00 am - 5:00 pm;sun:8:00 am - 6:00 pm;,,0
+The Golf Mart,401,"2099 Mt. Diablo Boulevard, Suite 101",,Walnut Creek,California,94596,United States,925-588-0199,37.896275,-122.069629,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+The Golf Mart,402,6694 Amador Plaza Road,,Dublin,California,94568,United States,925-833-8950,37.702498,-121.926616,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+The Golf Mart,403,2768 Santa Rosa Ave,,Santa Rosa,California,95407,United States,707-584-4466,38.410050,-122.712638,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+The Golf Mart,404,530 Francisco Blvd. West,,San Rafael,California,94901,United States,415-721-0626,37.965344,-122.516953,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+The Golf Mart,405,2040 Fremont Blvd,,Seaside,California,93955,United States,831-583-1000,36.620161,-121.839999,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+The Golf Mart,406,470-A Noor Avenue,,South San Francisco,California,94080,United States,650-583-4653,37.641577,-122.422105,weekday:9:00 am - 8:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 8:00 pm;,,0
+The Golf Mart,407,15555 Jimmy Durante Blvd,,Del Mar,California,92014,United States,858-794-9676,32.976035,-117.253009,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+The Golf Mart,408,1441 Encinitas Blvd #110,,Encinitas,California,92024,United States,760-944-1534,33.045086,-117.257576,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+The Golf Mart,409,1231 Camino Del Rio South,,San Diego,California,92108,United States,619-298-9571,32.764768,-117.151885,weekday:9:00 am - 8:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 8:00 pm;,,0
+The Golf Mart,410,1066 W. Valley Pkwy,,Escondido,California,92025,United States,760-741-0441,33.116349,-117.097771,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Golfers Warehouse,701,2 Campanelli Drive,,Braintree,Massachusetts,02185,United States,781-848-9777,42.202357,-71.024975,weekday:10:00 am - 6:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Golfers Warehouse,702,4 Newbury Street,,Danvers,Massachusetts,01923,United States,978-777-4653,42.557150,-70.980374,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Golfers Warehouse,703,619 Southbridge Street,,Auburn,Massachusetts,01501,United States,508-407-7692,42.187543,-71.850584,weekday:10:00 am - 6:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Golfers Warehouse,704,75 Brainard Road,,Hartford,Connecticut,06114,United States,860-522-6829,41.738954,-72.660027,weekday:10:00 am - 7:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Golfers Warehouse,705,60 Freeway Drive,,Cranston,Rhode Island,02920,United States,401-467-8740,41.750610,-71.450038,weekday:10:00 am - 6:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Roger Dunn Golf Shops,601,190 Station Way,,Arroyo Grande,California,93420,United States,805-481-3866,35.120808,-120.579997,weekday:9:00 am - 8:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 8:00 pm;,,0
+Roger Dunn Golf Shops,603,5618 North Blackstone,,Fresno,California,93710,United States,559-436-0464,36.819576,-119.790299,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,604,80555 Highway 111,,Indio,California,92201,United States,760-775-1414,33.706529,-116.258662,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,605,"28191 Marguerite Pkwy, Suite 16",,Mission Viejo,California,92692,United States,949-364-1611,33.553435,-117.670770,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,606,5445 Lankershim Blvd.,,North Hollywood,California,91601,United States,818-763-3622,34.169741,-118.378299,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,607,11849 Foothill Blvd. Suite D,,Rancho Cucamonga,California,91730,United States,909-948-7959,34.106284,-117.546893,weekday:10:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:10:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,608,10031-A Indiana Avenue,,Riverside,California,92503,United States,951-687-6524,33.908570,-117.451696,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,609,1421 Village Way,,Santa Ana,California,92705,United States,714-558-0074,33.730013,-117.834693,weekday:9:00 am - 8:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 8:00 pm;,,0
+Roger Dunn Golf Shops,610,24200 Main St.,,Newhall,California,91321,United States,661-222-7177,34.376940,-118.526241,weekday:9:00 am - 8:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 8:00 pm;,,0
+Roger Dunn Golf Shops,611,13958 Seal Beach Blvd,,Seal Beach,California,90740,United States,562-598-1300,33.761118,-118.077820,weekday:9:00 am - 7:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,612,5759 Pacific Avenue Suite B-130,,Stockton,California,95207,United States,209-472-0280,38.002121,-121.317111,weekday:10:00 am - 7:00 pm;sat:10:00 am - 7:00 pm;sun:10:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,613,2810 Camino Dos Rios,,Newbury Park,California,91320,United States,805-375-7755,34.189170,-118.935997,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,614,1813 W. Caldwell Ave.,,Visalia,California,93277,United States,559-734-1385,36.298029,-119.310375,weekday:10:00 am - 6:00 pm;sat:10:00 am - 6:00 pm;sun:10:00 am - 6:00 pm;,,0
+Roger Dunn Golf Shops,615,1801 S. Bundy Drive,,Los Angeles,California,90025,United States,310-826-9003,34.035523,-118.458235,weekday:9:00 am - 8:00 pm;sat:9:00 am - 7:00 pm;sun:9:00 am - 8:00 pm;,,0
+Roger Dunn Golf Shops,616,1500 Kapiolani Blvd #107,,Honolulu,Hawaii,96814,United States,808-942-7741,21.293070,-157.841445,weekday:9:00 am - 8:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 8:00 pm;,,0
+Roger Dunn Golf Shops,617,293 Dairy Road,,"Kahului, Maui",Hawaii,96732,United States,808-873-5700,20.882500,-156.455435,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0
+Roger Dunn Golf Shops,618,1132 Kuala St. #402,,Pearl City,Hawaii,96782,United States,808-456-5401,21.399267,-157.974664,weekday:9:00 am - 7:00 pm;sat:9:00 am - 6:00 pm;sun:9:00 am - 7:00 pm;,,0

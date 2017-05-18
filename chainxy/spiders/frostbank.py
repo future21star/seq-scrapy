@@ -15,49 +15,37 @@ class FrostbankSpider(scrapy.Spider):
 		uid_list = []
 		start_urls = ['https://www.frostbank.com/pages/locations.aspx']
 		domain = 'https://www.frostbank.com'
-		count = 0
 
 		def parse(self, response):
-			try:
-				for state in response.xpath("//div[@class='locationCities']/a/@href").extract():					
-					url = self.domain + state
-					yield scrapy.Request(url=url, callback=self.parse_store)
-			except:
-				pdb.set_trace()
-				pass
+			for state in response.xpath("//div[@class='locationCities']/a/@href").extract():					
+				url = self.domain + state
+				yield scrapy.Request(url=url, callback=self.parse_store)
 		def parse_store(self, response):
-			try:
-				stores = yaml.load(response.body.split("var locationListFC = '")[-1].split("}]}")[0] + "}]}")['locationData']
-				stores += yaml.load(response.body.split("var locationListATM = '")[-1].split("}]}")[0] + "}]}")['locationData']
-				self.count += len(stores)
-				print "------------------------store count-----------------------------"
-				print self.count
-				print "------------------------store count-----------------------------"
-				for store in stores:
+			stores = yaml.load(response.body.split("var locationListFC = '")[-1].split("}]}")[0] + "}]}")['locationData']
+			stores += yaml.load(response.body.split("var locationListATM = '")[-1].split("}]}")[0] + "}]}")['locationData']
+			for store in stores:
 
-					item = ChainItem()
-					item['store_number'] = store['LocationID']
-					item['store_name'] = store['Title']
-					item['address'] = store['Address']
-					item['address2'] = ""
-					addr = store['CityStateZip']
-					item['city'] = addr.split(',')[0].strip()
-					item['state'] = addr.split(',')[-1].split()[0].strip()
-					item['zip_code'] = addr.split(',')[-1].split()[1].strip()
-					item['country'] = "United States" 
-					item['phone_number'] = store['Phone'].replace('.', '-')
-					item['store_hours'] = ""
-					item['latitude'] = store['Latitude']
-					item['longitude'] = store['Longitude']
-					#item['store_type'] = info_json["@type"]
-					item['other_fields'] = ""
-					item['coming_soon'] = 0
-					url = 'https://www.frostbank.com/pages/locationsdetail.aspx?LocationID=%s' % store['LocationID']
-					request = scrapy.Request(url=url, callback=self.parse_hour)
-					request.meta['item'] = item
-					yield request
-			except:
-				pass			
+				item = ChainItem()
+				item['store_number'] = store['LocationID']
+				item['store_name'] = store['Title']
+				item['address'] = store['Address'].encode('utf8').replace("\xe2\x80\x8b", "")
+				item['address2'] = ""
+				addr = store['CityStateZip']
+				item['city'] = addr.split(',')[0].strip()
+				item['state'] = addr.split(',')[-1].split()[0].strip().replace('&nbsp;', '')
+				item['zip_code'] = addr.split(',')[-1].split()[1].strip()
+				item['country'] = "United States" 
+				item['phone_number'] = store['Phone'].replace('.', '-')
+				item['store_hours'] = ""
+				item['latitude'] = store['Latitude']
+				item['longitude'] = store['Longitude']
+				#item['store_type'] = info_json["@type"]
+				item['other_fields'] = ""
+				item['coming_soon'] = 0
+				url = 'https://www.frostbank.com/pages/locationsdetail.aspx?LocationID=%s' % store['LocationID']
+				request = scrapy.Request(url=url, callback=self.parse_hour)
+				request.meta['item'] = item
+				yield request		
 
 		def parse_hour(self, response):
 			try:
