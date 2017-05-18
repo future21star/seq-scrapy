@@ -9,62 +9,105 @@ from chainxy.items import ChainItem
 import pdb
 import unicodedata
 import yaml
-
 class SasshoesSpider(scrapy.Spider):
 		name = "sasshoes"
 		uid_list = []
+		us_state_abbrev = {
+		    'Alabama': 'AL',
+		    'Alaska': 'AK',
+		    'Arizona': 'AZ',
+		    'Arkansas': 'AR',
+		    'California': 'CA',
+		    'Colorado': 'CO',
+		    'Connecticut': 'CT',
+		    'Delaware': 'DE',
+		    'Florida': 'FL',
+		    'Georgia': 'GA',
+		    'Hawaii': 'HI',
+		    'Idaho': 'ID',
+		    'Illinois': 'IL',
+		    'Indiana': 'IN',
+		    'Iowa': 'IA',
+		    'Kansas': 'KS',
+		    'Kentucky': 'KY',
+		    'Louisiana': 'LA',
+		    'Maine': 'ME',
+		    'Maryland': 'MD',
+		    'Massachusetts': 'MA',
+		    'Michigan': 'MI',
+		    'Minnesota': 'MN',
+		    'Mississippi': 'MS',
+		    'Missouri': 'MO',
+		    'Montana': 'MT',
+		    'Nebraska': 'NE',
+		    'Nevada': 'NV',
+		    'New Hampshire': 'NH',
+		    'New Jersey': 'NJ',
+		    'New Mexico': 'NM',
+		    'New York': 'NY',
+		    'North Carolina': 'NC',
+		    'North Dakota': 'ND',
+		    'Ohio': 'OH',
+		    'Oklahoma': 'OK',
+		    'Oregon': 'OR',
+		    'Pennsylvania': 'PA',
+		    'Rhode Island': 'RI',
+		    'South Carolina': 'SC',
+		    'South Dakota': 'SD',
+		    'Tennessee': 'TN',
+		    'Texas': 'TX',
+		    'Utah': 'UT',
+		    'Vermont': 'VT',
+		    'Virginia': 'VA',
+		    'Washington': 'WA',
+		    'West Virginia': 'WV',
+		    'Wisconsin': 'WI',
+		    'Wyoming': 'WY',
+		    'District of Columbia': 'DC'
+		}
+		def __init__(self):
+			place_file = open('citiesusca.json', 'rb')
+			self.place_reader = json.load(place_file)
 
+		def start_requests(self):
+			for _city in self.place_reader:
+				info = self.place_reader[_city]
+				city = info['city'].replace(" ", "%20")
+				url = "https://sasshoes.com/store-locator?q=" + info['city'].replace(' ', '+') + "%2C+" + info['state'] + "+" + info['zip_code'] + "%2C+USA&lat=" + info['latitude'] + "&lng=" + info['longitude'] + "&limit=100"
+				yield scrapy.Request(url=url, callback=self.parse)
+			
 		def parse(self, response):
 			try:
-				for state in response.xpath("//div[@class='locationCities']/a/@href").extract():					
-					url = self.domain + state
-					yield scrapy.Request(url=url, callback=self.parse_store)
-			except:
-				pdb.set_trace()
-				pass
-		def parse_store(self, response):
-			try:
-				stores = yaml.load(response.body.split("var locationListFC = '")[-1].split("}]}")[0] + "}]}")['locationData']
-				stores += yaml.load(response.body.split("var locationListATM = '")[-1].split("}]}")[0] + "}]}")['locationData']
-				self.count += len(stores)
-				print "------------------------store count-----------------------------"
-				print self.count
-				print "------------------------store count-----------------------------"
+				stores = json.loads(response.body)['locations']
 				for store in stores:
-
 					item = ChainItem()
-					item['store_number'] = store['LocationID']
-					item['store_name'] = store['Title']
-					item['address'] = store['Address']
-					item['address2'] = ""
-					addr = store['CityStateZip']
-					item['city'] = addr.split(',')[0].strip()
-					item['state'] = addr.split(',')[-1].split()[0].strip()
-					item['zip_code'] = addr.split(',')[-1].split()[1].strip()
-					item['country'] = "United States" 
-					item['phone_number'] = store['Phone'].replace('.', '-')
+					item['store_number'] = store['store-number']
+					item['store_name'] = store['store-name']
+					item['store_type'] = store['store-type']
+					item['address'] = store['address-1']
+					item['address2'] = store['address-2']
+					item['city'] = store['city']
+					item['state'] = store['region']
+					item['zip_code'] = store['postal-code']
+					item['country'] = store['country']
+					item['phone_number'] = store['phone']
 					item['store_hours'] = ""
-					item['latitude'] = store['Latitude']
-					item['longitude'] = store['Longitude']
-					#item['store_type'] = info_json["@type"]
+					if store['operating-hours'] != "":
+						hours = json.loads(store['operating-hours'])
+						days = ['mon','tue','wed', 'thu','fri','sat','sun']
+						for day in days:
+							item['store_hours'] += day + ":" + hours[day]["start"] + "-" + hours[day]["end"] + ";"
+					item['latitude'] = store['lat']
+					item['longitude'] = store['lng']
 					item['other_fields'] = ""
 					item['coming_soon'] = 0
-					url = 'https://www.frostbank.com/pages/locationsdetail.aspx?LocationID=%s' % store['LocationID']
-					request = scrapy.Request(url=url, callback=self.parse_hour)
-					request.meta['item'] = item
-					yield request
+					if item['store_number'] != "" and item['store_number'] in self.uid_list:
+						continue
+					self.uid_list.append(item['store_number'])	
+					yield item
 			except:
 				pass			
 
-		def parse_hour(self, response):
-			try:
-				store = yaml.load(response.body.split("var locationList = '")[-1].split('},]}')[0] + '},]}')['locationData'][0]
-				item = response.meta['item']
-				item['store_hours'] = store['LobbyHour']
-				yield item
-			except:
-				pdb.set_trace()
-				pass
 		def validate(self, xpath):
 			try:
 				return self.replaceUnknownLetter(xpath.extract_first().strip())
