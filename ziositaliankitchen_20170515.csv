@@ -1,0 +1,9 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Springfield,318,1249 East Kingsley Street,,Springfield,Missouri,65804,United States,(417) 889-1919,,,Sunday-Thursday  11AM-10PM;Friday-Saturday   11AM-10PM,,0
+Norman,325,1353 24th Avenue N.W.,,Norman,Oklahoma,73069,United States,(405) 364-4650,,,Sunday-Thursday  11AM-10PM;Friday-Saturday   11AM-11PM,,0
+Oklahoma City,320,2035 S. Meridian Ave.,,Oklahoma City,Oklahoma,73108,United States,(405) 680-9999,,,Sunday-Thursday  11AM-10PM;Friday-Saturday   11AM-11PM,,0
+Oklahoma City,338,12 E. California Ave.,,Oklahoma City,Oklahoma,73104,United States,(405) 278-8888,,,Sunday-Thursday  11AM-10PM;Friday-Saturday   11AM-11PM,,0
+Tulsa,323,7111 S. Mingo Road,,Tulsa,Oklahoma,74133,United States,(918) 250-5999,,,Sunday-Thursday  11AM-10PM;Friday-Saturday   11AM-11PM,,0
+Tulsa,324,8112 S. Lewis,,Tulsa,Oklahoma,74137,United States,(918) 298-9880,,,Sunday-Thursday  11AM-10PM;Friday-Saturday   11AM-11PM,,0
+San Antonio,326,"18030 U.S. Highway 281, #104",,San Antonio,Texas,78232,United States,(210) 495-7722,,,Sunday-Thursday 11AM-10PM;Friday-Saturday 11AM-11PM,,0
+San Antonio,327,12858 West I.H. 10,,San Antonio,Texas,78249,United States,(210) 697-7222,,,Sunday-Thursday 11AM-10PM;Friday-Saturday 11AM-11PM,,0
