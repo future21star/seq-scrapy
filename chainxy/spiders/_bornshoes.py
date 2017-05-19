@@ -9,8 +9,8 @@ from chainxy.items import ChainItem
 import pdb
 import unicodedata
 import yaml
-class BornshoesSpider(scrapy.Spider):
-		name = "bornshoes"
+class BornshoesMakerSpider(scrapy.Spider):
+		name = "_bornshoes"
 		uid_list = []
 		us_state_abbrev = {
 		    'Alabama': 'AL',
@@ -65,41 +65,40 @@ class BornshoesSpider(scrapy.Spider):
 		    'Wyoming': 'WY',
 		    'District of Columbia': 'DC'
 		}
+		start_urls = ["https://www.bornshoes.com"]
 		def __init__(self):
-			place_file = open('cities_us.json', 'rb')
-			self.place_reader = json.load(place_file)
-
-		def start_requests(self):
-			for info in self.place_reader:
-				city = info['city'].replace(" ", "%20")
-				url = "http://locator.hhbrown.com/Soa/4.0/HHBrownStores4.svc/GetStoresByBrand?b=04SH&z=%s,%s&d=100&callback=jQuery22406102562250571344_1495080415265&_=1495080415332" % (city, self.us_state_abbrev[info['state']])
-				yield scrapy.Request(url=url, callback=self.parse)
+			place_file = open('_bornshoes_20170517.csv', 'rb')
+			self.place_reader = csv.reader(place_file)
 			
 		def parse(self, response):
 			try:
-				stores = yaml.load(response	.body.split("jQuery22406102562250571344_1495080415265(")[-1].split(");")[0])['Locations']
-				for store in stores:
-					item = ChainItem()
-					item['store_number'] = store['Locator_Store_ID']
-					item['store_name'] = store['Name']
-					if store['Address2'] != "" and store['Address2'][0].isdigit():
-						item['address'] = store['Address2']
-						item['address2'] = store['Address1']
-					else:
-						item['address'] = store['Address1']
-						item['address2'] = store['Address2']						
-					item['city'] = store['City']
-					item['state'] = store['State']
-					item['zip_code'] = store['Zip']
-					item['country'] = "United States" 
-					item['phone_number'] = store['Phone']
-					item['store_hours'] = ""
-					item['latitude'] = store['G_Latitude']
-					item['longitude'] = store['G_Longitude']
-					#item['store_type'] = info_json["@type"]
-					item['other_fields'] = ""
-					item['coming_soon'] = 0
-					yield item
+				for store in self.place_reader:
+					if store[0] != "store_name":
+						try:
+							item = ChainItem()
+							item['store_number'] = store[1]
+							item['store_name'] = store[0]
+							if store[3] != "" and store[3][0].isdigit():
+								item['address'] = store[3]
+								item['address2'] = store[2]
+							else:
+								item['address'] = store[2]
+								item['address2'] = store[3]						
+							item['city'] = store[4]
+							item['state'] = store[5]
+							item['zip_code'] = store[6]
+							item['country'] = store[7]
+							item['phone_number'] = store[8]
+							item['store_hours'] = store[11]
+							item['latitude'] = store[9]
+							item['longitude'] = store[10]
+							#item['store_type'] = info_json["@type"]
+							item['other_fields'] = ""
+							item['coming_soon'] = 0
+							yield item
+						except:
+							pdb.set_trace()
+							pass
 			except:
 				pass			
 

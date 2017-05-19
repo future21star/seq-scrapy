@@ -1,0 +1,738 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Belk,9272,Pleasant Ridge Town Center,11525 Cantrell Rd,Little Rock,AR,72212,United States,,34.7938992,-92.3999284,,,0
+Dillards,8069,0314 Battlefield Mall,2825 S Glenstone Ave Ste 400,Springfield,MO,65804,United States,417-883-4550,37.16283,-93.263313,,,0
+Belk,9251,Scottsdale Center,503 North 46Th Street,Rogers,AR,72756,United States,,36.3406144,-94.1793734,,,0
+Dillards,8067,0311 Capital Mall,3600 Country Club Drive,Jefferson City,MO,65109,United States,573-893-4497,38.5837936,-92.2526985,,,0
+Dillards,8063,0305 South County Center,220 South County Center,St Louis,MO,63129,United States,314-487-1600,38.504482,-90.332846,,,0
+Dillards,8062,0302 Chesterfield Mall,100 Chesterfield Mall,Chesterfield,MO,63017,United States,636-532-4040,38.653845,-90.564997,,,0
+Dillards,8061,0301 St Louis Galleria,1105 St Louis Galleria,St Louis,MO,63117,United States,314-725-8363,38.63733,-90.34709,,,0
+Dillards,8066,0310 Illinois Center,3000 W  De Young Street,Marion,IL,62959-4891,United States,618-993-6000,37.745176,-88.98131,,,0
+Dillards,8065,0309 Mid Rivers Mall,2 Mid Rivers Mall Drive,St Peters,MO,63376,United States,636-970-2555,38.8055685,-90.6188879,,,0
+Dillards,8068,0312 Columbia Mall,2300 Bernadette Drive,Columbia,MO,65203,United States,573-876-8600,38.9658435,-92.3743507,,,0
+Dillards,8064,0306 St Clair Square,275 St Clair Square,Fairview Heights,IL,62208,United States,618-632-5000,38.5943909,-89.9825072,,,0
+Cabela&#39;s,17680,5555 St  Louis Mills Blvd,Suite   167,Hazelwood,MO,63042,United States,314-225-0100,38.7858306,-90.3813972,,,0
+Belk,9273,The Mall At Barnes Crossing,1001 Barnes Crossing Rd,Tupelo,MS,38804,United States,,34.315563,-88.7029072,,,0
+Dillards,8073,0323 Independence Center,18805 East 39Th Street,Independence,MO,64057,United States,816-795-1818,39.0480022,-94.3593961,,,0
+Dillards,8071,0321 Ward Parkway Center,8800 Ward Parkway,Kansas City,MO,64114,United States,816-363-8800,38.9688687,-94.6050601,,,0
+Dillards,8072,0322 Oak Park Center,11601 West 95Th Street,Overland Park,KS,66214,United States,913-492-0666,38.952456,-94.720311,,,0
+Belk,9267,Regency Square,301 Cox Creek Parkway,Florence,AL,35630,United States,,34.8365527,-87.6312488,,,0
+Cabela&#39;s,17669,10300 Cabela Drive,,Kansas City,KS,66111-1953,United States,913-328-0322,39.120283,-94.816205,,,0
+Bergner&#39;s,13494,Quincy,3347 Broadway,Quincy,IL,62301,United States,,39.9352126,-91.3620812,,,0
+Dillards,8074,0324 Zona Rosa,7350 Nw 87Th Terrace,Kansas City,MO,64153-1932,United States,,39.2517,-94.665656,,,0
+Boston Stores,10032,White Oaks,2501 West Wabash,Springfield,IL,62704,United States,,39.7641014,-89.696909,,,0
+Belk,9274,Northpark Mall,1200 E County Line Rd,Ridgeland,MS,39157,United States,,32.3995968,-90.1322451,,,0
+Belk,9271,Cool Springs Galleria,1800 Galleria Blvd,Franklin,TN,37067,United States,,35.956,-86.81488,,,0
+Belk,9275,Dogwood Festival,150 Dogwood Ave,Flowood,MS,39232,United States,,32.3405766,-90.0539178,,,0
+Dillards,8086,0336 West Ridge Mall,1791 Sw Wanamaker Road,Topeka,KS,66604,United States,785-273-5451,39.0345733,-95.7620233,,,0
+Dillards,8070,0317 East Hill,3702 Frederick Ave,St Joseph,MO,64506,United States,816-232-7666,39.7768976,-94.802839,,,0
+Bon-Ton,13471,Hamden Mart,2300 Dixwell Ave ,Hamden,CT,06514,United States,,41.373097,-72.918736,,,0
+Bon-Ton,13479,New Louden Center,873 New Louden Road,Latham,NY,12110,United States,,42.754289,-73.75714,,,0
+Bon-Ton,13480,Newburgh Mall,1401 Route 300,Newburgh,NY,12550,United States,,41.51719,-74.0682266,,,0
+Bon-Ton,13482,Aviation Mall,578 Aviation Road,Queensbury,NY,12804,United States,,43.327879,-73.678421,,,0
+Bon-Ton,9815,Brick Plaza,Brick Plaza And Chambers Ridge,Brick,NJ,08723,United States,,40.058399,-74.141173,,,0
+Bon-Ton,9853,Phillipsburg Mall,Route 22 East,Phillipsburg,NJ,08865,United States,,40.685064,-75.153953,,,0
+Bon-Ton,9820,Lycoming Mall,Circle Suite  300,Morrisville,PA,19067,United States,,40.2109114,-74.8168531,,,0
+Bon-Ton,9851,Palmer Park Mall,146 Palmer Park Mall,Easton,PA,18045,United States,,40.696189,-75.260267,,,0
+Bon-Ton,13487,Doylestown Shopping Center,456 N  Main St ,Doylestown,PA,18901,United States,,40.3208016,-75.1307718,,,0
+Bon-Ton,13486,Richland Mall,725 South Westend Blvd ,Quakertown,PA,18951,United States,,40.4254984,-75.3479983,,,0
+Bon-Ton,9829,Midway Shopping Center,,Wyoming,PA,18644,United States,,41.301024,-75.851666,,,0
+Bon-Ton,9818,Oakdale Mall,,Johnson City,NY,13790,United States,,42.124699,-75.973541,,,0
+Bon-Ton,9857,Carousel Center,301 Hiawatha Blvd ,Syracuse,NY,13204,United States,,43.0679962,-76.1694601,,,0
+Bon-Ton,9859,Camillus Plaza,5300 W  Genesee,Camillus,NY,13031,United States,,43.041259,-76.2690103,,,0
+Bon-Ton,9835,Pyramid Mall - Ithaca,,Ithaca,NY,14850,United States,,42.484054,-76.489697,,,0
+Bon-Ton,13475,Berkshire Mall,1665 State Hill Rd ,Reading,PA,19610,United States,,40.3383503,-75.9725104,,,0
+Bon-Ton,9821,Columbia Mall,,Bloomsburg,PA,17815,United States,,41.017202,-76.489854,,,0
+Bon-Ton,9838,Salmon Run Mall,21073 Loop West,Watertown,NY,13601,United States,,43.977687,-75.954216,,,0
+Bon-Ton,13488,Arnot Mall,3300 Chambers Road ,Horseheads,NY,14845,United States,,42.1592923,-76.8781398,,,0
+Bon-Ton,13473,Lycoming Mall,Circle Suite  300,Pennsdale,PA,17756,United States,,41.240134,-76.826696,,,0
+Bon-Ton,9803,Park City Center,600 Park City Center,Lancaster,PA,17601,United States,,40.0657617,-76.3355055,,,0
+Bon-Ton,9824,Colonial Park ,Colonial Park Mall,Harrisburg,PA,17109,United States,,40.301392,-76.815826,,,0
+Bon-Ton,9822,Queensgate Mall,2081 Springwood Road,York,PA,17403,United States,,39.9382106,-76.6904851,,,0
+Bon-Ton,9823,Camp Hill Mall,3525 Gettysburg Rd ,Camp Hill,PA,17011,United States,,40.225209,-76.9358826,,,0
+Bon-Ton,9860,Eastview Mall ,Rte 96 Pittsford-Victor Rd   7,Victor,NY,14564,United States,,43.028553,-77.444473,,,0
+Bon-Ton,9804,Carlisle Plaza Mall,100 Carlisle Plaza,Carlisle,PA,17013,United States,,40.1991551,-77.1757493,,,0
+Bon-Ton,9831,Schuylkill Mall,,Frackville,PA,17931,United States,,40.772991,-76.22435,,,0
+Bon-Ton,9861,Greece Ridge Mall,Ridge Road   Long Pond Road,Greece,NY,14626,United States,,43.207624,-77.687901,,,0
+Herberger&#39;s,9947,Dickinson,1611 3Rd Avenue W,Dickinson,ND,58601,United States,,46.9006124,-102.7897735,,,0
+Tradehome,17228,Prairie Hills Mall,1681 3Rd Ave  West,Dickinson,ND,58601,United States,,46.90106,-102.7897642,,,0
+Herberger&#39;s,9948,Minot,2400 10Th Street Sw,Minot,ND,58701,United States,,48.2080029,-101.306746,,,0
+Scheels All Sports,17709,2400 10Th St  Sw,,Minot,ND,58701,United States,701-852-1010,48.2074673,-101.306672,,,0
+Tradehome,17233,Dakota Square Mall,2400 10Th St  S W ,Minot,ND,58701,United States,,48.2080029,-101.306746,,,0
+Herberger&#39;s,9940,Bismarck,641 Kirkwood Mall,Bismarck,ND,58504,United States,,46.801885,-100.7847981,,,0
+Scheels All Sports,17708,802 Kirkwood Mall,,Bismarck,ND,58504,United States,701-255-7255,46.797758,-100.784836,,,0
+Tradehome,17278,Kirkwood Mall,713 Kirkwood Mall,Bismarck,ND,58504,United States,,46.8018902,-100.7849284,,,0
+Scheels All Sports,17715,300 S  24Th St  West,,Billings,MT,59102,United States,406-656-9220,45.7736816,-108.5764758,,,0
+Tradehome,17308,Rimrock Mall,300S 24Th St  W ,Billings,MT,59102,United States,,45.7736972,-108.576393,,,0
+Dillards,8387,0939 Rimrock Mall,320 S  24Th St  West,Billings,MT,59102,United States,406-656-0100,45.7636888,-108.5762999,,,0
+Herberger&#39;s,9942,Billings,300 S 24 Street W,Billings,MT,59102,United States,,45.764628,-108.5762914,,,0
+Herberger&#39;s,9945,Rapid City ,2200 North Maple,Rapid City,SD,57701,United States,,44.1086658,-103.2079507,,,0
+Tradehome,17259,Rushmore Mall,2200 North Maple,Rapid City,SD,57701,United States,,44.1086658,-103.2079507,,,0
+Scheels All Sports,17717,1225 Elgin Street,,Rapid City,SD,57701,United States,605-342-9033,44.09956,-103.190375,,,0
+Herberger&#39;s,9936,Havre,1753 Hwy 2 Nw,Havre,MT,59501-3242,United States,,48.553823,-109.712288,,,0
+Tradehome,17250,Pierre Mall,1615 No Harrison,Pierre,SD,57501,United States,,44.3777896,-100.3174288,,,0
+Cabela&#39;s,17665,33901 State Hwy 35,,Prairie Du Chien,WI,53821-8056,United States,608-326-5600,43.073089,-91.136499,,,0
+Boston Stores,10040,West Towne,36 West Towne Mall,Madison,WI,53719,United States,,43.058039,-89.507574,,,0
+Boston Stores,10038,East Towne,53 East Towne Mall,Madison,WI,53704,United States,,43.123472,-89.303781,,,0
+Brown’S Shoe Fit,17697,721 Franklin Street,,Pella,IA,50219,United States,,41.4066909,-92.916838,,,0
+Bergner&#39;s,10024,Janesville,2500 Milton Avenue,Janesville,WI,53545,United States,,42.7128966,-89.0012291,,,0
+Bergner&#39;s,10025,Sterling,2900 East Lincolnway,Sterling,IL,61081,United States,,41.8058353,-89.6620901,,,0
+Bergner&#39;s,10027,Machesney Park,8790 North 2Nd Street,Machesney Park,IL,61115,United States,,42.3505059,-89.0484591,,,0
+Bergner&#39;s,10026,Cherryvale,7200 Harrison Avenue,Rockford,IL,61112,United States,,42.2411797,-88.9748832,,,0
+Bergner&#39;s,10020,Galesburg,1150 West Carl Sandburg Drive,Galesburg,IL,61401,United States,,40.9748499,-90.3893851,,,0
+Cabela&#39;s,17675,20200 Rogers Drive,,Rogers,MN,55374-4716,United States,763-493-8600,45.185698,-93.538031,,,0
+Boston Stores,10036,Brookfield,15875 West Bluemound Road,Brookfield,WI,53005,United States,,43.034754,-88.109314,,,0
+Bergner&#39;s,10017,3940 Illinois 251,Peru Mall,Peru,IL,61354,United States,,41.355744,-89.1270225,,,0
+Boston Stores,10039,Mayfair,2400 North Mayfair Road,Milwaukee,WI,53226,United States,,43.06195,-88.044677,,,0
+Boston Stores,10037,Southridge,5300 South 76Th Street,Greendale,WI,53129,United States,,42.948283,-88.006688,,,0
+Boston Stores,10034,Bay Shore,5800 N  Port Washington Road,Milwaukee,WI,53217,United States,,43.1210451,-87.9164543,,,0
+Boston Stores,10033,Grand Avenue,331 West Wisconsin Avenue,Milwaukee,WI,53203,United States,,43.0387896,-87.9149746,,,0
+Bergner&#39;s,10028,Aurora,970 North Lake Street,Aurora,IL,60506,United States,,41.7773671,-88.315249,,,0
+Boston Stores,10035,Racine,5700 N  Durand Avenue,Racine,WI,53406,United States,,42.6973571,-87.8474104,,,0
+Bergner&#39;s,10021,Sheridan Village,4125 North Sheridan Road,Peoria,IL,61614,United States,,40.738147,-89.604958,,,0
+Bergner&#39;s,10018,Pekin,3536 Court Street,Pekin,IL,61554,United States,,40.5433935,-89.5984421,,,0
+Bergner&#39;s,10016,Bloomington,1601 Empire Street,Bloomington,IL,61701,United States,,40.488177,-88.9557162,,,0
+Bergner&#39;s,10023,Forsyth,1005 Hickory Point Mall,Forsyth,IL,62535-2042,United States,,39.919853,-88.956725,,,0
+Cabela&#39;s,17678,12703 Westport Parkway,,Lavista,NE,68128,United States,402-861-4800,41.179508,-96.110601,,,0
+Bergner&#39;s,10019,Champaign,2000 North Neil Street,Champaign,IL,61820,United States,,40.137992,-88.2436603,,,0
+Carson Pirie Scott,10058,Bradley,1602 North State Rt  50,Bourbonnais,IL,60914,United States,,41.1736279,-87.8512452,,,0
+Carson Pirie Scott,10060,Fox Valley,3 Fox Valley Center Drive,Aurora,IL,60504,United States,,41.758771,-88.20762,,,0
+Carson Pirie Scott,10063,Circle Centre,One West Washington St ,Indianapolis,IN,46204,United States,,39.7670381,-86.1581053,,,0
+Carson Pirie Scott,10047,Chicago Ridge,9800 South Ridgeland Avenue,Chicago Ridge,IL,60415,United States,,41.7140448,-87.7798421,,,0
+Carson Pirie Scott,10041,Evergreen,9700 S  Western Avenue,Evergreen Park,IL,60805,United States,,41.7172868,-87.6820125,,,0
+Carson Pirie Scott,10056,Ford City,7601 South Cicero Avenue,Chicago,IL,60652,United States,,41.7542798,-87.7413987,,,0
+Carson Pirie Scott,10044,Eden S,3200 Lake Avenue,Wilmette,IL,60091,United States,,42.0795084,-87.7548767,,,0
+Bon-Ton,9800,Lewistown Mall,111 East Market St ,Lewistown,PA,17044,United States,,40.5983779,-77.572993,,,0
+Bon-Ton,9841,Eastern Hills Mall,4545 Transit Road,Buffalo,NY,14221,United States,,42.973151,-78.696595,,,0
+Bon-Ton,9845,Lockport Mall,5737 S  Transit Rd ,Lockport,NY,14094,United States,,43.147598,-78.69269,,,0
+Bon-Ton,13489,Dubois,300 Commons Dr ,Dubois,PA,15801-3877,United States,,41.124993,-78.733132,,,0
+Bon-Ton,9802,Chambersburg Mall,100 Chambersburg Mall,Chambersburg,PA,17202,United States,,39.9623275,-77.57717,,,0
+Bon-Ton,13481,Chautauqua Mall,318 East Fairmont Ave ,Lakewood,NY,14750-2007,United States,,42.098368,-79.30552,,,0
+Bon-Ton,9806,Frederick Towne Mall,,Frederick,MD,21702,United States,,39.419048,-77.456192,,,0
+Bon-Ton,13467,Indiana Mall,2090 Route 286 South,Indiana,PA,15701,United States,,40.6393573,-79.1164599,,,0
+Bon-Ton,9814,Cranberry Mall,Rd   1,Cranberry,PA,16319,United States,,41.353333,-79.71639,,,0
+Bon-Ton,9893,Erie,810 Milcreek Mall,Erie,PA,16565,United States,,42.070723,-80.098461,,,0
+Bon-Ton,13470,Clearview Mall,1521 N  Main St ,Butler,PA,16001,United States,,40.8948766,-79.9069537,,,0
+Bon-Ton,9807,Country Club Mall,,Cumberland,MD,21502,United States,,39.631599,-78.834778,,,0
+Dillards,7490,0222 The Market Place,1000 Oviedo Marketplace Blv,Oviedo,FL,32765,United States,407-977-9996,28.6610908,-81.2388937,,,0
+Dillards,7493,0226 Altamonte Mall,451 E Altamonte Dr Ste  1101,Altamonte Springs,FL,32701,United States,407-830-1211,28.664343,-81.377211,,,0
+Dillards,7491,0224 Seminole Towne Cente,300 Town Center Circle,Sanford,FL,32771-7410,United States,407-330-1775,28.803168,-81.341046,,,0
+Dillards,7494,0227 Fashion Square,3403 E  Colonial Dr ,Orlando,FL,32803,United States,407-896-1211,28.557571,-81.339624,,,0
+Dillards,7492,0225 Westoaks,9403 West Colonial Dr ,Ocoee,FL,34761,United States,407-292-6866,28.554308,-81.515748,,,0
+Dillards,7489,0221 Florida Mall,8001 S  Orange Blossom Trail,Orlando,FL,32809,United States,407-240-1771,28.4495655,-81.4009228,,,0
+Dillards,8014,0235 Volusia Mall,1700 W International Speedw,Daytona Beach,FL,32114,United States,904-255-8161,29.195974,-81.066147,,,0
+Dillards,8015,0236 Merritt Square,777 E Merritt Island Causewa,Merritt Island,FL,32952,United States,321-452-6411,28.357106,-80.687455,,,0
+Dillards,8016,0237 Melbourne Square,1700 W  New Haven Ave ,Melbourne,FL,32904,United States,321-676-1300,28.081771,-80.650146,,,0
+Dillards,7495,0229 Market Street,4414 S W  College Road Ste 700,Ocala,FL,34474,United States,352-629-9266,29.1406651,-82.1946556,,,0
+Dillards,8022,0244 Indian River,6200 20Th Street,Vero Beach,FL,32966,United States,561-770-2141,27.6391358,-80.4556699,,,0
+Dillards,7499,0234 Oaks Mall,6495 West Newberry Road,Gainesville,FL,32605,United States,352-331-1455,29.6595731,-82.4115232,,,0
+Belk,9247,Avenues Mall,10310 Southside Blvd,Jacksonville,FL,32256,United States,,30.1850422,-81.55182,,,0
+Dillards,7498,0233 The Avenues,10300 Southside Blvd ,Jacksonville,FL,32256,United States,904-363-6115,30.1857309,-81.5518251,,,0
+Dillards,7497,0232 Orange Park,1910 Wells Road,Orange Park,FL,32073,United States,904-269-2222,30.1869311,-81.7330142,,,0
+Dillards,7496,0230 St Johns Town Center,4755 Town Crossing Drive,Jacksonville,FL,32246,United States,904-641-0471,30.2553298,-81.5274321,,,0
+Dillards,8017,0238 Treasure Coast Square,3210 N W  Federal Hwy,Jensen Beach,FL,34957,United States,561-692-0555,27.241949,-80.276396,,,0
+Dillards,7484,0213 Sarasota Square,8201 S  Tamiami Trail,Sarasota,FL,34238,United States,941-925-1722,27.2330786,-82.4973125,,,0
+Dillards,7485,0214 Town Center,1441 Tamiami Trail,Port Charlotte,FL,33948,United States,941-255-1778,27.011536,-82.143453,,,0
+Dillards,7486,0215 Edison Mall,4125 Cleveland Ave,Fort Myers,FL,33901,United States,941-936-1441,26.6022966,-81.8716695,,,0
+Dillards,7488,0218 Coconut Point,8017 Via Sardinia Way,Estero,FL,33928-8302,United States,239-947-4133,26.400138,-81.80772,,,0
+Dillards,7487,0216 Coastland Center,1798 Tamiami Trail North,Naples,FL,34102,United States,941-261-4100,26.1683282,-81.7991737,,,0
+Dillards,8021,0243 Governors Square,1500 Apalachee Parkway,Tallahassee,FL,32301,United States,850-671-2000,30.435817,-84.251464,,,0
+Belk,9249,Oglethorpe Mall,7804 Abercorn Street,Savannah,GA,31406,United States,,32.003927,-81.115615,,,0
+Dillards,8025,0248 Panama City Mall,2298 Martin Luther King Dr,Panama City,FL,32405,United States,850-769-7671,30.1895316,-85.6500041,,,0
+Dillards,8024,0247 Pier Park,200 Pier Park Dr,Panama City Beach,FL,32413,United States,850-234-2417,30.2167422,-85.8758525,,,0
+Macy&#39;s,7975,Columbia Mall,2800 S. Columbia Road,Grand Forks,ND,58201,United States,701-780-2100,47.8921614,-97.0666391,,,0
+Cabela&#39;s,17666,210 Demers Ave  Nw,,East Grand Forks,MN,56721,United States,218-773-0282,47.9283702,-97.0265301,,,0
+Herberger&#39;s,9965,Fargo,3902 13Th Avenue S,Fargo,ND,58103,United States,,46.860817,-96.845179,,,0
+Herberger&#39;s,9939,Moorhead,400 Center Avenue,Moorhead,MN,56560,United States,,46.8751096,-96.7745296,,,0
+Herberger&#39;s,9932,Fergus Falls,2001 West Lincoln Ave,Fergus Falls,MN,56537,United States,,46.2893662,-96.1221013,,,0
+Herberger&#39;s,9959,Aberdeen,3315 6Th Ave Se,Aberdeen,SD,57401,United States,,45.4591124,-98.4422721,,,0
+Herberger&#39;s,9962,Bemidji,1201 Paul Bunyan Drive,Bemidji,MN,56601,United States,,47.4916301,-94.8960323,,,0
+Herberger&#39;s,9935,Alexandria,3015 Hwy 29 S,Alexandria,MN,56308,United States,,45.8626591,-95.3828587,,,0
+Herberger&#39;s,9934,Watertown,1300 9Th Avenue Se,Watertown,SD,57201,United States,,44.8900958,-97.0955309,,,0
+Herberger&#39;s,9941,Brainerd,14136 Baxter Drive  Suite 1,Baxter,MN,56425,United States,,46.35627,-94.2255,,,0
+Herberger&#39;s,9949,Willmar,1605 1St Street,Willmar,MN,56201,United States,,45.1063923,-95.0426902,,,0
+Macy&#39;s,7965,Crossroads Center ,4201 W. Division Street,St Cloud,MN,56301,United States,320-654-4300,45.553432,-94.2103794,,,0
+Herberger&#39;s,9929,St  Cloud,600 W  Saint Germain Street,St Cloud,MN,56301,United States,,45.560655,-94.1592496,,,0
+Cabela&#39;s,17667,601 Cabela Drive,,Mitchell,SD,57301-6288,United States,605-996-0337,43.68869,-98.013988,,,0
+Herberger&#39;s,9930,Virginia,1440 South 12Th Avenue,Virginia,MN,55792,United States,,47.5119396,-92.551932,,,0
+Herberger&#39;s,9933,New Ulm,110 North Minnesota Street,New Ulm,MN,56073,United States,,44.3144097,-94.4600193,,,0
+Herberger&#39;s,9957,Northtown,Northtown Mall,Minneapolis,MN,55434,United States,,45.128601,-93.260162,,,0
+Herberger&#39;s,13492,Rosedale,600 Rosedale Shopping Center,Roseville,MN,55113-3002,United States,,45.014307,-93.174715,,,0
+Herberger&#39;s,9968,Southtown,7831 Southtown Center,Bloomington,MN,55431-1363,United States,,44.861016,-93.301934,,,0
+Herberger&#39;s,9967,Midway,1400 University Place,St Paul,MN,55104-4012,United States,,44.95544,-93.159663,,,0
+Macy&#39;s,7964,Mall Of America,4000 Sw Court,Bloomington,MN,55425-5509,United States,612-888-3333,44.853535,-93.243806,,,0
+Macy&#39;s,7958,Burnsville Center,14251 Burnhaven Drive,Burnsville,MN,55306,United States,952-435-8811,44.7436595,-93.2938154,,,0
+Dillards,8404,Greeley Mall,1840 Greeley Mall,Greeley,CO,80631,United States,970-356-3330,40.3903699,-104.7089858,,,0
+Cabela&#39;s,17662,115 Cabela Drive,,Sidney,NE,69162-1002,United States,308-254-7889,41.115471,-102.955732,,,0
+Dillards,8405,Frontier Mall,1400 Dell Range Blvd ,Cheyenne,WY,82009,United States,307-632-2224,41.1602804,-104.8048025,,,0
+Macy&#39;s,7850,Fort Collins Foothills Fashion,225 East Foothills Parkway,Fort Collins,CO,80525,United States,970-226-5300,40.543979,-105.0746476,,,0
+Dillards,8403,Twin Peaks Mall,1250 South Hover Road,Longmont,CO,80501,United States,303-651-1600,40.145424,-105.128713,,,0
+Macy&#39;s,7853,Northfield Stapleton,8298 East 49Th Avenue,Denver,CO,80238,United States,303-227-7222,39.7852143,-104.8918593,,,0
+Dillards,8396,0982 Town Center At Auror,14200 East Alameda Avenue,Aurora,CO,80012,United States,303-360-5900,39.709739,-104.821822,,,0
+Dillards,8399,Flatiron Crossing,41 W Flatiron Cir,Broomfield,CO,80021,United States,303-464-3900,39.9305252,-105.1301411,,,0
+Dillards,8398,Westminster Mall,5301 W  88Th Ave ,Westminster,CO,80031,United States,303-429-2000,39.858898,-105.058479,,,0
+Macy&#39;s,7851,Boulder Twenty Ninth Street,1900 29Th Street,Boulder,CO,80301,United States,303-218-5955,40.0194487,-105.2562976,,,0
+Herberger&#39;s,9955,Scottsbluff,2302 Frontage Road,Scottsbluff,NE,69361,United States,,41.8699503,-103.646421,,,0
+Macy&#39;s,7852,Cherry Creek Sc,15 South Steele Street,Denver,CO,80209,United States,303-390-2200,39.7160126,-104.9499538,,,0
+Dillards,8395,0981 Park Meadows,8415 Park Meadows Center Dr,Littleton,CO,80124,United States,303-790-0100,39.564542,-104.879056,,,0
+Dillards,8397,0984 Southwest Plaza,8501 W  Bowles Ste 2D657,Littleton,CO,80123,United States,303-979-6111,39.612034,-105.096006,,,0
+Dillards,8402,Chapel Hills Mall,1790 Briargate Blvd,Colorado Springs,CO,80920-3443,United States,719-532-1400,38.945236,-104.794425,,,0
+Macy&#39;s,7857,Chapel Hills Mall,1750 Briargate Blvd,Colorado Springs,CO,80920,United States,719-528-1500,38.946153,-104.794947,,,0
+Dillards,8401,Citadel Mall,750 Citadel Drive East,Colorado Springs,CO,80909-5303,United States,719-550-1159,38.843378,-104.758934,,,0
+Herberger&#39;s,9953,North Platte,1100 South Dewey,North Platte,NE,69101,United States,,41.1243471,-100.762823,,,0
+Dillards,8400,Pueblo Mall,3601 Dillon Dr,Pueblo,CO,81008,United States,719-545-9665,38.2988866,-104.6061694,,,0
+Herberger&#39;s,9954,Kearney,4915 2Nd Avenue,Kearney,NE,68847,United States,,40.7225439,-99.0837998,,,0
+Cabela&#39;s,17663,3600 Highway 30 East,,Kearney,NE,68847,United States,308-234-3933,40.705666,-99.0362922,,,0
+Herberger&#39;s,9960,Grand Junction,2424 Us Hwy 6   50,Grand Junction,CO,81505-1102,United States,,39.089621,-108.604419,,,0
+Herberger&#39;s,9952,Hastings,3001 West 12Th,Hastings,NE,68901,United States,,40.5970268,-98.4213866,,,0
+Dillards,8101,Conestoga Mall,3404 West 13Th  100,Grand Island,NE,68803,United States,308-384-5200,40.931812,-98.382168,,,0
+Herberger&#39;s,9946,Rock Springs,2445 Foothill Boulevard,Rock Springs,WY,82901,United States,,41.5804342,-109.2617017,,,0
+Bon-Ton,13472,University Mall,155 Dorset St ,South Burlington,VT,05403,United States,,44.464893,-73.184211,,,0
+Bon-Ton,13474,Steeplegate Mall,270 Louden Road,Concord,NH,03301,United States,,43.2239347,-71.4899596,,,0
+Lamey Wellehan Shoes - Auburn,23835,940 Turner Street,,Auburn,ME,04210,United States,207-783-2384,44.122549,-70.2331619,,,0
+Lamey Wellehan Shoes - Falmouth,23834,240 Route 1,,Falmouth,ME,04105,United States,207-781-4627,43.7229802,-70.2344962,,,0
+Kittery Trading Post,6629,301 U.S. Route 1,,Kittery,ME,03904,United States,888-587-6246,43.11245,-70.735247,,,0
+Lamey Wellehan Shoes - Augusta,23946,144 Western Avenue,,Augusta,ME,04330,United States,207-622-0871,44.3125941,-69.7939008,,,0
+Bon-Ton,13469,Wilton Mall,3065 Route 50,Wilton,NY,12866-2905,United States,,43.104689,-73.741395,,,0
+Bon-Ton,9839,Westfield Shops,443 E  Main St ,Westfield,MA,01085,United States,,42.1128364,-72.7216268,,,0
+Bon-Ton,9858,St  Lawrence Centre,Rt 37 And 131,Messena,NY,13662,United States,,44.950047,-74.839045,,,0
+Lamey Wellehan Shoes - Bangor,23947,43 Bangor Mall Boulevard,,Bangor,ME,04401,United States,207-945-3764,44.8350164,-68.7453794,,,0
+Bon-Ton,13478,The Mall At Steamtown,200 Lacawana Ave ,Scranton,PA,18503,United States,,41.4091532,-75.668798,,,0
+Bon-Ton,9855,Stoud Mall,Route 611 And Bridge St ,Stroudsburg,PA,18360,United States,,40.98712,-75.225309,,,0
+Bon-Ton,13477,Wyoming Valley Mall,,Wilkes-Barre,PA,18702,United States,,41.250099,-75.844307,,,0
+Bon-Ton,9844,Mckinley Mall,3701 Mckinley Parkway,Buffalo,NY,14219,United States,,42.786088,-78.810864,,,0
+Belk,9277,The Mall At Johnson City,2011 N  Roan St,Johnson City,TN,37601,United States,,36.3397936,-82.3747284,,,0
+Belk,9245,Valley Hills Mall,1980 Us Hwy 70 Se,Hickory,NC,28602-5158,United States,,35.705727,-81.303399,,,0
+Belk,9246,Asheville Mall,5 S Tunnel Rd,Asheville,NC,28805,United States,,35.5848954,-82.5274811,,,0
+Belk,9242,Hanes Mall,3320 Silas Creek Pkwy ,Winston-Salem,NC,27103,United States,,36.0733748,-80.2982082,,,0
+Belk,9276,West Town Mall,7600 Kingston Pike,Knoxville,TN,37919,United States,,35.9284143,-84.0362172,,,0
+Belk,9244,Friendly Center,616 Friendly Center Rd,Greensboro,NC,27408,United States,,36.0835269,-79.8315928,,,0
+Belk,9255,Southpark Mall,4400 Sharon Rd,Charlotte,NC,28211,United States,,35.1519573,-80.8277767,,,0
+Belk,9259,Carolina Place Mall,11009 Carolina Place Pkwy,Pineville,NC,28134,United States,,35.083931,-80.877175,,,0
+Belk,9241,Haywood Mall,700 Haywood Rd ,Greenville,SC,29607,United States,,34.8497078,-82.3376959,,,0
+Belk,9243,Anderson Mall,3101 N Main St,Anderson,SC,29621,United States,,34.540434,-82.6679228,,,0
+Belk,9250,The Streets At Southpoint,6910 Fayetteville Rd,Durham,NC,27713,United States,,35.9023211,-78.9394796,,,0
+Belk,9258,Pinecrest Plaza,1 Pinecrest Plaza,Southern Pines,NC,28387,United States,,35.1785769,-79.432792,,,0
+Belk,9256,Crabtree Valley Mall,4325 Glenwood Ave,Raleigh,NC,27612,United States,,35.83932,-78.679022,,,0
+Belk,9248,Columbiana Center,100 Columbiana Centre Cr,Columbia,SC,29212-2220,United States,,34.074813,-81.155534,,,0
+Belk,9278,Hamilton Place,2100 Hamilton Place Blvd,Chattanooga,TN,37421,United States,,35.0369947,-85.1609048,,,0
+Bon-Ton,13466,Uniontown Mall,1800 W  Main St ,Uniontown,PA,15401-2651,United States,,39.90596,-79.738879,,,0
+Belk,9270,Town Center Mall At Cobb,400 Earnest W Barrett Pkwy  St,Kennesaw,GA,30144-4901,United States,,34.014123,-84.561229,,,0
+Belk,9269,Phipps Plaza Mall,3500 Peachtree Rd Ne,Atlanta,GA,30326,United States,,33.8538293,-84.3591216,,,0
+Bon-Ton,13464,Martinsburg Mall,800 Foxcroaft Ave ,Martinsburg,WV,25401,United States,,39.4526394,-77.988008,,,0
+Bon-Ton,9836,The Galleria Mall,550 Galleria Mall,Johnstown,PA,15904-8900,United States,,40.298571,-78.834728,,,0
+Belk,9257,Myrtle Beach Mall,10177 N Kings Hwy,Myrtle Beach,SC,29572,United States,,33.7910549,-78.7634504,,,0
+Macy&#39;s,7894,Nampa Karcher Mall,1509 Caldwell Blvd.,Nampa,ID,83651,United States,208-463-6800,43.6033133,-116.5999413,,,0
+Cabela&#39;s,17677,8109 Franklin Road,,Boise,ID,83709,United States,208-672-7900,43.6049065,-116.2812463,,,0
+Dillards,8383,0934 Boise Town Square,350 North Milwaukee,Boise,ID,83704,United States,208-321-4646,43.610226,-116.279714,,,0
+Macy&#39;s,7896,Boise Towne Square,370 North Milwaukee,Boise,ID,83704,United States,208-892-6000,43.608417,-116.280353,,,0
+Tradehome,17316,Boise Town Square,350 North Milwaukee,Boise,ID,83704,United States,,43.610226,-116.279714,,,0
+Macy&#39;s,7893,Boise Downtown,918 Idaho Street,Boise,ID,83702,United States,208-388-7000,43.617628,-116.204497,,,0
+Macy&#39;s,7899,Twin Falls Magic Valley Mall,1379 Poleline Road East,Twin Falls,ID,83301,United States,208-736-6800,42.5919904,-114.456233,,,0
+Tradehome,17304,Magic Valley Mall,1485 E  Pole Line Rd ,Twin Falls,ID,83301,United States,,42.5920001,-114.454701,,,0
+Macy&#39;s,7892,Lewiston Center Mall,1806 19Th Avenue,Lewiston,ID,83501,United States,208-798-6000,46.4009551,-117.0063092,,,0
+Macy&#39;s,7895,Moscow Palouse Mall,2132 West Pullman Road,Moscow,ID,83843,United States,208-373-6000,46.7325181,-117.0312609,,,0
+Dillards,8384,0936 Grand Teton Mall,2420 E 17Th St,Idaho Falls,ID,83404,United States,208-525-4000,43.4821003,-111.9858014,,,0
+Macy&#39;s,7898,Idaho Falls Grand Teton,2240 E. 17Th Street,Idaho Falls,ID,83404,United States,208-535-6000,43.4821725,-111.9885363,,,0
+Macy&#39;s,8004,Bend River Mall,3140 N. Highway 97,Bend,OR,97701-7514,United States,541-317-6000,44.082408,-121.305237,,,0
+Dillards,8385,0937 Southgate Mall,2901 Brooks St,Missoula,MT,59801,United States,406-721-3100,46.8443176,-114.0245618,,,0
+Herberger&#39;s,9964,Missoula,2901 Brooks Street,Missoula,MT,59801,United States,,46.8443176,-114.0245618,,,0
+Tradehome,17230,South Gate Mall,2901 So Brook,Missoula,MT,59801,United States,,46.844014,-114.025116,,,0
+Herberger&#39;s,9963,Butte Plaza,3100 Harrison Avenue,Butte,MT,59701,United States,,45.9799986,-112.5080211,,,0
+Macy&#39;s,7972,Missoula (Downtown) ,110 North Higgins Avenue,Missoula,MT,59802,United States,406-542-6000,46.8702719,-113.995122,,,0
+Dillards,8378,0929 Cache Valley Mall,1350 North Main,Logan,UT,84341,United States,435-750-7500,41.7563129,-111.834368,,,0
+Nordstrom,8084,Spokane,828 West Main Avenue,Spokane,WA,99201,United States,509-455-6111,47.6590288,-117.4241943,,,0
+Macy&#39;s,7897,Coeur D&#39;alene Silver Lake Mall,200 W. Hanley Ave,Coeur D&#39;alene,ID,83815,United States,208-772-8700,47.7299215,-116.7885753,,,0
+Dillards,8380,0931 Newgate Mall,4000 Newgate Mall,Ogden,UT,84405,United States,801-392-0689,41.19698,-111.979469,,,0
+Tradehome,17300,Layton Hills Mall,1076 Layton Hills Mall,Layton,UT,84041,United States,,41.0777412,-111.9768879,,,0
+Bon-Ton,13476,Washington Crown Center,1500 W  Chestnut,Washington,PA,15301,United States,,40.1630089,-80.2762815,,,0
+Bon-Ton,9827,Westmoreland Mall,,Greensburg,PA,15601,United States,,40.303398,-79.538567,,,0
+Dillards,8251,0432 Mall St Vincent,1133 St Vincent Ave,Shreveport,LA,71104,United States,318-226-9565,32.4797477,-93.7529152,,,0
+Dillards,8075,0330 Towne East Mall,7700 East Kellogg,Wichita,KS,67207,United States,316-685-0341,37.6797803,-97.2474576,,,0
+Dillards,8077,0331 Towne West Mall,4600 W Kellogg,Wichita,KS,67209,United States,316-943-8031,37.6736627,-97.395487,,,0
+Dillards,8411,0335 Manhattan Town Cent,102 Manhattan Town Center,Manhattan,KS,66502,United States,785-776-4224,39.180706,-96.558784,,,0
+Bon-Ton,13485,South Mall,3300 Lehigh St ,Allentown,PA,18103,United States,,40.5559022,-75.4894139,,,0
+Belk,9263,Parkway Place,2801 Memorial Parkway,Huntsville,AL,35801,United States,,34.7080657,-86.5895006,,,0
+Belk,9264,Madison Square,5901 University Dr,Huntsville,AL,35806,United States,,34.7402775,-86.66399,,,0
+Belk,9268,Gadsden Mall,1001 Rainbow Dr,Gadsden,AL,35901,United States,,33.9993454,-86.0044501,,,0
+Belk,9254,Cullman Shopping Center,1216 Cullman Shopping Center,Cullman,AL,35055,United States,,34.1838998,-86.8500247,,,0
+Belk,9252,Colonial Pinnacle At Tutwiler ,5000 Pinnacle Square,Birmingham,AL,35235,United States,,33.6040131,-86.6447477,,,0
+Belk,9262,Brookwood Mall,600 Brookwood Village,Birmingham,AL,35209,United States,,33.4700985,-86.7721914,,,0
+Belk,9261,The Summit,221 Summit Boulevard,Birmingham,AL,35243,United States,,33.4466241,-86.731571,,,0
+Belk,9260,Riverchase Galleria,2100 Riverchase Galleria,Birmingham,AL,35244,United States,,33.38105,-86.8074153,,,0
+Belk,9266,Eastdale Mall,2500 Eastdale Mall,Montgomery,AL,36117,United States,,32.3849277,-86.2076989,,,0
+Belk,9253,High Point Town Center,2475 Pinnacle Way,Prattville,AL,36066,United States,,32.464686,-86.396042,,,0
+Belk,9240,Independence Mall,3500 Oleander Dr,Wilmington,NC,28403,United States,,34.217336,-77.9071347,,,0
+Herberger&#39;s,9938,Albert Lea,2240 Bridge Avenue,Albert Lea,MN,56007,United States,,43.677521,-93.3588954,,,0
+Cabela&#39;s,17664,3900 Cabela Drive,,Owatonna,MN,55060,United States,507-451-4545,44.1354098,-93.2506877,,,0
+Herberger&#39;s,9969,Apache Plaza,1201 Sw 12 Street,Rochester,MN,55902,United States,,44.0070173,-92.4782085,,,0
+Dillards,8091,Crossroads Mall,7400 Dodge Street,Omaha,NE,68114,United States,402-392-0333,41.2597151,-96.0268886,,,0
+Dillards,8093,Mall Of The Bluffs,1751 Madison Ave ,Council Bluffs,IA,51503,United States,712-323-1003,41.2440147,-95.8270441,,,0
+Dillards,8089,Jordan Creek,101 Jordan Creek Pkwy,West Des Moines,IA,50266,United States,515-440-2277,41.5676322,-93.8093084,,,0
+Dillards,8096,Oak View Mall,3030 Oakview Drive,Omaha,NE,68144-5624,United States,402-697-1323,41.230615,-96.132421,,,0
+Dillards,8105,Crossroads Center,2060 Crossroads Blvd Ste 300,Waterloo,IA,50702,United States,319-232-6668,42.4647751,-92.3204737,,,0
+Dillards,8098,Gateway Mall,6100 O St  60,Lincoln,NE,68510,United States,402-464-7451,40.815745,-96.636856,,,0
+Dillards,8103,Coral Ridge Mall,1411 Coral Ridge Ave,Coralville,IA,52241,United States,319-625-2600,41.6890911,-91.6085285,,,0
+Elder-Beerman,9910,Muscantine,1903 Park Ave  ,Muscatine,IA,52761,United States,,41.4461195,-91.0303129,,,0
+Lamey Wellehan Shoes - Scarborough,23959,456 Payne Road,,Scarborough,ME,04074,United States,207-396-6112,43.6244792,-70.3495173,,,0
+Lamey Wellehan Shoes - Topsham,23960,65 Topsham Fair Mall Road,,Topsham,ME,04086,United States,207-504-5093,43.9380338,-69.9814466,,,0
+Macy&#39;s,7980,Brunswick Square Mall,755 Route 18,East Brunswick,NJ,08816,United States,732-238-1400,40.421805,-74.380511,,,0
+Macy&#39;s,7979,Bridgewater Commons,400 Commons Way,Bridgewater,NJ,08807,United States,908-429-3211,40.586492,-74.618415,,,0
+Bon-Ton,13484,Westgate Mall,2524 Schoenersville Rd ,Bethlehem,PA,18017,United States,,40.6445691,-75.4047282,,,0
+Belk,9265,University Mall,1701 Mcfarland Blvd East,Tuscaloosa,AL,35404,United States,,33.195044,-87.5259325,,,0
+Dillards,8307,Golden Triangle Mall,2201 S I-35 E,Denton,TX,76205,United States,940-566-6210,33.1879577,-97.1093065,,,0
+Cabela&#39;s,17672,12901 Cabela Drive,,Fort Worth,TX,76262,United States,214-793-1039,32.96205,-97.307415,,,0
+Dillards,8308,Collin Creek Mall,841 N Central Expressway,Plano,TX,75075,United States,972-423-6902,33.0109115,-96.7085467,,,0
+Dillards,8306,Firewheel Town Cente,301 Horseshoe Drive,Garland,TX,75040,United States,972-496-4070,32.9544768,-96.6141352,,,0
+Dillards,8301,Central Mall,200 Southwest C Avenue,Lawton,OK,73501,United States,580-248-8120,34.6052198,-98.3904592,,,0
+Dillards,8342,Broadway Square Mal,4601 S Broadway Avenue,Tyler,TX,75703,United States,903-561-1221,32.2997316,-95.3006435,,,0
+Dillards,8326,Colonial Mall,3111 S 31St St Ste 3001,Temple,TX,76502,United States,254-778-1854,31.0698408,-97.3693305,,,0
+Dillards,8295,0486 Arrowhead Mall,501 N Main Suite 74,Muskogee,OK,74401,United States,918-682-1000,35.7524162,-95.3669432,,,0
+Dillards,8255,0437 Central Mall,33 Central Mall,Texarkana,TX,75503-2422,United States,903-838-6591,33.454481,-94.08411,,,0
+Dillards,8293,0484 Woodland Hills Mall,6919 South Memorial,Tulsa,OK,74133,United States,918-252-1890,36.064499,-95.881678,,,0
+Dillards,8292,0482 Promenade,4169 South Yale,Tulsa,OK,74135,United States,918-627-7700,36.102493,-95.917988,,,0
+Dillards,8296,0491 Oakwood Mall,4125 West Owen K Garriott,Enid,OK,73703,United States,580-237-2984,36.3906545,-97.9293409,,,0
+Dillards,8238,Central Mall,5111 Rogers Avenue,Fort Smith,AR,72903,United States,501-484-5700,35.3646978,-94.3761198,,,0
+Dillards,8351,0783 Post Oak Mall,1504 Harvey Blvd ,College Station,TX,77840,United States,409-764-0014,30.6274692,-96.3048411,,,0
+Dillards,8252,0433 Pierre Bossier Mall,2950 E  Texas Ave Ste 670,Bossier City,LA,71111,United States,318-747-5610,32.5287252,-93.7040844,,,0
+Dillards,8294,0485 Washington Park Mall,2350 S E Washington Blvd,Bartlesville,OK,74006,United States,918-335-3300,36.7153032,-95.9351071,,,0
+Dillards,8328,Barton Creek Square,2901 Capitol Of Texas Hwy,Austin,TX,78746,United States,512-327-6100,30.327863,-97.81064,,,0
+Dillards,8329,Highland Mall,5901 Airport Blvd ,Austin,TX,78752,United States,512-452-9393,30.324695,-97.713839,,,0
+Cabela&#39;s,17673,15570 Ih 35,,Buda,TX,78610-3386,United States,817-337-2400,30.081282,-97.823619,,,0
+Dillards,8350,0780 Deerbrook Mall,20131 Highway 59 North,Humble,TX,77338,United States,281-540-1612,30.0074491,-95.2674063,,,0
+Dillards,8348,0777 First Colony Mall,16517 Sw Freeway,Sugar Land,TX,77479,United States,281-980-8300,29.5924272,-95.6288588,,,0
+Dillards,8023,0246 Santa Rosa Mall,300 Mary Esther Blvd,Mary Esther,FL,32569,United States,850-244-7111,30.4152531,-86.654007,,,0
+Carson Pirie Scott,10062,Grand Prairie,5203 West War Memorial Dr ,Peoria,IL,61615,United States,,40.7765348,-89.6748636,,,0
+Dillards,8035,0260 North Point Mall,7000 North Point Circle,Alpharetta,GA,30022,United States,770-410-9020,34.0473553,-84.2914236,,,0
+Bon-Ton,9862,The Marketplace,W Henrietta   Jefferson Roads,Henrietta,NY,14623,United States,,43.08348,-77.63593,,,0
+Cabela&#39;s,17668,110 Cabela Blvd  East,,Dundee,MI,48131-9693,United States,734-529-4700,41.963774,-83.673783,,,0
+Dillards,8257,0440 Triangle Town Center,3501 Sumner Blvd,Raleigh,NC,27616,United States,919-792-2900,35.865221,-78.578134,,,0
+Dillards,8258,0441 Cary Town Center,1105 Walnut Street,Cary,NC,27511,United States,919-469-1611,35.7713305,-78.7628992,,,0
+Dillards,8259,0442 University Mall,201 S Estes Dr,Chapel Hill,NC,27514,United States,919-929-1191,35.9275989,-79.0301857,,,0
+Dillards,8256,0438 Randolph Mall,300 Randolph Mall,Asheboro,NC,27203-5834,United States,336-625-6157,35.702688,-79.806887,,,0
+Dillards,8260,0443 Alamance Crossing,1003 Boston Drive,Burlington,NC,27215,United States,336-538-6498,36.0706141,-79.5084134,,,0
+Dillards,8413,0444 Four Seasons,125 Four Seasons Towne Cent,Greensboro,NC,27407,United States,336-855-5511,36.040339,-79.838057,,,0
+Dillards,8263,0447 Oak Hollow Mall,921 Eastchester Dr Ste 1001,High Point,NC,27262,United States,336-812-9090,35.9870776,-80.0043876,,,0
+Dillards,8261,0445 Hanes Mall,3320 Silas Creek Pkwy   3500,Winston-Salem,NC,27103,United States,336-659-1515,36.0733748,-80.2982082,,,0
+Dillards,8262,0446 Valley Hills Mall,1930 Us Highway 70 Se,Hickory,NC,28602-5158,United States,828-327-2656,35.706231,-81.304647,,,0
+Dillards,8049,0277 Savannah Mall,14025 Abercorn St,Savannah,GA,31419,United States,912-920-9000,31.983422,-81.170016,,,0
+Dillards,8019,0241 Bel Air,3300 Bel Air Mall,Mobile,AL,36606,United States,251-471-1551,30.6734151,-88.1223237,,,0
+Dillards,8018,0239 Eastern Shore Centre,10101 Eastern Shore Blvd,Spanish Fort,AL,36527,United States,251-621-2257,30.6666585,-87.8517551,,,0
+Dillards,8020,0242 Cordova Mall,5100 N 9Th Ave ,Pensacola,FL,32504,United States,850-476-3011,30.4736332,-87.2119807,,,0
+Macy&#39;s,7808,Sunrise Mall,6000 Sunrise Blvd.,Citrus Heights,CA,95610,United States,916-962-3333,38.6738998,-121.271422,,,0
+Macy&#39;s,7805,Roseville Galleria,1197 Galleria Blvd,Roseville,CA,95678,United States,916-771-3333,38.7732088,-121.2658387,,,0
+Macy&#39;s,7806,Arden Fair,1701 Arden Way,Sacramento,CA,95815,United States,916-925-2845,38.599908,-121.425648,,,0
+Macy&#39;s,7807,Sacramento Downtown Plaza,414 K St,Sacramento,CA,95814,United States,916-444-3333,38.580628,-121.501496,,,0
+Dillards,8392,0960 Weberstown,4950 Pacific Avenue,Stockton,CA,95207,United States,209-477-1230,37.996361,-121.311982,,,0
+Macy&#39;s,7803,Modesto Vintage Fair,500 Vintage Faire,Modesto,CA,95356,United States,209-575-3333,37.6876256,-121.0539036,,,0
+Macy&#39;s,7798,Fairfield Solano,1544 Travis Blvd.,Fairfield,CA,94533,United States,707-428-3333,38.25909,-122.055896,,,0
+Macy&#39;s,7794,Concord Sunvalley,341 Sun Valley Mall,Concord,CA,94520,United States,925-689-3333,37.9671827,-122.0619479,,,0
+Macy&#39;s,7802,Pleasanton Stoneridge,1300 Stoneridge Mall Rd.,Pleasanton,CA,94588,United States,925-463-3333,37.693153,-121.928352,,,0
+Dillards,8391,0949 Summit Sierra,13933 S  Virginia St,Reno,NV,89511,United States,775-852-3080,39.408884,-119.7501771,,,0
+Macy&#39;s,7801,Newpark,200 Newpark Mall,Newark,CA,94560,United States,510-797-3333,37.52505,-122.001688,,,0
+Macy&#39;s,7982,Reno Meadowwood,5100 Meadowbrook Mall,Reno,NV,89502-6502,United States,775-826-8333,39.472984,-119.786287,,,0
+Macy&#39;s,7810,San Francisco Union Square,170 O&#39;farrell St,San Francisco,CA,94102,United States,415-397-3333,37.786796,-122.407363,,,0
+Macy&#39;s,7797,Corte Madera Village,1400 Redwood Highway,Corte Madera,CA,94925,United States,415-927-3333,37.927679,-122.513588,,,0
+Macy&#39;s,7800,Northgate Mall,1000 Northgate Dr,San Rafael,CA,94903,United States,919-286-9770,38.0081573,-122.5450733,,,0
+Macy&#39;s,7815,Oakridge Mall,5411 Thornwood Dr,San Jose,CA,95123,United States,408-224-3333,37.253419,-121.863148,,,0
+Macy&#39;s,7813,Stanford Mall,300 Stanford Mall,Palo Alto,CA,94306-1146,United States,650-326-3333,37.429978,-122.147584,,,0
+Macy&#39;s,7811,Hillsdale Mall,301 Hillsdale Mall,San Mateo,CA,94403-3426,United States,650-341-3333,37.537261,-122.299331,,,0
+Macy&#39;s,7809,Stonestown Galleria,3251 20Th Ave,San Francisco,CA,94132,United States,415-753-4000,37.728557,-122.476766,,,0
+Macy&#39;s,7796,Coddingtown,555 Coddingtown Center,Santa Rosa,CA,95401,United States,707-579-3333,38.4565066,-122.7274465,,,0
+Macy&#39;s,7795,Santa Rosa Plaza,800 Santa Rose Plaza,Santa Rosa,CA,95401,United States,707-523-3333,38.440916,-122.717477,,,0
+Macy&#39;s,7804,Fresno Fashion Fair,4888 North Fresno St.,Fresno,CA,93726,United States,559-228-3333,36.806626,-119.780933,,,0
+Macy&#39;s,7814,Monterey Del Monte Center,100 Del Monte Center,Monterey,CA,93940,United States,831-372-3333,36.5865707,-121.8996601,,,0
+Macy&#39;s,7821,La Cumbre Plaza,3805 State Street,Santa Barbara,CA,93105,United States,805-687-6411,34.439413,-119.74789,,,0
+Macy&#39;s,7816,Santa Barbara Paseo Nuevo,701 State St,Santa Barbara,CA,93101,United States,805-963-4566,34.418401,-119.698742,,,0
+Macy&#39;s,8001,Medford Rogue Valley ,1800 North Riverside Drive,Medford,OR,97501,United States,541-772-3700,42.3437029,-122.8794272,,,0
+Dillards,8254,0436 Alexandria Mall,3437 Masonic Drive,Alexandria,LA,71301,United States,318-445-9992,31.2804385,-92.4625663,,,0
+Dillards,8253,0435 Pecanland,4610 Millhaven Rd,Monroe,LA,71203,United States,318-323-8000,32.5001433,-92.0582529,,,0
+Dillards,8060,0294 Prien Lake Mall,684 West Prien Lake Rd ,Lake Charles,LA,70601,United States,337-474-9533,30.1982645,-93.2302142,,,0
+Dillards,8052,0281 Acadiana Mall,5725 Johnston Road,Lafayette,LA,70503,United States,337-989-8139,30.1746779,-92.0778061,,,0
+Dillards,8051,0280 Cortana Mall,9701 Cortana Mall,Baton Rouge,LA,70815-8508,United States,225-923-1712,30.456993,-91.096472,,,0
+Dillards,8059,0293 Mall Of Louisiana,6601 Bluebonnet,Baton Rouge,LA,70809-6600,United States,225-761-7293,30.390322,-91.091531,,,0
+Dillards,8056,0288 Hammond Square,2000 Sw Railroad Ave,Hammond,LA,70403,United States,504-345-7121,30.4826977,-90.4569566,,,0
+Dillards,8053,0282 Southland Mall,5953 West Park Ave Suite  1000,Houma,LA,70364,United States,504-873-6100,29.6316229,-90.7567269,,,0
+Dillards,8054,0283 The Esplanade,1401 West Esplande Ave ,Kenner,LA,70065,United States,504-468-6050,30.0201206,-90.2467996,,,0
+Dillards,8055,0284 Lakeside Shopping Cen,3301 Veterans Memorial Blvd,Metairie,LA,70002,United States,504-833-1075,30.004212,-90.158685,,,0
+Dillards,8057,0289 Turtle Creek,1000 Turtle Creek Drive,Hattiesburg,MS,39402,United States,601-268-6700,31.323006,-89.376296,,,0
+Dillards,8410,0287 North Shore Square,150 North Shore Blvd Suite 55,Slidell,LA,70460,United States,504-646-0130,30.307406,-89.82225,,,0
+Dillards,8409,0286 Oakwood Shopping Cen,197 West Bank Expressway,Gretna,LA,70053,United States,504-362-4800,29.921567,-90.036684,,,0
+Dillards,8080,0333 Hutchinson Mall,1500 E  11Th Street,Hutchinson,KS,67501,United States,316-662-3636,38.0648705,-97.9014449,,,0
+Dillards,8082,0334 Central Mall,2259 South 9Th,Salina,KS,67401,United States,785-823-3553,38.8025109,-97.6126516,,,0
+Macy&#39;s,7844,Carlsbad Plaza Camino Real,2559 El Camino Rd,Carlsbad,CA,92008,United States,760-729-9121,33.1781841,-117.3266607,,,0
+Macy&#39;s,7834,Brea Mall,200 Brea Mall,Brea,CA,92821,United States,714-990-1400,33.914258,-117.885064,,,0
+Macy&#39;s,7848,El Cajon Parkway,291 Fletcher Parkway,El Cajon,CA,92020,United States,619-440-1011,32.806425,-116.964902,,,0
+Macy&#39;s,7842,Grossmont Sc,5500 Grossmont Center Drive,La Mesa,CA,91942,United States,619-465-1121,32.777535,-117.011584,,,0
+Macy&#39;s,7843,Fashion Valley Mall,7017 Friars Rd,San Diego,CA,92108,United States,619-299-9811,32.767219,-117.167329,,,0
+Macy&#39;s,7827,Glendale Galleria,2100 Glendale Galleria,Glendale,CA,91210,United States,818-240-8411,34.144925,-118.2597322,,,0
+Macy&#39;s,7829,Del Amo Fashion Center A,21600 Hawthorne Blvd.,Torrance,CA,90503,United States,310-370-8511,33.830453,-118.351114,,,0
+Macy&#39;s,7826,Burbank Town Center,200 East Cypress Ave,Burbank,CA,91502,United States,818-841-2100,34.184107,-118.313291,,,0
+Dillards,8393,0961 Antelope Valley Mall,1255 Rancho Vista Blvd,Palmdale,CA,93551,United States,661-267-0670,34.6018403,-118.1534171,,,0
+Front Runners,17685,11620 San Vicente Blvd ,,Los Angeles,CA,90049,United States,310-207-0216,34.0537513,-118.462458,,,0
+Dillards,8394,0962 Imperial Valley Mall,3451 South Dogwood Ave,El Centro,CA,92243,United States,760-370-0190,32.7650498,-115.5350944,,,0
+Dillards,8368,0918 Yuma Palms,1461 Yuma Palms Parkway,Yuma,AZ,85365,United States,928-329-4722,32.701149,-114.6031684,,,0
+Dillards,8363,0912 Shoppes At Lake Havas,5501 Highway 95 North,Lake Havasu City,AZ,86404,United States,928-764-1200,34.5843655,-114.3695456,,,0
+Dillards,8388,0941 Fashion Show Mall,3200 Las Vegas Blvd South,Las Vegas,NV,89109,United States,702-733-2008,36.1276477,-115.1679181,,,0
+Dillards,8390,0944 Galleria At Sunset,1320 W  Sunset Rd ,Henderson,NV,89014,United States,702-435-6300,36.064862,-115.044834,,,0
+Macy&#39;s,7984,Henderson Galleria At Sunset,1304 Sunset Road,Henderson,NV,89014,United States,702-458-7300,36.06497,-115.040059,,,0
+Dillards,8389,0942 The Meadows Mall,4200 Meadows Lane,Las Vegas,NV,89107,United States,702-870-2039,36.171002,-115.196788,,,0
+Dillards,8362,0911 Prescott Gateway,3100 Gateway Boulevard,Prescott,AZ,86303,United States,928-717-1270,34.549404,-112.410385,,,0
+Cabela&#39;s,17676,9380 W  Glendale Ave,,Glendale,AZ,85305,United States,623-872-6700,33.538989,-112.261879,,,0
+Dillards,8358,0907 Arrowhead Towne Cen,7800 W  Arrowhead Towne Ce,Glendale,AZ,85308-8614,United States,623-979-1128,33.640454,-112.228636,,,0
+Dillards,8356,0904 Paradise Valley Mall,4610 East Cactus Road,Phoenix,AZ,85032,United States,602-953-9600,33.599381,-111.9822209,,,0
+Dillards,8355,0902 Fashion Square,6900 East Camelback Road,Scottsdale,AZ,85251,United States,480-949-5869,33.503906,-111.93315,,,0
+Dillards,8359,0908 Chandler Fashion Cent,3101 West Chandler Blvd,Chandler,AZ,85226,United States,480-735-2060,33.303609,-111.896624,,,0
+Dillards,8357,0905 Fiesta Mall,1435 West Southern Ave,Mesa,AZ,85202,United States,480-833-7777,33.3930108,-111.8621706,,,0
+Dillards,8377,0928 Red Cliffs Mall,1850 E  Red Cliffs Drive,St George,UT,84790,United States,435-634-4900,37.1230076,-113.5344388,,,0
+Macy&#39;s,8005,Coos Bay Pony Village ,1611 Virginia Avenue,North Bend,OR,97459,United States,541-751-6000,43.4066062,-124.2346303,,,0
+Macy&#39;s,8006,Eugene Valley River Center,100 Valley River Center,Eugene,OR,97401,United States,541-984-6000,44.0693547,-123.1078523,,,0
+Dillards,8108,Northpark Mall,320 W Kimberly Rd,Davenport,IA,52806,United States,563-388-7954,41.5602047,-90.5770987,,,0
+Dillards,8110,Southpark,4500 16Th Street,Moline,IL,61265,United States,309-797-1866,41.4678388,-90.5070996,,,0
+Elder-Beerman,9907,Beloit Mall,100 Beloit Mall,Beloit,WI,53511,United States,,42.5207806,-89.0336678,,,0
+Bon-Ton,9798,North Hanover Plaza,400 Eisenhower Drive,Hanover,PA,17331,United States,,39.8248698,-76.9832996,,,0
+Macy&#39;s,7837,Laguna Hills,24100 Laguna Hills Mall,Laguna Hills,CA,92653,United States,949-586-1901,33.6121294,-117.7092369,,,0
+Macy&#39;s,7846,Horton Plaza,160 Horton Plaza,San Diego,CA,92101,United States,619-231-4747,32.7137248,-117.1625539,,,0
+Bon-Ton,9799,Valley Mall,17301 Valley Mall Rd ,Hagerstown,MD,21740,United States,,39.6217346,-77.773015,,,0
+Carson Pirie Scott,10029,Joliet,3340 Mall Loop Drive,Joliet,IL,60431,United States,,41.5793902,-88.1650576,,,0
+Carson Pirie Scott,10052,Orland Square,4 Orland Square,Orland Park,IL,60462,United States,,41.618825,-87.850032,,,0
+Herberger&#39;s,9961,Mankato,1850 Adams Street,Mankato,MN,56001,United States,,44.1704974,-93.9523677,,,0
+Herberger&#39;s,9944,Great Falls,1200 10Th Avenue S,Great Falls,MT,59405,United States,,47.4941527,-111.2869327,,,0
+Scheels All Sports,17714,1200 10Th Ave  S   92,,Great Falls,MT,59405,United States,406-453-7666,47.492629,-111.288722,,,0
+Macy&#39;s,7974,Helena Northside Center ,3405 N. Montana Ave.,Helena,MT,59602,United States,406-324-6000,46.6275242,-112.0210977,,,0
+Dillards,8386,0938 Capital Hill Mall,1600 11Th Ave,Helena,MT,59601,United States,406-443-3000,46.5897951,-112.0128297,,,0
+Macy&#39;s,7973,Bozeman Gallatin Valley Mall,2825 West Main Street,Bozeman,MT,59718,United States,406-585-6800,45.671122,-111.0801581,,,0
+Macy&#39;s,8007,Clackamas Town Center,12100 S.E. 82Nd Avenue,Portland,OR,97086-7755,United States,503-653-8811,45.435736,-122.57903,,,0
+Nordstrom,8092,Clackamas,8930 Se Sunnyside Road ,Clackamas,OR,97015,United States,503-654-5415,45.430854,-122.572381,,,0
+Macy&#39;s,8002,Lancaster Mall,831 Lancaster Dr.,Salem,OR,97301,United States,503-361-6800,44.9414703,-122.9831724,,,0
+Macy&#39;s,8009,Salem Center,400 High Street N.E.,Salem,OR,97301,United States,503-363-2211,44.9429412,-123.0355411,,,0
+Macy&#39;s,8010,Lloyd Center,1100 Lloyd Center,Portland,OR,97232,United States,503-281-4797,45.5318052,-122.6545615,,,0
+Nordstrom,8088,Dt Portland,701 Sw Broadway,Portland,OR,97205,United States,503-224-6666,45.519395,-122.680386,,,0
+Nordstrom,8090,Lloyd Center,1001 Lloyd Center ,Portland,OR,97232,United States,503-287-2444,45.529624,-122.655573,,,0
+Imelda&#39;s Shoes And Louie&#39;s Shoes For Men,29372,1416 Northeast Alberta Street,,Portland,OR,97211,United States,503-444-7767,45.5589676,-122.6512375,,,0
+Macy&#39;s,8011,Washington Square ,9300 S.W. Washington Square Rd,Portland,OR,97223,United States,503-620-3311,45.4511695,-122.7834179,,,0
+Macy&#39;s,8008,Tanasbourne Streets ,2055 Nw Allie Ave.,Hillsboro,OR,97124,United States,503-617-6999,45.536137,-122.87988,,,0
+Nordstrom,8079,Bellevue Square,100 Bellevue Square,Bellevue,WA,98004,United States,425-455-5800,47.613889,-122.2047271,,,0
+Nordstrom,8076,Dt Seattle,500 Pine Street,Seattle,WA,98101,United States,206-628-2111,47.6117493,-122.3364814,,,0
+Nordstrom,8085,Alderwood,3200 184Th Street Sw,Lynnwood,WA,98037,United States,425-771-5755,47.8319037,-122.2751744,,,0
+Dillards,8249,0428 West Towne Mall,7600 Kingston Pike,Knoxville,TN,37919,United States,865-531-1931,35.9284143,-84.0362172,,,0
+Dillards,8036,0261 Mall Of Georgia,3333 Buford Dr ,Buford,GA,30519,United States,678-482-5241,34.071252,-83.9842577,,,0
+Dillards,8058,0292 Bonita Lakes,1078 Bonita Lakes Circle,Meridian,MS,39301,United States,601-482-8929,32.3604834,-88.6700789,,,0
+Dillards,8026,0249 Edgewater Mall,2600 Beach Blvd Ste 14,Biloxi,MS,39531,United States,228-388-4000,30.3895652,-88.9894144,,,0
+Cabela&#39;s,17679,One Cabela Drive,,Richfield,WI,53076,United States,262-628-5700,43.278851,-88.188137,,,0
+Macy&#39;s,7934,South Portland Mall,100 Maine Mall Road,South Portland,ME,04106,United States,207-945-3200,43.6422566,-70.3331019,,,0
+Macy&#39;s,7976,Pheasant Lane Mall,310 Daniel Webster Highway,Nashua,NH,03060,United States,603-891-3800,42.7019944,-71.4407058,,,0
+Macy&#39;s,7931,Burlington Mall,1300 Middlesex Turnpike,Burlington,MA,01803,United States,781-221-3706,42.50609,-71.232119,,,0
+Macy&#39;s,7929,South Shore Plaza ,250 Granite Street,Braintree,MA,02184,United States,781-848-3800,42.218688,-71.023692,,,0
+Macy&#39;s,7930,Natick Collection,1245  Worcester Road,Natick,MA,01760,United States,508-653-3800,42.2991746,-71.3866932,,,0
+Macy&#39;s,7859,Shoppes At Buckland Hills,183 Pavilions  Drive,Manchester,CT,06042-8702,United States,860-644-6700,41.804033,-72.547126,,,0
+Macy&#39;s,7858,Westfarms,100 Westfarms Mall,Farmington,CT,06032,United States,860-561-3030,41.724579,-72.762174,,,0
+Macy&#39;s,7985,Smith Haven,2 Smith Haven Mall,Lake Grove,NY,11755,United States,631-724-4900,40.8636026,-73.1255118,,,0
+Nordstrom,8174,Rack City Center,7 City Place,White Plains,NY,10601,United States,914-614-6400,41.0331905,-73.7650474,,,0
+Nordstrom,8176,Roosevelt Field,630 Old Country Road,Garden City,NY,11530,United States,516-746-0011,40.743159,-73.6141395,,,0
+Nordstrom,8097,Vancouver,8601 Ne Vancouver Mall Drive,Vancouver,WA,98662,United States,360-256-8666,45.6561555,-122.584157,,,0
+Nordstrom,8095,Washington Square,9700 Sw Washington Square Road,Portland,OR,97223,United States,503-620-0555,45.4470287,-122.7821497,,,0
+Nordstrom,8094,Salem,420 Center Street Ne,Salem,OR,97301,United States,503-371-7710,44.9432539,-123.0368292,,,0
+Nordstrom,8083,Tacoma,4502 S Steele St Ste 800 ,Tacoma,WA,98409,United States,253-475-3630,47.2178529,-122.467608,,,0
+Nordstrom,8081,Southcenter  ,100 Southcenter Shopping Cente,Tukwila,WA,98188-2805,United States,206-246-0400,47.46052,-122.261291,,,0
+Nordstrom,8078,Northgate,401 Ne Northgate Way,Seattle,WA,98125,United States,206-364-8800,47.708592,-122.3245945,,,0
+Dillards,8379,0930 Fashion Place Mall,6191 S State St   100,Salt Lake City,UT,84107,United States,801-266-2006,40.636461,-111.886187,,,0
+Nordstrom,8099,Fashion Place,6191 South State Street ,Salt Lake City,UT,84107,United States,801-261-4402,40.636461,-111.886187,,,0
+Dillards,8381,0932 South Towne Center,10450 South State St ,Sandy,UT,84070,United States,801-553-8800,40.5640543,-111.8908322,,,0
+Cabela&#39;s,17674,2502 West Grand Terrace Parkwa,,Lehi,UT,84043-3747,United States,801-766-2500,40.435303,-111.888583,,,0
+Nordstrom,8106,University Mall,693 East University Parkway,Orem,UT,84097,United States,801-426-2800,40.2731303,-111.6788533,,,0
+Dillards,8382,0933 Provo Towne Centre,1200 South Towne Centre Blv,Provo,UT,84601,United States,801-852-3000,40.2178156,-111.660513,,,0
+Bon-Ton,13468,Warren Mall,1666 Market St  Ext ,Warren,PA,16365-4897,United States,,41.897534,-79.149688,,,0
+Bon-Ton,9842,Sheridan Plaza,1706 Sheridan Drive,Buffalo,NY,14223,United States,,42.98184,-78.871655,,,0
+Bon-Ton,9847,Summit Park Mall,6929 Williams Road,Niagara Falls,NY,14304,United States,,43.087238,-78.939902,,,0
+Bon-Ton,9843,Southgate Plaza,1090 Union Road,Buffalo,NY,14224,United States,,42.8295769,-78.7536033,,,0
+Bon-Ton,9846,Olean Mall,402 N  Union St ,Olean,NY,14760,United States,,42.0827717,-78.4299195,,,0
+Bon-Ton,13483,Nittany Mall,2957 East College Drive,State College,PA,16801,United States,,40.8308842,-77.8016361,,,0
+Macy&#39;s,7891,Pearlridge Mall,98-205 Kaonohi Street,Aiea,HI,96701,United States,808-486-6701,21.3855474,-157.943091,,,0
+Macy&#39;s,7890,Ala Moana Mall,1450 Ala Moana Blvd.,Honolulu,HI,96814,United States,808-521-5147,21.291141,-157.843893,,,0
+Nordstrom,8197,Ala Moana,1519 Kapiolani Blvd,Honolulu,HI,96814,United States,808-953-6100,21.2925933,-157.8413191,,,0
+Nordstrom,8170,Galleria At Roseville,1131 Galleria Blvd,Roseville,CA,95678,United States,916-780-7300,38.7710797,-121.2658655,,,0
+Nordstrom,8166,Arden Fair,1651 Arden Way,Sacramento,CA,95815,United States,916-646-2400,38.602452,-121.427176,,,0
+Tannery,17658,402 Boylston St,,Boston,MA,02116,United States,,42.3515034,-71.0719659,,,0
+Tannery,17659,39 Brattle St,,Cambridge,MA,02138,United States,,42.3735537,-71.1211223,,,0
+Herberger&#39;s,9958,Stillwater,14781 59Th Street N,Stillwater,MN,55082,United States,,45.0342476,-92.8070196,,,0
+Herberger&#39;s,9951,Norfolk,1700 Market Lane,Norfolk,NE,68701,United States,,42.0188775,-97.4324486,,,0
+Nordstrom,8178,Westfarms,600 Westfarms Mall,Farmington,CT,06032,United States,860-521-9090,41.722535,-72.765356,,,0
+Dillards,8044,0272 Eastdale Mall,3000 Eastdale Mall,Montgomery,AL,36117,United States,334-277-7200,32.384601,-86.2072058,,,0
+Dillards,8043,0271 The Shoppes At Eastch,7310 Eastchase Parkway,Montgomery,AL,36117,United States,334-821-3900,32.3600901,-86.1676638,,,0
+Dillards,8050,0279 Quintard Mall,700 Quintard Dr,Oxford,AL,36203,United States,256-835-2819,33.6137767,-85.8275705,,,0
+Dillards,8045,0273 Colonial University Vi,1627 Opelika Rd,Auburn,AL,36830,United States,334-821-3900,32.6251199,-85.4458212,,,0
+Elder-Beerman,9884,Plover,,Stevens Point,WI,54481,United States,,44.455931,-89.524307,,,0
+Herberger&#39;s,9950,Beaver Dam,1645 North Spring Street,Beaver Dam,WI,53916,United States,,43.474465,-88.8247649,,,0
+Herberger&#39;s,9956,Kalispell,20 North Main,Kalispell,MT,59901,United States,,48.1992603,-114.314043,,,0
+Macy&#39;s,7799,Walnut Creek Broadway Plaza,1320 Broadway Plaza,Walnut Creek,CA,94596,United States,925-279-3333,37.894831,-122.0579718,,,0
+Macy&#39;s,7812,Valley Fair Mall,2801 Stevens Creek Blvd.,Santa Clara,CA,95050,United States,408-248-3333,37.323748,-121.942557,,,0
+Dillards,8038,0263 Stonecrest Mall,8000 Mall Parkway,Lithonia,GA,30038,United States,770-666-0000,33.692774,-84.0924205,,,0
+Dillards,8039,0264 Perimeter Mall,4500 Ashford Dunwoody Rd,Atlanta,GA,30346,United States,678-320-9140,33.9268934,-84.3371286,,,0
+Dillards,8040,0265 Atlantic Station,1371 Market Street,Atlanta,GA,30363,United States,404-879-0635,33.792365,-84.3950822,,,0
+Dillards,8037,0262 Arbor Place,6720 Douglas Blvd,Douglasville,GA,30135,United States,770-577-4271,33.727839,-84.748492,,,0
+Sole Perfection Shoes,29371,1203 Southeast Everett Mall Way,,Everett,WA,98208,United States,425-348-7306,47.912823,-122.2163176,,,0
+Sole Perfection Shoes,29370,3409 Stone Way North,,Seattle,WA,98103,United States,206-545-7463,47.6489491,-122.343139,,,0
+Dillards,8353,0786 Parkdale Mall,5955 Eastex Freeway,Beaumont,TX,77706,United States,409-899-9800,30.1254796,-94.1557699,,,0
+Dillards,8354,0787 Central Mall,3100 Highway 365,Port Arthur,TX,77642-7703,United States,409-724-7575,29.950032,-93.990245,,,0
+Dillards,8349,0779 Baybrook Mall,600 Baybrook Mall,Friendswood,TX,77546,United States,281-486-0700,29.543579,-95.150623,,,0
+Cabela&#39;s,17671,One Cabela Drive,,Triadelphia,WV,26059-1000,United States,304-238-0120,40.061866,-80.594439,,,0
+Dillards,8367,0917 Promenade At Casa Gr,1117 N  Promenade Pkwy,Casa Grande,AZ,85222,United States,520-421-1141,32.8794201,-111.7790132,,,0
+Dillards,8361,0910 San Tan Village,2151 S  San Tan Village Pkwy,Gilbert,AZ,85296,United States,480-726-1512,33.3329197,-111.743871,,,0
+Dillards,8360,0909 Superstition Springs M,6545 E  Southern Ave,Mesa,AZ,85206,United States,480-832-1247,33.3938586,-111.6896751,,,0
+Dillards,8365,0915 Tucson Mall,4550 North Oracle Rd,Tucson,AZ,85705,United States,520-293-4550,32.289933,-110.974729,,,0
+Dillards,8364,0914 Park Place,5890 East Broadway Blvd,Tucson,AZ,85711,United States,520-747-4700,32.218307,-110.863542,,,0
+Dillards,8366,0916 Flagstaff Mall,4700 Us Highway 89 North,Flagstaff,AZ,86004-2428,United States,520-526-5541,35.224787,-111.582304,,,0
+Dillards,8369,0919 Mall At Sierra Vista,3800 El Mercado Loop,Sierra Vista,AZ,85635,United States,520-515-0151,31.5268947,-110.2586765,,,0
+Dillards,8352,0784 Brazos Mall,100 Highway 332 W Ste 1400,Lake Jackson,TX,77566,United States,979-297-7201,29.0475032,-95.4564084,,,0
+Macy&#39;s,7820,Simi Valley Town Center,1475 Simi Valley Town Center W,Simi Valley,CA,93065-0515,United States,805-581-3333,34.283202,-118.773772,,,0
+Nordstrom,8175,The Westchester,135 Westchester Ave,White Plains,NY,10601,United States,914-946-1122,41.032155,-73.759013,,,0
+Dillards,8331,Hill Country Galleria,12800 State Hwy 71 West,Austin,TX,78738,United States,512-263-0520,30.306886,-97.9403463,,,0
+Dillards,8217,Hot Springs Mall,4501 Central Ave Suite 102,Hot Springs,AR,71913,United States,501-525-4501,34.4490334,-93.0801464,,,0
+Dillards,8046,0274 Wiregrass Commons,900 Commons Dr,Dothan,AL,36303,United States,334-794-3300,31.251933,-85.419509,,,0
+Macy&#39;s,7818,Northridge Fashion Center,9301 Tampa Ave,Northridge,CA,91324,United States,818-885-6611,34.241502,-118.555259,,,0
+Macy&#39;s,7824,Pasadena,401 Southlake Ave,Pasadena,CA,91101,United States,713-475-3250,34.138647,-118.133047,,,0
+Macy&#39;s,7823,Paseo Colorado Mall,400 E. Colorado Blvd.,Pasadena,CA,91101,United States,626-796-0411,34.1458337,-118.1418981,,,0
+Macy&#39;s,7830,Lakewood Center Mall,5100 Lakewood Blvd.,Lakewood,CA,90712,United States,562-529-5111,33.8505198,-118.1424437,,,0
+Tradehome,17231,Frontier Mall,1400 Dell Range Blvd ,Cheyenne,WY,82009,United States,,41.1602804,-104.8048025,,,0
+Macy&#39;s,7835,Newport Fashion Island,101 Newport Center Drive,Newport Beach,CA,92660,United States,949-640-8333,33.613566,-117.875847,,,0
+Macy&#39;s,7838,Mission Viejo,200 The Shops At Mission Viejo,Mission Viejo,CA,92691,United States,949-364-3111,33.5553897,-117.6700243,,,0
+Dillards,8027,0250 Coral Square Mall,9001 W  Atlantic Blvd ,Pompano Beach,FL,33071,United States,954-341-4122,26.2378771,-80.2461019,,,0
+Dillards,8029,0252 Broward Mall,8000 W Broward Blvd Ste 150,Fort Lauderdale,FL,33324,United States,954-370-8182,26.120733,-80.2526161,,,0
+Dillards,8028,0251 Galleria,2500 East Sunrise Blvd ,Fort Lauderdale,FL,33304,United States,954-565-5245,26.1378469,-80.1130677,,,0
+Dillards,8030,0253 Pembroke Lakes Mall,11945 Pines Blvd,Hollywood,FL,33026,United States,954-450-8661,26.0078337,-80.3074697,,,0
+Dillards,8266,0450 South Park,4400 Sharon Road,Charlotte,NC,28211,United States,704-365-3111,35.1519573,-80.8277767,,,0
+Dillards,8267,0451 Carolina Place,11041 Carolina Place Pkwy,Pineville,NC,28134,United States,704-544-0113,35.080712,-80.875811,,,0
+Dillards,8268,0452 Eastridge Mall,250 N  New Hope Road,Gastonia,NC,28054,United States,704-864-8361,35.2651235,-81.1512473,,,0
+Dillards,8275,0461 Citadel Mall,2066 Sam Rittenburg Blvd ,Charleston,SC,29407,United States,843-556-0080,32.7922939,-80.0306792,,,0
+Macy&#39;s,7855,Southglenn Streets,6801 South University Blvd,Littleton,CO,80122,United States,303-729-1123,39.593019,-104.96122,,,0
+Macy&#39;s,7854,Park Meadows,8455 Park Meadows Center Drive,Littleton,CO,80124,United States,303-566-6370,39.560835,-104.87733,,,0
+Macy&#39;s,7856,Southwest Plaza ,8501 West Bowles Avenue,Littleton,CO,80123,United States,303-729-2862,39.612034,-105.096006,,,0
+Dillards,8373,0923 Animas Valley Mall,4601 East Main St ,Farmington,NM,87402,United States,505-326-2681,36.7648002,-108.1524288,,,0
+Dillards,8320,Ingram Park Mall,6301 Nw Loop 410 Ste D,San Antonio,TX,78238,United States,210-681-7970,29.4680472,-98.6176883,,,0
+Dillards,8317,North Star Mall,7400 San Pedro-Suite 900,San Antonio,TX,78216,United States,210-341-6666,29.5179197,-98.4992,,,0
+Dillards,8333,Padre Staples,5488 S  Padre Island Drive,Corpus Christi,TX,78411,United States,512-991-7300,27.7095828,-97.3733444,,,0
+Dillards,8321,Mall Del Norte,5300 San Dario Avenue,Laredo,TX,78041,United States,956-727-1171,27.553328,-99.502912,,,0
+Dillards,8330,Lakeline,11200 Lakeline Mall Dr,Cedar Park,TX,78613,United States,512-257-8740,30.470546,-97.806318,,,0
+Dillards,8327,Killeen Mall,2100 South W S Young Drive,Killeen,TX,76543,United States,254-699-6116,31.0946287,-97.7209816,,,0
+Dillards,8322,La Plaza Mall,2200 South Tenth St,Mcallen,TX,78501,United States,956-687-5211,26.2232281,-98.2266804,,,0
+Dillards,8346,Memorial City Mall,900 Memorial City,Houston,TX,77024,United States,713-464-1851,29.7827968,-95.5360521,,,0
+Dillards,8337,Mall Of Abilene,4310 Buffalo Gap Rd,Abilene,TX,79606,United States,915-695-2200,32.398934,-99.759477,,,0
+Dillards,8304,Hulen Mall,4850 Overton Ridge Blvd,Fort Worth,TX,76132,United States,817-294-1449,32.6760747,-97.3990603,,,0
+Dillards,8302,Northeast Mall,1101 Melbourne Road,Hurst,TX,76053,United States,817-284-4566,32.830764,-97.199433,,,0
+Dillards,8303,Irving Mall,3901 Irving Mall,Irving,TX,75062,United States,972-258-4968,32.8376914,-96.9975697,,,0
+Dillards,8314,Northpark,100 Northpark Center,Dallas,TX,75225,United States,214-373-7000,32.8679974,-96.773207,,,0
+Scheels All Sports,17713,1375A S  Columbia Rd,,Grand Forks,ND,58201,United States,701-780-9424,47.9077028,-97.0664267,,,0
+Scheels All Sports,17726,1551 45Th St  Sw ,,Fargo,ND,58103,United States,701-298-2918,46.8573617,-96.8620462,,,0
+Scheels All Sports,17712,40 N  Waite Ave,,Waite Park,MN,56301,United States,320-252-9494,45.5541714,-94.2137607,,,0
+Macy&#39;s,7963,Ridgedale,12411 Wayzata Blvd.,Hopkins,MN,55305,United States,952-591-6600,44.969371,-93.439491,,,0
+Macy&#39;s,7956,Minneapolis (Downtown),700 Nicollet Mall,Minneapolis,MN,55402,United States,612-375-2200,44.976676,-93.272933,,,0
+Macy&#39;s,7957,Rosedale Center,900 Rosedale Center,Roseville,MN,55113-3005,United States,651-639-6600,45.01336,-93.176039,,,0
+Dillards,8334,Westgate Mall,7701 W Interstate 40 Ste 300,Amarillo,TX,79121-0001,United States,806-358-7771,35.186304,-101.925176,,,0
+Dillards,8335,North Plains Mall,2609 North Prince,Clovis,NM,88101,United States,505-742-3200,34.4250592,-103.1964859,,,0
+Dillards,8372,0922 Santa Fe Place,4250 Cerrillos Road,Santa Fe,NM,87507,United States,505-473-2900,35.635976,-106.018812,,,0
+Herberger&#39;s,9937,Lacrosse,4000 State Road 16,La Crosse,WI,54601,United States,,43.8513899,-91.2119956,,,0
+Macy&#39;s,7983,Las Vegas Fashion Show,3200 Las Vegas Blvd. S.,Las Vegas,NV,89109,United States,702-737-8708,36.1276477,-115.1679181,,,0
+Nordstrom,8155,Fashion Show,3200 Las Vegas Blvd So,Las Vegas,NV,89109,United States,702-862-2525,36.1276477,-115.1679181,,,0
+Tradehome,17306,South Towne Center,10450 South State St,Sandy,UT,84070,United States,,40.5640543,-111.8908322,,,0
+Tradehome,17305,University Mall,575 E  University Pkwy ,Orem,UT,84097,United States,,40.2734656,-111.6818389,,,0
+Scheels All Sports,17728,1200 Scheels Drive,,Sparks,NV,89431,United States,775-331-2700,39.530675,-119.721654,,,0
+Tradehome,17279,Columbia Mall,2800 Columbia Rd ,Grand Forks,ND,58201,United States,,47.8921614,-97.0666391,,,0
+Scheels All Sports,17707,505 Center Ave,,Moorhead,MN,56560,United States,218-233-2751,46.8750512,-96.7723663,,,0
+Tradehome,17237,Kandi Mall,1605 S 1St,Willmar,MN,56201,United States,,45.1063923,-95.0426902,,,0
+Tradehome,17223,Crossroads Shopping Ctr,4101 Division St ,St Cloud,MN,56301,United States,,45.5534013,-94.2086731,,,0
+Nordstrom,8087,Anchorage,603 D Street,Anchorage,AK,99501,United States,907-279-7622,61.216295,-149.888084,,,0
+Dillards,8370,0920 Cottonwood Mall,10000 Coors Bypass,Albuquerque,NM,87114,United States,505-898-2530,35.1963301,-106.6591697,,,0
+Dillards,8371,0921 Winrock Center,2100 Louisiana Blvd Ne Ste 155,Albuquerque,NM,87110,United States,505-883-5900,35.0982328,-106.5686695,,,0
+Dillards,8042,0268 Shoppes At River Cross,5080 Riverside Drive Ste 800,Macon,GA,31210,United States,478-474-4545,32.9333239,-83.7155834,,,0
+Herberger&#39;s,9931,Rice Lake,2900 South Main,Rice Lake,WI,54868,United States,,45.4752952,-91.7354513,,,0
+Carson Pirie Scott,10048,Harlem-Irving,4200 N  Harlem Avenue,Harwood Heights,IL,60706,United States,,41.9575141,-87.8072113,,,0
+Carson Pirie Scott,10046,Gateway,120 South Riverside Plaza,Chicago,IL,60606,United States,,41.8803211,-87.6387004,,,0
+Dillards,8339,Midland Park Mall,4511 N Midkiff,Midland,TX,79705,United States,915-697-7911,32.0294859,-102.1280511,,,0
+Dillards,8340,Music City Mall,4101 E  42Nd St Suite 108,Odessa,TX,79762,United States,915-362-1986,31.8916335,-102.342615,,,0
+Dillards,8311,Midway Mall,4800 Texoma Parkway Suite 40,Sherman,TX,75090,United States,903-868-1065,33.6854573,-96.5829112,,,0
+Dillards,8341,Longview Mall,3500 Mccann Road,Longview,TX,75605,United States,903-758-4436,32.5397092,-94.7543392,,,0
+Elder-Beerman,9885,Kohler,4030 Hwy 28,Kohler,WI,53085,United States,,43.717986,-87.763838,,,0
+Elder-Beerman,13490,West Bend,1301 West Paradise Dr ,West Bend,WI,53095,United States,,43.3858364,-88.100333,,,0
+Elder-Beerman,9904,Midland Mall,6830 Eastman Rd ,Midland,MI,48642,United States,,43.6583403,-84.2471443,,,0
+Carson Pirie Scott,10055,Hawthorn,3 Hawthorne Center,Vernon Hills,IL,60061-1520,United States,,42.245448,-87.947014,,,0
+Dillards,8414,South Plains Mall,6002 Slide Road Loop 289,Lubbock,TX,79414,United States,806-792-6871,33.540322,-101.924996,,,0
+Dillards,8336,Sikes Center,3111 Midwestern Pkwy,Wichita Falls,TX,76308,United States,940-692-9310,33.8704879,-98.5328182,,,0
+Dillards,8338,Sunset Mall,4001 Sunset Drive,San Angelo,TX,76904,United States,325-944-4571,31.4284892,-100.4959095,,,0
+Tradehome,17251,Garden City Plaza,2214 E Kansas Ave,Garden City,KS,67846,United States,,37.977593,-100.8440135,,,0
+Dillards,8299,Sooner Fashion Mall,3499 West Main,Norman,OK,73072,United States,405-329-2600,35.2184838,-97.4930297,,,0
+Tradehome,17219,Sooner Mall,3301 West Main St ,Norman,OK,73072,United States,,35.218467,-97.4910261,,,0
+Dillards,8298,Penn Square Mall,1901 Nw Expressway Suite 1001,Oklahoma City,OK,73118,United States,405-840-8495,35.5226935,-97.5441444,,,0
+Dillards,8297,Quail Springs Mall,2501 West Memorial,Oklahoma City,OK,73134,United States,405-755-5220,35.61379,-97.56093,,,0
+Macy&#39;s,7999,Penn Square ,1901 N.W. Expressway,Oklahoma City,OK,73118,United States,405-541-2724,35.5226935,-97.5441444,,,0
+Tradehome,17296,Quail Springs Mall,2501 W Memorial Rd,Oklahoma City,OK,73134,United States,,35.61379,-97.56093,,,0
+Tradehome,17309,Pueblo Mall,3429 Dillon Drive,Pueblo,CO,81008,United States,,38.2956863,-104.6057589,,,0
+Dillards,8305,Ridgmar Mall,1700 Green Oaks Road,Fort Worth,TX,76116,United States,817-731-4711,32.742701,-97.437029,,,0
+Dillards,8300,Shawnee Mall,4901 N  Kickapoo St ,Shawnee,OK,74804,United States,405-273-1500,35.3859791,-96.929768,,,0
+Tradehome,17263,Foothills Fashion Mall,215 E  Foothills Pkwy ,Fort Collins,CO,80525,United States,,40.54228,-105.072628,,,0
+Nordstrom,8102,Flatiron Crossing,21 West Flatiron Crossing Driv,Broomfield,CO,80021,United States,720-887-0333,39.9302602,-105.1305263,,,0
+Nordstrom,8107,Flatiron Marketplace,130 East Flatiron Crossing Dri,Broomfield,CO,80021,United States,720-887-3588,39.9313647,-105.1255273,,,0
+Macy&#39;s,7960,Apache,901 Apache Mall,Rochester,MN,55902,United States,507-280-5400,44.0019584,-92.4816754,,,0
+Nordstrom,8154,Chandler Fashion Center,3199 W Chandler Blvd,Chandler,AZ,85226,United States,480-855-2500,33.303106,-111.901049,,,0
+Nordstrom,8153,Fashion Square,7055 E Camelback Rd,Scottsdale,AZ,85251,United States,480-946-4111,33.5021584,-111.9291524,,,0
+Dillards,8375,0925 Mesilla Valley,700 S Telshor Blvd ,Las Cruces,NM,88011,United States,505-522-5400,32.3134546,-106.7427138,,,0
+Dillards,8376,0926 Sunland Park Mall,750 Sunland Park Drive,El Paso,TX,79912,United States,915-833-8100,31.816812,-106.543191,,,0
+Dillards,8374,0924 Cielo Vista Mall,8401 Gateway West,El Paso,TX,79925,United States,915-779-6969,31.77645,-106.379317,,,0
+Elder-Beerman,9908,Dekalb,2550 Sycamore Rd  ,Dekalb,IL,60115,United States,,41.9519243,-88.7258843,,,0
+Carson Pirie Scott,10030,Spring Hill,4000 Spring Hill Mall,West Dundee,IL,60118,United States,,42.0997697,-88.2893158,,,0
+Scheels All Sports,17711,2101 W 41St St ,,Sioux Falls,SD,57105,United States,605-334-7767,43.5148418,-96.7511009,,,0
+Scheels All Sports,17710,4400 Sergeant Rd,,Sioux City,IA,51106,United States,712-252-1551,42.4477617,-96.3482118,,,0
+Bon-Ton,13465,West Manchester Mall,1800 Loucks Road,York,PA,17408,United States,,39.9741104,-76.7716383,,,0
+Tradehome,17222,Lakewood Mall,3315 6Th Ave Se,Aberdeen,SD,57401,United States,,45.4591124,-98.4422721,,,0
+Dillards,8041,0266 The Forum At Ashley P,370 Newnan Crossing Bypass,Newnan,GA,30265,United States,770-254-0166,33.3555641,-84.7655139,,,0
+Dillards,8269,0453 Regency Square Mall,301 Coxcreek Pkwy,Florence,AL,35630,United States,256-766-8200,34.8365527,-87.6312488,,,0
+Tradehome,17288,West Acres,3902 13Th Ave  Sw,Fargo,ND,58103,United States,,46.860817,-96.845179,,,0
+Tradehome,17255,Watertown Mall,1300 9Th Ave  Se,Watertown,SD,57201,United States,,44.8900958,-97.0955309,,,0
+Carson Pirie Scott,10057,Lincolnwood,3333 West Touhy,Lincolnwood,IL,60712,United States,,42.011269,-87.71207,,,0
+Bon-Ton,9808,York Galleria,8 Galleria Mall,York,PA,17402-8947,United States,,39.990568,-76.670668,,,0
+Macy&#39;s,7840,Palm Desert,72-780 Highway 111,Palm Desert,CA,92260-4001,United States,760-346-9300,33.72161,-116.382509,,,0
+Dillards,8247,0426 Governor S Square,2801 Wilma Rudolph Blvd,Clarksville,TN,37040,United States,931-648-3511,36.587162,-87.289094,,,0
+Dillards,8246,0425 Coolsprings Galleria,1796 Galleria Blvd ,Franklin,TN,37067,United States,615-771-7101,35.956486,-86.812653,,,0
+Carson Pirie Scott,10059,St  Charles,3850 East Main Street,St Charles,IL,60174,United States,,41.9213006,-88.2653586,,,0
+Sole Mates,17703,151 Mill St ,,Grass Valley,CA,95945,United States,530-477-1015,39.217723,-121.062787,,,0
+Dillards,8323,Valle Vista Mall,2004 S  Expressway 83,Harlingen,TX,78552,United States,956-428-8181,26.1790472,-97.7102789,,,0
+Dillards,8324,Sunrise Mall,2340 N  Expressway,Brownsville,TX,78526,United States,956-546-4581,25.9507644,-97.5047108,,,0
+Dillards,8332,Victoria Mall,7800 Navarro,Victoria,TX,77904,United States,316-576-5261,28.865766,-96.996768,,,0
+Dillards,8319,Rolling Oaks Mall,6909 Loop 1604 East,San Antonio,TX,78266,United States,210-651-5033,29.5964294,-98.3544951,,,0
+Dillards,8318,The Shops At La Canter,15900 La Cantera Pkwy,San Antonio,TX,78256,United States,210-558-6121,29.5892284,-98.6196236,,,0
+Nordstrom,8210,La Cantera,15900 La Cantera Pkwy,San Antonio,TX,78256,United States,210-332-1900,29.5892284,-98.6196236,,,0
+Dillards,8345,West Oaks,900 West Oaks Mall,Houston,TX,77082,United States,281-558-4431,29.731012,-95.648724,,,0
+Nordstrom,8208,Barton Creek Square,2901 Capital Of Texas Hwy,Austin,TX,78746,United States,512-691-3500,30.3272602,-97.8112585,,,0
+Nordstrom,8206,Houston Galleria,5192 Hidalgo St,Houston,TX,77056,United States,832-201-2700,29.735821,-95.464207,,,0
+Dillards,8347,Post Oak,4925 Westheimer,Houston,TX,77056,United States,713-622-1200,29.739404,-95.459818,,,0
+Dillards,8344,Willowbrook,7925 Fm 1960 West,Houston,TX,77070,United States,281-890-9200,29.9615784,-95.5460916,,,0
+Carson Pirie Scott,10031,Randhurst,999 North Elmhurst Road,Mount Prospect,IL,60056,United States,,42.0831682,-87.936715,,,0
+Carson Pirie Scott,10061,Streets Of Woodfield,601 North Martingale Road,Schaumburg,IL,60173,United States,,42.0379303,-88.0354274,,,0
+Carson Pirie Scott,10045,Stratford Square,4 Stratford Square,Bloomingdale,IL,60108,United States,,41.9514545,-88.1143731,,,0
+Macy&#39;s,7953,Grand Traverse,3400 South Airport Road W.,Traverse City,MI,49684,United States,231-929-6800,44.7227823,-85.6441333,,,0
+Macy&#39;s,7950,Fashion Square Mall,4750 Fashion Square Mall,Saginaw,MI,48604,United States,989-797-6300,43.4774878,-83.9748036,,,0
+Macy&#39;s,7948,Genesee Valley Center,4600 Miller Road,Flint,MI,48507,United States,810-230-5700,42.979315,-83.769207,,,0
+Macy&#39;s,7954,Lansing,5700 W. Saginaw Hwy.,Lansing,MI,48917,United States,517-886-4400,42.7410265,-84.6292486,,,0
+Macy&#39;s,7949,Meridian Mall,1982 W. Grand River,Okemos,MI,48864,United States,517-347-4400,42.720458,-84.4196654,,,0
+Macy&#39;s,7945,Birchwood,4440 24Th Avenue,Fort Gratiot,MI,48059,United States,810-385-2400,43.037777,-82.4566613,,,0
+Elder-Beerman,9898, Howell,3599 East Grand River Ave ,Howell,MI,48843,United States,,42.591379,-83.882643,,,0
+Macy&#39;s,7938,Lakeside Mall,14200 Lakeside Circle,Sterling Heights,MI,48313,United States,586-566-2800,42.623537,-82.985607,,,0
+Macy&#39;s,7942,Northland Center,21500 Northwestern Highway,Southfield,MI,48075,United States,248-443-6000,42.451398,-83.205315,,,0
+Macy&#39;s,7955,Lakeview Square ,5725 Beckley Road,Battle Creek,MI,49015,United States,269-979-5800,42.2610427,-85.1844802,,,0
+Elder-Beerman,9905,Jackson,1826 W  Michigan Ave ,Jackson,MI,49202,United States,,42.2474292,-84.4353645,,,0
+Macy&#39;s,7939,Eastland Center Mall,18000 Vernier Road,Harper Woods,MI,48225,United States,313-245-2200,42.4499142,-82.9342137,,,0
+Macy&#39;s,7946,Briarwood,700 Briarwood Circle,Ann Arbor,MI,48108,United States,734-998-5000,42.241582,-83.745506,,,0
+Macy&#39;s,7943,Fairlane Town Center,18900 Michigan Avenue,Dearborn,MI,48126,United States,313-436-7600,42.3096752,-83.2219712,,,0
+Tradehome,17234,Chapel Hills Mall,829-1710 Briargate Blvd,Colorado Springs,CO,80920-3441,United States,,38.94516,-104.800639,,,0
+Dillards,8264,0448 Asheville Mall, 3 South Tunnel Road,Asheville,NC,28805,United States,828-298-2611,35.5849796,-82.5275667,,,0
+Tradehome,17254,Paul Bunyan Mall,Irvine Ave ,Bemidji,MN,56601,United States,,47.494508,-94.899012,,,0
+Nordstrom,8104,Cherry Creek,2810 East 1St Avenue ,Denver,CO,80206,United States,720-746-2424,39.717062,-104.955379,,,0
+Nordstrom,8201,North East Mall,1101 Melbourne Rd,Hurst,TX,76053,United States,817-590-2599,32.830764,-97.199433,,,0
+Elder-Beerman,9903,Benton Harbor,1800 Pipestone Rd ,Benton Harbor,MI,49022,United States,,42.0857882,-86.4196809,,,0
+Elder-Beerman,9901,Adrian,1357 S  Main St ,Adrian,MI,49221,United States,,41.880238,-84.0432601,,,0
+Dillards,8191,Westfield Shoppingto,5001 Monroe,Toledo,OH,43623,United States,419-473-9600,41.697698,-83.641437,,,0
+Dillards,8194,Fallen Timbers Mall,3100 Main Street Suite 600,Maumee,OH,43537-7500,United States,419-878-2729,41.546944,-83.705995,,,0
+Elder-Beerman,9897,Bowling Green,1234 N  Main St ,Bowling Green,OH,43402,United States,,41.3973367,-83.6505973,,,0
+Dillards,8172,Great Lakes,7850 Mentor Ave ,Mentor,OH,44060,United States,440-255-5651,41.6610752,-81.3607785,,,0
+Dillards,8179,Great Northern Mall,25188 Country Club Blvd,North Olmsted,OH,44070,United States,440-777-0822,41.4141817,-81.9045778,,,0
+Dillards,8177,Beachwood Place,26500 Cedar Road,Beachwood,OH,44122,United States,216-464-6000,41.498819,-81.492123,,,0
+Carson Pirie Scott,10054,Michigan City,305 West Us 20,Michigan City,IN,46360,United States,,41.6803101,-86.8979299,,,0
+Dillards,8412,Southpark Center,16996 South Park Center,Strongsville,OH,44136,United States,440-846-8718,41.309277,-81.818437,,,0
+Dillards,8343,The Woodlands,1201 Lake Woodlands Dr Ste 4,Spring,TX,77380,United States,281-363-9300,30.166081,-95.454372,,,0
+Dillards,8325,Richland Fashion Mall,6001 West Waco Drive,Waco,TX,76710,United States,254-776-3560,31.5135816,-97.1879947,,,0
+Macy&#39;s,7847,North County Fair Mall,220 E. Via Rancho Parkway,Escondido,CA,92025,United States,760-489-2336,33.0684765,-117.0662036,,,0
+Scheels All Sports,17721,1850 Adams St    6,,Mankato,MN,56001,United States,507-386-7767,44.173232,-93.955057,,,0
+Carson Pirie Scott,10050,North Riverside,7505 West Cermak Road,Riverside,IL,60546,United States,,41.850202,-87.8101368,,,0
+Dillards,8285,0472 Greenbrier Mall,1401 Greenbrier Parkway,Chesapeake,VA,23320,United States,757-523-9031,36.776186,-76.227257,,,0
+Dillards,8284,0471 Lynnhaven Mall,701 Lynnhaven Parkway,Virginia Beach,VA,23452,United States,757-463-4800,36.8198548,-76.0670532,,,0
+Dillards,8283,0470 Macarthur Center,200 Monticello Ave,Norfolk,VA,23510,United States,757-622-6800,36.8478309,-76.2905034,,,0
+Dillards,8286,0473 Chesapeake Square,4200 Portsmouth Blvd Suite 2,Chesapeake,VA,23321,United States,757-465-4167,36.8231908,-76.4149069,,,0
+Dillards,8282,0469 Westfield Independenc,3500 Oleander Drive,Wilmington,NC,28403,United States,910-796-0187,34.217336,-77.9071347,,,0
+Dillards,8277,0463 Coastal Grand,100 Coastal Grand Circle,Myrtle Beach,SC,29577-9738,United States,843-839-2917,33.70109,-78.927345,,,0
+Dillards,8276,0462 Northwood Mall,2150 Northwood Blvd,North Charleston,SC,29406-4006,United States,843-553-6363,32.943398,-80.04173,,,0
+Cabela&#39;s,17670,100 Cabela Drive,,Hamburg,PA,19526-8777,United States,610-929-7000,40.557455,-76.003396,,,0
+Dillards,8315,Shops At Willowbend,2501 Dallas Parkway,Plano,TX,75093,United States,972-202-4730,33.0351698,-96.8299189,,,0
+Carson Pirie Scott,10049,Matteson,300 Lincoln Mall,Matteson,IL,60443,United States,,41.503754,-87.730007,,,0
+Macy&#39;s,7959,Maplewood,3001 White Bear Avenue,Maplewood,MN,55109,United States,651-773-6600,45.0316294,-93.0181332,,,0
+Macy&#39;s,7961,St. Paul (Downtown),411 Cedar St,St Paul,MN,55101,United States,651-292-5222,44.947194,-93.095018,,,0
+Macy&#39;s,7962,Southdale Center,100 Southdale Center,Minneapolis,MN,55435,United States,952-924-6600,44.881447,-93.326449,,,0
+Nordstrom,8100,Park Meadows, 8465 Park Meadows Center Driv,Littleton,CO,80124,United States,303-799-3400,39.561302,-104.874991,,,0
+Tradehome,17227,Viking Plaza,3015 Hwy 29 S ,Alexandria,MN,56308,United States,,45.8626591,-95.3828587,,,0
+Tradehome,17268,Empire Mall,4001 W 41St,Sioux Falls,SD,57106,United States,,43.5148311,-96.7745202,,,0
+Tradehome,17276,Conestoga Mall,3404 W 13Th St ,Grand Island,NE,68803,United States,,40.931812,-98.382168,,,0
+Macy&#39;s,7906,Hawthorn Center,1 Hawthorn Center,Vernon Hills,IL,60061,United States,847-918-2700,42.2411642,-87.9475353,,,0
+Tradehome,17243,Hilltop Mall,5019 2Nd Ave ,Kearney,NE,68847,United States,,40.7236395,-99.0837864,,,0
+Macy&#39;s,7822,Valencia Town Center,26450 Mcbean Parkway,Santa Clarita,CA,91355,United States,661-287-5911,34.411217,-118.5586878,,,0
+Scheels All Sports,17724,17202 Davenport St ,,Omaha,NE,68118,United States,402-289-9543,41.261812,-96.183567,,,0
+Tradehome,17272,Southwest Plaza,8501 W  Bowles Ave ,Littleton,CO,80123,United States,,39.612034,-105.096006,,,0
+Dillards,8034,0258 Miami International M,1275 Nw 107Th Ave,Miami,FL,33172,United States,305-513-4007,25.7846517,-80.3685249,,,0
+Dillards,8031,0254 Boynton Beach,801 N Congress Av,Boynton Beach,FL,33426,United States,561-732-4285,26.5354222,-80.0907592,,,0
+Dillards,8033,0256 Wellington Green,10304 Forest Hills Blvd,Wellington,FL,33414-3106,United States,561-227-5470,26.650833,-80.20758,,,0
+Dillards,8032,0255 Palm Beach Mall,1801 Palm Beach Lks Blvd   600,West Palm Beach,FL,33401,United States,561-478-7789,26.7244611,-80.0573706,,,0
+Dillards,7475,Brandon Town Center,303 Brandon Town Center Ma,Brandon,FL,33511-4723,United States,813-653-4436,27.93567,-82.325343,,,0
+Dillards,7474,Citrus Park Town Cent,8161 Citrus Park Town Ctr Ma,Tampa,FL,33625,United States,813-926-4545,28.066372,-82.573321,,,0
+Dillards,7477,Countryside Mall,27001 Us Highway 19 N,Clearwater,FL,33761-3414,United States,727-796-2242,28.017602,-82.737383,,,0
+Macy&#39;s,7977,Monmouth Mall,Monmouth Mall,Eatontown,NJ,07724,United States,732-542-1212,40.297791,-74.055283,,,0
+Macy&#39;s,7952,Rivertown Crossings,3850 Rivertown Parkway,Grandville,MI,49418,United States,616-257-4900,42.8822834,-85.7585826,,,0
+Macy&#39;s,7944,Summit Place Mall,269 North Telegraph Rd.,Waterford,MI,48328,United States,734-374-5030,42.642407,-83.3260439,,,0
+Macy&#39;s,7935,Somerset Collection,2750 West Big Beaver Road,Troy,MI,48084,United States,248-816-4000,42.5629,-83.182504,,,0
+Macy&#39;s,7937,Oakland Mall,500 W. 14 Mile Road,Madison Heights,MI,48071,United States,248-597-2200,42.5342157,-83.1030378,,,0
+Dillards,8231,Pinnacle Hills Pomena,2101 Promenade Blvd,Rogers,AR,72758,United States,479-936-7984,36.3138745,-94.1792712,,,0
+Dillards,8219,Northwest Arkansas P,4201 N Shiloh,Fayetteville,AR,72703,United States,501-521-7171,36.1297253,-94.1458824,,,0
+Dillards,8047,0275 Peachtree Mall,3247 Manchester Expressway,Columbus,GA,31909,United States,706-324-7272,32.5074609,-84.9395777,,,0
+Dillards,8048,0276 Albany Mall,2601 Dawson Rd,Albany,GA,31707,United States,912-883-7900,31.6134997,-84.2158066,,,0
+Elder-Beerman,9888,Coldwater,110 N  Willowbrook Rd,Coldwater,MI,49036,United States,,41.9400146,-84.971258,,,0
+Elder-Beerman,9902,Monroe,2121 N  Monroe St ,Monroe,MI,48162,United States,,41.9447246,-83.3848982,,,0
+Elder-Beerman,9899,Westgate,3311 Secor Rd ,Toledo,OH,43606,United States,,41.6814774,-83.6228148,,,0
+Elder-Beerman,9900,Woodville,3725 Williston Rd ,Northwood,OH,43619,United States,,41.600546,-83.4610966,,,0
+Elder-Beerman,9920,Elkhart,3701 South Main,Elkhart,IN,46517,United States,,41.6421823,-85.9281536,,,0
+Carson Pirie Scott,10053,River Oaks,146 River Oaks Drive,Calumet City,IL,60409,United States,,41.5968637,-87.5304792,,,0
+Dillards,8287,0474 Patrick Henry Mall,12300 Jefferson Avenue Suite,Newport News,VA,23602,United States,757-930-0291,37.1104156,-76.4977978,,,0
+Dillards,8290,0479 Stony Point,9208 Stony Point Parkway,Richmond,VA,23235,United States,804-253-1860,37.551917,-77.573431,,,0
+Dillards,8289,0478 Virginia Center Comm,10101 Brook Road,Glen Allen,VA,23059,United States,804-264-9495,37.676671,-77.456552,,,0
+Dillards,8288,0476 Short Pump Town Cent,11824 W Broad Street,Richmond,VA,23233,United States,804-253-0182,37.6538176,-77.6219542,,,0
+Bon-Ton,9810,Susquehanna Valley Mall,,Selinsgrove,PA,17870,United States,,40.825629,-76.849119,,,0
+Dillards,8270,0454 Colonial Mall,1801 Beltline Rd Sw,Decatur,AL,35601,United States,256-350-3450,34.5745835,-87.0170699,,,0
+Dillards,8312,The Parks At Arlingto,3821 South Cooper,Arlington,TX,76015,United States,817-465-0718,32.681141,-97.131069,,,0
+Dillards,8309,Vista Ridge Mall,2401 S  Stemmons Freeway,Lewisville,TX,75067,United States,972-315-3333,33.0060948,-96.9717545,,,0
+Dillards,8188,Eastwood Mall,5555 Youngstown-Warren Ro,Niles,OH,44446,United States,330-544-1016,41.2109448,-80.7524785,,,0
+Dillards,8183,Belden Village,4400 Belden Village Mall,Canton,OH,44718,United States,330-494-3050,40.858625,-81.4272803,,,0
+Dillards,8273,0459 Aiken Mall,2441 Whiskey Rd  169,Aiken,SC,29803,United States,803-649-1141,33.5103294,-81.7126565,,,0
+Dillards,8316,Stonebriar Centre,2603 Preston Road,Frisco,TX,75034,United States,214-705-8065,33.1009961,-96.805789,,,0
+Tradehome,17273,Central Mall,2259 S  9Th,Salina,KS,67401,United States,,38.8025109,-97.6126516,,,0
+Macy&#39;s,8000,Woodland Hills ,8707 E. 71St Street,Tulsa,OK,74133,United States,918-250-2924,36.062751,-95.878798,,,0
+Carson Pirie Scott,10051,Southlake Mall,1995 Southlake Mall,Merrillville,IN,46410,United States,,41.4704524,-87.3080731,,,0
+Tradehome,17240,Westwood Mall,3020 Us 41 W ,Marquette,MI,49855,United States,,46.5494061,-87.4618948,,,0
+Tradehome,17253,Delta Plaza,301 North Lincoln Road,Escanaba,MI,49829,United States,,45.7480133,-87.0796762,,,0
+Tradehome,17224,Pine Tree Mall,2606 Roosevelt Rd,Marinette,WI,54143,United States,,45.0796422,-87.6599801,,,0
+Tradehome,17216,Wausau Mall,3Rd   Washington Strs  ,Wausau ,WI,54403,United States,,44.95906,-89.627936,,,0
+Tradehome,17218,Miller Hill Mall,1600 Miller Trunk Hwy,Duluth,MN,55811,United States,,46.8066388,-92.1608579,,,0
+Tradehome,17294,Bay Park Square,303 Bay Park Square,Green Bay,WI,54304,United States,,44.4846047,-88.0677431,,,0
+Younker&#39;s,10005,Bay Park,101 Bay Park Square,Green Bay,WI,54304,United States,,44.4845533,-88.0675967,,,0
+Tradehome,17214,Thunderbird Mall,1431 S 12Th Ave ,Virginia,MN,55792,United States,,47.5120573,-92.5519291,,,0
+Tradehome,17209,Grand Traverse Mall,3200 W South Airport Rd,Traverse City,MI,49684,United States,,44.7227573,-85.6398311,,,0
+Tradehome,17235,Fox River Mall,4301 West Wisconsin Ave ,Appleton,WI,54913,United States,,44.2729961,-88.4709778,,,0
+Scheels All Sports,17716,4301 W  Wisconsin Ave,,Appleton,WI,54913,United States,920-830-2977,44.267821,-88.473072,,,0
+Tradehome,17247,Cedar Mall Shopping Ctr,2900 So Main St ,Rice Lake,WI,54868,United States,,45.4752952,-91.7354513,,,0
+Scheels All Sports,17718,4710 Golf Road,,Eau Claire,WI,54701,United States,715-833-1886,44.7781449,-91.4342734,,,0
+Tradehome,17210,Oakwood Mall,4800 Golf Rd ,Eau Claire,WI,54701,United States,,44.7765241,-91.4366695,,,0
+Tradehome,17211,Valley View Mall,3800 Us Hwy 16,La Crosse,WI,54601-1807,United States,,43.866521,-91.20224,,,0
+Macy&#39;s,7825,Sherman Oaks Fashion Square,14000 Riverside Dr,Sherman Oaks,CA,91423,United States,818-788-8350,34.156986,-118.435325,,,0
+Scheels All Sports,17723,2960 Pine Lake Road,,Lincoln,NE,68516,United States,402-420-9000,40.740968,-96.6770066,,,0
+Dillards,8248,0427 Stones River Mall,1720 Old Fort Pkwy,Murfreesboro,TN,37129,United States,615-867-2100,35.848232,-86.418499,,,0
+Elder-Beerman,9875,Defiance,1500 N  Clinton,Defiance,OH,43512,United States,,41.3041387,-84.3608693,,,0
+Dillards,8241,North Park,1200 County Line Rd ,Ridgeland,MS,39157,United States,601-957-7100,32.3995968,-90.1322451,,,0
+Macy&#39;s,7841,Victoria Gardens Mall,7855 Kew Ave,Rancho Cucamonga,CA,91739,United States,909-646-3333,34.110862,-117.530194,,,0
+Nordstrom,8113,Mall Of America,1000 Nw Court ,Bloomington,MN,55425-5507,United States,952-883-2121,44.85564,-93.243805,,,0
+Tradehome,17226,Yankton Mall,2101 Broadway Ave,Yankton,SD,57078,United States,,42.8906796,-97.3972249,,,0
+Younker&#39;s,9987,Sioux Falls,3500 Empire Mall,Sioux Falls,SD,57106,United States,,43.5084101,-96.7756426,,,0
+Tradehome,17299,Northtown Mall,101 Northtown Dr ,Minneapolis,MN,55434,United States,,45.129077,-93.2611923,,,0
+Macy&#39;s,7998,Franklin Park ,5001 Monroe Street,Toledo,OH,43623,United States,419-479-2300,41.697698,-83.641437,,,0
+Macy&#39;s,7849,Plaza Bonita,3000 Plaza Bonita Road,National City,CA,91950,United States,619-267-3500,32.657964,-117.066312,,,0
+Macy&#39;s,7839,Temecula Promenade,40782 Winchester Rd,Temecula,CA,92591,United States,951-541-3333,33.5265109,-117.1575721,,,0
+Dillards,8272,0457 Augusta Mall,3450 Wrightsboro Rd,Augusta,GA,30909,United States,706-481-0600,33.4673046,-82.0803702,,,0
+Nordstrom,8157,Broadway Plaza,1200 Broadway Plaza,Walnut Creek,CA,94596,United States,925-930-7959,37.897155,-122.058214,,,0
+Tradehome,17229,The Mall,2900 Vine St ,Hays,KS,67601,United States,,38.8882367,-99.3178017,,,0
+Tradehome,17270,Sunset Plaza Mall,1700 Market Lane,Norfolk,NE,68701,United States,,42.0188775,-97.4324486,,,0
+Carson Pirie Scott,10042,Yorktown,230 Yorktown Center,Lombard,IL,60148,United States,,41.8427988,-88.0054457,,,0
+Dillards,8313,Uptown Village,309 West Fm1382,Cedar Hill,TX,75104,United States,972-293-0868,32.6027767,-96.9475735,,,0
+Carson Pirie Scott,10043,Woodmar,6600 Indianapolis Boulevard,Hammond,IN,46320,United States,,41.593857,-87.4809313,,,0

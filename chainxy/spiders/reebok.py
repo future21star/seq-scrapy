@@ -27,8 +27,23 @@ class ReebokSpider(scrapy.Spider):
 					addr = store['address'].replace('<br>', ' ')
 					item['address'] = addr.split(",")[0].replace('    ', " ").strip()
 					item['city'] = store['location']
-					item['state'] = addr.split(',')[-1].split("    ")[0].strip()
-					item['zip_code'] = addr.split(',')[-1].split("    ")[-1].strip()
+					if 'Suite' in addr.split(',')[1] or 'Unit' in addr.split(',')[1] or 'Cookstown' in addr.split(',')[1] or '#A4' in addr.split(',')[1]:
+						state_zip = "    ".join(addr.split(',')[2:])
+						if "\r\n" in state_zip:
+							state_zip = state_zip.split("    ")[-1]
+							item['state'] = state_zip.split("\r\n")[0].strip()
+							item['zip_code'] = state_zip.split("\r\n")[-1].strip()
+						else:
+							item['state'] = state_zip.split("    ")[0].strip()
+							item['zip_code'] = state_zip.split("    ")[-1].strip()							
+					else:
+						state_zip = "    ".join(addr.split(',')[1:])
+						item['state'] = state_zip.split("    ")[0].strip()
+						item['zip_code'] = state_zip.split("    ")[-1].strip()
+					# if item['state'] == 'L0S 1J0':
+					# 	pdb.set_trace()
+					# if 'J0R 1R3' in item['state']:
+					# 	pdb.set_trace() 
 					item['country'] = "Canada" 
 					item['phone_number'] = store['phone'].replace('.', '-')
 					item['store_hours'] = store['hours'].replace("    ", ";").replace('<  br>', ';').replace('<br   >', ';').replace('<br>', ';')
@@ -39,6 +54,7 @@ class ReebokSpider(scrapy.Spider):
 					item['coming_soon'] = 0
 					yield item
 			except:
+				pdb.set_trace()
 				pass			
 
 		def validate(self, xpath):
