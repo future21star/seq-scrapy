@@ -1,0 +1,5 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"West Allis, WI West Allis Town Center",5141,6718 W Greenfield Avenue,,West Allis,WI,53214,Canada,(414) 771-3032,43.017972,-87.996485,Mo-We 09:30-20:30;Th-Fr 09:30-21:00;Sa 08:30-20:30;Su 10:00-18:00,,0
+"Vienna, WV Grand Central Mall",959,400 Grand Central Mall,,Vienna,WV,26105,Canada,(304) 422-0117,39.302181,-81.552261,Mo-We 09:30-20:30;Th-Fr 09:30-21:00;Sa 08:30-20:30;Su 10:00-18:00,,0
+"Woodinville, WA Downtown Woodinville Shopping Center",471,18027 Garden Way NE,,Woodinville,WA,98072,Canada,(425) 485-9303,47.758284,-122.15649,Mo-We 09:30-20:30;Th-Fr 09:30-21:00;Sa 08:30-20:30;Su 10:00-18:00,,0
+"Woodbridge, VA Smoke Town Plaza",186,14026 Shoppers Best Way,,Woodbridge,VA,22192,Canada,(703) 583-6500,38.6502071,-77.299613,Mo-Fr 09:30-21:00;Sa 09:30-20:00;Su 10:00-17:00,,0

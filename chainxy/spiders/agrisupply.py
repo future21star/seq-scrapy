@@ -17,12 +17,13 @@ class AgrisupplySpider(scrapy.Spider):
 
 		def parse(self, response):
 			for store in response.xpath("//ul[@class='nav nav-pills nav-main']/li[5]/ul[1]/li/a/@href").extract():					
-				url = "http://www.agrisupply.com" + store
-				item = ChainItem()
-				item['store_number'] = store.split('/')[-2]
-				request = scrapy.Request(url=url, callback=self.parse_store)
-				request.meta['item'] = item
-				yield request
+				if "retail-store" in store:
+					url = "http://www.agrisupply.com" + store
+					item = ChainItem()
+					item['store_number'] = store.split('/')[-2]
+					request = scrapy.Request(url=url, callback=self.parse_store)
+					request.meta['item'] = item
+					yield request
 
 		def parse_store(self, store):
 				item = store.meta['item']
@@ -44,7 +45,6 @@ class AgrisupplySpider(scrapy.Spider):
 				item['other_fields'] = ""
 				item['coming_soon'] = 0
 				yield item		
-
 		def parse_hour(self, response):
 			try:
 				store = yaml.load(response.body.split("var locationList = '")[-1].split('},]}')[0] + '},]}')['locationData'][0]
