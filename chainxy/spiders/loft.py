@@ -71,6 +71,8 @@ class LoftSpider(scrapy.Spider):
 		self.place_reader = json.load(place_file)
 		
 	def start_requests(self):
+		puetrico_request_url = "https://annstorelocator.appspot.com/stores?callback=jQuery11010161914695897051_1496680397933&limit=100&lng=-67.11795110000003&lat=18.2896155&Company=ATL"
+		yield scrapy.Request(url=puetrico_request_url, callback=self.parse_store)
 		for info in self.place_reader:
 			request_url = "https://annstorelocator.appspot.com/stores?callback=jQuery11010161914695897051_1496680397933&limit=10000&lng=%s&lat=%s&Company=ATL" % (info['longitude'], info['latitude'])
 			yield scrapy.Request(url=request_url, callback=self.parse_store)
