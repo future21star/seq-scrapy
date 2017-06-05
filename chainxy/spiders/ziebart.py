@@ -33,7 +33,6 @@ class ZiebartSpider(scrapy.Spider):
 		def parse_store(self, response):
 			try:
 				store = response
-				pdb.set_trace()
 				item = ChainItem()
 				item['store_number'] = ""
 				item['store_name'] = self.validate(store.xpath('//span[@itemprop="name"]/text()'))
