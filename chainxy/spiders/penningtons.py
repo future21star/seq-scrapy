@@ -42,7 +42,7 @@ class PenningtonsSpider(scrapy.Spider):
 					item['phone_number'] = store['phone']
 					hours = etree.HTML(store['storeHours'])
 					hours = hours.xpath('.//text()')
-					store['hours'] = "".join(hours[1:]).replace('\n', ';')
+					store['store_hours'] = "".join(hours[1:]).replace('\n', ';')
 					item['latitude'] = store['latitude']
 					item['longitude'] = store['longitude']
 					#item['store_type'] = info_json["@type"]
