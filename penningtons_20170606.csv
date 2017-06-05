@@ -1,0 +1,83 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Cornerstone Prince Albert,5260,"800-15th Street East, Unit # 770",,Prince Albert,SK,S6V 8E3,Canada,306-763-1453,53.201161,-105.729032,,,0
+North Albert Shopping Centre,5117,450 Albert Street N.,,Regina,SK,S4R 3C1,Canada,306-924-4211,50.483793,-104.61851,,,0
+Smart Centres Regina East,5239,2034 Prince of Wales Drive,,Regina,SK,S4V 3A6,Canada,306-546-5003,50.447003,-104.53326,,,0
+Circle 8 Centre,5115,3120 8th Street East,,Saskatoon,SK,S7H 0W2,Canada,306-955-2728,52.113777,-106.607841,,,0
+Smart Centres Saskatoon West,5308,"205 Betts Ave., Bldg G, Unit # 110",,Saskatoon,SK,S7M 1L2,Canada,306-931-2060,52.128523,-106.759618,,,0
+Parkland Mall,5266,"277 Broadway Street East, Unit # 17A",,Yorkton,SK,S3N 3G7,Canada,306-783-0240,51.211467,-102.444742,,,0
+Carrefour de la Rive-Sud,5330,"582 Chemin de Touraine, Suite 1201",,Boucherville,QC,J4B 5E4,Canada,450-449-3681,45.572018,-73.405951,,,0
+Place du Royaume,5327,"1401, Boul. Talbot, Unit 170",,Chicoutimi,QC,G7H 5N6,Canada,418-545-3132,48.405373,-71.057396,,,0
+Centre Commercial Hull,5342,"75 Du Plateau Blvd., Local # 800",,Gatineau,QC,J9A 3G1,Canada,819-772-9142,45.435937,-75.773525,,,0
+Plaza Greber,5132,64 Greber Blvd.,,Gatineau,QC,J8T 3P8,Canada,819-568-0402,45.462928,-75.700043,,,0
+Granby Shopping Centre,5139,848 - 2 rue Principale,,Granby,QC,J2G 2Z2,Canada,450-375-8829,45.412765,-72.751143,,,0
+Complexe Joliette,5221,881 Blvd. Firestone,,Joliette,QC,J6E 2W4,Canada,450-760-2589,46.033902,-73.431412,,,0
+Centre Carnaval Lasalle,5129,"7401 Newman Blvd., Unit # 27-31",,LaSalle,QC,H8N 1X3,Canada,514-367-2111,45.440717,-73.620326,,,0
+Promenades St-Martin,5130,"1759 St-Martin West, Unit # 11/12",,Laval,QC,H7S 1N2,Canada,450-686-2884,45.567383,-73.729176,,,0
+Chemin Chambly,5329,2908 Chemin Chambly,,Longueuil,QC,J4L 1N1,Canada,450-674-6456,45.519747,-73.459265,,,0
+Smart Centre Mascouche,5216,129 Montee Masson,,Mascouche,QC,J7K 3B4,Canada,450-474-0200,45.723331,-73.619505,,,0
+Centre Terrarium,5351,"183H, boul. Hymus",,Pointe-Claire,QC,H9R 1E9,Canada,514-695-7860,45.462042,-73.818497,,,0
+Le 1100 Bouvier,5161,"1100 rue Bouvier, Unit # 300",,Quebec,QC,G2K 1L9,Canada,418-624-3230,46.828731,-71.28688,,,0
+Centre Smart Centres Rimouski,5225,407 Montee Industrielle et Commerciale,,Rimouski,QC,G5M 1Y1,Canada,418-723-2324,48.451036,-68.491877,,,0
+Place Rouanda,5286,"4-15e rue, Unit # 3",,Rouyn-Noranda,QC,J9X 2J8,Canada,819-797-5834,48.241237,-79.032343,,,0
+Mega Centre Rive-Sud,5283,"675 rue de la Concorde, Unit # B45",,Saint Romuald,QC,G6W 0A9,Canada,418-834-5566,46.728346,-71.27317,,,0
+Smart Centres Saint-Jean,5230,140 Omer-Marcil Street,,Saint-Jean-sur-Richelieu,QC,J2W 2X2,Canada,450-359-0187,45.332899,-73.295203,,,0
+Mega Centre St-Jerome,5207,1059 Blvd. Jean-Baptiste Rolland,,Saint-Jerome,QC,J7Y 4Y7,Canada,450-565-6864,45.768927,-74.019838,,,0
+St-Bruno,5196,1475 Blvd. St-Bruno,,St-Bruno,QC,J3V 6J1,Canada,450-441-8298,45.509354,-73.381666,,,0
+Smart Centres St-Constant,5242,"520 Voie de la Desserte, Local # 200 - Route 132",,St-Constant,QC,J5A 2S6,Canada,450-633-0466,45.389557,-73.571973,,,0
+Carrefour Carnaval,5150,6799 Jean Talon E.,,St-Leonard,QC,H1S 1N2,Canada,514-253-3269,45.59515,-73.572634,,,0
+rue des Forges,5149,5250 des Forges,,Trois-Rivieres,QC,G8Y 1X4,Canada,819-370-6765,46.362393,-72.594117,,,0
+Méga Centre Vaudreuil,5343,3120 boul. De la Gare,,Vaudreuil-Dorion,QC,J7V 0J5,Canada,450-455-1502,45.403411,-74.049016,,,0
+RioCan Durham Centre,5187,280 Kingston Road E. Unit # E3,,Ajax,ON,L1Z 1G1,Canada,905-426-2405,43.864743,-79.011766,,,0
+595 WEST STREET,5189,595 WEST STREET,,BRANTFORD,ON,N3R7C5,Canada,519.759.2950,43.169595,-80.246433,,,0
+Dunlop Village Plaza,5154,"Units 9-12, 304B Dunlop St. W.",,Barrie,ON,L4N 7L2,Canada,705-734-9011,44.381964,-79.707577,,,0
+Belleville Walmart Centre,5339,"264 Millenium Parkway, Unit 7",,Belleville,ON,K8N 4Z5,Canada,613-966-8331,44.193926,-77.395196,,,0
+Hwy. 410 & 7 Power Centre,5167,"150 West Drive, Unit # 11",,Brampton,ON,L6T 4P9,Canada,905-796-9958,43.705926,-79.73613,,,0
+1000 Island Mall,5273,2399 Parkedale Avenue,,Brockville,ON,K6V 3G9,Canada,613-342-8272,44.604673,-75.699325,,,0
+Smart Centres Burlington North & Northeast,5251,"4515 Dundas Street, RR1, Unit # 7",,Burlington,ON,L7M 5B4,Canada,905-336-8231,43.405744,-79.811225,,,0
+Hespeler Road,5131,"600 Hespeler Road, Unit # 52B",,Cambridge,ON,N1R6J8,Canada,519-624-2017,43.403734,-80.326724,,,0
+Thames-Lea Plaza,5232,615 Grand Avenue West,,Chatham,ON,N7L 1C5,Canada,519-354-9229,42.397352,-82.210768,,,0
+Brookdale Mall,5213,960 - T1 Brookdale Avenue,,Cornwall,ON,K6J 4P5,Canada,613-937-1816,45.023331,-74.751813,,,0
+Smart Centres Etobicoke - Index,5326,"160 North Queen St., Unit 3",,Etobicoke,ON,M9C 1A8,Canada,416-621-9477,43.618388,-79.55471,,,0
+Stone Square Shopping Centre,5217,"370 Stone Road West, Unit # 4",,Guelph,ON,N1G 4V9,Canada,519-821-2551,43.517372,-80.236994,,,0
+Hamilton Mountain Plaza,5337,"659 Upper James Street,",,Hamilton,ON,L9C 5R8,Canada,905-389-3326,43.236507,-79.877724,,,0
+Hamilton Walmart Centre,5347,2180 Rymal Road East,,Hamilton,ON,L0R 1P0,Canada,905-692-6240,43.173701,-79.78629,,,0
+Norwest Plaza,5158,"830 Norwest Road, Unit # 2",,Kingston,ON,K7P 2N4,Canada,613-389-4255,44.257936,-76.575926,,,0
+The Boardwalk at Ira Needles,5322,"230 The Boardwalk, Unit 5",,Kitchener,ON,N2N 0B1,Canada,519-578-0459,43.436803,-80.560632,,,0
+Wilson Avenue,5153,"509 Wilson Avenue, Unit # 20",,Kitchener,ON,N2C 2M4,Canada,519-894-3460,43.420027,-80.442474,,,0
+Kawartha Lakes Centre,5282,"363 Kent Street West, Unit # B45",,Lindsay,ON,K9V 2Z7,Canada,705-324-0423,44.349172,-78.755502,,,0
+Crossroads Centre,5108,"765 Exeter Road, Unit # 211",,London,ON,N6E 3T1,Canada,519-686-1782,42.924794,-81.218716,,,0
+Hyland Centre,5199,1737 Richmond Street,,London,ON,N5X 3Y2,Canada,519-850-1546,43.029328,-81.28416,,,0
+Smart Centres London East,5313,"340 Clarke Road, Unit #J2",,London,ON,N5W 5G1,Canada,519-453-9078,43.003346,-81.175122,,,0
+Heartland Town Centre,5241,"6075 Mavis Road, Unit # 10",,Mississauga,ON,L5R 4G6,Canada,905-712-4584,43.614594,-79.696927,,,0
+Chapman Mills Market Place,5250,"80 Market Place Avenue, Unit # 1",,Nepean,ON,K2J 5G3,Canada,613-823-7373,45.269992,-75.742939,,,0
+Yonge Crest Centre,5169,"18025 Yonge Street, Unit # 20/21",,Newmarket,ON,L3Y 8C9,Canada,905-836-4000,44.067226,-79.483337,,,0
+Smart Centres Niagara Falls,5311,"7481 OAKWOOD DRIVE,",,Niagra Falls,ON,L2E 6S5,Canada,905-371-2405,43.068157,-79.117976,,,0
+McKeown Plaza,5214,955 McKeown Avenue,,North Bay,ON,P1B 9P3,Canada,705-840-1110,46.333693,-79.469884,,,0
+Hyde Park Gate,5206,"2501 Hyde Park Gate, Unit # C1",,Oakville,ON,L6H 6G6,Canada,905-829-2659,43.515475,-79.688762,,,0
+RioCan West Ridge,5243,"3275 Monarch Drive, Unit # 4",,Orillia,ON,L3V 7Z4,Canada,705-329-7708,44.609079,-79.449813,,,0
+RioCan Orleans,5231,"2085 Tenth Line Road, Unit # 2",,Orleans,ON,K4A 4C5,Canada,613-841-9385,45.457854,-75.486104,,,0
+Island Plaza,5151,"560 King Street West, Unit # 1",,Oshawa,ON,L1J 7J1,Canada,905-571-2350,43.892859,-78.884487,,,0
+Smart Centres Oshawa North I,5331,"1405 Harmony Rd., Unit 3",,Oshawa,ON,L1H 7K5,Canada,905-434-4324,43.940884,-78.84982,,,0
+Walkley Road,5112,1620 Walkley Road,,Ottawa,ON,K1V 6P5,Canada,613-733-9710,45.377555,-75.645177,,,0
+Smart Centres Owen Sound,5253,"1969-16th Street East, Unit # 2",,Owen Sound,ON,N4K 5N3,Canada,519-371-0849,44.575168,-80.912213,,,0
+Pembroke Mall,5254,"1100 Pembroke Street E., Unit # 107",,Pembroke,ON,K8A 6Y7,Canada,613-735-7794,45.82055,-77.083929,,,0
+Willowcreek Centre,5191,400 Lansdowne Street E.,,Peterborough,ON,K9L 0B2,Canada,705-876-6318,44.29322,-78.289961,,,0
+Smart Centres Sarnia,5301,"1430 Quinn Drive, Unit #1",,Sarnia,ON,N7S 6M8,Canada,519-541-9091,42.986386,-82.351678,,,0
+Zellers Plaza,5172,306 Northern Avenue E.,,Sault Ste-Marie,ON,P6B 4H7,Canada,705-941-9119,46.534168,-84.31993,,,0
+RioCan Warden,5341,"816 Warden Avenue, Unit F2",,Scarborough,ON,M1L 4W1,Canada,416-285-6338,43.724015,-79.286068,,,0
+Smart Centres St.Catharines West I,5338,"420 Vansickle Road, Unit J4",,St. Catharines,ON,L2R 6P9,Canada,905-641-5526,43.1509,-79.270477,,,0
+Shoppes at Fairwinds,5325,"Phase I, 5685 Hazeldean Rd, Unit 1",,Stittsville,ON,K2S 0P6,Canada,613-831-3221,45.284416,-75.909846,,,0
+Centercount Shopping Centre,5148,"900 LaSalle Blvd., Unit E.",,Sudbury,ON,P3A 5W8,Canada,705-524-7598,46.522432,-80.960638,,,0
+Thornhill Plaza,5110,7691 Yonge Street,,Thornhill,ON,L3T 2C3,Canada,905-889-4714,43.815833,-79.424392,,,0
+Memorial Avenue,5155,864 Memorial Avenue,,Thunder Bay,ON,P7B 3Z9,Canada,807-345-8555,48.411435,-89.245266,,,0
+Timmins West Power Centre,5333,2125 Riverside Drive,,Timmins,ON,P4R 0A1,Canada,705-268-2289,48.472494,-81.401312,,,0
+Dufferin Mall,5193,"900 Dufferin Street, Unit # 366",,Toronto,ON,M6H 4A9,Canada,416-538-3883,43.656224,-79.435577,,,0
+Round House Centre,5176,"3155 Howard Avenue, Unit # 3",,Windsor,ON,N8X 4Y8,Canada,519-250-7196,42.274813,-83.005681,,,0
+Piazza del Sole,5197,"200 Windflower Gate, Unit # 100",,Woodbridge,ON,L4L 9L3,Canada,905-264-1815,43.791636,-79.55168,,,0
+Smart Centres Woodstock,5248,"519 Norwich Avenue, Unit #102",,Woodstock,ON,N4S 9A2,Canada,519-421-1911,43.114071,-80.73716,,,0
+Bedford Commons,5312,"181 Damascus Road, Unit # 8",,Bedford,NS,B4A 0C2,Canada,902-835-4165,44.75056,-63.645106,,,0
+Tacoma Plaza,5315,"50 Tacoma Drive, Unit # 2",,Dartmouth,NS,B2W 3E6,Canada,902-434-4474,44.6806,-63.540373,,,0
+Halifax Shopping Centre Annex,5237,"7010 Mumford Road, Unit #323",,Halifax,NS,B3L 4W7,Canada,902-453-5620,44.648715,-63.62169,,,0
+Commercial Street Plaza,5255,"9275 Commercial Street, CRU 3",,New Minas,NS,B4N 3G2,Canada,902-681-1468,45.06966,-64.441693,,,0
+Prince St. Plaza,5144,325 Prince Street,,Sydney,NS,B1P 5K6,Canada,902-539-9707,46.139653,-60.186429,,,0
+Smart Centres Truro,5236,140 Wade Road,,Truro,NS,B2N 0C7,Canada,902-893-2372,45.353431,-63.303337,,,0
