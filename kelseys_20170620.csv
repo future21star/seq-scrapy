@@ -1,0 +1,56 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,,302 Kenmount Rd,,St. John's,Newfoundland,A1B 3R2,Canada,709-722-8099,47.551546,-52.776093,,,0
+,,Fernie Alpine Resort,,Fernie,British Columbia,V0B 1M1,Canada,250-423-2444,49.4624760,-115.0870650,,,0
+,,405 Memorial Ave,,Orillia,Ontario,L3V 6H1,Canada,705-327-2900,44.5904018,-79.4245543,,,0
+,,115 Fifth Avenue,,Orangeville,Ontario,L9W 5B7,Canada,519-940-4004,43.9304869,-80.0931693,,,0
+,,301 Hays Blvd.,,Oakville,Ontario,L6H 6Z3,Canada,905-257-5313,43.4850840,-79.7167808,,,0
+,,4960 Clifton Hill,,Niagara Falls,Ontario,L2E 6S8,Canada,905-353-0051,43.0905400,-79.0765110,,,0
+,,18158 Yonge Street,,Newmarket,Ontario,L3Y 4V8,Canada,905-895-6336,44.0727952,-79.4849393,,,0
+,,75 Marketplace Ave,,Nepean,Ontario,K2J 5G4,Canada,613-843-0662,45.2699209,-75.7430500,,,0
+,,1485 Aerowood Drive,,Mississauga,Ontario,L4W 1C2,Canada,905-624-8501,43.6440232,-79.6329379,,,0
+,,917 King Street,,Midland,Ontario,L4R 4L3,Canada,705-526-2784,44.7393403,-79.8763593,,,0
+,,3131 Highway #7,,Markham,Ontario,L3R 0J5,Canada,905-470-6700,43.8502620,-79.3557394,,,0
+,,1395 Fanshawe Park Road West,,London,Ontario,N6G 0E3,Canada,519-473-2332,43.010951,-81.336628,,,0
+,,330 Kent St W,,Lindsay,Ontario,K9V 4T7,Canada,705-324-0800,44.3517361,-78.7519402,,,0
+,,NOW OPEN! - 1440 Ottawa St S.,,Kitchener,Ontario,N2E 4E2,Canada,519-571-4567,43.413128,-80.515929,,,0
+,,525 Norwich Ave,,Woodstock,Ontario,N4V 1E6,Canada,519-421-7300,43.1137579,-80.7370432,,,0
+,,2000 Airport Rd NE,,Calgary,Alberta,T2E 6Z8,Canada,,51.132030,-114.008894,,,0
+,,45 Chisholm Drive,,Milton,Ontario,L9T 4A6,Canada,905-876-4731,43.5255283,-79.9022026,,,0
+,,4115 Walker Rd,,Windsor,Ontario,N8W 3T6,Canada,519-250-0802,42.260912,-82.969894,,,0
+,,195 Consumers Drive,,Whitby,Ontario,L1N 1C4,Canada,905-665-0605,43.8679043,-78.9336179,,,0
+,,576 King Street,,Waterloo,Ontario,N2L 6L3,Canada,519-772-1983,43.5008445,-80.5322571,,,0
+,,9855 Jane Street,,Vaughan,Ontario,L6A 3N9,Canada,905-417-1370,43.8489703,-79.5365239,,,0
+,,247 Broadway Street,,Tillsonburg,Ontario,N4G 3R4,Canada,519-688-7674,42.863230,-80.730937,,,0
+,,805 Memorial Ave,,Thunder Bay,Ontario,P7B 3Z7,Canada,807-345-0400,48.4118500,-89.2449073,,,0
+,,9 Amycroft Drive,,Tecumseh,Ontario,N9K 1C7,Canada,519-735-3390,42.306859,-82.869016,,,0
+,,1425 Kingsway,,Sudbury,Ontario,P3A 4R7,Canada,705-524-3435,46.5031416,-80.9479969,,,0
+,,925 Ontario Street,,Stratford,Ontario,N5A 6W5,Canada,226-775-0046,43.3707142,-80.9483256,,,0
+,,10 YMCA Drive,,St. Catharines,Ontario,L2N 7R6,Canada,905-646-5200,43.1792504,-79.2461210,,,0
+,,1972 Eglinton Avenue E,,Scarborough,Ontario,M1L 2M6,Canada,416-285-7126,43.7281384,-79.2866346,,,0
+,,1209 Lansdowne Street W,,Peterborough,Ontario,K9J 7M2,Canada,705-749-1367,44.2803757,-78.3516698,,,0
+,,3119 Petawawa Blvd,,Petawawa,Ontario,K8H 3J1,Canada,613-687-0841,45.8910909,-77.2661056,,,0
+,,1620 Elgin Mills Road E,,Richmond Hill,Ontario,L4S 0B2,Canada,905-508-4139,43.8985648,-79.3959497,,,0
+,,1350 16th St E,,Owen Sound,Ontario,N4K 6N7,Canada,519-372-1992,44.5744658,-80.9189844,,,0
+,,1910 St. Laurent Blvd,,Ottawa,Ontario,K1G 1A4,Canada,613-733-2200,45.3990243,-75.6230651,,,0
+,,1312 Harmony Road N,,Oshawa,Ontario,L1H 7K5,Canada,905-728-9952,43.9427909,-78.8508420,,,0
+,,4444 Innes Road,,Orleans,Ontario,K4A 4C5,Canada,613-834-7328,45.4616175,-75.4849954,,,0
+,,650 Gardiners Road,,Kingston,Ontario,K7M 3X9,Canada,613-384-7784,44.2448313,-76.5678307,,,0
+,,130 Earl Grey Drive,,Kanata,Ontario,K2T 1B6,Canada,613-599-4343,45.3085730,-75.9139849,,,0
+,,111 Howland Drive,,Huntsville,Ontario,P1H 1A1,Canada,705-788-3216,45.3429826,-79.2267531,,,0
+,,1550 Upper James Street,,Hamilton,Ontario,L9B 2L6,Canada,905-575-8696,43.2044946,-79.8923565,,,0
+,,124 Woodlawn Road,,Guelph,Ontario,N1H 1B2,Canada,519-826-0120,43.5587177,-80.2861160,,,0
+,,256 Guelph Street,,Georgetown,Ontario,L7G 4B1,Canada,905-877-7150,43.6499163,-79.8969126,,,0
+,,1011 The Queensway,,Etobicoke,Ontario,M8Z 6C7,Canada,416-646-1856,43.6232311,-79.5159986,,,0
+,,NOW OPEN,,Cornwall,Ontario,K6J 1N5,Canada,613-937-3141,45.0248609,-74.7498298,,,0
+,,371 First Street,,Collingwood,Ontario,L9Y1B3,Canada,705-444-5711,44.501809,-80.228469,,,0
+,,804 Richmond Street,,Chatham,Ontario,N7M 5J7,Canada,519-351-0330,42.3908985,-82.1990786,,,0
+,,4511 Dundas Street,,Burlington,Ontario,L7M 5B4,Canada,905-335-2051,43.4063443,-79.8084140,,,0
+,,2465 Parkdale Ave,,Brockville,Ontario,K6V 3G9,Canada,613-342-3400,44.6030573,-75.7018948,,,0
+,,84 Lynden Road,,Brantford,Ontario,N3R 6B8,Canada,519-720-9061,43.1737967,-80.2393844,,,0
+,,2870 Queen St East,,Brampton,Ontario,L6T-3S1,Canada,905-791-5655,43.7419437,-79.6986132,,,0
+,,90 Clarington Blvd,,Bowmanville,Ontario,L1C 5A5,Canada,905-623-7921,43.9096128,-78.7076831,,,0
+,,20 McEwan Drive East,,Bolton,Ontario,L7E 2Y3,Canada,905-857-9913,43.8626192,-79.7137640,,,0
+,,170 N Front St - Has Closed,,Belleville,Ontario,K8P 3B3,Canada,613-967-2400,44.1781564,-77.3914453,,,0
+,,27 Mapleview Dr. W.,,Barrie,Ontario,L4N 9H5,Canada,705-739-2220,44.334786,-79.687209,,,0
+,,771 Golf Links Road,,Ancaster,Ontario,L9G 3K9,Canada,905-304-5100,43.2272571,-79.9539437,,,0
+,,10 Kingston Road W,,Ajax,Ontario,L1T 4K8,Canada,905-686-0348,43.8610905,-79.0267267,,,0
