@@ -16,63 +16,55 @@ class FatburgerSpider(scrapy.Spider):
 		count = []
 
 		def parse(self, response):
-			try:
-				for url in response.xpath('//a[contains(@href, "https://www.fatburger.com/locations/")]'):
-					extracted_url = url.xpath('./@href').extract_first()
-					item = ChainItem()
-					if extracted_url == "https://www.fatburger.com/locations/torrance":
-						pdb.set_trace()
-					if extracted_url == "https://www.fatburger.com/locations/venice":
-						item['state'] = "CA"
-						item['city'] = "Los Angeles"
-					else:
-						item['state'] = self.validateState(url.xpath('./text()').extract_first().split(',')[-1].strip())
-						item['city'] = self.getCity(url.xpath('./text()').extract_first().split(',')[0]).strip()
-					request = scrapy.Request(url=extracted_url, callback=self.parse_store)
-					request.meta['item'] = item
-	 				yield request
-	 		except:
-	 			pdb.set_trace()
-	 			pass
+			for url in response.xpath('//a[contains(@href, "https://www.fatburger.com/locations/")]'):
+				extracted_url = url.xpath('./@href').extract_first()
+				item = ChainItem()
+				# if extracted_url == "https://www.fatburger.com/locations/torrance":
+				# 	pdb.set_trace()
+				if extracted_url == "https://www.fatburger.com/locations/venice":
+					item['state'] = "CA"
+					item['city'] = "Los Angeles"
+				else:
+					item['state'] = self.validateState(url.xpath('./text()').extract_first().split(',')[-1].strip())
+					item['city'] = self.getCity(url.xpath('./text()').extract_first().split(',')[0]).strip()
+				request = scrapy.Request(url=extracted_url, callback=self.parse_store)
+				request.meta['item'] = item
+ 				yield request
 
 		def parse_store(self, response):
-			try:
-				temp = response.xpath('//div[@class="sqs-block-content"][1]//text()').extract()
-				temp = filter(lambda a: a.strip()!= "" and a.strip() != "Menu", temp)
-				item = response.meta['item']
-				item['store_number'] = ""
-				item['store_name'] = temp[0]	
+			temp = response.xpath('//div[@class="sqs-block-content"][1]//text()').extract()
+			temp = filter(lambda a: a.strip()!= "" and a.strip() != "Menu", temp)
+			item = response.meta['item']
+			item['store_number'] = ""
+			item['store_name'] = temp[0]	
+			store_hour_index = 4
+			if self.isPhoneNumber(temp[2]):
+				address = temp[1]
+				item['phone_number'] = temp[2]
 				store_hour_index = 4
-				if self.isPhoneNumber(temp[2]):
-					address = temp[1]
-					item['phone_number'] = temp[2]
-					store_hour_index = 4
-				else: 				
-					address = temp[1] + " , " + temp[2]
-					item['phone_number'] = temp[3]
-					store_hour_index = 5
-				item['address'] = address.split(',')[0].strip()
-				item['phone_number'] = item['phone_number'].replace('.', '-').split(":")[-1].strip()
-				item['address2'] = ""
-				item['zip_code'] = address.split(',')[-1].strip().split()[-1]
-				item['country'] = "United States" 
-				item['store_hours'] = ""
-				while self.hasNumber(temp[store_hour_index]):
-					item['store_hours'] += temp[store_hour_index] + ";"
-					store_hour_index += 1			
-				item['latitude'] = response.xpath('//meta[@property="og:latitude"]/@content').extract_first()
-				item['longitude'] = response.xpath('//meta[@property="og:longitude"]/@content').extract_first()
-				#item['store_type'] = info_json["@type"]
-				if item['state'] == 'CA':
-					self.count.append(item["city"])
-				print "pp"
-				print self.count
-				item['other_fields'] = ""
-				item['coming_soon'] = 0
-				yield item
-			except:
-				pdb.set_trace()
-				pass			
+			else: 				
+				address = temp[1] + " , " + temp[2]
+				item['phone_number'] = temp[3]
+				store_hour_index = 5
+			item['address'] = address.split(',')[0].strip()
+			item['phone_number'] = item['phone_number'].replace('.', '-').split(":")[-1].strip()
+			item['address2'] = ""
+			item['zip_code'] = address.split(',')[-1].strip().split()[-1]
+			item['country'] = "United States" 
+			item['store_hours'] = ""
+			while self.hasNumber(temp[store_hour_index]):
+				item['store_hours'] += temp[store_hour_index] + ";"
+				store_hour_index += 1			
+			item['latitude'] = response.xpath('//meta[@property="og:latitude"]/@content').extract_first()
+			item['longitude'] = response.xpath('//meta[@property="og:longitude"]/@content').extract_first()
+			#item['store_type'] = info_json["@type"]
+			if item['state'] == 'CA':
+				self.count.append(item["city"])
+			print "pp"
+			print self.count
+			item['other_fields'] = ""
+			item['coming_soon'] = 0
+			yield item
 
 		def validate(self, xpath):
 			try:

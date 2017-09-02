@@ -12,7 +12,7 @@ import unicodedata
 class TravelSpider(scrapy.Spider):
 		name = "travel"
 		uid_list = []
-		start_urls = ['http://marriotthotelapi.netlinkrg.com/api/hotels?latitude=38.2172124&longitude=-85.42724020000003&max_distance=3000&brand=SHS']
+		start_urls = ['http://marriotthotelapi.netlinkrg.com/api/hotels?latitude=38.2172124&longitude=-85.42724020000003&max_distance=300000&brand=SHS']
 		count = 0
 
 		def parse(self, response):

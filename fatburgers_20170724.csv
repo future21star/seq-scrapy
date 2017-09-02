@@ -1,0 +1,65 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Fatburger,,8500 W 3rd Street,,Los Angeles,CA,90048,United States,310-289-8810,40.7207559,-74.00076130000002,Mon - Thurs: 10:30am - 12am;Fri: 10:30am - 1am;Sat: 10:30am - 1am;Sun: 10:30am - 12am;,,0
+Fatburger & Buffalo's Express,,1001 W Carson St.,,Torrance,CA,90502,United States,310-328-6700,40.7207559,-74.00076130000002,Mon - Thurs: 10am-10pm;Fri: 10am-11pm;Sat: 11am-11pm;Sun: 11am-10pm;,,0
+Fatburger & Buffalo's Express,,40573 Margarita Road,,Temecula,CA,92591,United States,951-296-6340,40.7207559,-74.00076130000002,Mon - Thu: 10am-9pm;Fri - Sat: 10am-10pm;Sun: 10am-9pm;,,0
+FATBURGER & BUFFALO'S EXPRESS,,11984 Foothill Blvd,,Sylmar,CA,91342,United States,,37.09024,-95.71289100000001,(747) 225-0335;,,0
+Fatburger,,10600 1/2 Ventura Blvd.,,Studio City,CA,91604,United States,818-769-8725,40.7207559,-74.00076130000002,Mon - Thurs: 11am-1am;Fri - Sat: 11am-3am;Sun: 11am-1am;,,0
+Fatburger,,14402 Ventura Blvd,,Sherman Oaks,CA,91423,United States,818-905-3137,40.7207559,-74.00076130000002,Mon - Thu: 10:30am - 2am;Fri - Sat: 10:30am - 3am;Sun: 10:30am - 2am;,,0
+Fatburger & Buffalo's Express,,11226 4th St. Ste 101,,Rancho Cucamonga,CA,91730,United States,909-484-3557,40.7207559,-74.00076130000002,Mon - Thurs: 10:30am - 9pm;Fri - Sat: 10:30am - 11pm;Sun: 10:30am - 10:00pm;,,0
+Fatburger,,1698 S. Pacific Coast Highway,,Redondo Beach,CA,90277,United States,310-316-9205,40.7207559,-74.00076130000002,Mon - Thu: 10:30am-12am;Fri - Sat: 10:30am-3am;Sun: 10:30am-12am;,,0
+FATBURGER,,72261 Highway 111 Suite 122,,Palm Desert,CA,92260,United States,(760) 341-3100,37.09024,-95.71289100000001,Mon-Sun: 11a - 9p ;,,0
+Fatburger,,11009 Burbank Blvd.,,North Hollywood,CA,91601,United States,818-760-6565,40.7207559,-74.00076130000002,Mon - Sun: 10am-4am;,,0
+FATBURGER,,1507 W. Beverly Blvd,,Montebello,CA,90640,United States,323-597-0250,37.09024,-95.71289100000001,Mon-Sun: 10a - 12a;,,0
+Fatburger,,4325 Glencoe Ave. Unit C1,,Marina Del Rey,CA,90292,United States,310-301-4468,40.7207559,-74.00076130000002,Mon - Thu: 10:30am-9pm;Fri - Sat: 10:30am-10pm;Sun: 10:30am-9pm;,,0
+Fatburger,,6780 Cherry Ave.,,Long Beach,CA,90805,United States,562-408-1311,40.7207559,-74.00076130000002,,,0
+Fatburger,,1200 Athens Ave. Lincoln,,Thunder Valley,CA,95648,United States,916-408-7777,40.7207559,-74.00076130000002,"24hrs, 7 days a week;",,0
+Fatburger,,1025 N. Vasco Road,,Livermore,CA,94551,United States,925-455-6070,40.7207559,-74.00076130000002,Mon - Fri: 10am - 6pm;Sat: 11am - 6pm;Sun: 11am - 4pm;,,0
+Fatburger,,3020 Manchester Blvd.,,Inglewood,CA,90305,United States,323-971-8592,40.7207559,-74.00076130000002,Mon - Thurs: 10:30am - 11pm;Fri - Sat: 10:30am - 12:30am;Sun: 10:30am - 11pm;,,0
+Fatburger,,1706 W Francis Ave.,,Spokane,WA,99205,United States,509-209-2115,40.7207559,-74.00076130000002,Mon - Sun: 11am-9pm;,,0
+Fatburger,,17181 Redmond Way #100,,Redmond,WA,98052,United States,425-497-8809,40.7207559,-74.00076130000002,Mon - Thu: 10:30am-9pm;Fri - Sat: 11am-10pm;Sun: 10:30am-9pm;,,0
+Fatburger,,6220 E Lake Sammamish Pkwy SE,,Issaquah,WA,98029,United States,425-837-1670,40.7207559,-74.00076130000002,Mon - Thu: 10:30am-9pm;Fri - Sat: 10:30am-10pm;Sun: 10:30am-9pm;,,0
+Fatburger,,100 N Hayford Rd,,Northern Quest,WA,99001,United States,509-481-2130,40.7207559,-74.00076130000002,24hrs;,,0
+Fatburger & Buffalo's ,,7400 Las Vegas Blvd.,,South,NV,89106,United States,Las Vegas South Premium Outlet,37.09024,-95.71289100000001,,,0
+Fatburger,,3763 Las Vegas Blvd. S. Las Vegas,,The Strip,NV,89109,United States,702-736-4733,40.7207559,-74.00076130000002,Mon - Sun: 24hrs;,,0
+Fatburger,,2101 Texas Star Lane,,Texas Station,NV,89032,United States,702-636-4909,40.7207559,-74.00076130000002,Mon - Thu: 7:30am-2am;Fri - Sat: 24hrs;Sun: 7:30am-2am;,,0
+Fatburger,,1301 W Sunset Rd,,Sunset Station Casino,NV,89014,United States,702-450-7820,40.7207559,-74.00076130000002,Mon - Thu: 9am-2am;Fri - Sat: 9am-3am;Sun: 9am-2am;,,0
+Fatburger,,11011 W. Charleston Blvd.,,Red Rock,NV,89135,United States,702-228-5744,40.7207559,-74.00076130000002,Mon - Thu: 9am-2am;Fri - Sat: 8am-3am;Sun: 8am-2am;,,0
+Fatburger,,4949 N. Rancho Dr.,,Sante Fe Station,NV,89130,United States,702-839-9610,40.7207559,-74.00076130000002,Mon - Thu: 9am-12am;Fri - Sat: 9am-2am;Sun: 9am-12am;,,0
+Fatburger,,4525 N. Rancho Dr.,,Rancho,NV,89130,United States,702-658-4604,40.7207559,-74.00076130000002,Mon - Sun: 10am-12am;,,0
+Fatburger,,2845 S. Nellis Blvd.,,Nellis,NV,89121,United States,702-457-1727,40.7207559,-74.00076130000002,,,0
+Fatburger,,1650 S Casino Dr.,,Laughlin,NV,89029,United States,702-299-1030,40.7207559,-74.00076130000002,Mon - Thu: 10am-12am;Fri - Sat: 10am-2am;Sun: 10am-12am;,,0
+Fatburger,,Harrah's Casino,,Lake Tahoe,NV,89449,United States,775-588-8020,40.7207559,-74.00076130000002,Mon - Thu: 10:00am - 1:00am;Fri - Sat: 10am - 4:00am;Sun: 10am - 1:00am;,,0
+Fatburger,,4663 E. Sunset Rd,,Henderson,NV,89014,United States,702-547-5535,40.7207559,-74.00076130000002,Mon - Thu: 9am- 12am;Fri - Sat: 24hrs;Sun: 9am- 12am;,,0
+Fatburger,,2300 Paseo Verde Pkwy,,Green Valley Ranch,NV,89052,United States,702-617-2209,40.7207559,-74.00076130000002,Mon - Thu: 10am-2am;Fri - Sat: 10am-4am;Sun: 10am-2am;,,0
+Fatburger,,4199 Fort Apache,,Fort Apache,NV,89147,United States,702-368-1244,40.7207559,-74.00076130000002,Mon - Thu: 10am-10pm;Fri - Sat: 10am-12am;Sun: 10am-10pm;,,0
+Fatburger,,6775 W. Flamingo Road,,Flamingo,NV,89103,United States,702-889-9009,40.7207559,-74.00076130000002,Sun - Thurs: 10am - 10pm;Fri - Sat: 10am - 12am;,,0
+Fatburger,,777 W. Lake Mead Pkwy,,Fiesta,NV,89015,United States,702-558-5085,40.7207559,-74.00076130000002,Mon - Sun: 24hrs;,,0
+Fatburger,,14221 E Cedar Ave. Unit A,,Aurora,CO,80012,United States,909-363-6996,40.7207559,-74.00076130000002,Mon - Thu: 10:30am-9pm;Fri - Sat 10:30am-10pm;Sun: 10:30am-9pm;,,0
+Fatburger,,15091 Komatke Ln,,Laveen Village,AZ,85339,United States,(800) 946-4452,40.7207559,-74.00076130000002,Mon - Fri: 11am-12am;Sat - Sun: 24hrs;,,0
+Fatburger,,5040 Wild Horse Pass,,Chandler,AZ,85226,United States,800-946-4452,40.7207559,-74.00076130000002,Mon - Thu: 10am-12am;Fri - Sat: 24hrs;Sun: 10am-12am;,,0
+Fatburger,,21911 Ventura Blvd. (& Don Pio),,Woodland Hills,CA,91364,United States,818-702-0257,37.09024,-95.71289100000001,Sun - Thurs: 11am - 12am;Fri - Sat: 11am - 2am;,,0
+FATBURGER,,5001 Wilshire Blvd,,Los Angeles,CA,90025,United States,(323) 939-9593,37.09024,-95.71289100000001,Mon - Tues: 10:00 AM - 10:00 PM;Weds - Thurs: 10:00 PM - 11:00 PM;Fri - Sat: 10:00 AM - 12:00 AM;Sunday: 10:00 AM - 10:00 PM;,,0
+Fatburger & Buffalo's Express,,11090 Santa Monica Blvd.,,West Los Angeles,CA,90025,United States,310-445-3334,40.7207559,-74.00076130000002,Mon - Thurs: 9am - 3am;Fri - Sat: 24hrs;Sun: 9am - 3am;,,0
+Fatburger,,10955 Kinross Ave.,,Westwood,CA,90024,United States,310-208-4300,40.7207559,-74.00076130000002,Sun - Wed: 10am - 1am;Thurs - Sat: 10am - 2am;,,0
+Fatburger,,7450 Santa Monica Blvd.,,West Hollywood,CA,90046,United States,323-436-0862,40.7207559,-74.00076130000002,Sunday: 11am - 1am;Mon - Wed: 11am - 12am;Thurs - Sat: 11am - 2am;,,0
+Fatburger & Buffalo's Express,,3150 Wilshire Blvd.,,Los Angeles,CA,90010,United States,(213) 415-1743,40.7207559,-74.00076130000002,Sun - Thurs: 10am - 12am;Fri - Sat: 10am - 2am;,,0
+Fatburger & Buffalo's Express,,11275 Venice Blvd.,,Los Angeles,CA,90066,United States,310-390-7831,40.7207559,-74.00076130000002,Mon - Thurs: 9am-12am;Fri - Sat: 9am-3am;Sun: 10am-12am;,,0
+Fatburger,,6162 1/8 Sepulveda Blvd.,,Van Nuys,CA,91411,United States,818-989-2695,40.7207559,-74.00076130000002,Mon - Thu: 8am-12:30am;Fri - Sat: 8am-2:30am;Sun: 9am-12am;,,0
+Fatburger,,26906 The Old Road,,Valencia,CA,91355,United States,661-290-2523,40.7207559,-74.00076130000002,Sun - Thurs: 10am-10pm;Fri - Sat: 10am-11pm;,,0
+Fatburger,,1611 N. Vermont Ave.,,Hollywood,CA,90027,United States,323-663-3100,40.7207559,-74.00076130000002,Mon - Thurs: 10am - 4am;Fri - Sat: 10am - 6am;Sun: 10am - 4am;,,0
+Fatburger & Buffalo's Express,,16848 Devonshire St.,,Granada Hills,CA,91344,United States,818-360-8761,40.7207559,-74.00076130000002,Mon - Thurs: 10am - 10pm;Fri - Sat: 10am - 11pm;Sun: 10am - 10pm;,,0
+Fatburger,,3026 S. Figueroa St.,,Figueroa (Los Angeles,CA,90007,United States,213-747-0101,40.7207559,-74.00076130000002,,,0
+Fatburger,,314 W. Valley Pkwy,,Escondido,CA,92025,United States,760-489-9999,40.7207559,-74.00076130000002,Sun - Thurs: 10:30am - 9pm;Fri and Sat: 10:30am - 10:00pm;,,0
+Fatburger & Buffalo's Express,,11968 Garvey Ave. El Monte,,El Monte,CA,91732,United States,626-453-8853,40.7207559,-74.00076130000002,,,0
+Fatburger & Buffalo's Express,,5817 Crenshaw Ave,,Crenshaw,CA,90043,United States,323-291-7779,40.7207559,-74.00076130000002,,,0
+Fatburger,,5867 Central Ave.,,Los Angeles,CA,90001,United States,323-232-2000,40.7207559,-74.00076130000002,Mon - Thurs: 10am-10pm;Fri - Sat: 10am-11pm;Sun: 10am-10pm;,,0
+Fatburger,,2251 West Rosecran Ave. #12,,Compton,CA,90222,United States,310-764-1771,40.7207559,-74.00076130000002,Mon - Sun: 10am - 12am;,,0
+FATBURGER & BUFFALO'S DOS LAGOS,,2795 Cabot Drive Ste 102 - Corona,,Corona,CA,92883,United States,(951) 638-5950,37.09024,-95.71289100000001,Sunday - Thursday: 11:00am - 9:00pm;Friday - Saturday: 11:00am - 11:00pm;,,0
+Fatburger,,501 Albertoni St. Suite B3 Carson,,Carson,CA,90746,United States,310-225-5535,40.7207559,-74.00076130000002,Mon - Sun: 10a - Midnight;,,0
+Fatburger,,49500 Seminole Road,,Cabazon,CA,92230,United States,951-755-5780,40.7207559,-74.00076130000002,"24hrs, 7 days a week;",,0
+Fatburger & Buffalo's Express,,10970 Sherman Way,,Burbank,CA,91505,United States,818-565-5656,40.7207559,-74.00076130000002,Mon - Sun: 10am-11pm;,,0
+Fatburger,,7984 La Palma Ave. Buena Park,,Buena Park,CA,90620,United States,714-828-8515,40.7207559,-74.00076130000002,Mon - Thurs: 11am - 9 pm;Fri - Sat: 11am - 11pm;Sun: 11am - 9pm;,,0
+Fatburger & Buffalo's Express,,2843 Lenwood Rd. Unit A,,Barstow,CA,92311,United States,760-447-8086,40.7207559,-74.00076130000002,Mon - Thurs: 10am - 9pm (Drive-Thru 9:30am - 9:30pm);Fri - Sat: 10am - 10pm (Drive-Thru 9:30am - 10:30pm);Sun: 10am - 9pm (Drive-Thru 9:30am - 9:30pm);,,0
+Fatburger & Buffalo's Express,,474 N. Beverly Drive Beverly Hills,,Beverly Hills,CA,90210,United States,310-274-2297,34.0715177,-118.403266,10am - 1Opm;,,0
+Fatburger,,888 S. Figueroa St.,,Los Angeles,CA,90017,United States,213-891-0899,40.7207559,-74.00076130000002,Sun - Wed: 10am - 12am;Thurs - Sat: 10am - 2am;,,0
+Fatburger & Buffalo's Express,,72922 Baker Blvd,,Baker,CA,92309,United States,760-133-1048,40.7207559,-74.00076130000002,Mon - Sun: 8am - 9:30 pm;,,0
