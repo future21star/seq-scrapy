@@ -35,6 +35,8 @@ class ChevysSpider(scrapy.Spider):
         for store in page.xpath('//div[@class="col-md-12 location-btn"]'):
             try:
                 url = store.xpath('./a[2]/@href')[0]
+                url1 = store.xpath('./a[2]/@href')[0]      
+                url2 = store.xpath('./a[2]/@href')[0]
                 yield scrapy.Request(url=url, callback=self.parse_store)
             except:
                 pdb.set_trace()
