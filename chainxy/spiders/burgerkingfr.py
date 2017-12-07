@@ -28,6 +28,10 @@ class BurgerkingfrSpider(scrapy.Spider):
 					item['address'] = translator.translate(store["address"]).text
 					item['address2'] = ""
 					item['city'] = translator.translate(store["city"]).text
+					item['store_name1'] = translator.translate(store["name"]).text
+					item['address1'] = translator.translate(store["address"]).text
+					item['address21'] = ""
+					item['city1'] = translator.translate(store["city"]).text					
 				except:
 					pdb.set_trace()
 				item['state'] = ""
