@@ -106,6 +106,36 @@ class AgwaySpider(scrapy.Spider):
 		except:
 			pass
 
+	def parse_store_count(self, response):
+		try:
+			for store in response.xpath('//div[@id="resultslist"]/div'):
+				item = ChainItem()
+				item['store_name'] = self.validate(store.xpath('.//td[@class="StoreName"]/span/text()'))
+				item['store_number'] = ""
+				item['address'] = self.validate(store.xpath('.//span[@itemprop="street-address"]/text()'))
+				item['address2'] = ""
+				item['city'] = self.validate(store.xpath('.//span[@itemprop="locality"]/text()'))
+				item['state'] = self.validate(store.xpath('.//span[@itemprop="region"]/text()'))
+				item['zip_code'] = self.validate(store.xpath('.//span[@itemprop="postal-code"]/text()'))
+				item['country'] = self.validate(store.xpath('.//span[@itemprop="country-name"]/text()'))
+				item['phone_number'] = self.validate(store.xpath('//span[contains(@id, "StoreInfo_Phone")]/text()'))
+				hours = store.xpath('.//div[@class="StoreHours"]//text()').extract()
+				hours = [a.strip() for a in hours if a.strip() != ""]
+				item['store_hours'] = ""
+				for hour in hours:
+					if hours.index(hour) % 2 == 0:
+						item['store_hours'] += hour
+					else:
+						item['store_hours'] += hour + ";"
+				lat_lng = self.validate(store.xpath('.//a[@class="MapThisStore"]/@onclick'))
+				item['latitude'] = lat_lng.split("('")[1].split("'")[0]
+				item['longitude'] = lat_lng.split("('")[1].split(",'")[1].split("')")[0]
+				#item['store_type'] = info_json["@type"]
+				item['other_fields'] = ""
+				item['coming_soon'] = 0
+				yield item
+		except:
+			pass
 	def parse_stores(self, response):
 		try:
 			for store in response.xpath('//div[@id="resultslist"]/div'):
