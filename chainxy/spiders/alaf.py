@@ -20,6 +20,8 @@ class AlafSpider(scrapy.Spider):
 				if len(store.xpath('./td')) > 0:
 					item = ChainItem()
 					item['store_number'] = ""
+					item['store_number1'] = ""
+					item['store_number2'] = ""
 					item['store_name'] = self.validate(store.xpath('./td[1]/a[1]/text()'))
 					item['address'] = self.validate(store.xpath('./td[2]/span[1]/text()'))
 					item['address2'] = ""
