@@ -54,6 +54,8 @@ class ChevysSpider(scrapy.Spider):
         lat_lng = self.validate(response.xpath('//div[@id="address"]/a[1]/@href')).split('addr=')[-1]
         item['latitude'] = lat_lng.split(',')[0].strip()
         item['longitude'] = lat_lng.split(',')[-1].strip()
+        item['_latitude'] = lat_lng.split(',')[0].strip()
+        item['_longitude'] = lat_lng.split(',')[-1].strip()        
         hours = response.xpath('//div[@id="hours"]/p')
         item['store_hours'] = ""
         for hour in hours:
