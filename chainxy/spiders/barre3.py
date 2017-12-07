@@ -56,7 +56,40 @@ class Barre3Spider(scrapy.Spider):
 			except:
 				pdb.set_trace()
 				pass			
-
+		def parse_stores_first(self, response):
+			try:
+				info = self.getInfo(response)
+				item = ChainItem()
+				item['store_number'] = ""
+				item['store_name'] = ""
+				item['address'] = self.validate(response.xpath('//span[@class="text-header--sub studio-contact-info"][1]/text()'))
+				item['address2'] = ""
+				item['city'] = self.validate(response.xpath('//span[@class="text-header--sub studio-contact-info"][2]/text()')).split(',')[0].strip()
+				add = item['state'] = self.validate(response.xpath('//span[@class="text-header--sub studio-contact-info"][2]/text()')).split(',')[1].split()
+				try:
+					item['state'] = " ".join(self.validate(response.xpath('//span[@class="text-header--sub studio-contact-info"][2]/text()')).split(',')[1].split()[:-1])
+				except:
+					item['state'] = ""
+				try:
+					item['zip_code'] = self.validate(response.xpath('//span[@class="text-header--sub studio-contact-info"][2]/text()')).split(',')[1].split()[-1]
+				except:
+					item['zip_code'] = ""
+				item['country'] = "United States" 
+				item['phone_number'] = self.validate(response.xpath('//li[@class="text-header--sub studio-contact-info"][1]/text()'))
+				item['store_hours'] = ""
+				item['latitude'] = self.getValue(info, "lat")
+				item['longitude'] = self.getValue(info, "long")
+				#item['store_type'] = info_json["@type"]
+				item['other_fields'] = ""
+				if 'coming soon' in self.validate(response.xpath('//h2[@class="h2 text-script--large"]/text()')):
+					item['coming_soon'] = 1
+				else:
+					item['coming_soon'] = 0
+				if self.isZipCode(item['zip_code']):
+					yield item
+			except:
+				pdb.set_trace()
+				pass	
 		def validate(self, xpath):
 			try:
 				return xpath.extract_first().strip()
