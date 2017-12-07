@@ -16,7 +16,8 @@ class BaggerdavesSpider(scrapy.Spider):
 		uid_list = []
 		start_urls = ['https://www.baggerdaves.com/locations/']
 		domain = 'https://www.baggerdaves.com/'
-
+		domain1 = 'https://google.com'
+		
 		def parse(self, response):
 			try:
 				stores = yaml.load((response.body.split("NearestPosts = ")[-1].split("};")[0] + "}").replace('\\/', ''))["posts"]
