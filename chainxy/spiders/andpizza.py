@@ -95,6 +95,7 @@ class AndpizzaSpider(scrapy.Spider):
 							item['zip_code'] = address[-1].split(',')[1].split()[1].strip()
 							item['country'] = "United States" 
 							item['phone_number'] = ""
+							item['city1'] = item['state']
 						hours = store.xpath('.//div[@class="hours"]//text()').extract()
 						item['store_hours'] = ""
 						for hour in hours:
