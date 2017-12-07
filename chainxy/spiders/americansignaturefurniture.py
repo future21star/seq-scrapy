@@ -12,7 +12,7 @@ class AmericanSignatureFurnitureSpider(scrapy.Spider):
 	name = "americansignaturefurniture"
 	uid_list = []
 	start_urls = ["https://www.americansignaturefurniture.com/store-locator/show-all-locations"]
-		
+	start_urls_ = ["https://www.americansignaturefurniture.com/store-locator/show-all-locations"]		
 	def parse(self, response):
 		try:
 			stores = response.xpath('//div[@class="store-locator-stores-result-list"]/div')
