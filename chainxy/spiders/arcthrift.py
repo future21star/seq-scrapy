@@ -1,4 +1,5 @@
 import scrapy
+import scrapy
 import json
 import csv
 from scrapy.spiders import Spider
