@@ -27,6 +27,7 @@ class Barre3Spider(scrapy.Spider):
 				info = self.getInfo(response)
 				item = ChainItem()
 				item['store_number'] = ""
+				item['store_number'] = ""				
 				item['store_name'] = ""
 				item['address'] = self.validate(response.xpath('//span[@class="text-header--sub studio-contact-info"][1]/text()'))
 				item['address2'] = ""
