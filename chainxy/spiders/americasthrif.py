@@ -41,6 +41,14 @@ class AmericasthrifSpider(scrapy.Spider):
             item['phone_number'] = ""
             item['latitude'] = store["latitude"]
             item['longitude'] = store["longitude"]
+            
+            item['state'] = store["box_state"]
+            item['zip_code'] = store["box_zip"]
+            item['country'] = "United States"
+            item['phone_number'] = ""
+            item['latitude'] = store["latitude"]
+            item['longitude'] = store["longitude"]
+            
             item['store_hours'] = ""
             #item['store_type'] = info_json["@type"]
             item['other_fields'] = ""
